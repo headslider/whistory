@@ -3905,3 +3905,32 @@ dialog[open] .term-tooltip-layer {
     max-width: calc(100% + 24px) !important;
   }
 }
+
+/* 2026-07-27 mobile line inset and subcategory/kingdom width alignment */
+@media (max-width: 760px) {
+  :root {
+    --mobile-line-x: 48px;
+    --mobile-card-left: 72px;
+  }
+
+  .timeline::before {
+    left: var(--mobile-line-x) !important;
+  }
+
+  .era-group::before,
+  .era::before {
+    left: calc(-1 * var(--mobile-card-left) + var(--mobile-line-x) - 16px) !important;
+  }
+
+  .era-card .era-body > .action-subcategory-section {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-inline: 0 !important;
+  }
+
+  .era-card .era-body > .action-subcategory-section .subcategory-list,
+  .era-card .era-body > .action-subcategory-section .event-subcategory-card {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
