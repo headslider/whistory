@@ -16,12 +16,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Verify JavaScript syntax
         run: |
@@ -52,28 +52,32 @@ jobs:
       - name: Configure SSH
         env:
           DEPLOY_KEY: ${{ secrets.CORESERVER_SSH_KEY || secrets.OFFICIALSITE_ACTIONS_ED25519 || secrets.SSH_PRIVATE_KEY || secrets.DEPLOY_KEY }}
-          CORESERVER_HOST: ${{ secrets.CORESERVER_HOST }}
-          CORESERVER_USER: ${{ secrets.CORESERVER_USER }}
-          CORESERVER_PORT: ${{ secrets.CORESERVER_PORT }}
-          CORESERVER_DEPLOY_PATH: ${{ secrets.CORESERVER_DEPLOY_PATH }}
+          CORESERVER_HOST_SECRET: ${{ secrets.CORESERVER_HOST }}
+          CORESERVER_USER_SECRET: ${{ secrets.CORESERVER_USER }}
+          CORESERVER_PORT_SECRET: ${{ secrets.CORESERVER_PORT }}
+          CORESERVER_DEPLOY_PATH_SECRET: ${{ secrets.CORESERVER_DEPLOY_PATH }}
         run: |
           set -euo pipefail
-          test -n "$DEPLOY_KEY"
-          echo "CORESERVER_HOST=${CORESERVER_HOST:-s59.coreserver.jp}" >> "$GITHUB_ENV"
-          echo "CORESERVER_USER=${CORESERVER_USER:-ref}" >> "$GITHUB_ENV"
-          echo "CORESERVER_PORT=${CORESERVER_PORT:-22}" >> "$GITHUB_ENV"
-          echo "CORESERVER_DEPLOY_PATH=${CORESERVER_DEPLOY_PATH:-/virtual/ref/public_html/www.realemotionfactory.com/whistory/}" >> "$GITHUB_ENV"
+          if [ -z "$DEPLOY_KEY" ]; then
+            echo "CORESERVER_SSH_KEY is not set. Add the private key to this repository's Actions secrets." >&2
+            exit 1
+          fi
+          echo "CORESERVER_HOST=${CORESERVER_HOST_SECRET:-s59.coreserver.jp}" >> "$GITHUB_ENV"
+          echo "CORESERVER_USER=${CORESERVER_USER_SECRET:-ref}" >> "$GITHUB_ENV"
+          echo "CORESERVER_PORT=${CORESERVER_PORT_SECRET:-22}" >> "$GITHUB_ENV"
+          echo "CORESERVER_DEPLOY_PATH=${CORESERVER_DEPLOY_PATH_SECRET:-/virtual/ref/public_html/www.realemotionfactory.com/whistory/}" >> "$GITHUB_ENV"
           mkdir -p ~/.ssh
           printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/coreserver_deploy_key
           chmod 600 ~/.ssh/coreserver_deploy_key
-          ssh-keyscan -p "${CORESERVER_PORT:-22}" -H "${CORESERVER_HOST:-s59.coreserver.jp}" >> ~/.ssh/known_hosts
+          touch ~/.ssh/known_hosts
 
       - name: Deploy to whistory folder
         run: |
           set -euo pipefail
-          ssh -p "$CORESERVER_PORT" -i ~/.ssh/coreserver_deploy_key "$CORESERVER_USER@$CORESERVER_HOST" "mkdir -p '$CORESERVER_DEPLOY_PATH'"
+          SSH_CMD="ssh -p $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30"
+          $SSH_CMD "$CORESERVER_USER@$CORESERVER_HOST" "mkdir -p '$CORESERVER_DEPLOY_PATH'"
           rsync -az --delete \
-            -e "ssh -p $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key" \
+            -e "$SSH_CMD" \
             dist/ \
             "$CORESERVER_USER@$CORESERVER_HOST:$CORESERVER_DEPLOY_PATH"
 
