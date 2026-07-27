@@ -71,17 +71,29 @@ jobs:
           chmod 600 ~/.ssh/coreserver_deploy_key
           touch ~/.ssh/known_hosts
 
-      - name: Deploy to whistory folder
+      - name: Test CORESERVER SSH connection
         run: |
           set -euo pipefail
-          SSH_CMD="ssh -p $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30"
-          $SSH_CMD "$CORESERVER_USER@$CORESERVER_HOST" "mkdir -p '$CORESERVER_DEPLOY_PATH'"
-          rsync -az --delete \
-            -e "$SSH_CMD" \
-            dist/ \
-            "$CORESERVER_USER@$CORESERVER_HOST:$CORESERVER_DEPLOY_PATH"
+          SSH_CMD="ssh -p $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30 -o PreferredAuthentications=publickey -o IdentitiesOnly=yes"
+          $SSH_CMD "$CORESERVER_USER@$CORESERVER_HOST" "echo connected; whoami; pwd; ls -ld /virtual/ref/public_html/www.realemotionfactory.com"
+
+      - name: Create deployment package
+        run: tar -czf whistory-deploy.tar.gz -C dist .
+
+      - name: Upload deployment package
+        run: |
+          set -euo pipefail
+          SCP_CMD="scp -P $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30 -o PreferredAuthentications=publickey -o IdentitiesOnly=yes"
+          $SCP_CMD whistory-deploy.tar.gz "$CORESERVER_USER@$CORESERVER_HOST:/virtual/ref/whistory-deploy-${{ github.run_id }}.tar.gz"
+
+      - name: Extract deployment package
+        run: |
+          set -euo pipefail
+          SSH_CMD="ssh -p $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30 -o PreferredAuthentications=publickey -o IdentitiesOnly=yes"
+          $SSH_CMD "$CORESERVER_USER@$CORESERVER_HOST" "set -e; test '$CORESERVER_DEPLOY_PATH' = '/virtual/ref/public_html/www.realemotionfactory.com/whistory/'; mkdir -p '$CORESERVER_DEPLOY_PATH'; find '$CORESERVER_DEPLOY_PATH' -mindepth 1 -maxdepth 1 -exec rm -rf {} +; tar -xzf '/virtual/ref/whistory-deploy-${{ github.run_id }}.tar.gz' -C '$CORESERVER_DEPLOY_PATH'; rm -f '/virtual/ref/whistory-deploy-${{ github.run_id }}.tar.gz'"
 
       - name: Verify published files
         run: |
           curl -fsSL 'https://www.realemotionfactory.com/whistory/index.html?verify=${{ github.run_id }}' | grep -q '20260727-heading-tooltip-link-removal'
           curl -fsSL 'https://www.realemotionfactory.com/whistory/data/learning-terms.js?verify=${{ github.run_id }}' | grep -q '電子商取引'
+
