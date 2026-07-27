@@ -1,4 +1,4 @@
-name: Verify and Package whistory
+name: Deploy whistory to CORESERVER
 
 on:
   push:
@@ -6,8 +6,12 @@ on:
       - main
   workflow_dispatch:
 
+concurrency:
+  group: deploy-whistory
+  cancel-in-progress: false
+
 jobs:
-  verify-and-package:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -32,8 +36,9 @@ jobs:
       - name: Run static data verification
         run: node scripts/verify-static.js
 
-      - name: Prepare deployment artifact
+      - name: Prepare deployment files
         run: |
+          rm -rf dist
           mkdir -p dist
           cp -R assets dist/assets
           cp -R data dist/data
@@ -43,10 +48,26 @@ jobs:
           cp image-workbench.html dist/image-workbench.html
           cp image-workbench.css dist/image-workbench.css
           cp image-workbench.js dist/image-workbench.js
-          cp .cpanel.yml dist/.cpanel.yml
 
-      - name: Upload deployment artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: whistory-deploy
-          path: dist/
+      - name: Configure SSH
+        env:
+          CORESERVER_SSH_KEY: ${{ secrets.CORESERVER_SSH_KEY }}
+        run: |
+          test -n "$CORESERVER_SSH_KEY"
+          mkdir -p ~/.ssh
+          printf '%s\n' "$CORESERVER_SSH_KEY" > ~/.ssh/coreserver_deploy_key
+          chmod 600 ~/.ssh/coreserver_deploy_key
+          ssh-keyscan -H s59.coreserver.jp >> ~/.ssh/known_hosts
+
+      - name: Deploy to whistory folder
+        run: |
+          ssh -i ~/.ssh/coreserver_deploy_key ref@s59.coreserver.jp 'mkdir -p /virtual/ref/public_html/www.realemotionfactory.com/whistory'
+          rsync -az --delete \
+            -e "ssh -i ~/.ssh/coreserver_deploy_key" \
+            dist/ \
+            ref@s59.coreserver.jp:/virtual/ref/public_html/www.realemotionfactory.com/whistory/
+
+      - name: Verify published files
+        run: |
+          curl -fsSL 'https://www.realemotionfactory.com/whistory/index.html?verify=${{ github.run_id }}' | grep -q '20260727-heading-tooltip-link-removal'
+          curl -fsSL 'https://www.realemotionfactory.com/whistory/data/learning-terms.js?verify=${{ github.run_id }}' | grep -q '電子商取引'
