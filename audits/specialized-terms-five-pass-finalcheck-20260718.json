@@ -1,0 +1,25 @@
+{
+  "totalMissing": 0,
+  "result": {
+    "01_science_technology": {
+      "checkedTerms": 34,
+      "missingTooltip": []
+    },
+    "02_political_systems_revolutions": {
+      "checkedTerms": 39,
+      "missingTooltip": []
+    },
+    "03_war_international_relations": {
+      "checkedTerms": 42,
+      "missingTooltip": []
+    },
+    "04_religion_thought_culture": {
+      "checkedTerms": 28,
+      "missingTooltip": []
+    },
+    "05_colonial_society_economy": {
+      "checkedTerms": 43,
+      "missingTooltip": []
+    }
+  }
+}

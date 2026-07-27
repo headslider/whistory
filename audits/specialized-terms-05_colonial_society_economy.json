@@ -1,0 +1,1710 @@
+[
+  {
+    "term": "初期集落・文化",
+    "count": 80,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:0.type => 初期集落・文化圏"
+  },
+  {
+    "term": "工業化",
+    "count": 62,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.focus => 市民革命、工業化、独立"
+  },
+  {
+    "term": "社会変化",
+    "count": 57,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.text => 武力で抵抗する場合もあり、帝国主義は国家間競争と被支配地域の社会変化を同時に生みました。"
+  },
+  {
+    "term": "社会勢力・運動",
+    "count": 40,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:159.type => 社会勢力・運動"
+  },
+  {
+    "term": "植民地化",
+    "count": 36,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.focus => 航海、交易、植民地化"
+  },
+  {
+    "term": "社会主義",
+    "count": 31,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.text => ました。アメリカはマーシャル・プランとNATO、ソ連は東欧の社会主義政権とワルシャワ条約機構を支えました。両国は核兵器と大陸間ミサイルを増やしましたが、直接戦"
+  },
+  {
+    "term": "奴隷制",
+    "count": 24,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.detail => 命、アメリカ独立革命、フランス革命、ラテンアメリカ独立運動、奴隷制廃止運動、憲法と議会を求める動きです。"
+  },
+  {
+    "term": "農耕文化",
+    "count": 21,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 東アジアでは、長江流域と黄河流域で異なる農耕文化が発達しました。長江下流域の河姆渡文化では、湿地を利用した稲作、高床式住居、骨や木で作った"
+  },
+  {
+    "term": "国際機関・運動",
+    "count": 20,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:178.type => 国際機関・運動"
+  },
+  {
+    "term": "初期文化",
+    "count": 20,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:15.region => アメリカ大陸の初期文化"
+  },
+  {
+    "term": "都市文化",
+    "count": 17,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アレクサンドロス大王.modal.profile => ルシャ、インド北西部まで軍を進めました。征服地でギリシャ語や都市文化が広がり、各地の文化が混ざるきっかけになりました。この人物の治世から、王朝を維持するために"
+  },
+  {
+    "term": "近代化",
+    "count": 17,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.cards.event.detail => り、アフリカ分割と植民地支配、インドの植民地支配、清と日本の近代化への分かれ道、アメリカの工業化と鉄道、鉄道・汽船・電信の時代です。"
+  },
+  {
+    "term": "政治的・経済的支配",
+    "count": 16,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カール5世.modal.profile => 、ヨーロッパ最大の権力者の一人になりました。植民地は、外国の政治的・経済的支配を受けた地域です。その治世は、君主の判断が領土の拡大だけでなく、税や宗教、人々の生活にも及"
+  },
+  {
+    "term": "市民運動",
+    "count": 15,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.cards.power.detail => た。 大きな力は政府や王国だけでなく、都市、宗教組織、会社、市民運動、地域の人々にもありました。力が人々を守るために使われたのか、支配や差別に使われたのかを比"
+  },
+  {
+    "term": "強制労働",
+    "count": 11,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.0.text => ただし刑罰や賠償は身分によって異なり、都市文明は戦争、奴隷、強制労働にも支えられていました。"
+  },
+  {
+    "term": "民主主義",
+    "count": 11,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "peopleByName:ワンガリ・マータイ.modal.profile => を始めた環境活動家です。森を守ることを、土、水、女性の仕事、民主主義と結び付けて考え、ノーベル平和賞を受けました。個人の行動が多くの人を動かし、法律や社会の常"
+  },
+  {
+    "term": "労働運動",
+    "count": 11,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カール・マルクス.modal.profile => し、資本主義の矛盾を批判しました。『共産党宣言』『資本論』は労働運動や社会主義に大きな影響を与えました。社会主義は、貧富の差や労働者の苦しい生活を改め、生産や"
+  },
+  {
+    "term": "平和運動",
+    "count": 11,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジェーン・アダムズ.modal.profile => を作り、移民や貧しい人々の教育、保育、労働改善を支えました。平和運動にも関わり、ノーベル平和賞を受けました。"
+  },
+  {
+    "term": "ヒンドゥー文化",
+    "count": 10,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:50.text => 力を持った王朝・帝国です。インド亜大陸で王朝が広がり、仏教、ヒンドゥー文化、交易都市が発展しました。"
+  },
+  {
+    "term": "政治・社会・文化",
+    "count": 9,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:モンゴル帝国.modal.whyImportant => モンゴル帝国は、その後の政治・社会・文化の形に長く影響し、地域どうしの関係を理解するために欠かせない歴史的な変化です。"
+  },
+  {
+    "term": "律令制度",
+    "count": 9,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:75.text => 五胡十六国は東アジアで力を持った王朝・国家です。仏教や儒教、律令制度が広がり、東アジアの国々が交流しながら制度を整えました。"
+  },
+  {
+    "term": "イスラム文化",
+    "count": 8,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マンサ・ムーサ.modal.profile => が地中海世界にも知られました。トンブクトゥに学びの場を整え、イスラム文化を支えました。政策の成果だけでなく、反対勢力との対立や残された課題も含めて評価する必要があ"
+  },
+  {
+    "term": "都市化",
+    "count": 8,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.powers.0.life => 都市化と労働問題が起こりました"
+  },
+  {
+    "term": "社会運動",
+    "count": 7,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.tags.2 => 社会運動"
+  },
+  {
+    "term": "海外支配",
+    "count": 7,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.summary => 工業国が資源・市場・軍事拠点を求め、企業・軍隊・条約を使って海外支配を拡大する"
+  },
+  {
+    "term": "反アパルトヘイト運動",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:200.name => 反アパルトヘイト運動"
+  },
+  {
+    "term": "国際社会主義運動",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:161.name => 国際社会主義運動"
+  },
+  {
+    "term": "大西洋交易",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.powers.0.name => 大西洋交易"
+  },
+  {
+    "term": "女性運動",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:クララ・ツェトキン.modal.profile => と参政権を訴え、国際女性デーの提案に関わりました。労働運動と女性運動を結びつけました。"
+  },
+  {
+    "term": "文化運動",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:レオナルド・ダ・ヴィンチ.modal.profile => ・ローマの文化を学び直し、人間や自然を新しい目で表そうとした文化運動です。その成果は学問の世界にとどまらず、技術や産業、人々の生活にも影響を広げました。"
+  },
+  {
+    "term": "組織化",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:クフ王.modal.profile => 巨大なピラミッドの建設には、石材の運搬、食料の配給、労働者の組織化など国家の力が必要でした。その治世は、君主の判断が領土の拡大だけでなく、税や宗教、人々の生"
+  },
+  {
+    "term": "イギリス支配",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.text => シル・ローズは南部アフリカで鉱山事業と植民地拡大を結び付け、イギリス支配を北へ広げました。各国は「文明化」を掲げましたが、実際には土地の接収、現金納税、強制労働、"
+  },
+  {
+    "term": "反植民地運動",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.subcategories.2.summary => 東インド会社の支配から英領インドへ移り、経済統制と反植民地運動が拡大する"
+  },
+  {
+    "term": "スペイン支配",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:エルナン・コルテス.modal.profile => ィトランを倒しました。武力だけでなく疫病も大きな被害を生み、スペイン支配が始まりました。戦場での行動と、その後の講和や国家の再編までを一続きに捉える必要があります"
+  },
+  {
+    "term": "河姆渡文化",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 江流域と黄河流域で異なる農耕文化が発達しました。長江下流域の河姆渡文化では、湿地を利用した稲作、高床式住居、骨や木で作った農具が確認されています。黄河流域の仰韶"
+  },
+  {
+    "term": "長時間労働",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.0.text => 機関車と鉄道は石炭・原料・製品・人の移動を速めました。一方、長時間労働、児童労働、低賃金、住宅不足、煤煙、感染症が都市問題となり、ロバート・オーウェンは工場の労"
+  },
+  {
+    "term": "仰韶文化",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 高床式住居、骨や木で作った農具が確認されています。黄河流域の仰韶文化では、アワやキビを育て、彩文土器を使う集落が広がりました。長江流域では水を引き入れたり排水"
+  },
+  {
+    "term": "バクトリア・マルギアナ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:11.name => バクトリア・マルギアナ文化"
+  },
+  {
+    "term": "イギリス東インド会社支配",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:139.name => イギリス東インド会社支配"
+  },
+  {
+    "term": "アンドロノヴォ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:12.name => アンドロノヴォ文化"
+  },
+  {
+    "term": "バルディビア文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:19.name => バルディビア文化"
+  },
+  {
+    "term": "シャム王国近代化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:152.name => シャム王国近代化"
+  },
+  {
+    "term": "イギリス労働運動",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:159.name => イギリス労働運動"
+  },
+  {
+    "term": "気候変動対策運動",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:203.name => 気候変動対策運動"
+  },
+  {
+    "term": "ナトゥーフ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:0.name => ナトゥーフ文化"
+  },
+  {
+    "term": "ハッスーナ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:3.name => ハッスーナ文化"
+  },
+  {
+    "term": "イギリス産業",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.cards.event.detail => 残ったのかを見ます。 教科書で押さえたい地域別のできごとは、イギリス産業革命、アメリカ独立革命、フランス革命、ラテンアメリカ独立運動、奴隷制廃止運動、憲法と議会を"
+  },
+  {
+    "term": "オクサス文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:13.name => オクサス文化"
+  },
+  {
+    "term": "チャビン文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:16.name => チャビン文化"
+  },
+  {
+    "term": "オルメカ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:17.name => オルメカ文化"
+  },
+  {
+    "term": "多民族支配",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.cards.event.detail => ます。 教科書で押さえたい地域別のできごとは、ペルシャ帝国の多民族支配、ギリシャの市民政治、ローマ帝国の地中海支配、秦と漢の中国統一、アショーカ王と仏教保護です"
+  },
+  {
+    "term": "地中海支配",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.cards.event.detail => 、ペルシャ帝国の多民族支配、ギリシャの市民政治、ローマ帝国の地中海支配、秦と漢の中国統一、アショーカ王と仏教保護です。"
+  },
+  {
+    "term": "ハラフ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:4.name => ハラフ文化"
+  },
+  {
+    "term": "三星堆文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:38.name => 三星堆文化"
+  },
+  {
+    "term": "非同盟運動",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:187.name => 非同盟運動"
+  },
+  {
+    "term": "初期農業",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.cards.event.detail => アジアの農業と牧畜、東アジアの米と雑穀の農耕、南北アメリカの初期農業です。"
+  },
+  {
+    "term": "国際文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.cards.event.detail => を見ます。 教科書で押さえたい地域別のできごとは、唐と長安の国際文化、シルクロードの交流、イスラム世界の商業と学問、インド洋交易の広がり、ヨーロッパ都市と商人"
+  },
+  {
+    "term": "政治運動",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 法制度は行政と軍事移動を効率化しましたが、同時に地域を越える政治運動の基盤にもなりました。サイイド・アフマド・ハーンはイスラム教徒へ近代教育を広め、ガンディー"
+  },
+  {
+    "term": "巨大企業",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.4.text => 山、製鉄所、食肉工場で働きました。石油、鉄鋼、金融、鉄道では巨大企業が市場を支配し、都市には高層建築と大量生産工場が増えました。その一方、先住民は条約を破られ"
+  },
+  {
+    "term": "抵抗運動",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.cards.power.summary => 国家、軍、国際機関、市民、抵抗運動が歴史を動かしました。戦争を止め、人権を守るしくみが強く求められました。"
+  },
+  {
+    "term": "農場労働",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:セサル・チャベス.modal.profile => アメリカで農場労働者の組合を作った活動家です。低賃金や危険な農薬に抗議し、ぶどうの不買運動や行進を進めました"
+  },
+  {
+    "term": "海上支配",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:ポルトガルとスペインの航路開拓.modal.whatHappened => んになると、離れた地域の需要と生産が結びつきました。一方で、海上支配、植民地化、強制労働へつながる場合もありました。この変化は政治や経済だけでなく、人々の仕事"
+  },
+  {
+    "term": "龍山文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:6.name => 龍山文化"
+  },
+  {
+    "term": "良渚文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:8.name => 良渚文化"
+  },
+  {
+    "term": "紅山文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:9.name => 紅山文化"
+  },
+  {
+    "term": "正当化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.3.text => 周は殷を倒し、王が徳を失えば天命も失われるという考えで支配を正当化しました。周王は一族や功臣を各地へ配置しましたが、時代が下ると諸侯の力が強まり、春秋・戦国"
+  },
+  {
+    "term": "国教化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.cards.event.detail => 社会の仏教とヒンドゥー教、儒教と中国政治、キリスト教の公認と国教化、イスラム教の成立と広がり、仏教の東アジア伝来です。"
+  },
+  {
+    "term": "民主化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.peopleNote => ネルソン・マンデラは抵抗運動と民主化交渉、デズモンド・ツツは非暴力運動と真実和解委員会を通じて制度廃止後の和解に関わりました。"
+  },
+  {
+    "term": "メキシコ独立運動",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ミゲル・イダルゴ.modal.profile => メキシコ独立運動の始まりを告げた神父です。1810年にドロレスの叫びで民衆に蜂起を呼びかけました。反乱は鎮"
+  },
+  {
+    "term": "ルネサンス文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:イタリア都市国家の競合.modal.whatHappened => ェ、ミラノなどの都市国家が商業、銀行、外交で競い合いました。ルネサンス文化を育てる一方、外部の大国の介入も招きました。争いは軍隊だけでなく、都市や農村、交易路、住民"
+  },
+  {
+    "term": "ギリシャ文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:ヘレニズム諸国の並立.modal.whatHappened => 後、後継者たちの王国が東地中海から西アジアで競い合いました。ギリシャ文化と各地の文化が混ざり、都市と学問が発展しました。この変化は政治や経済だけでなく、人々の仕事"
+  },
+  {
+    "term": "不服従運動",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => ハーンはイスラム教徒へ近代教育を広め、ガンディーは塩の行進や不服従運動を通じて非暴力で独立を求めました。"
+  },
+  {
+    "term": "中央集権化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.summary => 欧米の軍事圧力に対し、清は部分改革、日本は中央集権化と工業化を進める"
+  },
+  {
+    "term": "身分制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.3.text => アフリカでは人口流出と戦争の激化、アメリカでは人種にもとづく身分制度が固定されました。バルトロメ・デ・ラス・カサスは先住民虐待を告発しましたが、初期にはアフリ"
+  },
+  {
+    "term": "児童労働",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.0.text => は石炭・原料・製品・人の移動を速めました。一方、長時間労働、児童労働、低賃金、住宅不足、煤煙、感染症が都市問題となり、ロバート・オーウェンは工場の労働時間・住"
+  },
+  {
+    "term": "廃止運動",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.peopleNote => この項目では、登録人物に限定すると特定の廃止運動指導者が不足するため、人物名を無理に追加せず、奴隷にされた人々自身の抵抗、ハイチ革命、議会"
+  },
+  {
+    "term": "大衆運動",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.peopleNote => による社会再建を進め、マハトマ・ガンディーは非暴力・不服従を大衆運動へ発展させました。"
+  },
+  {
+    "term": "世界貿易",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.summary => 株価暴落と金融不安が世界貿易・生産・雇用を縮小させ、民主政治と国際協調を揺るがす"
+  },
+  {
+    "term": "三民主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:孫文.modal.profile => た中国の革命家です。民族の独立、民権、生活の安定を柱とする「三民主義」を掲げ、1911年の革命後に臨時大総統となりました。三民主義は、民族の独立、国民の政治参"
+  },
+  {
+    "term": "資本主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カール・マルクス.modal.profile => まれの思想家です。工場で働く人と資本を持つ人の関係を分析し、資本主義の矛盾を批判しました。『共産党宣言』『資本論』は労働運動や社会主義に大きな影響を与えました"
+  },
+  {
+    "term": "国粋主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ラビンドラナート・タゴール.modal.profile => 自然と自由を大切にする学校を作り、植民地支配への批判と、狭い国粋主義への警戒を示しました。植民地は、外国の政治的・経済的支配を受けた地域です。この人物の活動に"
+  },
+  {
+    "term": "文字文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ラムセス3世.modal.profile => ラムセス3世は古代エジプトでナイル川流域の王権、神殿、墓、文字文化に関わりました。巨大な建築や記録から、都市と国家のしくみが見えてきます。"
+  },
+  {
+    "term": "一党支配",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:レーニン.modal.profile => を取り、ソビエト政権を作りました。土地と平和を掲げましたが、一党支配と内戦の体制も始まりました。"
+  },
+  {
+    "term": "全体主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ハンナ・アーレント.modal.profile => ドイツ出身の政治思想家です。ナチスの迫害を逃れ、全体主義や責任について研究しました。アイヒマン裁判の報告で、命令に従うだけの危うさを論じました。"
+  },
+  {
+    "term": "大衆文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:手塚治虫.modal.profile => 、物語性のある漫画とテレビアニメを発展させました。戦後日本の大衆文化に大きな影響を与えました。"
+  },
+  {
+    "term": "漢字文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:朝鮮三国時代.modal.whatHappened => ・百済・新羅が朝鮮半島と周辺地域で競い合った時代です。仏教、漢字文化、外交が広がり、日本や中国との交流にも影響しました。各勢力は武力だけでなく、外交、婚姻、税"
+  },
+  {
+    "term": "貴族文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:中国南北朝時代.modal.whatHappened => った時代です。北方民族の政権と南の漢人王朝が競い合い、仏教や貴族文化が広がりました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得よう"
+  },
+  {
+    "term": "旧制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.text => テスキューの権力分立、ヴォルテールの宗教的寛容など啓蒙思想も旧制度批判を強めました。ルイ16世が三部会を招集すると第三身分は国民議会を結成し、1789年のバ"
+  },
+  {
+    "term": "法制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.text => で多数が処刑されました。その後ナポレオンが権力を握り、革命の法制度を広める一方で皇帝となりました。"
+  },
+  {
+    "term": "世界化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.4.text => イツがソ連へ侵攻し、日本が真珠湾を攻撃したことで戦争はさらに世界化しました。ドワイト・アイゼンハワーは連合軍のノルマンディー上陸作戦を指揮し、シャルル・ド・"
+  },
+  {
+    "term": "実用化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:グーテンベルク.modal.profile => 15世紀のドイツで、活版印刷の技術を実用化した人物です。金属の活字を組んで本を大量に印刷できるようにし、聖書や知識が安く広く伝わるよ"
+  },
+  {
+    "term": "産業化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ナポレオン3世.modal.profile => フランス第二帝政の皇帝です。鉄道、銀行、パリ改造を進め、産業化を後押ししました。一方で対外戦争を行い、普仏戦争で敗れて退位しました。"
+  },
+  {
+    "term": "産業・移民・帝国支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.5.summary => 鉄道・汽船・電信が時間と距離を縮め、産業・移民・帝国支配を同時に加速する"
+  },
+  {
+    "term": "社会主義者・女性運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:クララ・ツェトキン.modal.profile => ドイツの社会主義者・女性運動家です。働く女性の権利と参政権を訴え、国際女性デーの提案に関わりました。労働運動と女性運動"
+  },
+  {
+    "term": "サンスクリット文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 院での礼拝を通してヒンドゥー教へ発展しました。グプタ朝期にはサンスクリット文化と寺院建築が栄えましたが、身分秩序や職業の世襲も社会に根強く残りました。"
+  },
+  {
+    "term": "グリーンベルト運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ワンガリ・マータイ.modal.profile => ケニアで女性たちと木を植えるグリーンベルト運動を始めた環境活動家です。森を守ることを、土、水、女性の仕事、民主主義と結び付けて考え、ノー"
+  },
+  {
+    "term": "スペイン植民地支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ホセ・リサール.modal.profile => フィリピンの作家・医師です。小説でスペイン植民地支配や教会の不正を批判し、改革を求めました。武装蜂起の指導者ではありませんでしたが、1896年"
+  },
+  {
+    "term": "フィリピン独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:エミリオ・アギナルド.modal.profile => フィリピン独立運動の軍人・政治家です。スペイン支配に対する革命を率い、1898年に独立を宣言しました。その後"
+  },
+  {
+    "term": "フランス植民地支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ホー・チ・ミン.modal.profile => ベトナムの独立運動家です。フランス植民地支配に反対し、1945年に独立を宣言しました。その後の戦争を経て北ベトナムを率い、ベトナムの統"
+  },
+  {
+    "term": "イギリス植民地支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョモ・ケニヤッタ.modal.profile => ケニア独立運動の指導者で、独立後の初代大統領です。イギリス植民地支配からの独立を進めましたが、政権は強い与党支配と土地問題を抱えました。"
+  },
+  {
+    "term": "穀物・家畜・労働",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.0.text => 、ウルク、ウル、ラガシュなどの都市国家が成立し、神殿を中心に穀物・家畜・労働力が集められました。神官、書記、商人、職人、兵士が分業し、税や配給を記録する印から楔形文字"
+  },
+  {
+    "term": "道路・排水・交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.2.summary => インダス川流域で道路・排水・交易を備えた計画都市が栄える"
+  },
+  {
+    "term": "イタリア統一運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ガリバルディ.modal.profile => イタリア統一運動の軍人です。1860年に「千人隊」を率いてシチリアとナポリを制圧し、統一への流れを作りまし"
+  },
+  {
+    "term": "キューバ独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ホセ・マルティ.modal.profile => キューバ独立運動の思想家・詩人です。スペイン支配からの独立を訴え、1895年の独立戦争に参加して戦死しまし"
+  },
+  {
+    "term": "ローマ帝国支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.2.text => 1世紀、ローマ帝国支配下のユダヤ地方で活動したイエスは、神への愛、隣人愛、悔い改めを説きました。十字架刑の後、ペ"
+  },
+  {
+    "term": "ユーラシア交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.5.peopleNote => ンギス・ハンは征服帝国の基礎を築き、忽必烈は元を建てて中国とユーラシア交易を結びました。両者の支配は交流の拡大と大規模な戦争被害の両面を持ちます。"
+  },
+  {
+    "term": "人種差別的支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.peopleNote => 広げました。その事業は鉄道と鉱業を発展させる一方、土地接収と人種差別的支配を強めました。"
+  },
+  {
+    "term": "独裁・保護貿易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.text => 州への進出を正当化する背景になりました。世界恐慌は経済危機が独裁・保護貿易・軍事膨張へ結び付く危険を示しました。"
+  },
+  {
+    "term": "当初非暴力運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.text => 証を求められました。ネルソン・マンデラらのアフリカ民族会議は当初非暴力運動を行いましたが、シャープビル虐殺と組織禁止後には武装闘争へ移り、マンデラは長期投獄されまし"
+  },
+  {
+    "term": "ヨーロッパ文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カール大帝.modal.profile => た。800年にローマ皇帝の位を授けられ、学問や教会を保護してヨーロッパ文化の土台を築きました。その活動は、政治制度を変えるには法律だけでなく、社会の支持や対立への対"
+  },
+  {
+    "term": "ガーナ独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:クワメ・エンクルマ.modal.profile => ガーナ独立運動の指導者で、初代首相・大統領です。1957年にサハラ以南アフリカで早い独立を実現し、アフリ"
+  },
+  {
+    "term": "ケニア独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョモ・ケニヤッタ.modal.profile => ケニア独立運動の指導者で、独立後の初代大統領です。イギリス植民地支配からの独立を進めましたが、政権は強い"
+  },
+  {
+    "term": "アステカ支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.2.text => みました。エルナン・コルテスは1519年にメキシコへ上陸し、アステカ支配へ不満を持つトラスカラなどの先住民勢力と同盟しました。マリンチェは通訳・交渉役として、言語"
+  },
+  {
+    "term": "東アジア交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.4.text => 交換されました。中国では税を銀で納める制度が広がり、日本銀も東アジア交易へ流れました。香辛料、砂糖、綿織物、陶磁器、茶、銀が同じ交易圏で動くようになり、商人と王国"
+  },
+  {
+    "term": "家庭内手工業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.0.text => ル・クロムプトンのミュール紡績機によって綿糸の生産量が増え、家庭内手工業から多数の労働者を集める工場制へ移りました。ジェームズ・ワットは蒸気機関を改良し、鉱山排水"
+  },
+  {
+    "term": "オンライン化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.5.text => 及し、ニュース、買い物、銀行、学習、仕事、娯楽、行政手続きがオンライン化しました。SNSは個人が情報を発信し、災害時の連絡や社会運動に使える一方、誤情報、詐欺、監"
+  },
+  {
+    "term": "チリ独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ベルナルド・オヒギンス.modal.profile => チリ独立運動の指導者です。サン＝マルティンと協力してスペイン軍と戦い、独立後は最高統治者として軍や教育"
+  },
+  {
+    "term": "女性権利運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:エリザベス・キャディ・スタントン.modal.profile => アメリカの女性権利運動家です。1848年のセネカフォールズ会議で女性の参政権を求める宣言をまとめました。奴隷制廃"
+  },
+  {
+    "term": "社会保険制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ビスマルク.modal.profile => ストリア、フランスとの戦争を利用してドイツ統一を進めました。社会保険制度も作りましたが、強い国家と軍事を重視する政治家でした。"
+  },
+  {
+    "term": "朝鮮民主主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:金日成.modal.profile => 北朝鮮の建国指導者です。朝鮮民主主義人民共和国を成立させ、朝鮮戦争を始める中心となりました。戦後は個人崇拝と一党支配を強めまし"
+  },
+  {
+    "term": "反植民地主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ホセ・マルティ.modal.profile => 5年の独立戦争に参加して戦死しました。ラテンアメリカの自由と反植民地主義の象徴です。"
+  },
+  {
+    "term": "イタリア支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:イタリア戦争.summary => 列強がイタリア支配を争った戦争"
+  },
+  {
+    "term": "アフリカ支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:アフリカ分割の列強競合.summary => 列強がアフリカ支配を争った時代"
+  },
+  {
+    "term": "青銅器文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.1.text => うした農耕集落の人口・技術・祭祀の積み重ねが、後の城壁都市、青銅器文化、王朝社会の形成につながりました。"
+  },
+  {
+    "term": "学問・交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.3.summary => ムハンマドが信仰共同体を築き、イスラム国家と学問・交易圏が拡大する"
+  },
+  {
+    "term": "コンゴ支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.1.peopleNote => スタンリーとレオポルド2世はコンゴ支配、サモリ・トゥーレとムハンマド・アフマドは反植民地抵抗、メネリク2世はアドワでの勝利による"
+  },
+  {
+    "term": "綿織物産業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 東インド会社は徴税権と軍事力を使ってインド各地の支配を広げ、綿織物産業や農業をイギリス経済へ組み込みました。農民には地税と商品作物の生産が求められ、イギリス製綿"
+  },
+  {
+    "term": "少子高齢化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.2.text => が、大気・水質汚染、農村と都市の格差、長時間労働、住宅価格、少子高齢化が新たな課題となりました。"
+  },
+  {
+    "term": "非暴力運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.peopleNote => ネルソン・マンデラは抵抗運動と民主化交渉、デズモンド・ツツは非暴力運動と真実和解委員会を通じて制度廃止後の和解に関わりました。"
+  },
+  {
+    "term": "植民地制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:バルトロメ・デ・ラス・カサス.modal.profile => や強制労働を記録し、王に改善を求めた修道士です。自身も当初は植民地制度に関わったため、その後に考えを改めて訴えました。植民地は、外国の政治的・経済的支配を受けた"
+  },
+  {
+    "term": "民主化運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アウンサンスーチー.modal.profile => ミャンマーの民主化運動を率り、長く自宅軟禁された政治家です。後に政権に参加しましたが、ロヒンギャへの迫害を十分に"
+  },
+  {
+    "term": "イラン文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ゾロアスター.modal.profile => えました。実在した時期には諸説がありますが、ゾロアスター教はイラン文化に深く影響しました。宗教の成立には、教えの内容だけでなく、共同体の形成や政治との関係も深く"
+  },
+  {
+    "term": "図書館文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:リチャード・ド・ベリー.modal.profile => の書』を書きました。写本が高価だった時代に、知識を集めて守る図書館文化を示す人物です。作品そのものだけでなく、それを生み出した社会や支援者との関係も重要です。ヨ"
+  },
+  {
+    "term": "政治・交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:メフメト2世.modal.profile => ブルとして整えました。東ローマ帝国を終わらせ、地中海と黒海の政治・交易を大きく変えました。"
+  },
+  {
+    "term": "インカ支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アタワルパ.modal.profile => で捕らえられました。身代金を集めても処刑され、スペインによるインカ支配の決定的な転機になりました。"
+  },
+  {
+    "term": "農業集団化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:スターリン.modal.profile => ソ連の指導者です。急速な工業化と農業集団化を進めましたが、大粛清や強制収容所で多くの人が犠牲になりました。第二次世界大戦後は東欧支配"
+  },
+  {
+    "term": "ナチス支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:オスカー・シンドラー.modal.profile => ドイツの実業家です。ナチス支配下で工場労働者としてユダヤ人を雇い、強制収容所送りから救いました。戦時下で人命救助に動いた"
+  },
+  {
+    "term": "先住民文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フリーダ・カーロ.modal.profile => メキシコの画家です。自画像に身体の痛み、先住民文化、政治的な思いを描きました。女性、民族、障害をめぐる表現として後世に大きな影響を与えました"
+  },
+  {
+    "term": "季節労働",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.1.text => ピラミッドでは、石材の採掘・運搬、食料配給、測量、専門職人、季節労働者を国家が組織しました。ピラミッド建設は王の神聖さと死後の再生を示す宗教事業であると同時に"
+  },
+  {
+    "term": "既存支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.0.text => 祭祀を認め、捕囚されていた人々の帰還を許すなど、地域の慣習と既存支配層を利用しました。ダレイオス1世は帝国を州に分け、総督を置き、監察官を派遣して反乱と独立を"
+  },
+  {
+    "term": "郡県支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.3.text => 官僚制を取り入れて競争し、秦は商鞅の改革によって戸籍、軍功、郡県支配を強めました。秦王政は紀元前221年に六国を滅ぼして始皇帝を名乗り、文字、貨幣、度量衡、車"
+  },
+  {
+    "term": "地方支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.4.text => る条件を整えました。ただし帝国の軍隊と刑罰は残され、死後には地方支配が弱まり、マウリヤ朝は分裂しました。"
+  },
+  {
+    "term": "寺院文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.summary => 仏教思想が多様化し、ヒンドゥー教の信仰と寺院文化がインド社会に広がる"
+  },
+  {
+    "term": "教会制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.2.summary => 迫害されたキリスト教がローマ帝国で公認され、教義と教会制度が整う"
+  },
+  {
+    "term": "隊商交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.3.text => 7世紀初めのアラビア半島では、メッカが隊商交易とカアバ神殿への巡礼で栄える一方、部族間の争いと貧富の差がありました。ムハンマドは唯一神ア"
+  },
+  {
+    "term": "寺院制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => 密な翻訳によって唯識思想を伝えました。中国で形成された宗派、寺院制度、漢訳経典は朝鮮半島と日本へ伝わり、各地の王権や在来信仰と結び付きました。"
+  },
+  {
+    "term": "中央支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.0.text => きました。安禄山の反乱後は節度使が強まり、税制も変化して唐の中央支配は弱まりました。"
+  },
+  {
+    "term": "遠隔交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.4.summary => 農業生産と遠隔交易の拡大で都市・ギルド・大学・議会が成長する"
+  },
+  {
+    "term": "独占会社",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.4.text => 支えました。一方、価格上昇、鉱山事故、森林破壊、植民地支配、独占会社による武力行使が各地の暮らしを圧迫しました。"
+  },
+  {
+    "term": "海外交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.0.text => 18世紀後半のイギリスでは、農業生産の増加、海外交易で得た資本、豊富な石炭と鉄、港と運河の整備を背景に産業革命が始まりました。ジェームズ・ハー"
+  },
+  {
+    "term": "財政危機",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.summary => 財政危機と身分制への不満から王政が崩れ、人権宣言・共和政・恐怖政治へ進む"
+  },
+  {
+    "term": "貿易会社",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.text => 蒸気船、鉄道、電信、連発銃、医薬品は遠隔地の支配を容易にし、貿易会社、銀行、宣教師、探検家が軍隊や政府の進出に先立つこともありました。セシル・ローズは南部アフ"
+  },
+  {
+    "term": "鉱山会社",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.peopleNote => セシル・ローズは鉱山会社と政治権力を利用して南部アフリカのイギリス支配を広げました。その事業は鉄道と鉱業を発展させ"
+  },
+  {
+    "term": "会社支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => ンドへ広がり、旧王侯、農民、都市住民も参加しました。鎮圧後、会社支配は終わり、イギリス政府が直接統治しました。鉄道、電信、英語教育、法制度は行政と軍事移動を効"
+  },
+  {
+    "term": "洋務運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 乱など国内の反乱も続き、清は西洋式兵器・造船・工場を導入する洋務運動を進めましたが、政治制度と財政の改革は限定的でした。一方、日本ではペリー来航後に開国し、明"
+  },
+  {
+    "term": "学校制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => に開国し、明治政府が藩を廃して中央集権国家をつくり、徴兵制、学校制度、地租改正、官営工場、鉄道を整えました。その近代化は条約改正と国家独立を目的としましたが、"
+  },
+  {
+    "term": "革命運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.peopleNote => ペリーは日本へ開国を迫り、孫文は清朝を倒して共和国をつくる革命運動を進めました。二人は東アジアの国際秩序が変わる別々の局面を示します。"
+  },
+  {
+    "term": "鉄道会社",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.4.text => 地、炭鉱、鉄鉱山、油田を結び、全国市場をつくりました。政府は鉄道会社へ広大な土地を与え、ヨーロッパやアジアからの移民が線路建設、鉱山、製鉄所、食肉工場で働きま"
+  },
+  {
+    "term": "経済危機",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.text => 、軍部が満州への進出を正当化する背景になりました。世界恐慌は経済危機が独裁・保護貿易・軍事膨張へ結び付く危険を示しました。"
+  },
+  {
+    "term": "国家制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.2.summary => ヒトラーの独裁が人種法・強制収容所・大量虐殺を国家制度として進める"
+  },
+  {
+    "term": "重工業化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.1.text => ではジャワハルラール・ネルーが独立後の首相となり、議会政治、重工業化、非同盟外交を進めましたが、分離独立したインドとパキスタンの間では大量の避難民と宗教暴力が"
+  },
+  {
+    "term": "輸出産業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.2.text => 大量消費社会が広がりました。韓国や台湾でも政府主導の工業化と輸出産業育成が進みました。中国では鄧小平が1978年以降、人民公社の見直し、外資導入、経済特区、企"
+  },
+  {
+    "term": "軍需産業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.4.text => ロッパでは、フランスと西ドイツを再び戦争へ向かわせないため、軍需産業に欠かせない石炭と鉄鋼を共同管理する構想が生まれました。1951年に欧州石炭鉄鋼共同体、1"
+  },
+  {
+    "term": "運営企業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.5.text => 複製と拡散が容易なため、出典確認、著作権、プライバシー保護、運営企業による情報管理の透明性が重要になりました。"
+  },
+  {
+    "term": "国際制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.summary => 気候変動・感染症・紛争・AIの影響が国境を越え、科学と国際制度の協力を必要とする"
+  },
+  {
+    "term": "植林運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => ガリ・マータイはケニアで女性の生活改善と森林回復を結び付けた植林運動を広げました。感染症対策では、各国の検査・医療体制だけでなく、情報共有、ワクチン開発、公平"
+  },
+  {
+    "term": "雇用変化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => 断、翻訳、科学研究、災害予測を助ける一方、誤情報、自動監視、雇用変化、著作権侵害、差別的判断、兵器利用の危険があります。問題は技術そのものだけでなく、誰がデー"
+  },
+  {
+    "term": "武力支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ヴァスコ・ダ・ガマ.modal.profile => しました。香辛料交易を求める航路でしたが、のちにポルトガルの武力支配にもつながりました。成果だけでなく、運動が直面した反対や限界も含めて理解する必要があります"
+  },
+  {
+    "term": "織物工業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:サミュエル・クロムプトン.modal.profile => ュール紡績機を作りました。細く丈夫な綿糸を作れるようになり、織物工業の発展を支えました。この研究は、観察や実験、計算によって自然を説明する近代科学の発展につな"
+  },
+  {
+    "term": "選挙運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ベナジル・ブット.modal.profile => 民主化を進めましたが、汚職疑惑や政治対立も続き、2007年の選挙運動中に暗殺されました。成果だけでなく、運動が直面した反対や限界も含めて理解する必要があります"
+  },
+  {
+    "term": "宗教文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ウラジーミル1世.modal.profile => で人々に洗礼を受けさせたと伝えられます。ロシアやウクライナの宗教文化に大きな影響を残しました。キリスト教は、イエスを救い主と信じ、聖書を聖典とする宗教です。こ"
+  },
+  {
+    "term": "反対運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:リー・クアンユー.modal.profile => を育てて都市国家の経済を発展させました。一方で、政府は報道や反対運動を厳しく制限したと批判されています。成果だけでなく、運動が直面した反対や限界も含めて理解す"
+  },
+  {
+    "term": "役人制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:忽必烈.modal.profile => ハンの孫で、中国に元を建てた皇帝です。大都を都とし、中国式の役人制度を使って広い地域を治めました。日本への遠征は失敗し、支配下の人々には重い負担もありました。"
+  },
+  {
+    "term": "統一運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マッツィーニ.modal.profile => 、共和政と民族統一を訴えました。蜂起は失敗も多かったものの、統一運動の理想を広げました。"
+  },
+  {
+    "term": "権威主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:蒋介石.modal.profile => 争では国民政府を率いました。国共内戦に敗れて台湾へ移り、長く権威主義的な統治を行いました。"
+  },
+  {
+    "term": "思想運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:魯迅.modal.profile => などで古い社会や人々の弱さを鋭く批判しました。中国の近代化と思想運動に大きな影響を与えました。"
+  },
+  {
+    "term": "東欧支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:スターリン.modal.profile => や強制収容所で多くの人が犠牲になりました。第二次世界大戦後は東欧支配と冷戦に関わりました。"
+  },
+  {
+    "term": "海軍強化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:セオドア・ルーズベルト.modal.profile => 。企業独占を規制し、自然保護区を広げました。パナマ運河建設や海軍強化も進め、アメリカの海外進出を強めました。"
+  },
+  {
+    "term": "表現主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ゴッホ.modal.profile => 景に感情をこめて描きました。生前は評価が低かったものの、後の表現主義や近代美術に大きな影響を与えました。"
+  },
+  {
+    "term": "生活文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ココ・シャネル.modal.profile => いドレスなどを広め、女性の服装を大きく変えました。20世紀の生活文化とファッションに影響しました。"
+  },
+  {
+    "term": "与党支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョモ・ケニヤッタ.modal.profile => です。イギリス植民地支配からの独立を進めましたが、政権は強い与党支配と土地問題を抱えました。"
+  },
+  {
+    "term": "実存主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャン＝ポール・サルトル.modal.profile => フランスの哲学者・作家です。実存主義を代表し、人は自分の選択に責任を持つと論じました。戦後の政治運動や植民地支配への批判にも関"
+  },
+  {
+    "term": "気候運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:グレタ・トゥーンベリ.modal.profile => を始め、気候変動への対策を政治家に求めました。若者の国際的な気候運動を広げました。"
+  },
+  {
+    "term": "反戦運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ボブ・ディラン.modal.profile => アメリカの歌手・作詞家です。公民権運動や反戦運動の時代に、社会への問いをこめた歌を発表しました。歌詞の文学性が評価されノーベル文学賞を受け"
+  },
+  {
+    "term": "音楽文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョン・レノン.modal.profile => イギリスの音楽家です。ビートルズの一員として世界の音楽文化を変え、解散後は平和運動にも関わりました。『イマジン』などで戦争のない世界を訴えました。"
+  },
+  {
+    "term": "官僚制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:秦と漢の中国統一.modal.whatHappened => は文字や重さの基準をそろえ、中国を統一しました。漢はその後、官僚制度や儒教、交易を発展させ、東アジアに長く影響する大帝国になりました。この動きは、誰が政治に参"
+  },
+  {
+    "term": "行政制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:インドの植民地支配.modal.whatHappened => インドはイギリスの支配下で、鉄道や行政制度が整えられる一方、経済や政治を大きく支配されました。人々の抵抗は、のちの独立運動につながり"
+  },
+  {
+    "term": "温暖化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.0.text => 紀元前1万年ごろから、西アジアの肥沃な三日月地帯では、気候が温暖化し、野生の小麦や大麦、ガゼルやヤギなどを利用する人々が定住を始めました。やがて実が大きく穂"
+  },
+  {
+    "term": "栽培化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.2.text => カでは、西アジアとは別に、各地域の野生植物が長い時間をかけて栽培化されました。メソアメリカでは野生のテオシントからトウモロコシが改良され、豆やカボチャと組み"
+  },
+  {
+    "term": "乾燥化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.2.text => 解読で、王名や宗教を断定できません。衰退には河川流路の変化、乾燥化、交易縮小、都市人口の分散などが重なったと考えられています。"
+  },
+  {
+    "term": "多様化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.summary => 仏教思想が多様化し、ヒンドゥー教の信仰と寺院文化がインド社会に広がる"
+  },
+  {
+    "term": "文明化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.text => 植民地拡大を結び付け、イギリス支配を北へ広げました。各国は「文明化」を掲げましたが、実際には土地の接収、現金納税、強制労働、単一作物栽培が進められました。現"
+  },
+  {
+    "term": "被支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.text => する場合も、武力で抵抗する場合もあり、帝国主義は国家間競争と被支配地域の社会変化を同時に生みました。"
+  },
+  {
+    "term": "手工業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 地税と商品作物の生産が求められ、イギリス製綿布の流入で地域の手工業が打撃を受けました。1857年には会社軍のインド人兵士の反乱が北インドへ広がり、旧王侯、農"
+  },
+  {
+    "term": "効率化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 統治しました。鉄道、電信、英語教育、法制度は行政と軍事移動を効率化しましたが、同時に地域を越える政治運動の基盤にもなりました。サイイド・アフマド・ハーンはイ"
+  },
+  {
+    "term": "深刻化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.text => 強め、ナチスが支持を広げました。日本でも輸出不振と農村不況が深刻化し、軍部が満州への進出を正当化する背景になりました。世界恐慌は経済危機が独裁・保護貿易・軍"
+  },
+  {
+    "term": "無力化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.2.text => 事堂放火事件を利用して基本的人権を停止し、全権委任法で議会を無力化しました。政党、労働組合、新聞を統制し、秘密警察と親衛隊が反対者を逮捕しました。1935年"
+  },
+  {
+    "term": "全面化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.3.text => を受けて脱退した後も軍事進出を続け、1937年には日中戦争が全面化しました。南京を含む各地で捕虜・民間人の殺害、略奪、性暴力が起こり、中国側でも長期抗戦によ"
+  },
+  {
+    "term": "弱体化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.1.summary => 植民地支配の弱体化と民族運動により独立国が増え、国境・経済・統治の課題を抱える"
+  },
+  {
+    "term": "制度化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.text => 南アフリカでは1948年以降、白人政権がアパルトヘイトを制度化し、人種ごとに居住地、学校、職業、移動、参政権を分けました。黒人住民は土地を奪われ、都市で"
+  },
+  {
+    "term": "商工業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カルヴァン.modal.profile => じめに働き節約することを重んじる教えを広めました。その考えは商工業のさかんな地域に広まり、ヨーロッパ社会に影響を与えました。宗教改革は、16世紀にカトリック"
+  },
+  {
+    "term": "体系化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:朱熹.modal.profile => 宋の思想家です。儒教の古典を読み直し、学びと道徳の考えを体系化しました。朱子学は中国、朝鮮、日本の学校や政治に長く影響しましたが、時代により厳しい身分・"
+  },
+  {
+    "term": "大企業",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:J・P・モルガン.modal.profile => アメリカの銀行家です。鉄道、鉄鋼、金融を結びつけ、大企業の再編を進めました。恐慌時には金融界をまとめましたが、少数の資本家に力が集まる問題も示しま"
+  },
+  {
+    "term": "機械化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:チャップリン.modal.profile => イギリス出身の映画俳優・監督です。喜劇映画で貧困や機械化社会を描き、『独裁者』ではヒトラーを風刺しました。映画を通じて社会批判を広げました。"
+  },
+  {
+    "term": "独裁化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:クワメ・エンクルマ.modal.profile => フリカで早い独立を実現し、アフリカ統一を訴えましたが、のちに独裁化しました。"
+  },
+  {
+    "term": "大国化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:アメリカの工業化と鉄道.modal.whatHappened => アメリカ合衆国では工業、鉄道、移民、資源開発が進み、大国化しました。その一方で、先住民の土地喪失や労働問題、人種差別も続きました。商人や船乗り、使節"
+  },
+  {
+    "term": "植民地支配",
+    "count": 141,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.5.eras.0.cards.life.summary => カ、アフリカ、アジアの人々が海で強く結びつきました。一方で、植民地支配や奴隷貿易により、多くの人が自由と命を奪われました。"
+  },
+  {
+    "term": "独立運動",
+    "count": 108,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.summary => アメリカ独立革命、フランス革命、産業革命、ラテンアメリカ独立運動が起こり、権利や国民という考えが広がりました。"
+  },
+  {
+    "term": "帝国主義",
+    "count": 78,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.focus => 帝国主義、科学、交通、通信"
+  },
+  {
+    "term": "奴隷貿易",
+    "count": 34,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.5.eras.0.cards.life.summary => 、アジアの人々が海で強く結びつきました。一方で、植民地支配や奴隷貿易により、多くの人が自由と命を奪われました。"
+  },
+  {
+    "term": "公民権運動",
+    "count": 26,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.cards.event.summary => 冷戦、植民地の独立、EUの成立、宇宙開発、公民権運動、環境運動、AIの発展などが今の社会につながっています。"
+  },
+  {
+    "term": "海上交易",
+    "count": 24,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.5.eras.0.subcategories.4.peopleNote => ヴァスコ・ダ・ガマのインド航路とマゼラン船隊の太平洋横断は海上交易圏を結び、カール5世の時代にはヨーロッパとアメリカの領土・銀が同じ帝国財政へ組み込まれまし"
+  },
+  {
+    "term": "世界恐慌",
+    "count": 20,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.cards.event.summary => 第一次世界大戦、世界恐慌、第二次世界大戦、ホロコースト、原子爆弾、国際連合の成立が起こりました。"
+  },
+  {
+    "term": "非暴力",
+    "count": 17,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 徒へ近代教育を広め、ガンディーは塩の行進や不服従運動を通じて非暴力で独立を求めました。"
+  },
+  {
+    "term": "不買運動",
+    "count": 16,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.4.text => にされた人々の逃亡、反乱、請願、証言と、市民・宗教団体による不買運動が結び付き、奴隷制廃止運動が広がりました。砂糖農園で働かされた人々の反乱は植民地支配を揺る"
+  },
+  {
+    "term": "民族運動",
+    "count": 14,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.1.summary => 植民地支配の弱体化と民族運動により独立国が増え、国境・経済・統治の課題を抱える"
+  },
+  {
+    "term": "アパルトヘイト",
+    "count": 13,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.cards.event.detail => 世界、アジア・アフリカの独立、東アジアの経済とくらしの変化、アパルトヘイト廃止と人権、ヨーロッパ統合、インターネットの広がり、地球規模の課題とAIです。"
+  },
+  {
+    "term": "インド洋交易",
+    "count": 12,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.4.eras.0.cards.event.summary => シルクロード、インド洋交易、サハラ砂漠を越える交易が発達し、紙、火薬、羅針盤などの技術も広がりました。"
+  },
+  {
+    "term": "大西洋奴隷貿易",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.5.eras.0.cards.event.detail => の航路開拓、マゼラン船隊の世界一周、アステカ・インカの征服、大西洋奴隷貿易、香辛料と銀の世界交易です。"
+  },
+  {
+    "term": "女性参政権運動",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.cards.event.summary => 帝国主義、アジア・アフリカ分割、明治維新、科学技術の発展、女性参政権運動などが世界各地で進みました。"
+  },
+  {
+    "term": "アフリカ分割",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.cards.event.summary => 帝国主義、アジア・アフリカ分割、明治維新、科学技術の発展、女性参政権運動などが世界各地で進みました。"
+  },
+  {
+    "term": "環境運動",
+    "count": 7,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.cards.event.summary => 冷戦、植民地の独立、EUの成立、宇宙開発、公民権運動、環境運動、AIの発展などが今の社会につながっています。"
+  },
+  {
+    "term": "東インド会社",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.subcategories.2.summary => 東インド会社の支配から英領インドへ移り、経済統制と反植民地運動が拡大する"
+  },
+  {
+    "term": "香辛料交易",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.5.eras.0.subcategories.1.text => つながることを実証しましたが、航海の目的は科学探検ではなく、香辛料交易と帝国間競争でした。"
+  },
+  {
+    "term": "工場労働",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:シモーヌ・ヴェイユ.modal.profile => フランスの思想家です。工場労働やスペイン内戦を経験し、抑圧、労働、信仰について考えました。第二次世界大戦中は自由フランス"
+  },
+  {
+    "term": "ラテンアメリカ独立運動",
+    "count": 5,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.summary => アメリカ独立革命、フランス革命、産業革命、ラテンアメリカ独立運動が起こり、権利や国民という考えが広がりました。"
+  },
+  {
+    "term": "イギリス東インド会社",
+    "count": 5,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 18世紀後半からイギリス東インド会社は徴税権と軍事力を使ってインド各地の支配を広げ、綿織物産業や農業をイギリス経済へ組み込みま"
+  },
+  {
+    "term": "奴隷制廃止運動",
+    "count": 5,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.detail => 命、アメリカ独立革命、フランス革命、ラテンアメリカ独立運動、奴隷制廃止運動、憲法と議会を求める動きです。"
+  },
+  {
+    "term": "世界交易",
+    "count": 5,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.5.eras.0.cards.event.detail => 界一周、アステカ・インカの征服、大西洋奴隷貿易、香辛料と銀の世界交易です。"
+  },
+  {
+    "term": "オランダ東インド会社",
+    "count": 4,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:アベル・タスマン.modal.profile => オランダ東インド会社の航海者です。1642年に現在のタスマニア島とニュージーランド周辺を航海しました。航海中に"
+  },
+  {
+    "term": "人種隔離制度",
+    "count": 4,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.3.summary => 南アフリカの人種隔離制度が国内抵抗と国際圧力によって廃止され、多民族民主制へ移る"
+  },
+  {
+    "term": "キューバ危機",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 争、アフガニスタン侵攻などで間接的に争いました。1962年のキューバ危機では、ジョン・F・ケネディ政権とソ連が海上封鎖と交渉を通じて衝突を回避しました。1980年"
+  },
+  {
+    "term": "サハラ交易",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "actionCards:サヘル諸王国の競合.summary => サハラ交易をめぐり王国が競った時代"
+  },
+  {
+    "term": "塩の行進",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.subcategories.2.text => アフマド・ハーンはイスラム教徒へ近代教育を広め、ガンディーは塩の行進や不服従運動を通じて非暴力で独立を求めました。"
+  },
+  {
+    "term": "仏教文化",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:空海.modal.profile => 高野山を拠点にしました。文字、書、土木にも関心を持ち、日本の仏教文化に大きな影響を残しました。"
+  },
+  {
+    "term": "綿工業",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.0.summary => 綿工業・蒸気機関・石炭・鉄道が生産と交通を変え、工場都市と労働問題を生む"
+  },
+  {
+    "term": "工場制",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.0.text => って綿糸の生産量が増え、家庭内手工業から多数の労働者を集める工場制へ移りました。ジェームズ・ワットは蒸気機関を改良し、鉱山排水だけでなく工場の動力にも利用で"
+  },
+  {
+    "term": "シルクロード交易",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:カニシカ王.modal.profile => ャーナ朝の王です。中央アジアから北インドに広がる地域を治め、シルクロード交易を支えました。仏教の保護者として知られますが、仏典の会議との関係には不明な点もあります。仏"
+  },
+  {
+    "term": "アメリカ独立運動",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ジョン・アダムズ.modal.profile => アメリカ独立運動の指導者で、第二代大統領です。独立のための外交に尽くし、憲法にも関わりました。戦争中にも法"
+  },
+  {
+    "term": "インド独立運動",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ジャワハルラール・ネルー.modal.profile => インド独立運動家で、独立後の初代首相です。議会制民主主義、科学教育、非同盟外交を重視しました。一方で中国"
+  },
+  {
+    "term": "議会制民主主義",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ジャワハルラール・ネルー.modal.profile => インド独立運動家で、独立後の初代首相です。議会制民主主義、科学教育、非同盟外交を重視しました。一方で中国との国境問題や経済政策には難しさも残りまし"
+  },
+  {
+    "term": "黒人解放運動",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:マルコムX.modal.profile => アメリカの黒人解放運動家です。人種差別の中で黒人の自立と誇りを強く訴えました。後半には考えを広げ、人種を超えた協"
+  },
+  {
+    "term": "奴隷解放宣言",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:エイブラハム・リンカーン.modal.profile => 第16代大統領です。南北戦争で連邦の分裂を防ぎ、1863年に奴隷解放宣言を出しました。ゲティスバーグ演説で民主政治の意味を示し、奴隷制廃止を進めました。"
+  },
+  {
+    "term": "灌漑農業",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.1.eras.0.subcategories.0.text => 安定しないため、堤防や運河を共同で管理する必要がありました。灌漑農業で大麦などの収穫が増えると、ウルク、ウル、ラガシュなどの都市国家が成立し、神殿を中心に穀物"
+  }
+]

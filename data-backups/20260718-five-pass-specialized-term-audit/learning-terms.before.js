@@ -1,0 +1,5588 @@
+window.WORLD_HISTORY_LEARNING_TERMS_DATA = {
+  "schemaVersion": 2,
+  "terms": {
+    "仰韶文化": {
+      "reading": "ぎょうしょうぶんか",
+      "ruby": {
+        "base": "仰韶文化",
+        "reading": "ぎょうしょうぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "龍山文化": {
+      "reading": "りゅうざんぶんか",
+      "ruby": {
+        "base": "龍山文化",
+        "reading": "りゅうざんぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "河姆渡文化": {
+      "reading": "かぼとぶんか",
+      "ruby": {
+        "base": "河姆渡文化",
+        "reading": "かぼとぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "良渚文化": {
+      "reading": "りょうしょぶんか",
+      "ruby": {
+        "base": "良渚文化",
+        "reading": "りょうしょぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "紅山文化": {
+      "reading": "こうさんぶんか",
+      "ruby": {
+        "base": "紅山文化",
+        "reading": "こうさんぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "三星堆文化": {
+      "reading": "さんせいたいぶんか",
+      "ruby": {
+        "base": "三星堆文化",
+        "reading": "さんせいたいぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "黄河流域": {
+      "reading": "こうがりゅういき",
+      "ruby": {
+        "base": "黄河流域",
+        "reading": "こうがりゅういき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "長江流域": {
+      "reading": "ちょうこうりゅういき",
+      "ruby": {
+        "base": "長江流域",
+        "reading": "ちょうこうりゅういき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "殷王朝": {
+      "reading": "いんおうちょう",
+      "ruby": {
+        "base": "殷王朝",
+        "reading": "いんおうちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "春秋時代": {
+      "reading": "しゅんじゅうじだい",
+      "ruby": {
+        "base": "春秋時代",
+        "reading": "しゅんじゅうじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "春秋時代",
+        "body": "周王室の衰えと諸侯の競争。周王の力が弱まり、多くの諸侯が同盟や戦争をくり返した時代です。孔子のような思想家も現れ、のちの中国政治や学問の土台が作られました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方に受け継がれました。こ…"
+      }
+    },
+    "戦国時代": {
+      "reading": "せんごくじだい",
+      "ruby": {
+        "base": "戦国時代",
+        "reading": "せんごくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "戦国時代",
+        "body": "七雄が統一を争った中国の時代。七つの大国などが制度改革、軍事、外交で競い合い、最後に秦が統一へ進んだ時代です。戦いだけでなく、法律、農業、貨幣、思想も大きく変わりました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られました。一…"
+      }
+    },
+    "秦と漢の中国統一": {
+      "reading": "しんとかんのちゅうごくとういつ",
+      "ruby": {
+        "base": "秦と漢の中国統一",
+        "reading": "しんとかんのちゅうごくとういつ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "秦と漢の中国統一",
+        "body": "秦が中国を統一し、漢が大帝国を築く。秦は文字や重さの基準をそろえ、中国を統一しました。漢はその後、官僚制度や儒教、交易を発展させ、東アジアに長く影響する大帝国になりました。この動きは、誰が政治に参加し、法律や税をどのように決めるのかという問題を社会に突きつけました。掲げられた権利がすべての人に及ぶ…"
+      }
+    },
+    "前漢": {
+      "reading": "ぜんかん",
+      "ruby": {
+        "base": "前漢",
+        "reading": "ぜんかん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "後漢": {
+      "reading": "ごかん",
+      "ruby": {
+        "base": "後漢",
+        "reading": "ごかん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "東晋": {
+      "reading": "とうしん",
+      "ruby": {
+        "base": "東晋",
+        "reading": "とうしん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "中国南北朝時代": {
+      "reading": "ちゅうごくなんぼくちょうじだい",
+      "ruby": {
+        "base": "中国南北朝時代",
+        "reading": "ちゅうごくなんぼくちょうじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "中国南北朝時代",
+        "body": "南北の王朝が並び立った分裂期。中国の北と南に複数の王朝が並び立った時代です。北方民族の政権と南の漢人王朝が競い合い、仏教や貴族文化が広がりました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担を与えました。この変化は政治や経済だ…"
+      }
+    },
+    "五胡十六国": {
+      "reading": "ごこじゅうろっこく",
+      "ruby": {
+        "base": "五胡十六国",
+        "reading": "ごこじゅうろっこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "五胡十六国時代": {
+      "reading": "ごこじゅうろっこくじだい",
+      "ruby": {
+        "base": "五胡十六国時代",
+        "reading": "ごこじゅうろっこくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "五胡十六国時代",
+        "body": "中国北部で諸政権が興亡した時代。中国北部で多くの政権が興亡し、東晋など南の政権とも並び立った時代です。民族移動、仏教文化、軍事勢力の動きが中国社会を大きく変えました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られました。一つの…"
+      }
+    },
+    "五代十国時代": {
+      "reading": "ごだいじっこくじだい",
+      "ruby": {
+        "base": "五代十国時代",
+        "reading": "ごだいじっこくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "五代十国時代",
+        "body": "唐滅亡後に諸国が並立した時代。唐のあと、中国北部と南部に多くの政権が並び立った時代です。戦乱は続きましたが、地方都市や商業が発展し、宋の統一へつながりました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られました。一つの出来事だ…"
+      }
+    },
+    "北魏": {
+      "reading": "ほくぎ",
+      "ruby": {
+        "base": "北魏",
+        "reading": "ほくぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "渤海": {
+      "reading": "ぼっかい",
+      "ruby": {
+        "base": "渤海",
+        "reading": "ぼっかい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "扶南": {
+      "reading": "ふなん",
+      "ruby": {
+        "base": "扶南",
+        "reading": "ふなん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "新羅": {
+      "reading": "しらぎ",
+      "ruby": {
+        "base": "新羅",
+        "reading": "しらぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "高句麗": {
+      "reading": "こうくり",
+      "ruby": {
+        "base": "高句麗",
+        "reading": "こうくり",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "百済": {
+      "reading": "くだら",
+      "ruby": {
+        "base": "百済",
+        "reading": "くだら",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "阮朝": {
+      "reading": "げんちょう",
+      "ruby": {
+        "base": "阮朝",
+        "reading": "げんちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "雑穀": {
+      "reading": "ざっこく",
+      "ruby": {
+        "base": "雑穀",
+        "reading": "ざっこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "牧畜": {
+      "reading": "ぼくちく",
+      "ruby": {
+        "base": "牧畜",
+        "reading": "ぼくちく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "諸侯": {
+      "reading": "しょこう",
+      "ruby": {
+        "base": "諸侯",
+        "reading": "しょこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "抵抗勢力": {
+      "reading": "ていこうせいりょく",
+      "ruby": {
+        "base": "抵抗勢力",
+        "reading": "ていこうせいりょく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "列強": {
+      "reading": "れっきょう",
+      "ruby": {
+        "base": "列強",
+        "reading": "れっきょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "進出期": {
+      "reading": "しんしゅつき",
+      "ruby": {
+        "base": "進出期",
+        "reading": "しんしゅつき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "共和政": {
+      "reading": "きょうわせい",
+      "ruby": {
+        "base": "共和政",
+        "reading": "きょうわせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "儒教": {
+      "reading": "じゅきょう",
+      "ruby": {
+        "base": "儒教",
+        "reading": "じゅきょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "律令": {
+      "reading": "りつりょう",
+      "ruby": {
+        "base": "律令",
+        "reading": "りつりょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "植民地支配": {
+      "reading": "しょくみんちしはい",
+      "ruby": {
+        "base": "植民地支配",
+        "reading": "しょくみんちしはい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "植民地支配",
+        "body": "他地域を政治・経済的に支配する制度。強い国が別の地域を政治や経済で支配し、資源や労働を利用することです。支配された人々のくらしや文化に大きな被害を与えました。利益を得た国や集団の側だけでなく、被害を受けた人々の記録から見る必要があります。その影響は格差や国境、人種差別の問題として後世にも残りました…"
+      }
+    },
+    "先住民": {
+      "reading": "せんじゅうみん",
+      "ruby": {
+        "base": "先住民",
+        "reading": "せんじゅうみん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "奴隷貿易": {
+      "reading": "どれいぼうえき",
+      "ruby": {
+        "base": "奴隷貿易",
+        "reading": "どれいぼうえき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "奴隷貿易",
+        "body": "人を強制移送し売買した交易。アフリカの人々が無理やり連れ去られ、アメリカ大陸などで働かされました。人の自由と命を奪った重大な歴史です。支配された人々は土地、自由、文化、命を奪われ、社会の仕組みそのものを変えられました。同時に、逃亡、抵抗、自治、独立を求める動きも続きました。一つの出来事だけで成立し…"
+      }
+    },
+    "奴隷制": {
+      "reading": "どれいせい",
+      "ruby": {
+        "base": "奴隷制",
+        "reading": "どれいせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "奴隷制廃止運動": {
+      "reading": "どれいせいはいしうんどう",
+      "ruby": {
+        "base": "奴隷制廃止運動",
+        "reading": "どれいせいはいしうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "奴隷制廃止運動",
+        "body": "奴隷制を廃止しようとする運動が広がる。奴隷制をなくそうとする運動が大西洋世界で広がりました。奴隷にされた人々の抵抗、宗教者や市民の運動、経済の変化が結びつきました。支配された人々は土地、自由、文化、命を奪われ、社会の仕組みそのものを変えられました。同時に、逃亡、抵抗、自治、独立を求める動きも続きま…"
+      }
+    },
+    "大西洋奴隷貿易": {
+      "reading": "たいせいようどれいぼうえき",
+      "ruby": {
+        "base": "大西洋奴隷貿易",
+        "reading": "たいせいようどれいぼうえき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "大西洋奴隷貿易",
+        "body": "大西洋奴隷貿易で多くの人が強制的に連れ去られる。アフリカの人々が無理やり連れ去られ、アメリカ大陸の農園や鉱山で働かされました。自由と命を奪った重大な歴史で、今の社会にも影響が残ります。支配された人々は土地、自由、文化、命を奪われ、社会の仕組みそのものを変えられました。同時に、逃亡、抵抗、自治、独立…"
+      }
+    },
+    "枢軸国": {
+      "reading": "すうじくこく",
+      "ruby": {
+        "base": "枢軸国",
+        "reading": "すうじくこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "中央同盟国": {
+      "reading": "ちゅうおうどうめいこく",
+      "ruby": {
+        "base": "中央同盟国",
+        "reading": "ちゅうおうどうめいこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "戦間期": {
+      "reading": "せんかんき",
+      "ruby": {
+        "base": "戦間期",
+        "reading": "せんかんき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "拮抗": {
+      "reading": "きっこう",
+      "ruby": {
+        "base": "拮抗",
+        "reading": "きっこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "均衡": {
+      "reading": "きんこう",
+      "ruby": {
+        "base": "均衡",
+        "reading": "きんこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "帝国主義": {
+      "reading": "ていこくしゅぎ",
+      "ruby": {
+        "base": "帝国主義",
+        "reading": "ていこくしゅぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "帝国主義",
+        "body": "列強が海外支配を競った動き。19世紀後半、強い国々が資源や市場を求めてアジアやアフリカへ進出しました。支配と抵抗、独立運動を生みました。利益を得た国や集団の側だけでなく、被害を受けた人々の記録から見る必要があります。その影響は格差や国境、人種差別の問題として後世にも残りました。この変化は政治や経済…"
+      }
+    },
+    "大航海時代": {
+      "reading": "だいこうかいじだい",
+      "ruby": {
+        "base": "大航海時代",
+        "reading": "だいこうかいじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "大航海時代",
+        "body": "海路で世界の結びつきが強まった時代。15世紀以後、ヨーロッパの国々が遠い海へ進出しました。世界の交易を変えましたが、植民地支配と奴隷貿易も広げました。商人や船乗り、使節、巡礼者の移動によって、品物とともに技術、宗教、言語、病気も伝わりました。港や宿場、オアシスは交流の拠点として栄えました。一つの出…"
+      }
+    },
+    "航路開拓": {
+      "reading": "こうろかいたく",
+      "ruby": {
+        "base": "航路開拓",
+        "reading": "こうろかいたく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "香辛料": {
+      "reading": "こうしんりょう",
+      "ruby": {
+        "base": "香辛料",
+        "reading": "こうしんりょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "国際連盟": {
+      "reading": "こくさいれんめい",
+      "ruby": {
+        "base": "国際連盟",
+        "reading": "こくさいれんめい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "国際連盟",
+        "body": "第一次世界大戦後に作られた国際機関です。戦争を防ぐことを目指しましたが、強制力が弱く、第二次世界大戦を防げませんでした。"
+      }
+    },
+    "国際社会主義運動": {
+      "reading": "こくさいしゃかいしゅぎうんどう",
+      "ruby": {
+        "base": "国際社会主義運動",
+        "reading": "こくさいしゃかいしゅぎうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "非同盟運動": {
+      "reading": "ひどうめいうんどう",
+      "ruby": {
+        "base": "非同盟運動",
+        "reading": "ひどうめいうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "公民権運動": {
+      "reading": "こうみんけんうんどう",
+      "ruby": {
+        "base": "公民権運動",
+        "reading": "こうみんけんうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "公民権運動",
+        "body": "人種差別をなくし、市民としての平等な権利を求めた運動です。アメリカでは黒人差別への抗議として大きく広がりました。"
+      }
+    },
+    "参政権": {
+      "reading": "さんせいけん",
+      "ruby": {
+        "base": "参政権",
+        "reading": "さんせいけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "参政権",
+        "body": "政治に参加する権利です。選挙で投票する権利や代表に立候補する権利を含み、女性や被差別集団の運動で重要な目標になりました。"
+      }
+    },
+    "女性参政権運動": {
+      "reading": "じょせいさんせいけんうんどう",
+      "ruby": {
+        "base": "女性参政権運動",
+        "reading": "じょせいさんせいけんうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "女性参政権運動",
+        "body": "女性にも選挙権や政治参加の権利を認めるよう求めた運動です。19世紀から20世紀にかけて各地で広がりました。"
+      }
+    },
+    "反植民地運動": {
+      "reading": "はんしょくみんちうんどう",
+      "ruby": {
+        "base": "反植民地運動",
+        "reading": "はんしょくみんちうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "気候変動対策運動": {
+      "reading": "きこうへんどうたいさくうんどう",
+      "ruby": {
+        "base": "気候変動対策運動",
+        "reading": "きこうへんどうたいさくうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "世界恐慌": {
+      "reading": "せかいきょうこう",
+      "ruby": {
+        "base": "世界恐慌",
+        "reading": "せかいきょうこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "世界恐慌",
+        "body": "世界恐慌で失業と貧困が広がる。世界恐慌では経済が大きく落ち込み、失業や貧困が広がりました。人々の不安は政治を不安定にし、独裁や戦争へ向かう背景の一つになりました。経済の変動は国境を越えて広がり、働く人々の暮らしと政治を大きく揺らしました。豊かさの増加と格差の拡大を合わせて見る必要があります。この変…"
+      }
+    },
+    "地球規模": {
+      "reading": "ちきゅうきぼ",
+      "ruby": {
+        "base": "地球規模",
+        "reading": "ちきゅうきぼ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "大英帝国": {
+      "reading": "だいえいていこく",
+      "ruby": {
+        "base": "大英帝国",
+        "reading": "だいえいていこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "大日本帝国戦時期": {
+      "reading": "だいにほんていこくせんじき",
+      "ruby": {
+        "base": "大日本帝国戦時期",
+        "reading": "だいにほんていこくせんじき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "十六大国": {
+      "reading": "じゅうろくだいこく",
+      "ruby": {
+        "base": "十六大国",
+        "reading": "じゅうろくだいこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "朝鮮三国時代": {
+      "reading": "ちょうせんさんごくじだい",
+      "ruby": {
+        "base": "朝鮮三国時代",
+        "reading": "ちょうせんさんごくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "朝鮮三国時代",
+        "body": "高句麗・百済・新羅が競った時代。高句麗・百済・新羅が朝鮮半島と周辺地域で競い合った時代です。仏教、漢字文化、外交が広がり、日本や中国との交流にも影響しました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担を与えました。この変化は…"
+      }
+    },
+    "港市": {
+      "reading": "こうし",
+      "ruby": {
+        "base": "港市",
+        "reading": "こうし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "国際機関": {
+      "reading": "こくさいきかん",
+      "ruby": {
+        "base": "国際機関",
+        "reading": "こくさいきかん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "中華人民共和国": {
+      "reading": "ちゅうかじんみんきょうわこく",
+      "ruby": {
+        "base": "中華人民共和国",
+        "reading": "ちゅうかじんみんきょうわこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "蜀": {
+      "reading": "しょく",
+      "ruby": {
+        "base": "蜀",
+        "reading": "しょく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "呉": {
+      "reading": "ご",
+      "ruby": {
+        "base": "呉",
+        "reading": "ご",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "民族移動": {
+      "reading": "みんぞくいどう",
+      "ruby": {
+        "base": "民族移動",
+        "reading": "みんぞくいどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "三十年戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "三十年戦争",
+        "body": "宗教と国益が重なった欧州戦争。神聖ローマ帝国を中心に、宗教対立と大国の利害が重なって広がった戦争です。多くの地域が荒れ、戦後の国際関係の考え方にも影響しました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られました。一つの出来事…"
+      }
+    },
+    "宗教改革": {
+      "reading": "しゅうきょうかいかく",
+      "ruby": {
+        "base": "宗教改革",
+        "reading": "しゅうきょうかいかく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "宗教改革",
+        "body": "16世紀ヨーロッパで、カトリック教会のあり方を批判し、新しい教会や信仰の流れが生まれた動きです。政治や戦争にも大きく影響しました。"
+      }
+    },
+    "夏王朝": {
+      "reading": "かおうちょう",
+      "ruby": {
+        "base": "夏王朝",
+        "reading": "かおうちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "周王朝": {
+      "reading": "しゅうおうちょう",
+      "ruby": {
+        "base": "周王朝",
+        "reading": "しゅうおうちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "三国時代": {
+      "reading": "さんごくじだい",
+      "ruby": {
+        "base": "三国時代",
+        "reading": "さんごくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom",
+        "study"
+      ],
+      "tooltip": {
+        "title": "三国時代",
+        "body": "魏・蜀・呉が並び立った時代。後漢のあと、魏・蜀・呉が中国を分けて支配した時代です。各地の軍事勢力と豪族が力を持ち、やがて晋による再統一へ向かいました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担を与えました。この変化は政治や経…"
+      }
+    },
+    "奈良時代": {
+      "reading": "ならじだい",
+      "ruby": {
+        "base": "奈良時代",
+        "reading": "ならじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "大韓帝国": {
+      "reading": "だいかんていこく",
+      "ruby": {
+        "base": "大韓帝国",
+        "reading": "だいかんていこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "中華民国初期": {
+      "reading": "ちゅうかみんこくしょき",
+      "ruby": {
+        "base": "中華民国初期",
+        "reading": "ちゅうかみんこくしょき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "中国国民政府": {
+      "reading": "ちゅうごくこくみんせいふ",
+      "ruby": {
+        "base": "中国国民政府",
+        "reading": "ちゅうごくこくみんせいふ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "満州国": {
+      "reading": "まんしゅうこく",
+      "ruby": {
+        "base": "満州国",
+        "reading": "まんしゅうこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "明治日本": {
+      "reading": "めいじにほん",
+      "ruby": {
+        "base": "明治日本",
+        "reading": "めいじにほん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "江戸幕府": {
+      "reading": "えどばくふ",
+      "ruby": {
+        "base": "江戸幕府",
+        "reading": "えどばくふ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "夏": {
+      "reading": "か",
+      "ruby": {
+        "base": "夏",
+        "reading": "か",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "殷": {
+      "reading": "いん",
+      "ruby": {
+        "base": "殷",
+        "reading": "いん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "周": {
+      "reading": "しゅう",
+      "ruby": {
+        "base": "周",
+        "reading": "しゅう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "秦": {
+      "reading": "しん",
+      "ruby": {
+        "base": "秦",
+        "reading": "しん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "漢": {
+      "reading": "かん",
+      "ruby": {
+        "base": "漢",
+        "reading": "かん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "楚": {
+      "reading": "そ",
+      "ruby": {
+        "base": "楚",
+        "reading": "そ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "魏": {
+      "reading": "ぎ",
+      "ruby": {
+        "base": "魏",
+        "reading": "ぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom",
+        "study"
+      ]
+    },
+    "晋": {
+      "reading": "しん",
+      "ruby": {
+        "base": "晋",
+        "reading": "しん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "隋": {
+      "reading": "ずい",
+      "ruby": {
+        "base": "隋",
+        "reading": "ずい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "唐": {
+      "reading": "とう",
+      "ruby": {
+        "base": "唐",
+        "reading": "とう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom",
+        "study"
+      ]
+    },
+    "宋": {
+      "reading": "そう",
+      "ruby": {
+        "base": "宋",
+        "reading": "そう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom",
+        "study"
+      ]
+    },
+    "元": {
+      "reading": "げん",
+      "ruby": {
+        "base": "元",
+        "reading": "げん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "明": {
+      "reading": "みん",
+      "ruby": {
+        "base": "明",
+        "reading": "みん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "清": {
+      "reading": "しん",
+      "ruby": {
+        "base": "清",
+        "reading": "しん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "金": {
+      "reading": "きん",
+      "ruby": {
+        "base": "金",
+        "reading": "きん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "遼": {
+      "reading": "りょう",
+      "ruby": {
+        "base": "遼",
+        "reading": "りょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "一休宗純": {
+      "reading": "一休宗純",
+      "ruby": {
+        "base": "一休宗純",
+        "reading": "一休宗純",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "世宗": {
+      "reading": "世宗",
+      "ruby": {
+        "base": "世宗",
+        "reading": "世宗",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "伊藤博文": {
+      "reading": "伊藤博文",
+      "ruby": {
+        "base": "伊藤博文",
+        "reading": "伊藤博文",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "光緒帝": {
+      "reading": "光緒帝",
+      "ruby": {
+        "base": "光緒帝",
+        "reading": "光緒帝",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "則天武后": {
+      "reading": "そくてんぶこう",
+      "ruby": {
+        "base": "則天武后",
+        "reading": "そくてんぶこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "劉備": {
+      "reading": "劉備",
+      "ruby": {
+        "base": "劉備",
+        "reading": "劉備",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "劉邦": {
+      "reading": "劉邦",
+      "ruby": {
+        "base": "劉邦",
+        "reading": "劉邦",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "北条時宗": {
+      "reading": "北条時宗",
+      "ruby": {
+        "base": "北条時宗",
+        "reading": "北条時宗",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "卑弥呼": {
+      "reading": "卑弥呼",
+      "ruby": {
+        "base": "卑弥呼",
+        "reading": "卑弥呼",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "司馬光": {
+      "reading": "しばこう",
+      "ruby": {
+        "base": "司馬光",
+        "reading": "しばこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "司馬遷": {
+      "reading": "司馬遷",
+      "ruby": {
+        "base": "司馬遷",
+        "reading": "司馬遷",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "呂后": {
+      "reading": "呂后",
+      "ruby": {
+        "base": "呂后",
+        "reading": "呂后",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "周恩来": {
+      "reading": "周恩来",
+      "ruby": {
+        "base": "周恩来",
+        "reading": "周恩来",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "夏目漱石": {
+      "reading": "夏目漱石",
+      "ruby": {
+        "base": "夏目漱石",
+        "reading": "夏目漱石",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "大久保利通": {
+      "reading": "大久保利通",
+      "ruby": {
+        "base": "大久保利通",
+        "reading": "大久保利通",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "大坂なおみ": {
+      "reading": "大坂なおみ",
+      "ruby": {
+        "base": "大坂なおみ",
+        "reading": "大坂なおみ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "大隅良典": {
+      "reading": "大隅良典",
+      "ruby": {
+        "base": "大隅良典",
+        "reading": "大隅良典",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "太宗": {
+      "reading": "たいそう",
+      "ruby": {
+        "base": "太宗",
+        "reading": "たいそう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "孟子": {
+      "reading": "もうし",
+      "ruby": {
+        "base": "孟子",
+        "reading": "もうし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "安禄山": {
+      "reading": "あんろくざん",
+      "ruby": {
+        "base": "安禄山",
+        "reading": "あんろくざん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "宋慶齢": {
+      "reading": "宋慶齢",
+      "ruby": {
+        "base": "宋慶齢",
+        "reading": "宋慶齢",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "宮崎駿": {
+      "reading": "宮崎駿",
+      "ruby": {
+        "base": "宮崎駿",
+        "reading": "宮崎駿",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "山中伸弥": {
+      "reading": "山中伸弥",
+      "ruby": {
+        "base": "山中伸弥",
+        "reading": "山中伸弥",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "山本五十六": {
+      "reading": "やまもといそろく",
+      "ruby": {
+        "base": "山本五十六",
+        "reading": "やまもといそろく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "山田長政": {
+      "reading": "山田長政",
+      "ruby": {
+        "base": "山田長政",
+        "reading": "山田長政",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "岳飛": {
+      "reading": "がくひ",
+      "ruby": {
+        "base": "岳飛",
+        "reading": "がくひ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "康有為": {
+      "reading": "康有為",
+      "ruby": {
+        "base": "康有為",
+        "reading": "康有為",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "張衡": {
+      "reading": "張衡",
+      "ruby": {
+        "base": "張衡",
+        "reading": "張衡",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "張騫": {
+      "reading": "張騫",
+      "ruby": {
+        "base": "張騫",
+        "reading": "張騫",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "徳川家康": {
+      "reading": "徳川家康",
+      "ruby": {
+        "base": "徳川家康",
+        "reading": "徳川家康",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "忽必烈": {
+      "reading": "ふびらい",
+      "ruby": {
+        "base": "忽必烈",
+        "reading": "ふびらい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "慧遠": {
+      "reading": "えおん",
+      "ruby": {
+        "base": "慧遠",
+        "reading": "えおん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "手塚治虫": {
+      "reading": "手塚治虫",
+      "ruby": {
+        "base": "手塚治虫",
+        "reading": "手塚治虫",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "推古天皇": {
+      "reading": "推古天皇",
+      "ruby": {
+        "base": "推古天皇",
+        "reading": "推古天皇",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "支倉常長": {
+      "reading": "支倉常長",
+      "ruby": {
+        "base": "支倉常長",
+        "reading": "支倉常長",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "新羅の善徳女王": {
+      "reading": "新羅の善徳女王",
+      "ruby": {
+        "base": "新羅の善徳女王",
+        "reading": "新羅の善徳女王",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "昭和天皇": {
+      "reading": "昭和天皇",
+      "ruby": {
+        "base": "昭和天皇",
+        "reading": "昭和天皇",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "曹操": {
+      "reading": "曹操",
+      "ruby": {
+        "base": "曹操",
+        "reading": "曹操",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "最澄": {
+      "reading": "最澄",
+      "ruby": {
+        "base": "最澄",
+        "reading": "最澄",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "朝永振一郎": {
+      "reading": "朝永振一郎",
+      "ruby": {
+        "base": "朝永振一郎",
+        "reading": "朝永振一郎",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "木戸孝允": {
+      "reading": "木戸孝允",
+      "ruby": {
+        "base": "木戸孝允",
+        "reading": "木戸孝允",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "本庶佑": {
+      "reading": "本庶佑",
+      "ruby": {
+        "base": "本庶佑",
+        "reading": "本庶佑",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "朱熹": {
+      "reading": "しゅき",
+      "ruby": {
+        "base": "朱熹",
+        "reading": "しゅき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "杉原千畝": {
+      "reading": "杉原千畝",
+      "ruby": {
+        "base": "杉原千畝",
+        "reading": "杉原千畝",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "李成桂": {
+      "reading": "李成桂",
+      "ruby": {
+        "base": "李成桂",
+        "reading": "李成桂",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "李承晩": {
+      "reading": "李承晩",
+      "ruby": {
+        "base": "李承晩",
+        "reading": "李承晩",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "李斯": {
+      "reading": "李斯",
+      "ruby": {
+        "base": "李斯",
+        "reading": "李斯",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "李白": {
+      "reading": "りはく",
+      "ruby": {
+        "base": "李白",
+        "reading": "りはく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "杜甫": {
+      "reading": "とほ",
+      "ruby": {
+        "base": "杜甫",
+        "reading": "とほ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "東条英機": {
+      "reading": "とうじょうひでき",
+      "ruby": {
+        "base": "東条英機",
+        "reading": "とうじょうひでき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "林則徐": {
+      "reading": "林則徐",
+      "ruby": {
+        "base": "林則徐",
+        "reading": "林則徐",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "柳宗元": {
+      "reading": "りゅうそうげん",
+      "ruby": {
+        "base": "柳宗元",
+        "reading": "りゅうそうげん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "梁啓超": {
+      "reading": "梁啓超",
+      "ruby": {
+        "base": "梁啓超",
+        "reading": "梁啓超",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "楊貴妃": {
+      "reading": "ようきひ",
+      "ruby": {
+        "base": "楊貴妃",
+        "reading": "ようきひ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "武帝": {
+      "reading": "武帝",
+      "ruby": {
+        "base": "武帝",
+        "reading": "武帝",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "毛沢東": {
+      "reading": "毛沢東",
+      "ruby": {
+        "base": "毛沢東",
+        "reading": "毛沢東",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "法顕": {
+      "reading": "法顕",
+      "ruby": {
+        "base": "法顕",
+        "reading": "法顕",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "渋沢栄一": {
+      "reading": "渋沢栄一",
+      "ruby": {
+        "base": "渋沢栄一",
+        "reading": "渋沢栄一",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "湯川秀樹": {
+      "reading": "湯川秀樹",
+      "ruby": {
+        "base": "湯川秀樹",
+        "reading": "湯川秀樹",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "溥儀": {
+      "reading": "溥儀",
+      "ruby": {
+        "base": "溥儀",
+        "reading": "溥儀",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "玄宗": {
+      "reading": "げんそう",
+      "ruby": {
+        "base": "玄宗",
+        "reading": "げんそう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "王安石": {
+      "reading": "おうあんせき",
+      "ruby": {
+        "base": "王安石",
+        "reading": "おうあんせき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "王建": {
+      "reading": "王建",
+      "ruby": {
+        "base": "王建",
+        "reading": "王建",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "王莽": {
+      "reading": "王莽",
+      "ruby": {
+        "base": "王莽",
+        "reading": "王莽",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "班固": {
+      "reading": "班固",
+      "ruby": {
+        "base": "班固",
+        "reading": "班固",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "班昭": {
+      "reading": "班昭",
+      "ruby": {
+        "base": "班昭",
+        "reading": "班昭",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "白居易": {
+      "reading": "はくきょい",
+      "ruby": {
+        "base": "白居易",
+        "reading": "はくきょい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "石原莞爾": {
+      "reading": "石原莞爾",
+      "ruby": {
+        "base": "石原莞爾",
+        "reading": "石原莞爾",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "福沢諭吉": {
+      "reading": "福沢諭吉",
+      "ruby": {
+        "base": "福沢諭吉",
+        "reading": "福沢諭吉",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "空海": {
+      "reading": "空海",
+      "ruby": {
+        "base": "空海",
+        "reading": "空海",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "織田信長": {
+      "reading": "織田信長",
+      "ruby": {
+        "base": "織田信長",
+        "reading": "織田信長",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "義浄": {
+      "reading": "義浄",
+      "ruby": {
+        "base": "義浄",
+        "reading": "義浄",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "老子": {
+      "reading": "ろうし",
+      "ruby": {
+        "base": "老子",
+        "reading": "ろうし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "聖徳太子": {
+      "reading": "聖徳太子",
+      "ruby": {
+        "base": "聖徳太子",
+        "reading": "聖徳太子",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "荀子": {
+      "reading": "じゅんし",
+      "ruby": {
+        "base": "荀子",
+        "reading": "じゅんし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "荘子": {
+      "reading": "そうし",
+      "ruby": {
+        "base": "荘子",
+        "reading": "そうし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "華佗": {
+      "reading": "華佗",
+      "ruby": {
+        "base": "華佗",
+        "reading": "華佗",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "蒋介石": {
+      "reading": "蒋介石",
+      "ruby": {
+        "base": "蒋介石",
+        "reading": "蒋介石",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "蔡倫": {
+      "reading": "蔡倫",
+      "ruby": {
+        "base": "蔡倫",
+        "reading": "蔡倫",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "蘇軾": {
+      "reading": "そしょく",
+      "ruby": {
+        "base": "蘇軾",
+        "reading": "そしょく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "袁世凱": {
+      "reading": "袁世凱",
+      "ruby": {
+        "base": "袁世凱",
+        "reading": "袁世凱",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "西太后": {
+      "reading": "西太后",
+      "ruby": {
+        "base": "西太后",
+        "reading": "西太后",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "西郷隆盛": {
+      "reading": "西郷隆盛",
+      "ruby": {
+        "base": "西郷隆盛",
+        "reading": "西郷隆盛",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "諸葛亮": {
+      "reading": "諸葛亮",
+      "ruby": {
+        "base": "諸葛亮",
+        "reading": "諸葛亮",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "豊臣秀吉": {
+      "reading": "豊臣秀吉",
+      "ruby": {
+        "base": "豊臣秀吉",
+        "reading": "豊臣秀吉",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "足利義満": {
+      "reading": "足利義満",
+      "ruby": {
+        "base": "足利義満",
+        "reading": "足利義満",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "近衛文麿": {
+      "reading": "近衛文麿",
+      "ruby": {
+        "base": "近衛文麿",
+        "reading": "近衛文麿",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "達磨": {
+      "reading": "だるま",
+      "ruby": {
+        "base": "達磨",
+        "reading": "だるま",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "鄭成功": {
+      "reading": "鄭成功",
+      "ruby": {
+        "base": "鄭成功",
+        "reading": "鄭成功",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "野口英世": {
+      "reading": "野口英世",
+      "ruby": {
+        "base": "野口英世",
+        "reading": "野口英世",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "金日成": {
+      "reading": "金日成",
+      "ruby": {
+        "base": "金日成",
+        "reading": "金日成",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "鑑真": {
+      "reading": "鑑真",
+      "ruby": {
+        "base": "鑑真",
+        "reading": "鑑真",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "韓愈": {
+      "reading": "かんゆ",
+      "ruby": {
+        "base": "韓愈",
+        "reading": "かんゆ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "韓非": {
+      "reading": "かんぴ",
+      "ruby": {
+        "base": "韓非",
+        "reading": "かんぴ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "項羽": {
+      "reading": "項羽",
+      "ruby": {
+        "base": "項羽",
+        "reading": "項羽",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "魯迅": {
+      "reading": "魯迅",
+      "ruby": {
+        "base": "魯迅",
+        "reading": "魯迅",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "鳩摩羅什": {
+      "reading": "くまらじゅう",
+      "ruby": {
+        "base": "鳩摩羅什",
+        "reading": "くまらじゅう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "黒澤明": {
+      "reading": "黒澤明",
+      "ruby": {
+        "base": "黒澤明",
+        "reading": "黒澤明",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "孔子": {
+      "reading": "こうし",
+      "scopes": [
+        "person"
+      ],
+      "ruby": {
+        "base": "孔子",
+        "reading": "こうし",
+        "mode": "whole-term"
+      }
+    },
+    "始皇帝": {
+      "reading": "しこうてい",
+      "scopes": [
+        "person"
+      ],
+      "ruby": {
+        "base": "始皇帝",
+        "reading": "しこうてい",
+        "mode": "whole-term"
+      }
+    },
+    "玄奘": {
+      "reading": "げんじょう",
+      "scopes": [
+        "person"
+      ],
+      "ruby": {
+        "base": "玄奘",
+        "reading": "げんじょう",
+        "mode": "whole-term"
+      }
+    },
+    "鄭和": {
+      "reading": "ていわ",
+      "scopes": [
+        "person"
+      ],
+      "ruby": {
+        "base": "鄭和",
+        "reading": "ていわ",
+        "mode": "whole-term"
+      }
+    },
+    "孫文": {
+      "reading": "そんぶん",
+      "scopes": [
+        "person"
+      ],
+      "ruby": {
+        "base": "孫文",
+        "reading": "そんぶん",
+        "mode": "whole-term"
+      }
+    },
+    "釈迦": {
+      "reading": "しゃか",
+      "scopes": [
+        "person"
+      ],
+      "ruby": {
+        "base": "釈迦",
+        "reading": "しゃか",
+        "mode": "whole-term"
+      }
+    },
+    "鄧小平": {
+      "reading": "とうしょうへい",
+      "scopes": [
+        "person"
+      ],
+      "ruby": {
+        "base": "鄧小平",
+        "reading": "とうしょうへい",
+        "mode": "whole-term"
+      }
+    },
+    "ローマ法": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ローマ法",
+        "body": "後世の法体系に影響した法律。ローマで発達した法律の考え方です。財産や契約、裁判のしくみは、後のヨーロッパの法律にも大きな影響を与えました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方に受け継がれました。この変化は政治や経済…"
+      }
+    },
+    "キリスト教": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "キリスト教",
+        "body": "西アジアから世界へ広がった宗教。西アジアで始まり、ローマ帝国やヨーロッパ、世界各地へ広がりました。教会は祈り、学び、福祉の場にもなりました。信仰は個人の心だけでなく、家族の暮らし、教育、法律、共同体の助け合いにも関わりました。異なる宗教との共存や対立も歴史を動かしました。この変化は政治や経済だけで…"
+      }
+    },
+    "イスラム教": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "イスラム教",
+        "body": "7世紀のアラビアで成立した宗教。7世紀のアラビア半島で始まりました。商人や学者の移動とともに広がり、法律、学問、都市文化にも影響しました。広がる過程で各地の言葉や習慣と結びつき、寺院や礼拝所、学問、芸術にも多様な形を生みました。政治権力との関係も時代や地域によって異なります。一つの出来事だけで成立…"
+      }
+    },
+    "イスラム世界": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "イスラム世界",
+        "body": "信仰と交易で結ばれた広域世界。西アジアから北アフリカ、中央アジア、南アジアなどに広がった地域のつながりです。商人、学者、都市、モスクが知識と品物を運びました。信仰は個人の心だけでなく、家族の暮らし、教育、法律、共同体の助け合いにも関わりました。異なる宗教との共存や対立も歴史を動かしました。この変化…"
+      }
+    },
+    "シルクロード": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "シルクロード",
+        "body": "ユーラシアを結んだ交易網。東アジアから中央アジア、西アジア、ヨーロッパを結んだ道です。絹や馬だけでなく、宗教、技術、病気も移動しました。商人や船乗り、使節、巡礼者の移動によって、品物とともに技術、宗教、言語、病気も伝わりました。港や宿場、オアシスは交流の拠点として栄えました。一つの出来事だけで成立…"
+      }
+    },
+    "モンゴル帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "モンゴル帝国",
+        "body": "ユーラシアの広域を支配した帝国。13世紀に広い地域を支配した帝国です。征服で大きな被害を出しましたが、交易や使節の移動も活発にしました。一つの出来事だけで成立したのではなく、以前からの社会変化と周辺地域との関係が重なって進みました。その後の時代へのつながりも確認する必要があります。この変化は政治や…"
+      }
+    },
+    "産業革命": {
+      "reading": "さんぎょうかくめい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "産業革命",
+        "body": "機械と工場が社会を変えた変革。蒸気機関や機械で大量生産が進みました。便利な商品や鉄道を生みましたが、長時間労働や都市の貧困も起こりました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方に受け継がれました。この変化は政治や経済…"
+      },
+      "ruby": {
+        "base": "産業革命",
+        "reading": "さんぎょうかくめい",
+        "mode": "whole-term"
+      }
+    },
+    "市民革命": {
+      "reading": "しみんかくめい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "市民革命",
+        "body": "身分制と専制を変えた政治革命。特権や古い支配に反対し、権利や代表を求めた革命です。自由や平等の考えを広げましたが、すべての人がすぐ平等になったわけではありません。この動きは、誰が政治に参加し、法律や税をどのように決めるのかという問題を社会に突きつけました。掲げられた権利がすべての人に及ぶまでには、…"
+      },
+      "ruby": {
+        "base": "市民革命",
+        "reading": "しみんかくめい",
+        "mode": "whole-term"
+      }
+    },
+    "第一次世界大戦": {
+      "reading": "だいいちじせかいたいせん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "第一次世界大戦",
+        "body": "1914年から1918年にかけて起きた世界規模の戦争です。総力戦となり、帝国の崩壊や国際連盟の成立につながりました。"
+      },
+      "ruby": {
+        "base": "第一次世界大戦",
+        "reading": "だいいちじせかいたいせん",
+        "mode": "whole-term"
+      }
+    },
+    "第二次世界大戦": {
+      "reading": "だいにじせかいたいせん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "第二次世界大戦",
+        "body": "1939年から1945年にかけて起きた世界規模の戦争です。多くの民間人が被害を受け、戦後の国際連合や冷戦の始まりにつながりました。"
+      },
+      "ruby": {
+        "base": "第二次世界大戦",
+        "reading": "だいにじせかいたいせん",
+        "mode": "whole-term"
+      }
+    },
+    "ホロコースト": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ホロコースト",
+        "body": "ナチス政権による組織的大量虐殺。ナチス・ドイツがユダヤ人をはじめ多くの人々を迫害し殺害した出来事です。差別と暴力を許さない学びにつながります。支配された人々は土地、自由、文化、命を奪われ、社会の仕組みそのものを変えられました。同時に、逃亡、抵抗、自治、独立を求める動きも続きました。一つの出来事だけ…"
+      }
+    },
+    "冷戦": {
+      "reading": "れいせん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "冷戦",
+        "body": "米ソ両陣営が世界で対立した時代。第二次世界大戦後、アメリカとソ連を中心に世界が分かれて対立しました。核兵器の不安と、各地の戦争や競争を生みました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方に受け継がれました。この変化は政…"
+      },
+      "ruby": {
+        "base": "冷戦",
+        "reading": "れいせん",
+        "mode": "whole-term"
+      }
+    },
+    "アパルトヘイト": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アパルトヘイト",
+        "body": "南アフリカで行われた人種隔離政策です。白人支配を維持するために、住む場所や移動、教育、政治参加を人種で厳しく制限しました。"
+      }
+    },
+    "国際連合": {
+      "reading": "こくさいれんごう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "国際連合",
+        "body": "第二次世界大戦後に作られた国際機関です。戦争の防止、人権、開発、国際協力を進めるため、多くの国が参加しています。"
+      },
+      "ruby": {
+        "base": "国際連合",
+        "reading": "こくさいれんごう",
+        "mode": "whole-term"
+      }
+    },
+    "AI": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "AI",
+        "body": "学習・推論を行う人工知能技術。大量の情報から答えを探したり、文章や画像を作ったりする技術です。便利さと同時に、使い方や公平さを考える必要があります。検索や投稿を支える仕組みは、学習、仕事、商業、政治参加を変えました。表示される情報が企業の設計や利用履歴に左右される点にも注意が必要です。この変化は政…"
+      }
+    },
+    "西アジアの農業と牧畜": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "西アジアの農業と牧畜",
+        "body": "農業と牧畜が始まり、定住する村が生まれる。西アジアでは麦などを育て、ヤギやヒツジを飼うくらしが広がりました。食べ物を計画して得られるようになり、人々は同じ場所に長く住む村を作りました。安定して食料を得やすくなると、人口が増え、住居や倉庫を備えた集落が発達しました。ただし天候不順や収穫の差は、飢えや…"
+      }
+    },
+    "東アジアの米と雑穀の農耕": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "東アジアの米と雑穀の農耕",
+        "body": "米や雑穀を育てる暮らしが広がる。東アジアでは川や湿地、黄土の土地を利用して、米や雑穀を育てるくらしが広がりました。地域ごとの土器や祭りも発達し、のちの王朝社会の土台になりました。狩りや採集だけに頼らない生活が広がり、季節に合わせて種まきや収穫を行う知識が受け継がれました。土地や水を共同で管理する必…"
+      }
+    },
+    "南北アメリカの初期農業": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "南北アメリカの初期農業",
+        "body": "トウモロコシなどを育てる農業が始まる。南北アメリカではトウモロコシ、いも、豆などを育てる農業が各地で始まりました。自然環境に合わせた栽培が進み、山地や海岸に多様な集落が生まれました。安定して食料を得やすくなると、人口が増え、住居や倉庫を備えた集落が発達しました。ただし天候不順や収穫の差は、飢えや財…"
+      }
+    },
+    "メソポタミアの都市と文字": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "メソポタミアの都市と文字",
+        "body": "メソポタミアで都市と文字が生まれる。チグリス川とユーフラテス川の流域では、農業と交易を支える都市が発達しました。税や品物を記録するために文字が使われ、神殿や王が人々をまとめました。都市には人と物が集まり、建築、暦、計算、宗教儀礼が発達しました。残された遺跡や文字は、当時の政治と暮らしを知る大切な手…"
+      }
+    },
+    "ナイル川と古代エジプト": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ナイル川と古代エジプト",
+        "body": "ナイル川流域で古代エジプトが栄える。ナイル川の水と肥えた土を利用して、古代エジプトでは農業と王の政治が発達しました。ピラミッドや神殿、文字、暦は、社会をまとめる力を示しています。食料や物資を集めて配るため、役人、税、記録、法律などの仕組みが整えられました。その一方で、王や神官、職人、農民などの立場…"
+      }
+    },
+    "インダス文明の計画都市": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インダス文明の計画都市",
+        "body": "インダス文明の計画的な都市が発展する。インダス川流域では、道路や排水施設を備えた計画的な都市が発達しました。遠くの地域との交易も行われ、人々は水と都市のしくみを活用して暮らしました。都市には人と物が集まり、建築、暦、計算、宗教儀礼が発達しました。残された遺跡や文字は、当時の政治と暮らしを知る大切な…"
+      }
+    },
+    "黄河流域の王朝の誕生": {
+      "reading": "こうがりゅういきのおうちょうのたんじょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "黄河流域の王朝の誕生",
+        "body": "黄河流域で中国の王朝が生まれる。黄河流域では農業、青銅器、文字、祭りを背景に王朝が生まれました。王や祭りを支える人々が力を持ち、中国の国家の土台が作られました。食料や物資を集めて配るため、役人、税、記録、法律などの仕組みが整えられました。その一方で、王や神官、職人、農民などの立場の違いも大きくなり…"
+      },
+      "ruby": {
+        "base": "黄河流域の王朝の誕生",
+        "reading": "こうがりゅういきのおうちょうのたんじょう",
+        "mode": "whole-term"
+      }
+    },
+    "ペルシャ帝国の多民族支配": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ペルシャ帝国の多民族支配",
+        "body": "ペルシャ帝国が多くの民族を治める。ペルシャ帝国は広い地域を道路や役人のしくみで結び、多くの民族や宗教を抱えました。強い王の支配だけでなく、地域ごとの文化を利用して国を治めました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方…"
+      }
+    },
+    "ギリシャの市民政治": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ギリシャの市民政治",
+        "body": "ギリシャで市民による政治が始まる。ギリシャの都市国家では、市民が政治に参加するしくみが生まれました。ただし参加できた人は限られ、女性や奴隷、外国人は政治から外されることが多くありました。この動きは、誰が政治に参加し、法律や税をどのように決めるのかという問題を社会に突きつけました。掲げられた権利がす…"
+      }
+    },
+    "ローマ帝国の地中海支配": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ローマ帝国の地中海支配",
+        "body": "ローマ帝国が地中海世界を支配する。ローマ帝国は道路、軍隊、法律、都市を使って地中海世界を結びました。平和と交易が広がる一方、征服された人々や奴隷の労働にも支えられていました。一つの出来事だけで成立したのではなく、以前からの社会変化と周辺地域との関係が重なって進みました。その後の時代へのつながりも確…"
+      }
+    },
+    "アショーカ王と仏教保護": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アショーカ王と仏教保護",
+        "body": "アショーカ王がインドを治め、仏教を保護する。マウリヤ朝のアショーカ王は広い地域を治め、戦いの反省から仏教を保護しました。石柱に教えを刻み、政治と宗教を結びつけて人々に伝えました。信仰は個人の心だけでなく、家族の暮らし、教育、法律、共同体の助け合いにも関わりました。異なる宗教との共存や対立も歴史を動…"
+      }
+    },
+    "インド社会の仏教とヒンドゥー教": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インド社会の仏教とヒンドゥー教",
+        "body": "仏教とヒンドゥー教がインド社会に広がる。南アジアでは仏教とヒンドゥー教が人々の考え方やくらしに影響しました。寺院、学問、物語、祭りを通して、地域ごとに多様な文化が育ちました。広がる過程で各地の言葉や習慣と結びつき、寺院や礼拝所、学問、芸術にも多様な形を生みました。政治権力との関係も時代や地域によっ…"
+      }
+    },
+    "儒教と中国政治": {
+      "reading": "じゅきょうとちゅうごくせいじ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "儒教と中国政治",
+        "body": "儒教が中国の政治や学びに影響する。儒教は家族や社会の秩序、学び、役人の考え方に大きな影響を与えました。中国の政治制度だけでなく、朝鮮半島や日本の学問にも広がりました。信仰は個人の心だけでなく、家族の暮らし、教育、法律、共同体の助け合いにも関わりました。異なる宗教との共存や対立も歴史を動かしました。…"
+      },
+      "ruby": {
+        "base": "儒教と中国政治",
+        "reading": "じゅきょうとちゅうごくせいじ",
+        "mode": "whole-term"
+      }
+    },
+    "キリスト教の公認と国教化": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "キリスト教の公認と国教化",
+        "body": "キリスト教が広がり、国の宗教となる。キリスト教はローマ帝国で迫害を受けながらも広がり、やがて公認され国の宗教になりました。教会は祈りだけでなく、学びや助け合いの場にもなりました。広がる過程で各地の言葉や習慣と結びつき、寺院や礼拝所、学問、芸術にも多様な形を生みました。政治権力との関係も時代や地域に…"
+      }
+    },
+    "イスラム教の成立と広がり": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "イスラム教の成立と広がり",
+        "body": "イスラム教が成立し、各地へ広がる。7世紀のアラビア半島でイスラム教が成立しました。商人や軍事勢力の動きとともに西アジア、北アフリカ、中央アジアへ広がりました。信仰は個人の心だけでなく、家族の暮らし、教育、法律、共同体の助け合いにも関わりました。異なる宗教との共存や対立も歴史を動かしました。この変化…"
+      }
+    },
+    "仏教の東アジア伝来": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "仏教の東アジア伝来",
+        "body": "仏教が中国から朝鮮半島・日本へ伝わる。仏教はインドから中央アジア、中国へ伝わり、さらに朝鮮半島や日本へ広がりました。仏像、寺院、文字、学問も一緒に伝わり、政治や文化に影響しました。広がる過程で各地の言葉や習慣と結びつき、寺院や礼拝所、学問、芸術にも多様な形を生みました。政治権力との関係も時代や地域…"
+      }
+    },
+    "唐と長安の国際文化": {
+      "reading": "とうとちょうあんのこくさいぶんか",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "唐と長安の国際文化",
+        "body": "唐が東アジアの大国となり、長安に文化が集まる。唐の都長安には商人、使節、僧、学者が集まりました。制度や文化は朝鮮半島、日本、中央アジアにも影響し、東アジアの交流を深めました。一つの出来事だけで成立したのではなく、以前からの社会変化と周辺地域との関係が重なって進みました。その後の時代へのつながりも確…"
+      },
+      "ruby": {
+        "base": "唐と長安の国際文化",
+        "reading": "とうとちょうあんのこくさいぶんか",
+        "mode": "whole-term"
+      }
+    },
+    "シルクロードの交流": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "シルクロードの交流",
+        "body": "シルクロードで品物・宗教・技術が伝わる。シルクロードでは絹、馬、香料、書物だけでなく、仏教やイスラム教、技術、病気も移動しました。都市やオアシスは人と情報の中継地になりました。商人や船乗り、使節、巡礼者の移動によって、品物とともに技術、宗教、言語、病気も伝わりました。港や宿場、オアシスは交流の拠点…"
+      }
+    },
+    "イスラム世界の商業と学問": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "イスラム世界の商業と学問",
+        "body": "イスラム世界で商業と学問が発展する。イスラム世界では商人のネットワークが広がり、都市で数学、医学、天文学、哲学が発展しました。紙や書物の広がりも、知識を伝える力になりました。信仰は個人の心だけでなく、家族の暮らし、教育、法律、共同体の助け合いにも関わりました。異なる宗教との共存や対立も歴史を動かし…"
+      }
+    },
+    "インド洋交易の広がり": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インド洋交易の広がり",
+        "body": "インド洋交易が広がる。インド洋では季節風を利用して船が行き来し、香辛料、陶磁器、布、金などが動きました。港町には商人や宗教者が集まり、文化も混ざり合いました。商人や船乗り、使節、巡礼者の移動によって、品物とともに技術、宗教、言語、病気も伝わりました。港や宿場、オアシスは交流の拠点として栄えました。…"
+      }
+    },
+    "ヨーロッパ都市と商人の成長": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ヨーロッパ都市と商人の成長",
+        "body": "都市と商人が力を持ち始める。ヨーロッパでは市場や港町が発達し、商人や職人が力を持ち始めました。王や領主だけでなく、都市の自治や組合も社会を動かす力になりました。一つの出来事だけで成立したのではなく、以前からの社会変化と周辺地域との関係が重なって進みました。その後の時代へのつながりも確認する必要があ…"
+      }
+    },
+    "モンゴル帝国と東西交流": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "モンゴル帝国と東西交流",
+        "body": "モンゴル帝国が広い地域を結び、東西交流が進む。モンゴル帝国はユーラシアの広い地域を結びました。征服で大きな被害が出た一方、道や駅伝のしくみにより、商人や使節の移動が活発になりました。この変化は政治や経済だけでなく、人々の仕事、家族、教育、文化にも及びました。地域や立場によって受けた利益と負担が異な…"
+      }
+    },
+    "ポルトガルとスペインの航路開拓": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ポルトガルとスペインの航路開拓",
+        "body": "ポルトガルとスペインが新しい航路を開く。ポルトガルとスペインはアフリカ沿岸や大西洋へ航海を広げました。香辛料や金、交易の利益を求めた動きは、世界の結びつきを大きく変えました。遠距離の移動が盛んになると、離れた地域の需要と生産が結びつきました。一方で、海上支配、植民地化、強制労働へつながる場合もあり…"
+      }
+    },
+    "マゼラン船隊の世界一周": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マゼラン船隊の世界一周",
+        "body": "世界一周の船隊が航海を達成する。船隊は大西洋、太平洋、インド洋を通って世界一周を達成しました。地球の広さを示す出来事であり、海を越えた支配と交易の時代を象徴します。商人や船乗り、使節、巡礼者の移動によって、品物とともに技術、宗教、言語、病気も伝わりました。港や宿場、オアシスは交流の拠点として栄えま…"
+      }
+    },
+    "アステカ・インカの征服": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アステカ・インカの征服",
+        "body": "アステカ・インカがスペインの侵攻で滅びる。スペインの侵攻により、アステカ帝国とインカ帝国は滅びました。病気、武器、同盟関係、支配への不満が重なり、先住民社会に大きな被害を与えました。利益を得た国や集団の側だけでなく、被害を受けた人々の記録から見る必要があります。その影響は格差や国境、人種差別の問題…"
+      }
+    },
+    "香辛料と銀の世界交易": {
+      "reading": "こうしんりょうとぎんのせかいこうえき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "香辛料と銀の世界交易",
+        "body": "香辛料と銀を通じて世界の交易が広がる。香辛料を求める航海と、アメリカ大陸の銀の流通により、アジア、ヨーロッパ、アメリカが強く結びつきました。利益の一方で支配と搾取も広がりました。遠距離の移動が盛んになると、離れた地域の需要と生産が結びつきました。一方で、海上支配、植民地化、強制労働へつながる場合も…"
+      },
+      "ruby": {
+        "base": "香辛料と銀の世界交易",
+        "reading": "こうしんりょうとぎんのせかいこうえき",
+        "mode": "whole-term"
+      }
+    },
+    "イギリス産業革命": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "イギリス産業革命",
+        "body": "産業革命で工場と蒸気機関が広がる。イギリスでは石炭、鉄、機械、蒸気機関を使う工業が発達しました。商品や交通は増えましたが、工場労働や都市の貧困も大きな問題になりました。この動きは、誰が政治に参加し、法律や税をどのように決めるのかという問題を社会に突きつけました。掲げられた権利がすべての人に及ぶまで…"
+      }
+    },
+    "アメリカ独立革命": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アメリカ独立革命",
+        "body": "アメリカ独立革命でアメリカ合衆国が生まれる。北アメリカの植民地はイギリスからの独立を求め、アメリカ合衆国を作りました。自由や代表を求める考えは広がりましたが、先住民や奴隷の問題は残りました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、…"
+      }
+    },
+    "フランス革命": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "フランス革命",
+        "body": "フランス革命で王政と身分社会が大きく揺らぐ。フランス革命では、人々が身分制度や王政に反対し、権利や国民の政治参加を求めました。自由と平等の考えは世界に影響しましたが、混乱や戦争も起こりました。この動きは、誰が政治に参加し、法律や税をどのように決めるのかという問題を社会に突きつけました。掲げられた権…"
+      }
+    },
+    "ラテンアメリカ独立運動": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ラテンアメリカ独立運動",
+        "body": "ラテンアメリカ諸国が独立を進める。中南米ではスペインやポルトガルの支配から独立しようとする動きが広がりました。新しい国づくりが進む一方、社会の不平等は長く残りました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方に受け継がれ…"
+      }
+    },
+    "憲法と議会を求める動き": {
+      "reading": "けんぽうとぎかいをもとめるうごき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "憲法と議会を求める動き",
+        "body": "憲法・議会・国民の権利を求める動きが広がる。ヨーロッパ各地で、憲法、議会、国民の権利を求める動きが広がりました。王や貴族だけでなく、市民や労働者も社会を変える力になりました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方に受…"
+      },
+      "ruby": {
+        "base": "憲法と議会を求める動き",
+        "reading": "けんぽうとぎかいをもとめるうごき",
+        "mode": "whole-term"
+      }
+    },
+    "帝国主義の広がり": {
+      "reading": "ていこくしゅぎのひろがり",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "帝国主義の広がり",
+        "body": "工業化した国々が海外へ進出し、帝国主義が広がる。工業化したヨーロッパ諸国は、資源や市場を求めて海外へ進出しました。鉄道、軍事力、会社の力が支配を広げ、植民地の人々の生活を変えました。支配された人々は土地、自由、文化、命を奪われ、社会の仕組みそのものを変えられました。同時に、逃亡、抵抗、自治、独立を…"
+      },
+      "ruby": {
+        "base": "帝国主義の広がり",
+        "reading": "ていこくしゅぎのひろがり",
+        "mode": "whole-term"
+      }
+    },
+    "アフリカ分割と植民地支配": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アフリカ分割と植民地支配",
+        "body": "ヨーロッパ諸国による植民地支配が広がる。アフリカではヨーロッパ諸国による領土分割と植民地支配が進みました。資源や労働が奪われる一方、各地で抵抗や独立への動きも生まれました。利益を得た国や集団の側だけでなく、被害を受けた人々の記録から見る必要があります。その影響は格差や国境、人種差別の問題として後世…"
+      }
+    },
+    "インドの植民地支配": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インドの植民地支配",
+        "body": "インドがイギリスの植民地支配を受ける。インドはイギリスの支配下で、鉄道や行政制度が整えられる一方、経済や政治を大きく支配されました。人々の抵抗は、のちの独立運動につながります。支配された人々は土地、自由、文化、命を奪われ、社会の仕組みそのものを変えられました。同時に、逃亡、抵抗、自治、独立を求める…"
+      }
+    },
+    "清と日本の近代化への分かれ道": {
+      "reading": "しんとにほんのきんだいかへのわかれみち",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "清と日本の近代化への分かれ道",
+        "body": "清が欧米の進出を受け、日本は近代国家を目指す。東アジアでは清が欧米の進出に苦しみ、日本は明治維新後に近代国家を目指しました。条約、軍事、産業、教育の変化が地域の力関係を変えました。一つの出来事だけで成立したのではなく、以前からの社会変化と周辺地域との関係が重なって進みました。その後の時代へのつなが…"
+      },
+      "ruby": {
+        "base": "清と日本の近代化への分かれ道",
+        "reading": "しんとにほんのきんだいかへのわかれみち",
+        "mode": "whole-term"
+      }
+    },
+    "アメリカの工業化と鉄道": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アメリカの工業化と鉄道",
+        "body": "アメリカ合衆国が工業と鉄道の発達で大国になる。アメリカ合衆国では工業、鉄道、移民、資源開発が進み、大国化しました。その一方で、先住民の土地喪失や労働問題、人種差別も続きました。商人や船乗り、使節、巡礼者の移動によって、品物とともに技術、宗教、言語、病気も伝わりました。港や宿場、オアシスは交流の拠点…"
+      }
+    },
+    "鉄道・汽船・電信の時代": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "鉄道・汽船・電信の時代",
+        "body": "鉄道・汽船・電信が人と品物の移動を速くする。鉄道、汽船、電信は移動と連絡を速くしました。世界は便利につながりましたが、植民地支配や戦争のためにも使われ、技術の使い方が問われました。遠距離の移動が盛んになると、離れた地域の需要と生産が結びつきました。一方で、海上支配、植民地化、強制労働へつながる場合…"
+      }
+    },
+    "第一次世界大戦の拡大": {
+      "reading": "だいいちじせかいたいせんのかくだい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "第一次世界大戦の拡大",
+        "body": "第一次世界大戦で多くの国が戦争に加わる。第一次世界大戦では同盟関係により多くの国が戦争に加わりました。塹壕戦や新兵器で被害が広がり、兵士だけでなく市民や植民地の人々も巻き込まれました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作…"
+      },
+      "ruby": {
+        "base": "第一次世界大戦の拡大",
+        "reading": "だいいちじせかいたいせんのかくだい",
+        "mode": "whole-term"
+      }
+    },
+    "ナチスの独裁と迫害": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ナチスの独裁と迫害",
+        "body": "ナチスが独裁を進め、ユダヤ人などを迫害する。ナチスは独裁を進め、ユダヤ人や障害者、少数者などを迫害しました。差別が国家の暴力になった歴史として、今も人権を考える重要な教訓です。支配された人々は土地、自由、文化、命を奪われ、社会の仕組みそのものを変えられました。同時に、逃亡、抵抗、自治、独立を求める…"
+      }
+    },
+    "東アジア・太平洋の戦争拡大": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "東アジア・太平洋の戦争拡大",
+        "body": "日本・中国・アジア太平洋地域で戦争が広がる。日本、中国、東南アジア、太平洋では戦争が広がり、多くの市民が被害を受けました。植民地支配や資源をめぐる対立も戦争と深く関わりました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担を与え…"
+      }
+    },
+    "第二次世界大戦の世界的被害": {
+      "reading": "だいにじせかいたいせんのせかいてきひがい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "第二次世界大戦の世界的被害",
+        "body": "第二次世界大戦で多くの人が犠牲になる。第二次世界大戦ではヨーロッパ、アジア、太平洋などで戦争が広がり、多くの人が命や家を失いました。戦後、人権と平和を守るしくみが強く求められました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作ら…"
+      },
+      "ruby": {
+        "base": "第二次世界大戦の世界的被害",
+        "reading": "だいにじせかいたいせんのせかいてきひがい",
+        "mode": "whole-term"
+      }
+    },
+    "国際連合の成立": {
+      "reading": "こくさいれんごうのせいりつ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "国際連合の成立",
+        "body": "戦争を繰り返さないため、国際連合が作られる。1945年、戦争を繰り返さないために国際連合が作られました。平和、人権、開発、難民支援などを話し合う国際協力の場になりました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方に受け継…"
+      },
+      "ruby": {
+        "base": "国際連合の成立",
+        "reading": "こくさいれんごうのせいりつ",
+        "mode": "whole-term"
+      }
+    },
+    "冷戦の世界": {
+      "reading": "れいせんのせかい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "冷戦の世界",
+        "body": "アメリカとソ連を中心に冷戦が続く。第二次世界大戦後、アメリカとソ連を中心に世界が二つの陣営に分かれました。核兵器の不安と、朝鮮戦争やベトナム戦争など各地の対立を生みました。この動きは、誰が政治に参加し、法律や税をどのように決めるのかという問題を社会に突きつけました。掲げられた権利がすべての人に及ぶ…"
+      },
+      "ruby": {
+        "base": "冷戦の世界",
+        "reading": "れいせんのせかい",
+        "mode": "whole-term"
+      }
+    },
+    "アジア・アフリカの独立": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アジア・アフリカの独立",
+        "body": "植民地だった国々が独立を進める。アジアやアフリカでは、植民地支配から独立する国が増えました。新しい国づくりでは、教育、経済、民族や宗教の共生など多くの課題にも向き合いました。制度が変わると、王や役人だけでなく、市民、農民、植民地の人々の立場も変化しました。その経験は後の憲法、議会、人権の考え方に受…"
+      }
+    },
+    "東アジアの経済とくらしの変化": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "東アジアの経済とくらしの変化",
+        "body": "日本・中国・韓国などで経済とくらしが変わる。東アジアでは日本、中国、韓国などで工業化、貿易、都市化が進みました。豊かさが広がる一方で、環境問題や格差、歴史認識の課題も残りました。この変化は政治や経済だけでなく、人々の仕事、家族、教育、文化にも及びました。地域や立場によって受けた利益と負担が異なる点…"
+      }
+    },
+    "アパルトヘイト廃止と人権": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アパルトヘイト廃止と人権",
+        "body": "アパルトヘイト廃止など、人権を求める動きが進む。南アフリカではアパルトヘイトに反対する運動が続き、制度は廃止されました。人権を求める動きは、世界各地の差別をなくす運動ともつながりました。利益を得た国や集団の側だけでなく、被害を受けた人々の記録から見る必要があります。その影響は格差や国境、人種差別の…"
+      }
+    },
+    "ヨーロッパ統合": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ヨーロッパ統合",
+        "body": "国どうしが協力する仕組みが作られる。ヨーロッパでは戦争を繰り返さないため、国どうしが協力するしくみが作られました。EUは経済、移動、法律などで国境を越えた協力を進めています。この動きは、誰が政治に参加し、法律や税をどのように決めるのかという問題を社会に突きつけました。掲げられた権利がすべての人に及…"
+      }
+    },
+    "インターネットの広がり": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インターネットの広がり",
+        "body": "インターネットが広がり、生活と交流が変わる。インターネットは情報、仕事、学び、交流を大きく変えました。便利さが広がる一方で、情報の正しさ、個人情報、格差も考える必要があります。検索や投稿を支える仕組みは、学習、仕事、商業、政治参加を変えました。表示される情報が企業の設計や利用履歴に左右される点にも…"
+      }
+    },
+    "地球規模の課題とAI": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "地球規模の課題とAI",
+        "body": "環境、感染症、戦争、AIなどの課題に取り組む。環境、感染症、戦争、AIなどの課題は一つの国だけでは解決できません。科学、政治、市民の協力を通して、未来をどう作るかが問われています。情報を受け取るだけでなく、個人が発信し、世界の人々とすぐにつながれるようになりました。一方で、誤情報、個人情報、監視、…"
+      }
+    },
+    "ギリシャポリスの競合": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ギリシャポリスの競合",
+        "body": "都市国家が同盟と戦争を重ねた時代。アテネ、スパルタなどの都市国家が同盟、交易、戦争で競い合った時代です。市民政治や哲学が発達する一方、奴隷や女性は政治参加から外されました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られました。…"
+      }
+    },
+    "十六大国の時代": {
+      "reading": "じゅうろくだいこくのじだい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "十六大国の時代",
+        "body": "北インドの諸国が競い合った時代。ガンジス川流域を中心に、多くの王国や共和国が競い合った時代です。都市、商業、仏教やジャイナ教の広がりと結びつき、マガダ国の台頭へつながりました。一つの出来事だけで成立したのではなく、以前からの社会変化と周辺地域との関係が重なって進みました。その後の時代へのつながりも…"
+      },
+      "ruby": {
+        "base": "十六大国の時代",
+        "reading": "じゅうろくだいこくのじだい",
+        "mode": "whole-term"
+      }
+    },
+    "ヘレニズム諸国の並立": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ヘレニズム諸国の並立",
+        "body": "後継王国が競争したヘレニズム時代。アレクサンドロス大王の死後、後継者たちの王国が東地中海から西アジアで競い合いました。ギリシャ文化と各地の文化が混ざり、都市と学問が発展しました。この変化は政治や経済だけでなく、人々の仕事、家族、教育、文化にも及びました。地域や立場によって受けた利益と負担が異なる点…"
+      }
+    },
+    "タイファ諸王国の時代": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "タイファ諸王国の時代",
+        "body": "イベリアのイスラム諸国が分立した時代。後ウマイヤ朝のあと、イベリア半島のイスラム勢力が多くの小王国に分かれた時代です。競争の中で学問や芸術が栄え、北のキリスト教勢力とも関わりました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担…"
+      }
+    },
+    "マヤ都市国家の競合": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マヤ都市国家の競合",
+        "body": "マヤ諸都市が同盟と戦争を重ねた時代。マヤ地域では一つの帝国ではなく、多くの都市国家が同盟や戦争で競い合いました。王、神殿、暦、文字が発達し、交易で広く結びつきました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られました。一つの…"
+      }
+    },
+    "サヘル諸王国の競合": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "サヘル諸王国の競合",
+        "body": "サハラ交易をめぐり王国が競った時代。サハラ交易をめぐり、マリ、ソンガイなどの王国が力を競った時代です。金、塩、イスラム文化、巡礼が都市と王権を強めました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担を与えました。この変化は政治…"
+      }
+    },
+    "イタリア都市国家の競合": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "イタリア都市国家の競合",
+        "body": "都市国家が商業と外交で競った時代。ヴェネツィア、フィレンツェ、ミラノなどの都市国家が商業、銀行、外交で競い合いました。ルネサンス文化を育てる一方、外部の大国の介入も招きました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られまし…"
+      }
+    },
+    "日本の戦国時代": {
+      "reading": "にほんのせんごくじだい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "日本の戦国時代",
+        "body": "戦国大名が各地の支配を争った時代。守護大名や戦国大名が各地で争い、城下町、鉄砲、商業が広がった時代です。やがて織田信長、豊臣秀吉、徳川家康による統一へ向かいました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担を与えました。この…"
+      },
+      "ruby": {
+        "base": "日本の戦国時代",
+        "reading": "にほんのせんごくじだい",
+        "mode": "whole-term"
+      }
+    },
+    "イタリア戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "イタリア戦争",
+        "body": "列強がイタリア支配を争った戦争。フランス、スペイン、神聖ローマ帝国、イタリア諸国がイタリア半島をめぐって争った時代です。ルネサンスの都市が大国の戦争に巻き込まれました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られました。一つ…"
+      }
+    },
+    "オスマン・ハプスブルク対立": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "オスマン・ハプスブルク対立",
+        "body": "中東欧の支配をめぐる二大勢力の対立。オスマン帝国とハプスブルク家がバルカンや中央ヨーロッパで競い合った時代です。宗教、交易、軍事の境界が動き、人々のくらしにも影響しました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担を与えまし…"
+      }
+    },
+    "北米植民地と先住民勢力の競合": {
+      "reading": "ほくべいしょくみんちとせんじゅうみんせいりょくのきょうごう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "北米植民地と先住民勢力の競合",
+        "body": "北米の土地と交易をめぐる勢力争い。北アメリカで先住民社会、フランス、イギリス、スペインなどが土地、交易、同盟をめぐって競い合った時代です。植民地拡大は先住民の生活を大きく変えました。利益を得た国や集団の側だけでなく、被害を受けた人々の記録から見る必要があります。その影響は格差や国境、人種差別の問題…"
+      },
+      "ruby": {
+        "base": "北米植民地と先住民勢力の競合",
+        "reading": "ほくべいしょくみんちとせんじゅうみんせいりょくのきょうごう",
+        "mode": "whole-term"
+      }
+    },
+    "ヨーロッパ列強の勢力均衡": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ヨーロッパ列強の勢力均衡",
+        "body": "大国間の力を保つ外交の考え方。イギリス、フランス、オーストリア、プロイセン、ロシアなどが力のつり合いを意識して外交と戦争をくり返した時代です。革命とナポレオン戦争へもつながりました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作ら…"
+      }
+    },
+    "アフリカ分割の列強競合": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アフリカ分割の列強競合",
+        "body": "列強がアフリカ支配を争った時代。ヨーロッパ列強がアフリカの土地や資源をめぐって競い合った時代です。国境線が外から引かれ、多くの地域社会が支配と抵抗の中に置かれました。利益を得た国や集団の側だけでなく、被害を受けた人々の記録から見る必要があります。その影響は格差や国境、人種差別の問題として後世にも残…"
+      }
+    },
+    "東アジア列強進出期": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "東アジア列強進出期",
+        "body": "列強の進出で東アジアが揺れた時代。清、日本、朝鮮、ロシア、欧米列強が東アジアで影響力を競った時代です。不平等条約、改革、戦争が重なり、地域の力関係が大きく変わりました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。勝敗の後には、新しい支配関係や同盟、国境が作られました。一つ…"
+      }
+    },
+    "戦間期の独裁と民主主義の対立": {
+      "reading": "せんかんきのどくさいとみんしゅしゅぎのたいりつ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "戦間期の独裁と民主主義の対立",
+        "body": "戦間期に政治体制が鋭く対立した時代。第一次世界大戦後、民主主義、社会主義、ファシズムなどが競い合った時代です。経済不安と民族問題が独裁の広がりや次の戦争の背景になりました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得ようとしました。長期の対立は地域社会に重い負担を与えまし…"
+      },
+      "ruby": {
+        "base": "戦間期の独裁と民主主義の対立",
+        "reading": "せんかんきのどくさいとみんしゅしゅぎのたいりつ",
+        "mode": "whole-term"
+      }
+    },
+    "インターネットの普及": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インターネットの普及",
+        "body": "世界的な通信網が生活に広がった変化。1991年にWorld Wide Webが公開され、1993年の無償公開で広がりやすくなりました。検索、動画、SNSなど、世界のくらしの土台になりました。情報を受け取るだけでなく、個人が発信し、世界の人々とすぐにつながれるようになりました。一方で、誤情報、個人情…"
+      }
+    },
+    "Google検索": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "Google検索",
+        "body": "ウェブ情報を探す検索サービス。1998年に会社として始まった検索サービスです。世界中のページを探しやすくし、調べ学習、仕事、広告のしくみを大きく変えました。検索や投稿を支える仕組みは、学習、仕事、商業、政治参加を変えました。表示される情報が企業の設計や利用履歴に左右される点にも注意が必要です。この…"
+      }
+    },
+    "Wikipedia": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "Wikipedia",
+        "body": "共同編集で作るオンライン百科事典。2001年1月15日に始まった、利用者が協力して作るオンライン百科事典です。知識をすばやく共有できる一方、情報を確かめる力も必要にしました。情報を受け取るだけでなく、個人が発信し、世界の人々とすぐにつながれるようになりました。一方で、誤情報、個人情報、監視、依存、…"
+      }
+    },
+    "Facebook": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "Facebook",
+        "body": "友人関係を広げた大規模SNS。2004年2月4日に始まったSNSです。実名に近い友人関係をネット上に広げ、ニュース、広告、政治参加にも大きな影響を与えました。検索や投稿を支える仕組みは、学習、仕事、商業、政治参加を変えました。表示される情報が企業の設計や利用履歴に左右される点にも注意が必要です。こ…"
+      }
+    },
+    "YouTube": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "YouTube",
+        "body": "動画投稿と視聴を広げたサービス。2005年に始まった動画共有サービスです。だれでも動画を発信しやすくなり、学習、音楽、ニュース、広告の見方を大きく変えました。情報を受け取るだけでなく、個人が発信し、世界の人々とすぐにつながれるようになりました。一方で、誤情報、個人情報、監視、依存、利用格差が新たな…"
+      }
+    },
+    "Twitter / X": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "Twitter / X",
+        "body": "短文を即時共有するSNS。2006年7月15日に公開された短文投稿サービスです。速報、感想、社会運動が一気に広がる場になり、2023年にXへ名前が変わりました。検索や投稿を支える仕組みは、学習、仕事、商業、政治参加を変えました。表示される情報が企業の設計や利用履歴に左右される点にも注意が必要です。…"
+      }
+    },
+    "WhatsApp": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "WhatsApp",
+        "body": "世界で普及した通信アプリ。2009年に始まったメッセージアプリです。電話番号でつながり、文字、音声、通話を安く使えるため、世界の連絡手段として広がりました。情報を受け取るだけでなく、個人が発信し、世界の人々とすぐにつながれるようになりました。一方で、誤情報、個人情報、監視、依存、利用格差が新たな課…"
+      }
+    },
+    "Instagram": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "Instagram",
+        "body": "写真と動画を中心とするSNS。2010年10月に始まった写真・動画中心のSNSです。スマートフォンで日常を見せ合う文化を広げ、流行や広告の作られ方も変えました。検索や投稿を支える仕組みは、学習、仕事、商業、政治参加を変えました。表示される情報が企業の設計や利用履歴に左右される点にも注意が必要です。…"
+      }
+    },
+    "WeChat": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "WeChat",
+        "body": "中国で生活基盤となった多機能アプリ。2011年1月21日に中国で始まったメッセージアプリです。支払い、店、行政サービスまで使えるスーパーアプリとして、中国の生活を変えました。情報を受け取るだけでなく、個人が発信し、世界の人々とすぐにつながれるようになりました。一方で、誤情報、個人情報、監視、依存、…"
+      }
+    },
+    "TikTok": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "TikTok",
+        "body": "短編動画を広げた世界的SNS。国際版は2017年に広がった短い動画のSNSです。おすすめ機能で動画が世界へ届きやすくなり、音楽、流行、ニュースの広がり方を変えました。検索や投稿を支える仕組みは、学習、仕事、商業、政治参加を変えました。表示される情報が企業の設計や利用履歴に左右される点にも注意が必要…"
+      }
+    },
+    "SNS": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "SNS",
+        "body": "人と情報を結ぶ交流サービス。SNSは、文章、写真、動画を投稿し、友人や世界中の人と交流するサービスです。便利な一方、情報の確かめ方や使う時間も考える必要があります。情報を受け取るだけでなく、個人が発信し、世界の人々とすぐにつながれるようになりました。一方で、誤情報、個人情報、監視、依存、利用格差が…"
+      }
+    },
+    "村": {
+      "reading": "むら",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "村",
+        "reading": "むら",
+        "mode": "whole-term"
+      }
+    },
+    "王": {
+      "reading": "おう",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "王",
+        "reading": "おう",
+        "mode": "whole-term"
+      }
+    },
+    "文化交流": {
+      "reading": "ぶんかこうりゅう",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "文化交流",
+        "reading": "ぶんかこうりゅう",
+        "mode": "whole-term"
+      }
+    },
+    "道": {
+      "reading": "みち",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "道",
+        "reading": "みち",
+        "mode": "whole-term"
+      }
+    },
+    "核": {
+      "reading": "かく",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "核",
+        "reading": "かく",
+        "mode": "whole-term"
+      }
+    },
+    "国際協力": {
+      "reading": "こくさいきょうりょく",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "国際協力",
+        "reading": "こくさいきょうりょく",
+        "mode": "whole-term"
+      }
+    },
+    "港": {
+      "reading": "みなと",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "港",
+        "reading": "みなと",
+        "mode": "whole-term"
+      }
+    },
+    "海": {
+      "reading": "うみ",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "海",
+        "reading": "うみ",
+        "mode": "whole-term"
+      }
+    },
+    "銀": {
+      "reading": "ぎん",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "銀",
+        "reading": "ぎん",
+        "mode": "whole-term"
+      }
+    },
+    "制度改革": {
+      "reading": "せいどかいかく",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "制度改革",
+        "reading": "せいどかいかく",
+        "mode": "whole-term"
+      }
+    },
+    "市民政治": {
+      "reading": "しみんせいじ",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "市民政治",
+        "reading": "しみんせいじ",
+        "mode": "whole-term"
+      }
+    },
+    "民主主義": {
+      "reading": "みんしゅしゅぎ",
+      "scopes": [
+        "study"
+      ],
+      "ruby": {
+        "base": "民主主義",
+        "reading": "みんしゅしゅぎ",
+        "mode": "whole-term"
+      }
+    },
+    "キリスト": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "キリスト",
+        "body": "イエスを救い主として信じるときに使われる呼び名です。キリスト教の信仰の中心となる考え方に関わります。"
+      }
+    },
+    "ローマ帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ローマ帝国",
+        "body": "地中海世界を広く支配した古代の大帝国です。法律、都市、軍隊、キリスト教の広がりなどに大きな影響を与えました。"
+      }
+    },
+    "メソポタミア": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "メソポタミア",
+        "body": "チグリス川とユーフラテス川の流域を中心とする地域です。都市、文字、法律など早い時期の文明が発達しました。"
+      }
+    },
+    "イスラム": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "イスラム",
+        "body": "ムハンマドの教えから始まった宗教・文化圏を指す言葉です。信仰だけでなく政治、学問、交易にも大きく関わりました。"
+      }
+    },
+    "インターネット": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インターネット",
+        "body": "世界中のコンピューターやスマートフォンをつなぐ通信網です。情報の探し方、交流、商業、政治参加を大きく変えました。"
+      }
+    },
+    "都市国家": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "都市国家",
+        "body": "一つの都市とその周辺地域を中心に成り立つ小さな国家です。古代ギリシャのポリスなどが代表例です。"
+      }
+    },
+    "ルネサンス": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ルネサンス",
+        "body": "古代ギリシャ・ローマの文化を学び直し、人間や自然を新しい目で表そうとした文化運動です。"
+      }
+    },
+    "ナチス": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ナチス",
+        "body": "ヒトラーが率いたドイツの政党・体制を指します。独裁、侵略戦争、ユダヤ人迫害とホロコーストを進めたことで知られます。"
+      }
+    },
+    "ピラミッド": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ピラミッド",
+        "body": "古代エジプトなどで造られた巨大な石の建造物です。王の墓や権力を示す建築として知られます。"
+      }
+    },
+    "カトリック": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "カトリック",
+        "body": "キリスト教の大きな教派の一つです。ローマ教皇を中心とし、中世ヨーロッパの政治や文化にも大きな影響を持ちました。"
+      }
+    },
+    "全面戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "全面戦争",
+        "body": "軍隊だけでなく国民生活、産業、資源まで動員して行う大規模な戦争です。二つの世界大戦で特に重要な見方です。"
+      }
+    },
+    "アッシリア帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アッシリア帝国",
+        "body": "メソポタミア北部から広がった古代の大帝国です。軍事力と行政の仕組みで広い地域を支配しました。"
+      }
+    },
+    "新アッシリア帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "新アッシリア帝国",
+        "body": "紀元前1千年紀に西アジアで強い力を持ったアッシリアの帝国です。軍事遠征と都市整備で知られます。"
+      }
+    },
+    "神聖ローマ帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "神聖ローマ帝国",
+        "body": "中世から近世の中央ヨーロッパにあった広い連合的な帝国です。ドイツ地域の諸侯や皇帝の関係が重要です。"
+      }
+    },
+    "ナチス・ドイツ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ナチス・ドイツ",
+        "body": "ヒトラーとナチスが独裁体制を築いた時代のドイツです。第二次世界大戦とホロコーストを引き起こした中心的な勢力です。"
+      }
+    },
+    "ストライキ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ストライキ",
+        "body": "労働者が要求を通すために仕事を一時的に止める行動です。賃金や労働条件の改善を求める運動で使われます。"
+      }
+    },
+    "百年戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "百年戦争",
+        "body": "14〜15世紀にイングランドとフランスが王位や領土をめぐって長く争った戦争です。"
+      }
+    },
+    "東ローマ帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "東ローマ帝国",
+        "body": "東ローマ帝国は、広い地域や複数の民族を支配した歴史上の大きな国・勢力です。政治、軍事、交易、文化の広がりを考える手がかりになります。"
+      }
+    },
+    "太平洋戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "太平洋戦争",
+        "body": "第二次世界大戦のうち、日本とアメリカなど連合国が太平洋地域で戦った戦争です。"
+      }
+    },
+    "連合国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "連合国",
+        "body": "大きな戦争で同じ側に立って協力した国々を指します。特に第二次世界大戦ではアメリカ、イギリス、ソ連などを指します。"
+      }
+    },
+    "アケメネス朝ペルシャ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アケメネス朝ペルシャ",
+        "body": "キュロス2世やダレイオス1世の時代に広い西アジアを支配したペルシャの大帝国です。州制度や王の道で知られます。"
+      }
+    },
+    "マウリヤ朝": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マウリヤ朝",
+        "body": "マウリヤ朝は、同じ王家や支配者の系統が続いた時代・政権を指します。政治の仕組みや文化の特徴を整理すると理解しやすくなります。"
+      }
+    },
+    "フランク王国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "フランク王国",
+        "body": "西ヨーロッパで大きな力を持ったゲルマン系の王国です。カール大帝の時代に広く統一されました。"
+      }
+    },
+    "ハプスブルク": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ハプスブルク",
+        "body": "ヨーロッパで長く力を持った王家です。結婚や相続を通じて広い領土を支配しました。"
+      }
+    },
+    "Web": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "Web",
+        "body": "インターネット上でページを公開し、リンクで情報をたどれる仕組みです。World Wide Webとも呼ばれます。"
+      }
+    },
+    "Meta": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "Meta",
+        "body": "Facebook、Instagram、WhatsAppなどを運営する企業名です。SNSや通信サービスの歴史で出てきます。"
+      }
+    },
+    "ファシズム": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ファシズム",
+        "body": "強い指導者、国家への服従、軍事力を重視し、反対意見を抑え込む政治思想や体制です。第二次世界大戦前のイタリアなどで広がりました。"
+      }
+    },
+    "Google": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "Google",
+        "body": "検索サービスを中心に発展した企業です。インターネットで情報を探す方法を大きく変えました。"
+      }
+    },
+    "アッラー": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アッラー",
+        "body": "イスラム教で信じられる唯一の神を指す言葉です。ムハンマドの教えやコーランの理解に関わります。"
+      }
+    },
+    "ペルシャ戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ペルシャ戦争",
+        "body": "ペルシャ戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "ウル第三王朝": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ウル第三王朝",
+        "body": "ウル第三王朝は、同じ王家や支配者の系統が続いた時代・政権を指します。政治の仕組みや文化の特徴を整理すると理解しやすくなります。"
+      }
+    },
+    "キエフ公国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "キエフ公国",
+        "body": "キエフ公国は、本文に出てくる歴史上の国・勢力名です。どの地域を支配し、周囲の国や人々とどう関わったかを見ることが大切です。"
+      }
+    },
+    "コーラン": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "コーラン",
+        "body": "イスラム教の聖典です。ムハンマドが受けた啓示をまとめたものとされます。"
+      }
+    },
+    "コロッセウム": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "コロッセウム",
+        "body": "古代ローマの巨大な円形闘技場です。見世物や競技を通して、都市生活や皇帝の権威を示しました。"
+      }
+    },
+    "サンスクリット": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "サンスクリット",
+        "body": "古代インドで使われた文語・学問語です。宗教、文学、哲学の文献に広く使われました。"
+      }
+    },
+    "プロテスタント": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "プロテスタント",
+        "body": "宗教改革から生まれたキリスト教の諸派です。聖書を重視し、カトリック教会の制度や教えを批判したことからヨーロッパ社会を大きく変えました。"
+      }
+    },
+    "ペロポネソス戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ペロポネソス戦争",
+        "body": "ペロポネソス戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "マーシャル・プラン": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マーシャル・プラン",
+        "body": "第二次世界大戦後、アメリカがヨーロッパ復興を支援した計画です。経済再建を進めると同時に、冷戦で西側陣営を固める役割も持ちました。"
+      }
+    },
+    "メッセージアプリ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "メッセージアプリ",
+        "body": "メッセージアプリは、現代の情報通信や技術に関わる用語です。人々の交流、情報の広がり、政治や経済への影響を見る手がかりになります。"
+      }
+    },
+    "ユーフラテス": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ユーフラテス",
+        "body": "メソポタミア文明を支えた大河の一つです。チグリス川とともに農業や都市の発展を支えました。"
+      }
+    },
+    "ワクチン": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ワクチン",
+        "body": "病気を予防するために、体に免疫をつける医療技術です。公衆衛生の発展と関わります。"
+      }
+    },
+    "独立戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "独立戦争",
+        "body": "独立戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "ヘレニズム": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ヘレニズム",
+        "body": "アレクサンドロス大王の遠征後、ギリシャ文化とオリエントの文化が混ざり合って広がった文化です。"
+      }
+    },
+    "マリ帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マリ帝国",
+        "body": "マリ帝国は、広い地域や複数の民族を支配した歴史上の大きな国・勢力です。政治、軍事、交易、文化の広がりを考える手がかりになります。"
+      }
+    },
+    "世界交易": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "世界交易",
+        "body": "世界交易は、人や物、情報が地域をこえて移動することに関わる用語です。交易路や港、支配勢力との関係が重要です。"
+      }
+    },
+    "ダイナマイト": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ダイナマイト",
+        "body": "ノーベルが発明した爆薬です。土木工事を進めた一方で、戦争にも利用されました。"
+      }
+    },
+    "ペルシャ帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ペルシャ帝国",
+        "body": "ペルシャ帝国は、広い地域や複数の民族を支配した歴史上の大きな国・勢力です。政治、軍事、交易、文化の広がりを考える手がかりになります。"
+      }
+    },
+    "インダス文明": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インダス文明",
+        "body": "インダス文明は、学問、芸術、宗教、生活の形などに関わる用語です。どの地域で生まれ、どのように広がったかが重要です。"
+      }
+    },
+    "インド洋交易": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インド洋交易",
+        "body": "インド洋交易は、人や物、情報が地域をこえて移動することに関わる用語です。交易路や港、支配勢力との関係が重要です。"
+      }
+    },
+    "宗教戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "宗教戦争",
+        "body": "宗教戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "NATO": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "NATO",
+        "body": "北大西洋条約機構の略称です。冷戦期にアメリカや西ヨーロッパ諸国が作った軍事同盟で、ソ連側に対抗しました。"
+      }
+    },
+    "アステカ帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アステカ帝国",
+        "body": "アステカ帝国は、広い地域や複数の民族を支配した歴史上の大きな国・勢力です。政治、軍事、交易、文化の広がりを考える手がかりになります。"
+      }
+    },
+    "インカ帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インカ帝国",
+        "body": "インカ帝国は、広い地域や複数の民族を支配した歴史上の大きな国・勢力です。政治、軍事、交易、文化の広がりを考える手がかりになります。"
+      }
+    },
+    "オスマン帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "オスマン帝国",
+        "body": "オスマン帝国は、広い地域や複数の民族を支配した歴史上の大きな国・勢力です。政治、軍事、交易、文化の広がりを考える手がかりになります。"
+      }
+    },
+    "ギリシャポリス": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ギリシャポリス",
+        "body": "古代ギリシャの都市国家を指します。市民が政治に参加する仕組みや、都市ごとの独立性が特徴です。"
+      }
+    },
+    "クーデター": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "クーデター",
+        "body": "軍や政治勢力が、正規の手続きを通さずに政権を奪うことです。"
+      }
+    },
+    "サハラ交易": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "サハラ交易",
+        "body": "サハラ交易は、人や物、情報が地域をこえて移動することに関わる用語です。交易路や港、支配勢力との関係が重要です。"
+      }
+    },
+    "サヘル諸王国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "サヘル諸王国",
+        "body": "サヘル諸王国は、本文に出てくる歴史上の国・勢力名です。どの地域を支配し、周囲の国や人々とどう関わったかを見ることが大切です。"
+      }
+    },
+    "スフィンクス": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "スフィンクス",
+        "body": "人の顔とライオンの体をもつ像です。古代エジプトでは王の力や神聖さを示す建造物として知られます。"
+      }
+    },
+    "タイファ諸王国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "タイファ諸王国",
+        "body": "タイファ諸王国は、本文に出てくる歴史上の国・勢力名です。どの地域を支配し、周囲の国や人々とどう関わったかを見ることが大切です。"
+      }
+    },
+    "チベット仏教": {
+      "scopes": [],
+      "tooltip": {
+        "title": "チベット仏教",
+        "body": "チベットで発展した仏教の流れです。僧院、学問、儀礼、指導者の制度が政治や社会と深く結びつきました。"
+      }
+    },
+    "ナチズム": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ナチズム",
+        "body": "ナチスの政治思想です。極端な民族主義、人種差別、独裁を正当化し、侵略戦争と大量虐殺につながりました。"
+      }
+    },
+    "ナポレオン法典": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ナポレオン法典",
+        "body": "ナポレオンが整えた民法典です。法の前の平等や私有財産の保護などを定め、ヨーロッパ各地の近代法に大きな影響を与えました。"
+      }
+    },
+    "バス・ボイコット": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "バス・ボイコット",
+        "body": "差別に抗議してバスの利用を拒否した運動です。アメリカ公民権運動を広げる大きなきっかけになりました。"
+      }
+    },
+    "バビロン第1王朝": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "バビロン第1王朝",
+        "body": "バビロン第1王朝は、同じ王家や支配者の系統が続いた時代・政権を指します。政治の仕組みや文化の特徴を整理すると理解しやすくなります。"
+      }
+    },
+    "パルティア": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "パルティア",
+        "body": "古代イラン系の王国です。ローマ帝国と対立し、東西交易の中継地としても重要でした。"
+      }
+    },
+    "ハンムラビ法典": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ハンムラビ法典",
+        "body": "古代バビロニア王ハンムラビが整えた法典です。刑罰や取引、家族、身分に関する規定があり、古代社会の支配や法律を知る手がかりです。"
+      }
+    },
+    "ラガシュ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ラガシュ",
+        "body": "メソポタミア南部の都市国家です。神殿、王権、都市間の争いなど初期文明の特徴を示します。"
+      }
+    },
+    "環境運動": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "環境運動",
+        "body": "環境運動は、社会や政治を変えようとして人々が起こした動きです。要求、参加した人々、反対した勢力、結果を分けて考えます。"
+      }
+    },
+    "社会主義連邦": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "社会主義連邦",
+        "body": "社会主義連邦は、本文に出てくる歴史上の国・勢力名です。どの地域を支配し、周囲の国や人々とどう関わったかを見ることが大切です。"
+      }
+    },
+    "侵略戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "侵略戦争",
+        "body": "侵略戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "新バビロニア王国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "新バビロニア王国",
+        "body": "新バビロニア王国は、本文に出てくる歴史上の国・勢力名です。どの地域を支配し、周囲の国や人々とどう関わったかを見ることが大切です。"
+      }
+    },
+    "人種隔離政策アパルトヘイト": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "人種隔離政策アパルトヘイト",
+        "body": "南アフリカで行われた人種差別制度です。住む場所、教育、政治参加などを人種で分け、非白人の権利を奪いました。"
+      }
+    },
+    "日本国憲法": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "日本国憲法",
+        "body": "日本国憲法は、政治や社会のルールに関わる用語です。誰の権利や義務を決め、社会をどう変えたのかが重要です。"
+      }
+    },
+    "アメリカ独立運動": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アメリカ独立運動",
+        "body": "アメリカ独立運動は、社会や政治を変えようとして人々が起こした動きです。要求、参加した人々、反対した勢力、結果を分けて考えます。"
+      }
+    },
+    "アメリカ独立戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "アメリカ独立戦争",
+        "body": "アメリカ独立戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "インド独立運動": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "インド独立運動",
+        "body": "インド独立運動は、社会や政治を変えようとして人々が起こした動きです。要求、参加した人々、反対した勢力、結果を分けて考えます。"
+      }
+    },
+    "ウマイヤ朝": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ウマイヤ朝",
+        "body": "ウマイヤ朝は、同じ王家や支配者の系統が続いた時代・政権を指します。政治の仕組みや文化の特徴を整理すると理解しやすくなります。"
+      }
+    },
+    "オベリスク": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "オベリスク",
+        "body": "古代エジプトで建てられた細長い石柱です。太陽神信仰や王の権威を示す記念碑として使われました。"
+      }
+    },
+    "オランダ東インド会社": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "オランダ東インド会社",
+        "body": "17世紀にオランダがつくった貿易会社です。アジア貿易を進め、植民地支配にも深く関わりました。"
+      }
+    },
+    "カリンガ戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "カリンガ戦争",
+        "body": "カリンガ戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "ガンジス": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ガンジス",
+        "body": "インド北部を流れる大河です。農業を支え、ヒンドゥー教の信仰でも重要な川とされます。"
+      }
+    },
+    "ギリシャ遠征": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ギリシャ遠征",
+        "body": "ペルシャ帝国などがギリシャ方面へ軍を進めた遠征を指します。ギリシャ諸都市との戦争や交流の背景になります。"
+      }
+    },
+    "クシャーナ朝": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "クシャーナ朝",
+        "body": "クシャーナ朝は、同じ王家や支配者の系統が続いた時代・政権を指します。政治の仕組みや文化の特徴を整理すると理解しやすくなります。"
+      }
+    },
+    "グプタ朝": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "グプタ朝",
+        "body": "グプタ朝は、同じ王家や支配者の系統が続いた時代・政権を指します。政治の仕組みや文化の特徴を整理すると理解しやすくなります。"
+      }
+    },
+    "クリミア戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "クリミア戦争",
+        "body": "クリミア戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "コンピューター": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "コンピューター",
+        "body": "情報を計算・処理する機械です。通信、科学、産業、生活を大きく変え、現代社会の基盤になりました。"
+      }
+    },
+    "ササン朝ペルシャ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ササン朝ペルシャ",
+        "body": "古代末期のペルシャ帝国です。ローマ帝国や東ローマ帝国と争い、ゾロアスター教やシルクロード交易とも関わりました。"
+      }
+    },
+    "シルクロード交易": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "シルクロード交易",
+        "body": "シルクロード交易は、人や物、情報が地域をこえて移動することに関わる用語です。交易路や港、支配勢力との関係が重要です。"
+      }
+    },
+    "スーパーアプリ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "スーパーアプリ",
+        "body": "決済、通話、買い物、配車など複数の機能を一つにまとめたアプリです。現代の生活や経済の変化を示します。"
+      }
+    },
+    "スペイン植民地": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "スペイン植民地",
+        "body": "スペイン植民地は、支配や差別に関わる用語です。支配した側だけでなく、被害を受けた人々の生活や抵抗も見る必要があります。"
+      }
+    },
+    "スマートフォン": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "スマートフォン",
+        "body": "電話、インターネット、写真、アプリを使える携帯端末です。情報の受け取り方や人々の交流を大きく変えました。"
+      }
+    },
+    "チグリス": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "チグリス",
+        "body": "メソポタミア文明を支えた大河の一つです。ユーフラテス川とともに農業や都市の発展を支えました。"
+      }
+    },
+    "ドゥームズデイ・ブック": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ドゥームズデイ・ブック",
+        "body": "11世紀のイングランドで作られた土地台帳です。王が税や支配のために土地と人々を調べた記録です。"
+      }
+    },
+    "ナポレオン戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ナポレオン戦争",
+        "body": "ナポレオン戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "ネットワーク": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ネットワーク",
+        "body": "人や機械、情報がつながる仕組みです。現代では通信網やSNSなど、情報が広がる基盤を指します。"
+      }
+    },
+    "ハギア・ソフィア": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ハギア・ソフィア",
+        "body": "コンスタンティノープルに建てられた大聖堂です。東ローマ帝国の宗教と建築文化を代表します。"
+      }
+    },
+    "パルテノン": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "パルテノン",
+        "body": "古代アテネのアクロポリスに建てられた神殿です。ギリシャの宗教、都市国家、芸術を象徴します。"
+      }
+    },
+    "ピューリタン革命": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ピューリタン革命",
+        "body": "17世紀イギリスで起きた革命です。王権と議会の対立が内戦となり、政治の仕組みを大きく変えました。"
+      }
+    },
+    "ファラオ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ファラオ",
+        "body": "ファラオは、歴史上の支配者や称号に関わる用語です。政治権力、宗教、軍事との関係を確認します。"
+      }
+    },
+    "ベトナム戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ベトナム戦争",
+        "body": "ベトナム戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "ペレストロイカ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ペレストロイカ",
+        "body": "ソ連のゴルバチョフが進めた改革です。経済や政治を立て直そうとしましたが、東欧革命やソ連崩壊にもつながりました。"
+      }
+    },
+    "マガダ国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マガダ国",
+        "body": "古代インドの有力国です。ガンジス川流域で力を伸ばし、のちのマウリヤ朝の土台になりました。"
+      }
+    },
+    "マグナ・カルタ": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マグナ・カルタ",
+        "body": "1215年にイングランド王が認めた文書です。王の権力を制限し、法に基づく政治の考え方に影響しました。"
+      }
+    },
+    "マフディー国家": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マフディー国家",
+        "body": "19世紀のスーダンでマフディー運動から生まれた国家です。エジプト・イギリス支配への抵抗と関わります。"
+      }
+    },
+    "マヤ諸都市": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マヤ諸都市",
+        "body": "中央アメリカのマヤ文明で栄えた都市群です。神殿、暦、文字、交易をもつ都市文化が発達しました。"
+      }
+    },
+    "マリ王国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "マリ王国",
+        "body": "マリ王国は、本文に出てくる歴史上の国・勢力名です。どの地域を支配し、周囲の国や人々とどう関わったかを見ることが大切です。"
+      }
+    },
+    "メッカ巡礼": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "メッカ巡礼",
+        "body": "メッカ巡礼は、人や物、情報が地域をこえて移動することに関わる用語です。交易路や港、支配勢力との関係が重要です。"
+      }
+    },
+    "ユダ王国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ユダ王国",
+        "body": "ユダ王国は、本文に出てくる歴史上の国・勢力名です。どの地域を支配し、周囲の国や人々とどう関わったかを見ることが大切です。"
+      }
+    },
+    "ロアノーク植民地": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ロアノーク植民地",
+        "body": "ロアノーク植民地は、支配や差別に関わる用語です。支配した側だけでなく、被害を受けた人々の生活や抵抗も見る必要があります。"
+      }
+    },
+    "ワスル帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "ワスル帝国",
+        "body": "ワスル帝国は、広い地域や複数の民族を支配した歴史上の大きな国・勢力です。政治、軍事、交易、文化の広がりを考える手がかりになります。"
+      }
+    },
+    "海上交易": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "海上交易",
+        "body": "海上交易は、人や物、情報が地域をこえて移動することに関わる用語です。交易路や港、支配勢力との関係が重要です。"
+      }
+    },
+    "漢人王朝": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "漢人王朝",
+        "body": "漢人王朝は、同じ王家や支配者の系統が続いた時代・政権を指します。政治の仕組みや文化の特徴を整理すると理解しやすくなります。"
+      }
+    },
+    "議会制民主主義": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "議会制民主主義",
+        "body": "議会制民主主義は、政治や社会のあり方を説明する考え方です。どの時代に広がり、どんな制度や運動につながったかを確認します。"
+      }
+    },
+    "軍事同盟": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "軍事同盟",
+        "body": "複数の国が、攻撃や危機に備えて軍事的に協力する約束です。戦争の広がりや冷戦の対立を考える手がかりになります。"
+      }
+    },
+    "後ウマイヤ朝": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "後ウマイヤ朝",
+        "body": "後ウマイヤ朝は、同じ王家や支配者の系統が続いた時代・政権を指します。政治の仕組みや文化の特徴を整理すると理解しやすくなります。"
+      }
+    },
+    "後継王国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "後継王国",
+        "body": "後継王国は、本文に出てくる歴史上の国・勢力名です。どの地域を支配し、周囲の国や人々とどう関わったかを見ることが大切です。"
+      }
+    },
+    "香辛料交易": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "香辛料交易",
+        "body": "香辛料交易は、人や物、情報が地域をこえて移動することに関わる用語です。交易路や港、支配勢力との関係が重要です。"
+      }
+    },
+    "黒人解放運動": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "黒人解放運動",
+        "body": "黒人解放運動は、社会や政治を変えようとして人々が起こした動きです。要求、参加した人々、反対した勢力、結果を分けて考えます。"
+      }
+    },
+    "自由フランス": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "自由フランス",
+        "body": "第二次世界大戦中、ドイツに占領されたフランスの外で抵抗を続けた勢力です。ド・ゴールが中心となりました。"
+      }
+    },
+    "清教徒革命": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "清教徒革命",
+        "body": "17世紀イギリスで、議会派と王党派が争った革命です。王政や議会政治のあり方を大きく変えました。"
+      }
+    },
+    "西ローマ帝国": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "西ローマ帝国",
+        "body": "西ローマ帝国は、広い地域や複数の民族を支配した歴史上の大きな国・勢力です。政治、軍事、交易、文化の広がりを考える手がかりになります。"
+      }
+    },
+    "大乗仏教": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "大乗仏教",
+        "body": "多くの人を救うことを重視した仏教の流れです。中央アジアや中国、朝鮮半島、日本へ広がり、仏像や経典、寺院文化にも影響しました。"
+      },
+      "reading": "だいじょうぶっきょう",
+      "ruby": {
+        "base": "大乗仏教",
+        "reading": "だいじょうぶっきょう",
+        "mode": "whole-term"
+      }
+    },
+    "第3回十字軍": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "第3回十字軍",
+        "body": "12世紀末、エルサレム奪回を目指して西ヨーロッパの王たちが参加した十字軍です。サラディンとの戦いで知られます。"
+      }
+    },
+    "第二次ポエニ戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "第二次ポエニ戦争",
+        "body": "第二次ポエニ戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "朝鮮戦争": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "朝鮮戦争",
+        "body": "朝鮮戦争は、国や勢力の対立が武力衝突になった出来事です。原因、関わった地域、戦後の社会変化をあわせて見る必要があります。"
+      }
+    },
+    "東アジア仏教": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "東アジア仏教",
+        "body": "東アジア仏教は、信仰や宗教文化に関わる用語です。教えだけでなく、政治、学問、建築、交流への影響も見ます。"
+      }
+    },
+    "東方遠征": {
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "東方遠征",
+        "body": "アレクサンドロス大王などが東方へ進めた軍事遠征を指します。征服と同時に文化や交易の広がりも生みました。"
+      }
+    },
+    "航海王子": {
+      "reading": "こうかいおうじ",
+      "ruby": {
+        "base": "航海王子",
+        "reading": "こうかいおうじ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "賢公": {
+      "reading": "けんこう",
+      "ruby": {
+        "base": "賢公",
+        "reading": "けんこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "武后": {
+      "reading": "ぶこう",
+      "ruby": {
+        "base": "武后",
+        "reading": "ぶこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "貴妃": {
+      "reading": "きひ",
+      "ruby": {
+        "base": "貴妃",
+        "reading": "きひ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "1世": {
+      "reading": "いっせい",
+      "ruby": {
+        "base": "1世",
+        "reading": "いっせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "2世": {
+      "reading": "にせい",
+      "ruby": {
+        "base": "2世",
+        "reading": "にせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "3世": {
+      "reading": "さんせい",
+      "ruby": {
+        "base": "3世",
+        "reading": "さんせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "4世": {
+      "reading": "よんせい",
+      "ruby": {
+        "base": "4世",
+        "reading": "よんせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "5世": {
+      "reading": "ごせい",
+      "ruby": {
+        "base": "5世",
+        "reading": "ごせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "8世": {
+      "reading": "はっせい",
+      "ruby": {
+        "base": "8世",
+        "reading": "はっせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "14世": {
+      "reading": "じゅうよんせい",
+      "ruby": {
+        "base": "14世",
+        "reading": "じゅうよんせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "16世": {
+      "reading": "じゅうろくせい",
+      "ruby": {
+        "base": "16世",
+        "reading": "じゅうろくせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "灌漑農業": {
+      "reading": "かんがいのうぎょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "灌漑農業",
+        "body": "川や水路などを使って田畑へ計画的に水を引き、作物を育てる農業です。乾燥した地域や大河の流域で収穫を安定させ、村や都市の発達を支えました。"
+      },
+      "ruby": {
+        "base": "灌漑農業",
+        "reading": "かんがいのうぎょう",
+        "mode": "whole-term"
+      }
+    },
+    "都市文明": {
+      "reading": "としぶんめい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "都市文明",
+        "body": "都市を中心に、文字、役人、神殿、税、交易、専門職などが発達した社会です。人や物が集まり、政治や宗教、経済の仕組みが複雑になったことを押さえます。"
+      },
+      "ruby": {
+        "base": "都市文明",
+        "reading": "としぶんめい",
+        "mode": "whole-term"
+      }
+    },
+    "甲骨文字": {
+      "reading": "こうこつもじ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "甲骨文字",
+        "body": "古代中国の殷の時代に、亀の甲羅や動物の骨に刻まれた文字です。王が占いの結果や政治・祭りの記録を残すために使い、漢字の古い形を知る重要な手がかりです。"
+      },
+      "ruby": {
+        "base": "甲骨文字",
+        "reading": "こうこつもじ",
+        "mode": "whole-term"
+      }
+    },
+    "仏教思想": {
+      "reading": "ぶっきょうしそう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "仏教思想",
+        "body": "仏教の教えをもとに、人の心や世界の成り立ち、苦しみから離れる道を考えた思想です。ナーガールジュナやアサンガなどの学者が発展させました。"
+      },
+      "ruby": {
+        "base": "仏教思想",
+        "reading": "ぶっきょうしそう",
+        "mode": "whole-term"
+      }
+    },
+    "仏教文化": {
+      "reading": "ぶっきょうぶんか",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "仏教文化",
+        "body": "仏教の信仰や寺院、仏像、学問、儀礼などが社会や芸術に広がって生まれた文化です。王朝や地域の交流にも大きく関わりました。"
+      },
+      "ruby": {
+        "base": "仏教文化",
+        "reading": "ぶっきょうぶんか",
+        "mode": "whole-term"
+      }
+    },
+    "日本仏教": {
+      "reading": "にほんぶっきょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "日本仏教",
+        "body": "日本に伝わった仏教が、寺院、僧、政治、学問、芸術と結びつきながら発展したものです。各時代の社会や文化に大きな影響を与えました。"
+      },
+      "ruby": {
+        "base": "日本仏教",
+        "reading": "にほんぶっきょう",
+        "mode": "whole-term"
+      }
+    },
+    "冷戦期": {
+      "reading": "れいせんき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "冷戦期",
+        "body": "第二次世界大戦後、アメリカとソ連を中心に世界が対立していた時期です。軍事同盟、核兵器、宇宙開発、地域紛争などが国際関係を左右しました。"
+      },
+      "ruby": {
+        "base": "冷戦期",
+        "reading": "れいせんき",
+        "mode": "whole-term"
+      }
+    },
+    "冷戦終結": {
+      "reading": "れいせんしゅうけつ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "冷戦終結",
+        "body": "アメリカとソ連を中心とした東西対立が終わっていく流れです。軍縮交渉、東欧の変化、ソ連の改革と解体が関わりました。"
+      },
+      "ruby": {
+        "base": "冷戦終結",
+        "reading": "れいせんしゅうけつ",
+        "mode": "whole-term"
+      }
+    },
+    "冷戦下": {
+      "reading": "れいせんか",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "冷戦下",
+        "body": "冷戦の対立構造のもとにある状態です。各国の政治、軍事、科学技術、地域紛争が米ソ対立の影響を受けました。"
+      },
+      "ruby": {
+        "base": "冷戦下",
+        "reading": "れいせんか",
+        "mode": "whole-term"
+      }
+    },
+    "冷戦時代": {
+      "reading": "れいせんじだい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "冷戦時代",
+        "body": "アメリカとソ連を中心に、資本主義陣営と社会主義陣営が対立した時代です。核兵器や宇宙開発競争、代理戦争が特徴です。"
+      },
+      "ruby": {
+        "base": "冷戦時代",
+        "reading": "れいせんじだい",
+        "mode": "whole-term"
+      }
+    },
+    "連合国軍": {
+      "reading": "れんごうこくぐん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "連合国軍",
+        "body": "大きな戦争で同じ側に立った国々が協力して組織した軍隊です。特に第二次世界大戦ではアメリカ、イギリス、ソ連などの軍を指します。"
+      },
+      "ruby": {
+        "base": "連合国軍",
+        "reading": "れんごうこくぐん",
+        "mode": "whole-term"
+      }
+    },
+    "連合国側": {
+      "reading": "れんごうこくがわ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "連合国側",
+        "body": "戦争で連合国として協力した国々の側を指します。第二次世界大戦では、枢軸国に対抗したアメリカ、イギリス、ソ連などが中心でした。"
+      },
+      "ruby": {
+        "base": "連合国側",
+        "reading": "れんごうこくがわ",
+        "mode": "whole-term"
+      }
+    },
+    "連合国第二次大戦": {
+      "reading": "れんごうこくだいにじたいせん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "連合国第二次大戦",
+        "body": "第二次世界大戦で枢軸国に対抗した連合国側のまとまりです。アメリカ、イギリス、ソ連などが協力して戦争を進めました。"
+      },
+      "ruby": {
+        "base": "連合国第二次大戦",
+        "reading": "れんごうこくだいにじたいせん",
+        "mode": "whole-term"
+      }
+    },
+    "アメリカ合衆国冷戦期": {
+      "scopes": [],
+      "tooltip": {
+        "title": "アメリカ合衆国冷戦期",
+        "body": "冷戦期に西側陣営の中心となったアメリカ合衆国を指します。軍事同盟、核抑止、経済支援、宇宙開発などで世界政治に大きな影響を与えました。"
+      }
+    },
+    "ソビエト連邦冷戦期": {
+      "scopes": [],
+      "tooltip": {
+        "title": "ソビエト連邦冷戦期",
+        "body": "冷戦期に東側陣営の中心となったソビエト連邦を指します。社会主義圏の形成、軍事競争、宇宙開発、東欧支配などで世界政治に大きく関わりました。"
+      }
+    },
+    "冷戦勢力": {
+      "reading": "れいせんせいりょく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": {
+        "title": "冷戦勢力",
+        "body": "冷戦の対立構造の中で、アメリカ側・ソ連側などに分かれて影響力を持った国や勢力を指します。独立後の国々の政治にも介入や支援を通じて関わりました。"
+      },
+      "ruby": {
+        "base": "冷戦勢力",
+        "reading": "れいせんせいりょく",
+        "mode": "whole-term"
+      }
+    },
+    "蒸気機関": {
+      "tooltip": {
+        "title": "蒸気機関",
+        "body": "水を熱してできた蒸気の力を、機械を動かす力に変える装置です。産業革命では工場や鉱山、鉄道などの動力として社会を大きく変えました。"
+      },
+      "reading": "じょうききかん",
+      "ruby": {
+        "base": "蒸気機関",
+        "reading": "じょうききかん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "ジェニー紡績機": {
+      "tooltip": {
+        "title": "ジェニー紡績機",
+        "body": "18世紀イギリスで使われた、複数の糸を同時に紡げる機械です。手作業より多くの糸を作れるようになり、綿工業の発展を進めました。"
+      },
+      "scopes": []
+    },
+    "水力紡績機": {
+      "tooltip": {
+        "title": "水力紡績機",
+        "body": "水車など水の力で動かす紡績機です。人の手だけに頼らず大量の糸を作れるようになり、工場制の発展につながりました。"
+      },
+      "reading": "すいりょくぼうせきき",
+      "ruby": {
+        "base": "水力紡績機",
+        "reading": "すいりょくぼうせきき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "ミュール紡績機": {
+      "tooltip": {
+        "title": "ミュール紡績機",
+        "body": "ジェニー紡績機と水力紡績機の長所を組み合わせた紡績機です。細く強い綿糸を大量に作れるようになり、綿工業を大きく発展させました。"
+      },
+      "scopes": []
+    },
+    "力織機": {
+      "tooltip": {
+        "title": "力織機",
+        "body": "人の手ではなく、水力や蒸気機関などの動力で布を織る機械です。織物の生産量を増やし、工場での大量生産を進めました。"
+      },
+      "reading": "りきしょっき",
+      "ruby": {
+        "base": "力織機",
+        "reading": "りきしょっき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "紡績機械": {
+      "tooltip": {
+        "title": "紡績機械",
+        "body": "綿や羊毛などの繊維から糸を作るための機械です。産業革命では紡績機械の改良が、手工業から工場生産への変化を進めました。"
+      },
+      "reading": "ぼうせききかい",
+      "ruby": {
+        "base": "紡績機械",
+        "reading": "ぼうせききかい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "綿工業": {
+      "tooltip": {
+        "title": "綿工業",
+        "body": "綿花から糸や布を作る産業です。イギリス産業革命では紡績機や織機の改良によって急成長し、世界の貿易にも影響しました。"
+      },
+      "reading": "めんこうぎょう",
+      "ruby": {
+        "base": "綿工業",
+        "reading": "めんこうぎょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "工場制": {
+      "tooltip": {
+        "title": "工場制",
+        "body": "多くの労働者を一つの工場に集め、機械と分業で商品を作る生産の仕組みです。産業革命で広がり、働き方や都市の姿を変えました。"
+      },
+      "reading": "こうじょうせい",
+      "ruby": {
+        "base": "工場制",
+        "reading": "こうじょうせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "鉱山排水": {
+      "tooltip": {
+        "title": "鉱山排水",
+        "body": "鉱山の地下にたまった水を外へ出すことです。蒸気機関はもともと鉱山排水に使われ、のちに工場や鉄道の動力へ広がりました。"
+      },
+      "reading": "こうざんはいすい",
+      "ruby": {
+        "base": "鉱山排水",
+        "reading": "こうざんはいすい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "工場労働": {
+      "tooltip": {
+        "title": "工場労働",
+        "body": "工場で決められた時間や機械の速度に合わせて働く労働です。産業革命で広がり、長時間労働や児童労働などの社会問題も生みました。"
+      },
+      "reading": "こうじょうろうどう",
+      "ruby": {
+        "base": "工場労働",
+        "reading": "こうじょうろうどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "カトリック教会": {
+      "tooltip": {
+        "title": "カトリック教会",
+        "body": "ローマ教皇を中心とするキリスト教の大きな教会です。中世ヨーロッパでは宗教だけでなく政治や学問、社会秩序にも強い影響を持ちました。"
+      },
+      "scopes": []
+    },
+    "イギリス国教会": {
+      "tooltip": {
+        "title": "イギリス国教会",
+        "body": "16世紀にイングランドで成立したキリスト教会です。国王を教会の首長とし、宗教改革と王権、政治対立に深く関わりました。"
+      },
+      "scopes": []
+    },
+    "活版印刷": {
+      "tooltip": {
+        "title": "活版印刷",
+        "body": "金属などの活字を組み合わせて本を印刷する技術です。聖書やパンフレット、学問の本が広まり、宗教改革や知識の普及を支えました。"
+      },
+      "reading": "かっぱんいんさつ",
+      "ruby": {
+        "base": "活版印刷",
+        "reading": "かっぱんいんさつ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "三部会": {
+      "tooltip": {
+        "title": "三部会",
+        "body": "フランスで聖職者、貴族、平民の三つの身分代表が集まった会議です。1789年の開催はフランス革命が始まる大きなきっかけになりました。"
+      },
+      "reading": "さんぶかい",
+      "ruby": {
+        "base": "三部会",
+        "reading": "さんぶかい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "封建的特権": {
+      "tooltip": {
+        "title": "封建的特権",
+        "body": "フランス革命前の貴族や聖職者などが持っていた、税の免除や領主としての権利などの特別な利益です。平民の不満を強め、革命の原因になりました。"
+      },
+      "reading": "ほうけんてきとっけん",
+      "ruby": {
+        "base": "封建的特権",
+        "reading": "ほうけんてきとっけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "国民議会": {
+      "tooltip": {
+        "title": "国民議会",
+        "body": "フランス革命初期に、第三身分の代表を中心に作られた議会です。国民の代表が憲法を作るという考えを示し、旧制度を揺るがしました。"
+      },
+      "reading": "こくみんぎかい",
+      "ruby": {
+        "base": "国民議会",
+        "reading": "こくみんぎかい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "人権宣言": {
+      "tooltip": {
+        "title": "人権宣言",
+        "body": "フランス革命中に出された、自由や平等、人民主権などを掲げた宣言です。近代の人権や憲法の考え方に大きな影響を与えました。"
+      },
+      "reading": "じんけんせんげん",
+      "ruby": {
+        "base": "人権宣言",
+        "reading": "じんけんせんげん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "立憲君主政": {
+      "tooltip": {
+        "title": "立憲君主政",
+        "body": "君主は存在するものの、憲法や議会によって権力が制限される政治の仕組みです。王の絶対的な支配を改める制度として広がりました。"
+      },
+      "reading": "りっけんくんしゅせい",
+      "ruby": {
+        "base": "立憲君主政",
+        "reading": "りっけんくんしゅせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "絶対王政": {
+      "tooltip": {
+        "title": "絶対王政",
+        "body": "王が強い権力を持ち、官僚や軍隊を使って国を治める政治体制です。近世ヨーロッパで見られ、革命や議会政治の課題にもなりました。"
+      },
+      "reading": "ぜったいおうせい",
+      "ruby": {
+        "base": "絶対王政",
+        "reading": "ぜったいおうせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "コモン・センス": {
+      "tooltip": {
+        "title": "コモン・センス",
+        "body": "トマス・ペインが1776年に発表した小冊子です。北アメリカの植民地の人々に、イギリスからの独立を分かりやすく訴えました。"
+      },
+      "scopes": []
+    },
+    "独立宣言": {
+      "tooltip": {
+        "title": "独立宣言",
+        "body": "1776年に北アメリカの13植民地が、イギリスから独立する意思を示した文書です。自由や平等の考えを掲げ、アメリカ建国の土台になりました。"
+      },
+      "reading": "どくりつせんげん",
+      "ruby": {
+        "base": "独立宣言",
+        "reading": "どくりつせんげん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "奴隷解放宣言": {
+      "tooltip": {
+        "title": "奴隷解放宣言",
+        "body": "南北戦争中にリンカーンが出した宣言です。反乱州の奴隷を自由にすると示し、戦争の目的を奴隷制廃止へ大きく近づけました。"
+      },
+      "reading": "どれいかいほうせんげん",
+      "ruby": {
+        "base": "奴隷解放宣言",
+        "reading": "どれいかいほうせんげん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "不買運動": {
+      "tooltip": {
+        "title": "不買運動",
+        "body": "抗議のために特定の商品や店を買わない運動です。奴隷制廃止運動や公民権運動などで、社会を変える圧力として使われました。"
+      },
+      "reading": "ふばいうんどう",
+      "ruby": {
+        "base": "不買運動",
+        "reading": "ふばいうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "南北戦争": {
+      "tooltip": {
+        "title": "南北戦争",
+        "body": "1861年から1865年にアメリカで起きた内戦です。奴隷制をめぐる対立が大きな原因となり、戦後に制度上の奴隷制が廃止されました。"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "不平等条約": {
+      "tooltip": {
+        "title": "不平等条約",
+        "body": "一方の国に不利な条件を押しつけた条約です。領事裁判権や関税自主権の制限などがあり、近代アジアの国々に大きな負担となりました。"
+      },
+      "reading": "ふびょうどうじょうやく",
+      "ruby": {
+        "base": "不平等条約",
+        "reading": "ふびょうどうじょうやく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "ベルリン会議": {
+      "tooltip": {
+        "title": "ベルリン会議",
+        "body": "1884年から1885年にヨーロッパ列強が開いた会議です。アフリカの人々を参加させず、アフリカ分割のルールを決めました。"
+      },
+      "scopes": []
+    },
+    "アフリカ分割": {
+      "tooltip": {
+        "title": "アフリカ分割",
+        "body": "19世紀後半、ヨーロッパ列強がアフリカ各地を植民地として分け合った動きです。国境や経済、社会に長い影響を残しました。"
+      },
+      "scopes": []
+    },
+    "民族運動": {
+      "tooltip": {
+        "title": "民族運動",
+        "body": "同じ民族や地域の人々が、自治や独立、権利の回復を求めて起こす運動です。植民地支配への抵抗や国家形成と深く関わりました。"
+      },
+      "reading": "みんぞくうんどう",
+      "ruby": {
+        "base": "民族運動",
+        "reading": "みんぞくうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "独立運動": {
+      "tooltip": {
+        "title": "独立運動",
+        "body": "他国の支配や植民地支配から離れ、自分たちの国や政治を作ろうとする運動です。指導者だけでなく市民や労働者も関わりました。"
+      },
+      "reading": "どくりつうんどう",
+      "ruby": {
+        "base": "独立運動",
+        "reading": "どくりつうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "国民国家": {
+      "tooltip": {
+        "title": "国民国家",
+        "body": "共通の国民意識や制度をもとにまとまる近代国家です。言語、教育、軍隊、選挙などを通じて国民としてのまとまりを作りました。"
+      },
+      "reading": "こくみんこっか",
+      "ruby": {
+        "base": "国民国家",
+        "reading": "こくみんこっか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "人種隔離制度": {
+      "tooltip": {
+        "title": "人種隔離制度",
+        "body": "人種を理由に住む場所、学校、仕事、公共施設などを分ける差別的な制度です。アメリカ南部や南アフリカで大きな問題になりました。"
+      },
+      "reading": "じんしゅかくりせいど",
+      "ruby": {
+        "base": "人種隔離制度",
+        "reading": "じんしゅかくりせいど",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "非暴力": {
+      "tooltip": {
+        "title": "非暴力",
+        "body": "暴力を使わず、抗議や不服従によって社会を変えようとする方法です。ガンディーやキング牧師の運動で重要な考え方になりました。"
+      },
+      "reading": "ひぼうりょく",
+      "ruby": {
+        "base": "非暴力",
+        "reading": "ひぼうりょく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "塩の行進": {
+      "tooltip": {
+        "title": "塩の行進",
+        "body": "1930年にガンディーが行った非暴力の抗議行動です。イギリスの塩税に反対し、インド独立運動を世界に知らせました。"
+      },
+      "reading": "しおのこうしん",
+      "ruby": {
+        "base": "塩の行進",
+        "reading": "しおのこうしん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "ワルシャワ条約機構": {
+      "tooltip": {
+        "title": "ワルシャワ条約機構",
+        "body": "冷戦期にソ連と東ヨーロッパの社会主義国が作った軍事同盟です。NATOに対抗し、東側陣営の結束を示しました。"
+      },
+      "scopes": []
+    },
+    "北大西洋条約機構": {
+      "tooltip": {
+        "title": "北大西洋条約機構",
+        "body": "NATOの正式名称です。加盟国への攻撃を全体への攻撃とみなし、共同で防衛することをめざした軍事同盟です。"
+      },
+      "reading": "きただいせいようじょうやくきこう",
+      "ruby": {
+        "base": "北大西洋条約機構",
+        "reading": "きただいせいようじょうやくきこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "キューバ危機": {
+      "tooltip": {
+        "title": "キューバ危機",
+        "body": "1962年、キューバにソ連の核ミサイルが置かれようとして、アメリカとソ連が核戦争寸前まで対立した事件です。交渉で衝突は回避されました。"
+      },
+      "scopes": []
+    },
+    "大陸間ミサイル": {
+      "tooltip": {
+        "title": "大陸間ミサイル",
+        "body": "大陸を越える長い距離を飛ぶミサイルです。冷戦期には核兵器を遠くの国へ届かせる手段として、米ソの軍事競争を激しくしました。"
+      },
+      "scopes": []
+    },
+    "核兵器": {
+      "tooltip": {
+        "title": "核兵器",
+        "body": "核分裂や核融合のエネルギーを使う非常に破壊力の大きな兵器です。第二次世界大戦後の国際政治や冷戦に大きな影響を与えました。"
+      },
+      "reading": "かくへいき",
+      "ruby": {
+        "base": "核兵器",
+        "reading": "かくへいき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "全面核戦争": {
+      "tooltip": {
+        "title": "全面核戦争",
+        "body": "核兵器を持つ国どうしが大規模に核攻撃を行う戦争です。地球規模の被害を生む危険があるため、冷戦期の最大の恐怖となりました。"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "社会主義政権": {
+      "tooltip": {
+        "title": "社会主義政権",
+        "body": "生産や経済を国家や社会全体で管理しようとする社会主義を掲げた政権です。冷戦期にはソ連や東欧諸国が代表例でした。"
+      },
+      "reading": "しゃかいしゅぎせいけん",
+      "ruby": {
+        "base": "社会主義政権",
+        "reading": "しゃかいしゅぎせいけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "代理戦争": {
+      "tooltip": {
+        "title": "代理戦争",
+        "body": "大国どうしが直接戦わず、別の国や地域の戦争を支援して争うことです。冷戦期の朝鮮戦争やベトナム戦争などを理解する手がかりになります。"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "世界大戦": {
+      "tooltip": {
+        "title": "世界大戦",
+        "body": "多くの大国と地域を巻き込み、世界規模で行われる戦争です。20世紀の二つの世界大戦は政治、経済、人権、国際秩序を大きく変えました。"
+      },
+      "reading": "せかいたいせん",
+      "ruby": {
+        "base": "世界大戦",
+        "reading": "せかいたいせん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "楔形文字": {
+      "tooltip": {
+        "title": "楔形文字",
+        "body": "メソポタミアで使われた、くさび形の跡を粘土板に刻む文字です。税、交易、法律、王の記録などを残すために使われました。"
+      },
+      "reading": "くさびがたもじ",
+      "ruby": {
+        "base": "楔形文字",
+        "reading": "くさびがたもじ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "インダス文字": {
+      "tooltip": {
+        "title": "インダス文字",
+        "body": "インダス文明で印章などに刻まれた文字です。まだ解読されておらず、政治や宗教の詳しい内容を知るうえで大きな課題になっています。"
+      },
+      "scopes": []
+    },
+    "太陽暦": {
+      "tooltip": {
+        "title": "太陽暦",
+        "body": "地球が太陽のまわりを一周する周期をもとにした暦です。農作業や祭り、国家の記録を整えるために重要でした。"
+      },
+      "reading": "たいようれき",
+      "ruby": {
+        "base": "太陽暦",
+        "reading": "たいようれき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "三圃制": {
+      "tooltip": {
+        "title": "三圃制",
+        "body": "中世ヨーロッパで耕地を三つに分け、作物を作る土地と休ませる土地を順番に変えた農法です。収穫を安定させる工夫でした。"
+      },
+      "reading": "さんぽせい",
+      "ruby": {
+        "base": "三圃制",
+        "reading": "さんぽせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "荘園制": {
+      "tooltip": {
+        "title": "荘園制",
+        "body": "領主が農民から地代や労働を受け取り、土地を支配した中世ヨーロッパの仕組みです。封建社会の生活や身分関係を支えました。"
+      },
+      "reading": "しょうえんせい",
+      "ruby": {
+        "base": "荘園制",
+        "reading": "しょうえんせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "封建制": {
+      "tooltip": {
+        "title": "封建制",
+        "body": "王や領主、騎士が土地や保護、軍役を通じて結びついた中世の支配の仕組みです。地域ごとの支配と身分秩序を特徴としました。"
+      },
+      "reading": "ほうけんせい",
+      "ruby": {
+        "base": "封建制",
+        "reading": "ほうけんせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "重商主義": {
+      "tooltip": {
+        "title": "重商主義",
+        "body": "国の富を増やすため、貿易や植民地、産業を国家が強く管理する考え方です。近世ヨーロッパの海外進出や植民地政策と関わりました。"
+      },
+      "reading": "じゅうしょうしゅぎ",
+      "ruby": {
+        "base": "重商主義",
+        "reading": "じゅうしょうしゅぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "啓蒙思想": {
+      "tooltip": {
+        "title": "啓蒙思想",
+        "body": "理性や自由、平等、社会の改善を重視した近代ヨーロッパの思想です。アメリカ独立やフランス革命に大きな影響を与えました。"
+      },
+      "reading": "けいもうしそう",
+      "ruby": {
+        "base": "啓蒙思想",
+        "reading": "けいもうしそう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "社会契約説": {
+      "tooltip": {
+        "title": "社会契約説",
+        "body": "政府は人々の合意によって作られるという政治思想です。王権を制限し、人民主権や近代憲法を考える土台になりました。"
+      },
+      "reading": "しゃかいけいやくせつ",
+      "ruby": {
+        "base": "社会契約説",
+        "reading": "しゃかいけいやくせつ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "東インド会社": {
+      "tooltip": {
+        "title": "東インド会社",
+        "body": "ヨーロッパ諸国がアジア貿易を進めるために作った会社です。特にイギリス東インド会社はインド支配にも深く関わりました。"
+      },
+      "scopes": []
+    },
+    "イギリス東インド会社": {
+      "tooltip": {
+        "title": "イギリス東インド会社",
+        "body": "イギリスがアジア貿易のために作った会社です。インドでは軍事力や徴税権を持つようになり、植民地支配の中心になりました。"
+      },
+      "scopes": []
+    },
+    "選挙権": {
+      "tooltip": {
+        "title": "選挙権",
+        "body": "代表者を選ぶために投票できる権利です。近代以降、財産や性別、人種による制限をなくす運動が各地で進みました。"
+      },
+      "reading": "せんきょけん",
+      "ruby": {
+        "base": "選挙権",
+        "reading": "せんきょけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    }
+  }
+};

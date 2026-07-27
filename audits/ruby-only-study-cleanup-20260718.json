@@ -1,0 +1,275 @@
+{
+  "changed": [
+    {
+      "term": "雑穀",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "ざっこく",
+        "ruby": {
+          "base": "雑穀",
+          "reading": "ざっこく",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "雑穀",
+          "body": "米や小麦以外の穀物をまとめて指す言葉です。アワ、キビ、ヒエなどがあり、古代の食生活や農業を考える手がかりになります。"
+        }
+      }
+    },
+    {
+      "term": "牧畜",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "ぼくちく",
+        "ruby": {
+          "base": "牧畜",
+          "reading": "ぼくちく",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "牧畜",
+          "body": "牛、羊、ヤギなどの家畜を飼って、肉、乳、毛、労働力を得る生活や産業です。農耕と並ぶ重要な生産の形です。"
+        }
+      }
+    },
+    {
+      "term": "諸侯",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "しょこう",
+        "ruby": {
+          "base": "諸侯",
+          "reading": "しょこう",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "諸侯",
+          "body": "王や皇帝の下で一定の領地や軍事力を持った有力者たちです。封建制や古代中国の政治を理解する鍵になります。"
+        }
+      }
+    },
+    {
+      "term": "抵抗勢力",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "ていこうせいりょく",
+        "ruby": {
+          "base": "抵抗勢力",
+          "reading": "ていこうせいりょく",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "抵抗勢力",
+          "body": "支配や侵略、政策に反対して抵抗する集団や勢力です。植民地支配や戦争の場面でよく使われます。"
+        }
+      }
+    },
+    {
+      "term": "律令",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "りつりょう",
+        "ruby": {
+          "base": "律令",
+          "reading": "りつりょう",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "律令",
+          "body": "古代国家が定めた法律と行政制度です。刑罰を定める律と、政治の仕組みを定める令から成ります。"
+        }
+      }
+    },
+    {
+      "term": "拮抗",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "きっこう",
+        "ruby": {
+          "base": "拮抗",
+          "reading": "きっこう",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "拮抗",
+          "body": "複数の勢力がほぼ同じ力で対立し、どちらも簡単には優位に立てない状態です。"
+        }
+      }
+    },
+    {
+      "term": "均衡",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "きんこう",
+        "ruby": {
+          "base": "均衡",
+          "reading": "きんこう",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "均衡",
+          "body": "力や影響がつり合っている状態です。国際関係では勢力均衡という形で使われます。"
+        }
+      }
+    },
+    {
+      "term": "航路開拓",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "こうろかいたく",
+        "ruby": {
+          "base": "航路開拓",
+          "reading": "こうろかいたく",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "航路開拓",
+          "body": "船で移動する新しい道筋を見つけ、交易や探検に使えるようにすることです。大航海時代の理解に関わります。"
+        }
+      }
+    },
+    {
+      "term": "香辛料",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "こうしんりょう",
+        "ruby": {
+          "base": "香辛料",
+          "reading": "こうしんりょう",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "香辛料",
+          "body": "料理の香りや味つけ、保存などに使われた植物由来の品です。コショウ、クローブ、シナモンなどがあり、大航海時代の交易で重要でした。"
+        }
+      }
+    },
+    {
+      "term": "十六大国",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "じゅうろくだいこく",
+        "ruby": {
+          "base": "十六大国",
+          "reading": "じゅうろくだいこく",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "十六大国",
+          "body": "古代インドで有力だった十六の国々を指します。仏教やジャイナ教が生まれた時代背景と関わります。"
+        }
+      }
+    },
+    {
+      "term": "地球規模",
+      "action": "removed-basic",
+      "before": {
+        "reading": "ちきゅうきぼ",
+        "ruby": {
+          "base": "地球規模",
+          "reading": "ちきゅうきぼ",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      }
+    },
+    {
+      "term": "制度改革",
+      "action": "removed-basic",
+      "before": {
+        "reading": "せいどかいかく",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "制度改革",
+          "reading": "せいどかいかく",
+          "mode": "whole-term"
+        }
+      }
+    }
+  ],
+  "total": 803
+}

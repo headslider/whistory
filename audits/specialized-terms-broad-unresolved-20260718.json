@@ -1,0 +1,2039 @@
+[
+  {
+    "term": "大西洋革命",
+    "count": 20,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:124.region => 大西洋革命"
+  },
+  {
+    "term": "政治思想",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:カウティリヤ.modal.profile => 古代インドでチャンドラグプタを助けたと伝えられる政治思想家です。『実利論』では、税、外交、情報、王の務めを細かく考えました。著者や成立時期には研究"
+  },
+  {
+    "term": "航海技術",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:104.text => ル海上帝国はヨーロッパの海洋勢力で力を持った王国・帝国です。航海技術と軍事力、商人の利益が結びつき、海外進出と植民地支配を進めました。"
+  },
+  {
+    "term": "イギリス支配",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.text => シル・ローズは南部アフリカで鉱山事業と植民地拡大を結び付け、イギリス支配を北へ広げました。各国は「文明化」を掲げましたが、実際には土地の接収、現金納税、強制労働、"
+  },
+  {
+    "term": "スペイン支配",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:エルナン・コルテス.modal.profile => ィトランを倒しました。武力だけでなく疫病も大きな被害を生み、スペイン支配が始まりました。戦場での行動と、その後の講和や国家の再編までを一続きに捉える必要があります"
+  },
+  {
+    "term": "河姆渡文化",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 江流域と黄河流域で異なる農耕文化が発達しました。長江下流域の河姆渡文化では、湿地を利用した稲作、高床式住居、骨や木で作った農具が確認されています。黄河流域の仰韶"
+  },
+  {
+    "term": "仰韶文化",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 高床式住居、骨や木で作った農具が確認されています。黄河流域の仰韶文化では、アワやキビを育て、彩文土器を使う集落が広がりました。長江流域では水を引き入れたり排水"
+  },
+  {
+    "term": "バクトリア・マルギアナ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:11.name => バクトリア・マルギアナ文化"
+  },
+  {
+    "term": "イギリス東インド会社支配",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:139.name => イギリス東インド会社支配"
+  },
+  {
+    "term": "アンドロノヴォ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:12.name => アンドロノヴォ文化"
+  },
+  {
+    "term": "バルディビア文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:19.name => バルディビア文化"
+  },
+  {
+    "term": "イギリス労働運動",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:159.name => イギリス労働運動"
+  },
+  {
+    "term": "ナトゥーフ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:0.name => ナトゥーフ文化"
+  },
+  {
+    "term": "ハッスーナ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:3.name => ハッスーナ文化"
+  },
+  {
+    "term": "ポウハタン連合",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:113.name => ポウハタン連合"
+  },
+  {
+    "term": "マラーター同盟",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:141.name => マラーター同盟"
+  },
+  {
+    "term": "インド国民会議",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:179.name => インド国民会議"
+  },
+  {
+    "term": "オクサス文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:13.name => オクサス文化"
+  },
+  {
+    "term": "チャビン文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:16.name => チャビン文化"
+  },
+  {
+    "term": "オルメカ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:17.name => オルメカ文化"
+  },
+  {
+    "term": "アフリカ連合",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:197.name => アフリカ連合"
+  },
+  {
+    "term": "多民族支配",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.cards.event.detail => ます。 教科書で押さえたい地域別のできごとは、ペルシャ帝国の多民族支配、ギリシャの市民政治、ローマ帝国の地中海支配、秦と漢の中国統一、アショーカ王と仏教保護です"
+  },
+  {
+    "term": "地中海支配",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.cards.event.detail => 、ペルシャ帝国の多民族支配、ギリシャの市民政治、ローマ帝国の地中海支配、秦と漢の中国統一、アショーカ王と仏教保護です。"
+  },
+  {
+    "term": "ハラフ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:4.name => ハラフ文化"
+  },
+  {
+    "term": "カラル文明",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:15.name => カラル文明"
+  },
+  {
+    "term": "三星堆文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "modal:38.name => 三星堆文化"
+  },
+  {
+    "term": "ASEAN",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:196.name => ASEAN"
+  },
+  {
+    "term": "国際文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.cards.event.detail => を見ます。 教科書で押さえたい地域別のできごとは、唐と長安の国際文化、シルクロードの交流、イスラム世界の商業と学問、インド洋交易の広がり、ヨーロッパ都市と商人"
+  },
+  {
+    "term": "科学技術",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.cards.event.summary => 帝国主義、アジア・アフリカ分割、明治維新、科学技術の発展、女性参政権運動などが世界各地で進みました。"
+  },
+  {
+    "term": "政治運動",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 法制度は行政と軍事移動を効率化しましたが、同時に地域を越える政治運動の基盤にもなりました。サイイド・アフマド・ハーンはイスラム教徒へ近代教育を広め、ガンディー"
+  },
+  {
+    "term": "抵抗運動",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.cards.power.summary => 国家、軍、国際機関、市民、抵抗運動が歴史を動かしました。戦争を止め、人権を守るしくみが強く求められました。"
+  },
+  {
+    "term": "差別政策",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ネルソン・マンデラ.modal.profile => イトは、南アフリカで人種ごとに居住地や教育、政治参加を分けた差別政策です。成果だけでなく、運動が直面した反対や限界も含めて理解する必要があります。"
+  },
+  {
+    "term": "農場労働",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:セサル・チャベス.modal.profile => アメリカで農場労働者の組合を作った活動家です。低賃金や危険な農薬に抗議し、ぶどうの不買運動や行進を進めました"
+  },
+  {
+    "term": "海上支配",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:ポルトガルとスペインの航路開拓.modal.whatHappened => んになると、離れた地域の需要と生産が結びつきました。一方で、海上支配、植民地化、強制労働へつながる場合もありました。この変化は政治や経済だけでなく、人々の仕事"
+  },
+  {
+    "term": "龍山文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "modal:6.name => 龍山文化"
+  },
+  {
+    "term": "良渚文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "modal:8.name => 良渚文化"
+  },
+  {
+    "term": "紅山文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "modal:9.name => 紅山文化"
+  },
+  {
+    "term": "中央同盟",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:165.name => 中央同盟国"
+  },
+  {
+    "term": "WHO",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "modal:198.name => WHO"
+  },
+  {
+    "term": "瑜伽行派・唯識思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 」を論じ、アサンガとヴァスバンドゥは心と認識の働きを説明する瑜伽行派・唯識思想を整えました。僧院は修行の場であるだけでなく、経典研究、教育、巡礼者の宿泊、商人との交流を"
+  },
+  {
+    "term": "メキシコ独立運動",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ミゲル・イダルゴ.modal.profile => メキシコ独立運動の始まりを告げた神父です。1810年にドロレスの叫びで民衆に蜂起を呼びかけました。反乱は鎮"
+  },
+  {
+    "term": "人種隔離政策",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ネルソン・マンデラ.modal.profile => 南アフリカで人種隔離政策アパルトヘイトに反対し、長い投獄を経験した政治家です。解放後は交渉を進め、1994年に同国"
+  },
+  {
+    "term": "発明家・技術",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ロバート・フルトン.modal.profile => アメリカの発明家・技術者です。蒸気船クラーモント号をハドソン川で定期運航させました。川を上流へも安定して進める蒸"
+  },
+  {
+    "term": "スルタナの夢",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ロキア・サカワット・ホセイン.modal.profile => です。女性が学べない社会を批判し、女子学校を開きました。小説『スルタナの夢』では女性が科学と政治を担う社会を描き、女性教育の必要を訴えました。作品そのものだけでな"
+  },
+  {
+    "term": "量子電磁力学",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:リチャード・ファインマン.modal.profile => アメリカの物理学者です。量子電磁力学を発展させ、わかりやすい講義でも知られます。原爆開発に参加し、後に科学教育と自由な発想を重"
+  },
+  {
+    "term": "作家・思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ヴォルテール.modal.profile => フランスの作家・思想家です。宗教の違いを認め、言論の自由や不正な裁判への批判を行いました。王や教会を何でも否定"
+  },
+  {
+    "term": "社会契約論",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ルソー.modal.profile => フランスの思想家です。政治は人々の合意にもとづくべきだと『社会契約論』で説きました。自由と平等を重視する考えは革命に影響しましたが、直接その行動を指揮したわ"
+  },
+  {
+    "term": "共産党宣言",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:カール・マルクス.modal.profile => 資本を持つ人の関係を分析し、資本主義の矛盾を批判しました。『共産党宣言』『資本論』は労働運動や社会主義に大きな影響を与えました。社会主義は、貧富の差や労働者の苦"
+  },
+  {
+    "term": "廃止運動",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.peopleNote => この項目では、登録人物に限定すると特定の廃止運動指導者が不足するため、人物名を無理に追加せず、奴隷にされた人々自身の抵抗、ハイチ革命、議会"
+  },
+  {
+    "term": "大衆運動",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.peopleNote => による社会再建を進め、マハトマ・ガンディーは非暴力・不服従を大衆運動へ発展させました。"
+  },
+  {
+    "term": "対外戦争",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 。両国の違いは文化の優劣ではなく、国内政治、財政、改革勢力、対外戦争の結果が重なって生まれました。"
+  },
+  {
+    "term": "世界貿易",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.summary => 株価暴落と金融不安が世界貿易・生産・雇用を縮小させ、民主政治と国際協調を揺るがす"
+  },
+  {
+    "term": "宗教思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ゾロアスター.modal.profile => 古代イランの宗教思想家とされ、善と悪の選択、正しい考えと言葉と行いを重視する教えを伝えました。実在した時期には"
+  },
+  {
+    "term": "解析機関",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:チャールズ・バベッジ.modal.profile => スの数学者です。計算を自動で行う差分機関と、プログラム可能な解析機関を設計しました。完成には至りませんでしたが、現代のコンピューターの考え方を早くから示しまし"
+  },
+  {
+    "term": "一党支配",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:レーニン.modal.profile => を取り、ソビエト政権を作りました。土地と平和を掲げましたが、一党支配と内戦の体制も始まりました。"
+  },
+  {
+    "term": "政治体制",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:近衛文麿.modal.profile => 前に内閣を率いました。外交で戦争を避ける交渉に失敗し、国内の政治体制を戦時向けにまとめる動きにも関わりました。"
+  },
+  {
+    "term": "貴族文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:中国南北朝時代.modal.whatHappened => った時代です。北方民族の政権と南の漢人王朝が競い合い、仏教や貴族文化が広がりました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得よう"
+  },
+  {
+    "term": "法華経",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => 安、洛陽を結び、経典、仏像、礼拝方法を運びました。鳩摩羅什は『法華経』『阿弥陀経』『中論』などを読みやすい漢文へ訳し、ナーガールジュナの思想を中国へ定着させ"
+  },
+  {
+    "term": "旧制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.text => テスキューの権力分立、ヴォルテールの宗教的寛容など啓蒙思想も旧制度批判を強めました。ルイ16世が三部会を招集すると第三身分は国民議会を結成し、1789年のバ"
+  },
+  {
+    "term": "法制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.text => で多数が処刑されました。その後ナポレオンが権力を握り、革命の法制度を広める一方で皇帝となりました。"
+  },
+  {
+    "term": "ハックルベリー・フィンの冒険",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:マーク・トウェイン.modal.profile => アメリカの作家です。『トム・ソーヤーの冒険』『ハックルベリー・フィンの冒険』で知られます。ユーモアを使い、人種差別や社会の矛盾を描きました。"
+  },
+  {
+    "term": "核軍拡・軍事同盟・代理戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.summary => 米ソ対立が核軍拡・軍事同盟・代理戦争を生み、緊張緩和と改革を経て終結する"
+  },
+  {
+    "term": "女性と女性市民の権利宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:オランプ・ド・グージュ.modal.profile => フランス革命期の作家です。『女性と女性市民の権利宣言』で、女性にも政治参加や法の平等が必要だと訴えました。革命政府を批判したため逮捕され、ギ"
+  },
+  {
+    "term": "工業化・住宅・教育政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.2.peopleNote => 鄧小平は中国の改革開放、リー・クアンユーはシンガポールの工業化・住宅・教育政策を進め、東アジアの発展モデルへ影響しました。"
+  },
+  {
+    "term": "アシュターディヤーイー",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:パーニニ.modal.profile => 法学者です。サンスクリット語の規則を短い文で体系的にまとめた『アシュターディヤーイー』を残しました。言葉を細かく分析する方法は、後の言語学にも注目されています。この人物の活"
+  },
+  {
+    "term": "産業・移民・帝国支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.5.summary => 鉄道・汽船・電信が時間と距離を縮め、産業・移民・帝国支配を同時に加速する"
+  },
+  {
+    "term": "日中戦争・太平洋戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.3.summary => 満州事変から日中戦争・太平洋戦争へ拡大し、占領地と都市住民へ甚大な被害を与える"
+  },
+  {
+    "term": "ルースカヤ・プラウダ",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ヤロスラフ賢公.modal.profile => キエフ公国の君主です。法律集『ルースカヤ・プラウダ』を整え、キエフに聖ソフィア大聖堂を建てました。ヨーロッパ各地の王家と婚姻関係を結び、国"
+  },
+  {
+    "term": "セネカフォールズ会議",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:エリザベス・キャディ・スタントン.modal.profile => アメリカの女性権利運動家です。1848年のセネカフォールズ会議で女性の参政権を求める宣言をまとめました。奴隷制廃止運動とも関わり、法的平等を訴えました。"
+  },
+  {
+    "term": "社会主義者・女性運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:クララ・ツェトキン.modal.profile => ドイツの社会主義者・女性運動家です。働く女性の権利と参政権を訴え、国際女性デーの提案に関わりました。労働運動と女性運動"
+  },
+  {
+    "term": "トム・ソーヤーの冒険",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:マーク・トウェイン.modal.profile => アメリカの作家です。『トム・ソーヤーの冒険』『ハックルベリー・フィンの冒険』で知られます。ユーモアを使い、人種差別や社会の矛盾を描"
+  },
+  {
+    "term": "サンスクリット文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 院での礼拝を通してヒンドゥー教へ発展しました。グプタ朝期にはサンスクリット文化と寺院建築が栄えましたが、身分秩序や職業の世襲も社会に根強く残りました。"
+  },
+  {
+    "term": "グリーンベルト運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ワンガリ・マータイ.modal.profile => ケニアで女性たちと木を植えるグリーンベルト運動を始めた環境活動家です。森を守ることを、土、水、女性の仕事、民主主義と結び付けて考え、ノー"
+  },
+  {
+    "term": "スペイン植民地支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ホセ・リサール.modal.profile => フィリピンの作家・医師です。小説でスペイン植民地支配や教会の不正を批判し、改革を求めました。武装蜂起の指導者ではありませんでしたが、1896年"
+  },
+  {
+    "term": "フィリピン独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:エミリオ・アギナルド.modal.profile => フィリピン独立運動の軍人・政治家です。スペイン支配に対する革命を率い、1898年に独立を宣言しました。その後"
+  },
+  {
+    "term": "フランス植民地支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ホー・チ・ミン.modal.profile => ベトナムの独立運動家です。フランス植民地支配に反対し、1945年に独立を宣言しました。その後の戦争を経て北ベトナムを率い、ベトナムの統"
+  },
+  {
+    "term": "カラマーゾフの兄弟",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ドストエフスキー.modal.profile => ロシアの小説家です。『罪と罰』『カラマーゾフの兄弟』などで信仰、罪、自由、貧困を描きました。近代社会の不安と人間の内面を深く表した作家です"
+  },
+  {
+    "term": "アンナ・カレーニナ",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:トルストイ.modal.profile => ロシアの小説家です。『戦争と平和』『アンナ・カレーニナ』で貴族社会、戦争、家族を描きました。晩年は非暴力や質素な生活を説き、世界の思想家にも影"
+  },
+  {
+    "term": "ニューディール政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:フランクリン・ルーズベルト.modal.profile => アメリカ第32代大統領です。世界恐慌に対してニューディール政策を進め、第二次世界大戦では連合国側を支えました。長期政権で現代アメリカ政治に大きな影響を残"
+  },
+  {
+    "term": "イギリス植民地支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジョモ・ケニヤッタ.modal.profile => ケニア独立運動の指導者で、独立後の初代大統領です。イギリス植民地支配からの独立を進めましたが、政権は強い与党支配と土地問題を抱えました。"
+  },
+  {
+    "term": "メソポタミア文明",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.powers.0.name => メソポタミア文明"
+  },
+  {
+    "term": "穀物・家畜・労働",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.0.text => 、ウルク、ウル、ラガシュなどの都市国家が成立し、神殿を中心に穀物・家畜・労働力が集められました。神官、書記、商人、職人、兵士が分業し、税や配給を記録する印から楔形文字"
+  },
+  {
+    "term": "道路・排水・交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.2.summary => インダス川流域で道路・排水・交易を備えた計画都市が栄える"
+  },
+  {
+    "term": "商品・宗教・技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.1.summary => 中央アジアのオアシス都市を結ぶ道で商品・宗教・技術・感染症が移動する"
+  },
+  {
+    "term": "商人・使節・技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.5.text => 数の政権へ分かれましたが、駅伝制、通行証、道路と宿駅を整え、商人・使節・技術者・宗教者の移動を保護しました。忽必烈は中国で元を建て、大都を都として南宋を滅ぼし、中国全"
+  },
+  {
+    "term": "綿工業・蒸気機関",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.0.summary => 綿工業・蒸気機関・石炭・鉄道が生産と交通を変え、工場都市と労働問題を生む"
+  },
+  {
+    "term": "人権宣言・共和政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.summary => 財政危機と身分制への不満から王政が崩れ、人権宣言・共和政・恐怖政治へ進む"
+  },
+  {
+    "term": "フランス人権宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.5.text => ルソーは主権が人民にあると論じました。これらはアメリカ憲法やフランス人権宣言へ影響し、19世紀には各地で憲法制定、出版の自由、普通選挙、民族統一を求める革命が起こりま"
+  },
+  {
+    "term": "企業・軍隊・条約",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.summary => 工業国が資源・市場・軍事拠点を求め、企業・軍隊・条約を使って海外支配を拡大する"
+  },
+  {
+    "term": "交通・医療・戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.5.peopleNote => ス・ナイチンゲールは統計と衛生改革を通して、工業技術と科学が交通・医療・戦争へ及ぼす影響を示しました。"
+  },
+  {
+    "term": "アフリカ民族会議",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.text => 都市で働くにも通行証を求められました。ネルソン・マンデラらのアフリカ民族会議は当初非暴力運動を行いましたが、シャープビル虐殺と組織禁止後には武装闘争へ移り、マンデラは"
+  },
+  {
+    "term": "女性の権利の擁護",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:メアリ・ウルストンクラフト.modal.profile => 男性と同じように教育を受け、理性を育てるべきだと訴えました。『女性の権利の擁護』は、近代の女性の権利を考える重要な本になりました。個人の行動が多くの人を動かし、法律や"
+  },
+  {
+    "term": "近代イスラム思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジャマールッディーン・アフガーニー.modal.profile => パの支配に対抗すべきだと訴えました。各地で政治運動に関わり、近代イスラム思想に影響しました。教えがどのように弟子や信者へ受け継がれ、地域をこえて広がったのかが重要です"
+  },
+  {
+    "term": "アメリカ独立宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:トマス・ジェファーソン.modal.profile => アメリカ独立宣言の主な起草者で、第三代大統領です。自由と平等を掲げましたが、自身は奴隷を所有していました。"
+  },
+  {
+    "term": "カンタベリー物語",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:チョーサー.modal.profile => 中世イングランドの詩人です。巡礼者たちが語る話を集めた『カンタベリー物語』を書きました。さまざまな身分の人を英語で描き、中世の社会や言葉を伝えました。作品や表現"
+  },
+  {
+    "term": "ギーターンジャリ",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ラビンドラナート・タゴール.modal.profile => ベンガルの詩人・教育者です。『ギーターンジャリ』でノーベル文学賞を受けました。自然と自由を大切にする学校を作り、植民地支配への批判と、"
+  },
+  {
+    "term": "イタリア統一運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ガリバルディ.modal.profile => イタリア統一運動の軍人です。1860年に「千人隊」を率いてシチリアとナポリを制圧し、統一への流れを作りまし"
+  },
+  {
+    "term": "女性社会政治同盟",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:エメリン・パンクハースト.modal.profile => イギリスの女性参政権運動家です。女性社会政治同盟を率い、投票権を求めて集会や抗議行動を行いました。激しい行動は議論を呼びましたが、参政権実"
+  },
+  {
+    "term": "キューバ独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ホセ・マルティ.modal.profile => キューバ独立運動の思想家・詩人です。スペイン支配からの独立を訴え、1895年の独立戦争に参加して戦死しまし"
+  },
+  {
+    "term": "風の谷のナウシカ",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:宮崎駿.modal.profile => 日本のアニメーション映画監督です。『風の谷のナウシカ』『千と千尋の神隠し』などで、自然、戦争、成長を描きました。日本アニメを世界に広げました"
+  },
+  {
+    "term": "千と千尋の神隠し",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:宮崎駿.modal.profile => 日本のアニメーション映画監督です。『風の谷のナウシカ』『千と千尋の神隠し』などで、自然、戦争、成長を描きました。日本アニメを世界に広げました。"
+  },
+  {
+    "term": "品物・宗教・技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:シルクロードの交流.summary => シルクロードで品物・宗教・技術が伝わる"
+  },
+  {
+    "term": "アンデス諸文明",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.2.text => しました。こうした基盤の上に、後のオルメカ、マヤ、アステカ、アンデス諸文明が発展しました。"
+  },
+  {
+    "term": "マハーバーラタ",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 神々や民間信仰を取り込み、ヴィシュヌ、シヴァ、女神への信仰、『マハーバーラタ』『ラーマーヤナ』などの物語、寺院での礼拝を通してヒンドゥー教へ発展しました。グプタ朝期"
+  },
+  {
+    "term": "ローマ帝国支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.2.text => 1世紀、ローマ帝国支配下のユダヤ地方で活動したイエスは、神への愛、隣人愛、悔い改めを説きました。十字架刑の後、ペ"
+  },
+  {
+    "term": "ユーラシア交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.5.peopleNote => ンギス・ハンは征服帝国の基礎を築き、忽必烈は元を建てて中国とユーラシア交易を結びました。両者の支配は交流の拡大と大規模な戦争被害の両面を持ちます。"
+  },
+  {
+    "term": "人種差別的支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.peopleNote => 広げました。その事業は鉄道と鉱業を発展させる一方、土地接収と人種差別的支配を強めました。"
+  },
+  {
+    "term": "独裁・保護貿易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.text => 州への進出を正当化する背景になりました。世界恐慌は経済危機が独裁・保護貿易・軍事膨張へ結び付く危険を示しました。"
+  },
+  {
+    "term": "経済社会理事会",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.text => 、中国が常任理事国として拒否権を持ちました。国際司法裁判所、経済社会理事会、事務局のほか、保健、教育、難民、食料、子どもの支援を担う機関も整えられました。1948年"
+  },
+  {
+    "term": "当初非暴力運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.text => 証を求められました。ネルソン・マンデラらのアフリカ民族会議は当初非暴力運動を行いましたが、シャープビル虐殺と組織禁止後には武装闘争へ移り、マンデラは長期投獄されまし"
+  },
+  {
+    "term": "検査・医療体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => 回復を結び付けた植林運動を広げました。感染症対策では、各国の検査・医療体制だけでなく、情報共有、ワクチン開発、公平な供給が必要です。AIは医療診断、翻訳、科学研究、"
+  },
+  {
+    "term": "ヨーロッパ文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:カール大帝.modal.profile => た。800年にローマ皇帝の位を授けられ、学問や教会を保護してヨーロッパ文化の土台を築きました。その活動は、政治制度を変えるには法律だけでなく、社会の支持や対立への対"
+  },
+  {
+    "term": "キリスト教思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:アウグスティヌス.modal.profile => 北アフリカのヒッポで司教を務めたキリスト教思想家です。『告白』『神の国』で信仰、人の心、国家を考えました。西ヨーロッパの神学と哲学に長く"
+  },
+  {
+    "term": "シャクンタラー",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:カーリダーサ.modal.profile => 古代インドのサンスクリット文学を代表する詩人・劇作家です。『シャクンタラー』などで自然や人の心を豊かに描きました。生涯の詳しいことは分からず、作品から名が広く知ら"
+  },
+  {
+    "term": "くるみ割り人形",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:チャイコフスキー.modal.profile => ロシアの作曲家です。『白鳥の湖』『くるみ割り人形』『悲愴』などで知られ、バレエ音楽と交響曲を発展させました。ロシア音楽を世界に広めた人物"
+  },
+  {
+    "term": "吾輩は猫である",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:夏目漱石.modal.profile => 日本の小説家です。『吾輩は猫である』『坊っちゃん』『こころ』などで、近代化する社会の中の個人の悩みを描きました。近代日本文"
+  },
+  {
+    "term": "シューマン宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ロベール・シューマン.modal.profile => フランスの政治家です。1950年にシューマン宣言を出し、フランスと西ドイツの石炭・鉄鋼共同管理を提案しました。ヨーロッパ統合の出発点を作り"
+  },
+  {
+    "term": "ガーナ独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:クワメ・エンクルマ.modal.profile => ガーナ独立運動の指導者で、初代首相・大統領です。1957年にサハラ以南アフリカで早い独立を実現し、アフリ"
+  },
+  {
+    "term": "ケニア独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジョモ・ケニヤッタ.modal.profile => ケニア独立運動の指導者で、独立後の初代大統領です。イギリス植民地支配からの独立を進めましたが、政権は強い"
+  },
+  {
+    "term": "スターリン体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:レフ・ランダウ.modal.profile => 低温物理や量子論を発展させ、理論物理学に大きく貢献しました。スターリン体制下で逮捕された経験もあり、科学と政治の関係を示します。"
+  },
+  {
+    "term": "ラーマーヤナ",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => り込み、ヴィシュヌ、シヴァ、女神への信仰、『マハーバーラタ』『ラーマーヤナ』などの物語、寺院での礼拝を通してヒンドゥー教へ発展しました。グプタ朝期にはサンスクリッ"
+  },
+  {
+    "term": "アステカ支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.2.text => みました。エルナン・コルテスは1519年にメキシコへ上陸し、アステカ支配へ不満を持つトラスカラなどの先住民勢力と同盟しました。マリンチェは通訳・交渉役として、言語"
+  },
+  {
+    "term": "東アジア交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.4.text => 交換されました。中国では税を銀で納める制度が広がり、日本銀も東アジア交易へ流れました。香辛料、砂糖、綿織物、陶磁器、茶、銀が同じ交易圏で動くようになり、商人と王国"
+  },
+  {
+    "term": "アメリカ政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.peopleNote => ョージ・マーシャルは、戦後の国際秩序とヨーロッパ復興を進めるアメリカ政策に関わりました。"
+  },
+  {
+    "term": "対ロシア政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.4.text => 通法も整えられました。一方、加盟国は財政、移民、難民、主権、対ロシア政策をめぐって対立し、統合の利益が地域や職業によって異なるという不満も生まれました。ヨーロッパ"
+  },
+  {
+    "term": "ローマ法大全",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ユスティニアヌス.modal.profile => 東ローマ帝国の皇帝です。ローマ法を集めて『ローマ法大全』を整え、コンスタンティノープルのハギア・ソフィアを再建しました。西地中海の奪回も試みま"
+  },
+  {
+    "term": "イスラム思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジャマールッディーン・アフガーニー.modal.profile => 19世紀のイスラム思想家・活動家です。イスラム圏の人々が協力し、ヨーロッパの支配に対抗すべきだと訴えました。各地"
+  },
+  {
+    "term": "数学者・技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:アルキメデス.modal.profile => シチリア島シラクサの数学者・技術者です。てこの原理や水に浮く物の性質を考え、円周率にも近づきました。戦争用の装置の話も伝わ"
+  },
+  {
+    "term": "チリ独立運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ベルナルド・オヒギンス.modal.profile => チリ独立運動の指導者です。サン＝マルティンと協力してスペイン軍と戦い、独立後は最高統治者として軍や教育"
+  },
+  {
+    "term": "女性権利運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:エリザベス・キャディ・スタントン.modal.profile => アメリカの女性権利運動家です。1848年のセネカフォールズ会議で女性の参政権を求める宣言をまとめました。奴隷制廃"
+  },
+  {
+    "term": "社会保険制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ビスマルク.modal.profile => ストリア、フランスとの戦争を利用してドイツ統一を進めました。社会保険制度も作りましたが、強い国家と軍事を重視する政治家でした。"
+  },
+  {
+    "term": "思想家・革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:マッツィーニ.modal.profile => イタリア統一をめざした思想家・革命家です。青年イタリアを作り、共和政と民族統一を訴えました。蜂起は失敗も多かったものの、統一"
+  },
+  {
+    "term": "学問のすゝめ",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:福沢諭吉.modal.profile => 明治時代の思想家・教育者です。『学問のすゝめ』で学びによる自立を説き、慶應義塾を開きました。西洋の制度や考えを紹介し、近代日本の教育"
+  },
+  {
+    "term": "カレーの市民",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ロダン.modal.profile => フランスの彫刻家です。『考える人』『カレーの市民』などで、人間の動きや苦しみを力強く表しました。近代彫刻を代表する人物です。"
+  },
+  {
+    "term": "朝鮮民主主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:金日成.modal.profile => 北朝鮮の建国指導者です。朝鮮民主主義人民共和国を成立させ、朝鮮戦争を始める中心となりました。戦後は個人崇拝と一党支配を強めまし"
+  },
+  {
+    "term": "社会主義思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ディエゴ・リベラ.modal.profile => 者、革命、先住民の歴史を描き、公共の場所に芸術を広げました。社会主義思想とも結びつきました。"
+  },
+  {
+    "term": "反植民地主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ホセ・マルティ.modal.profile => 5年の独立戦争に参加して戦死しました。ラテンアメリカの自由と反植民地主義の象徴です。"
+  },
+  {
+    "term": "人工知能技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:AI.summary => 学習・推論を行う人工知能技術"
+  },
+  {
+    "term": "イタリア支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:イタリア戦争.summary => 列強がイタリア支配を争った戦争"
+  },
+  {
+    "term": "アフリカ支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:アフリカ分割の列強競合.summary => 列強がアフリカ支配を争った時代"
+  },
+  {
+    "term": "人口・技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 土地を守る必要が高まったことが分かります。こうした農耕集落の人口・技術・祭祀の積み重ねが、後の城壁都市、青銅器文化、王朝社会の形成につながりました。"
+  },
+  {
+    "term": "青銅器文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.1.text => うした農耕集落の人口・技術・祭祀の積み重ねが、後の城壁都市、青銅器文化、王朝社会の形成につながりました。"
+  },
+  {
+    "term": "学問・交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.3.summary => ムハンマドが信仰共同体を築き、イスラム国家と学問・交易圏が拡大する"
+  },
+  {
+    "term": "先住民同盟",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.2.summary => スペイン勢力が先住民同盟・内戦・感染症を利用してアステカとインカを征服する"
+  },
+  {
+    "term": "多軸紡績機",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.0.text => を背景に産業革命が始まりました。ジェームズ・ハーグリーブスの多軸紡績機、リチャード・アークライトの水力紡績機、サミュエル・クロムプトンのミュール紡績機によって綿"
+  },
+  {
+    "term": "コンゴ支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.1.peopleNote => スタンリーとレオポルド2世はコンゴ支配、サモリ・トゥーレとムハンマド・アフマドは反植民地抵抗、メネリク2世はアドワでの勝利による"
+  },
+  {
+    "term": "アヘン戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 19世紀の東アジアでは、清がアヘン戦争に敗れ、南京条約などで港の開放、賠償金、治外法権を認めさせられました。太平天国の乱など国内"
+  },
+  {
+    "term": "西洋式兵器",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => を認めさせられました。太平天国の乱など国内の反乱も続き、清は西洋式兵器・造船・工場を導入する洋務運動を進めましたが、政治制度と財政の改革は限定的でした。一方、日"
+  },
+  {
+    "term": "総動員体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.0.summary => 同盟対立と総動員体制が地域紛争を世界戦争へ変え、塹壕戦と新兵器が被害を拡大する"
+  },
+  {
+    "term": "植民地戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.text => 方、拒否権によって大国間対立を止められない場合があり、冷戦や植民地戦争では十分に機能できない限界も残りました。"
+  },
+  {
+    "term": "非暴力運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.peopleNote => ネルソン・マンデラは抵抗運動と民主化交渉、デズモンド・ツツは非暴力運動と真実和解委員会を通じて制度廃止後の和解に関わりました。"
+  },
+  {
+    "term": "植民地制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:バルトロメ・デ・ラス・カサス.modal.profile => や強制労働を記録し、王に改善を求めた修道士です。自身も当初は植民地制度に関わったため、その後に考えを改めて訴えました。植民地は、外国の政治的・経済的支配を受けた"
+  },
+  {
+    "term": "民主化運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:アウンサンスーチー.modal.profile => ミャンマーの民主化運動を率り、長く自宅軟禁された政治家です。後に政権に参加しましたが、ロヒンギャへの迫害を十分に"
+  },
+  {
+    "term": "イラン文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ゾロアスター.modal.profile => えました。実在した時期には諸説がありますが、ゾロアスター教はイラン文化に深く影響しました。宗教の成立には、教えの内容だけでなく、共同体の形成や政治との関係も深く"
+  },
+  {
+    "term": "役人・思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:韓愈.modal.profile => 唐の役人・思想家です。儒教を国の中心に戻すべきだと考え、仏教を強く批判しました。文章の新しい書き方を広め"
+  },
+  {
+    "term": "大規模戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ドワイト・アイゼンハワー.modal.profile => カ軍人です。後に大統領となり、冷戦下で軍事同盟を維持しながら大規模戦争を避けようとしました。冷戦は、第二次世界大戦後にアメリカとソ連が直接の全面戦争を避けながら"
+  },
+  {
+    "term": "図書館文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:リチャード・ド・ベリー.modal.profile => の書』を書きました。写本が高価だった時代に、知識を集めて守る図書館文化を示す人物です。作品そのものだけでなく、それを生み出した社会や支援者との関係も重要です。ヨ"
+  },
+  {
+    "term": "愛書家の書",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:リチャード・ド・ベリー.modal.profile => 紀イングランドの司教・政治家です。本を集めることを大切にし、『愛書家の書』を書きました。写本が高価だった時代に、知識を集めて守る図書館文化を示す人物です。作品そ"
+  },
+  {
+    "term": "ペルシア人",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:アイスキュロス.modal.profile => 神話を使いながら、戦争、正義、復讐を考える悲劇を書きました。『ペルシア人』では、敵側の悲しみにも目を向け、戦争の被害を描きました。"
+  },
+  {
+    "term": "政治・交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:メフメト2世.modal.profile => ブルとして整えました。東ローマ帝国を終わらせ、地中海と黒海の政治・交易を大きく変えました。"
+  },
+  {
+    "term": "インカ支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:アタワルパ.modal.profile => で捕らえられました。身代金を集めても処刑され、スペインによるインカ支配の決定的な転機になりました。"
+  },
+  {
+    "term": "戦争と平和",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:トルストイ.modal.profile => ロシアの小説家です。『戦争と平和』『アンナ・カレーニナ』で貴族社会、戦争、家族を描きました。晩年は非暴力や質素な生活を説"
+  },
+  {
+    "term": "女性参政権",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ミリセント・フォーセット.modal.profile => 織活動を重視し、女性の投票権を求めました。第一次世界大戦後の女性参政権実現に大きく貢献しました。"
+  },
+  {
+    "term": "ドイツ革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ローザ・ルクセンブルク.modal.profile => ツで反戦と労働者の権利を訴え、第一次世界大戦に反対しました。ドイツ革命後にスパルタクス団の蜂起に関わり殺害されました。"
+  },
+  {
+    "term": "坊っちゃん",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:夏目漱石.modal.profile => 日本の小説家です。『吾輩は猫である』『坊っちゃん』『こころ』などで、近代化する社会の中の個人の悩みを描きました。近代日本文学を代表する人"
+  },
+  {
+    "term": "ナチス支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:オスカー・シンドラー.modal.profile => ドイツの実業家です。ナチス支配下で工場労働者としてユダヤ人を雇い、強制収容所送りから救いました。戦時下で人命救助に動いた"
+  },
+  {
+    "term": "一九八四年",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジョージ・オーウェル.modal.profile => イギリスの作家です。『動物農場』『一九八四年』で独裁、監視、言葉の支配を批判しました。全体主義への警告として、現代政治を考える作品を"
+  },
+  {
+    "term": "先住民文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:フリーダ・カーロ.modal.profile => メキシコの画家です。自画像に身体の痛み、先住民文化、政治的な思いを描きました。女性、民族、障害をめぐる表現として後世に大きな影響を与えました"
+  },
+  {
+    "term": "鉄腕アトム",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:手塚治虫.modal.profile => 日本の漫画家・アニメ作家です。『鉄腕アトム』『火の鳥』などで、物語性のある漫画とテレビアニメを発展させました。戦後日本の大衆文化に"
+  },
+  {
+    "term": "NBA優勝",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:マイケル・ジョーダン.modal.profile => アメリカのバスケットボール選手です。シカゴ・ブルズでNBA優勝を重ね、世界的なスポーツスターとなりました。競技、広告、ファッションを結びつける存在になり"
+  },
+  {
+    "term": "建築技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.1.text => 、スネフェルの時代には屈折ピラミッドや赤いピラミッドを通して建築技術が改良されました。クフ王のギザ大ピラミッドでは、石材の採掘・運搬、食料配給、測量、専門職人"
+  },
+  {
+    "term": "季節労働",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.1.eras.0.subcategories.1.text => ピラミッドでは、石材の採掘・運搬、食料配給、測量、専門職人、季節労働者を国家が組織しました。ピラミッド建設は王の神聖さと死後の再生を示す宗教事業であると同時に"
+  },
+  {
+    "term": "既存支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.0.text => 祭祀を認め、捕囚されていた人々の帰還を許すなど、地域の慣習と既存支配層を利用しました。ダレイオス1世は帝国を州に分け、総督を置き、監察官を派遣して反乱と独立を"
+  },
+  {
+    "term": "郡県支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.3.text => 官僚制を取り入れて競争し、秦は商鞅の改革によって戸籍、軍功、郡県支配を強めました。秦王政は紀元前221年に六国を滅ぼして始皇帝を名乗り、文字、貨幣、度量衡、車"
+  },
+  {
+    "term": "地方支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.4.text => る条件を整えました。ただし帝国の軍隊と刑罰は残され、死後には地方支配が弱まり、マウリヤ朝は分裂しました。"
+  },
+  {
+    "term": "寺院文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.summary => 仏教思想が多様化し、ヒンドゥー教の信仰と寺院文化がインド社会に広がる"
+  },
+  {
+    "term": "中観思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.peopleNote => ナーガールジュナは中観思想、アサンガとヴァスバンドゥは瑜伽行派・唯識思想を発展させ、大乗仏教の教理が中国やチベットへ"
+  },
+  {
+    "term": "儒教経典",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.1.text => れ、経典を学ぶ学校が整えられました。のちに科挙が発達すると、儒教経典の理解が官僚登用の中心となり、家族関係、祖先祭祀、教育にも影響しました。朝鮮半島、ベトナム"
+  },
+  {
+    "term": "教会制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.2.summary => 迫害されたキリスト教がローマ帝国で公認され、教義と教会制度が整う"
+  },
+  {
+    "term": "西方教会",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.2.peopleNote => 通じて教義が整えられました。ヒエロニムスとアウグスティヌスは西方教会の聖書理解と神学へ大きく影響しました。"
+  },
+  {
+    "term": "隊商交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.3.text => 7世紀初めのアラビア半島では、メッカが隊商交易とカアバ神殿への巡礼で栄える一方、部族間の争いと貧富の差がありました。ムハンマドは唯一神ア"
+  },
+  {
+    "term": "唯識思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => 玄奘は唐からインドへ旅して原典を持ち帰り、精密な翻訳によって唯識思想を伝えました。中国で形成された宗派、寺院制度、漢訳経典は朝鮮半島と日本へ伝わり、各地の王権"
+  },
+  {
+    "term": "寺院制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => 密な翻訳によって唯識思想を伝えました。中国で形成された宗派、寺院制度、漢訳経典は朝鮮半島と日本へ伝わり、各地の王権や在来信仰と結び付きました。"
+  },
+  {
+    "term": "漢訳経典",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => よって唯識思想を伝えました。中国で形成された宗派、寺院制度、漢訳経典は朝鮮半島と日本へ伝わり、各地の王権や在来信仰と結び付きました。"
+  },
+  {
+    "term": "阿弥陀経",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => 結び、経典、仏像、礼拝方法を運びました。鳩摩羅什は『法華経』『阿弥陀経』『中論』などを読みやすい漢文へ訳し、ナーガールジュナの思想を中国へ定着させました。慧遠"
+  },
+  {
+    "term": "大乗経典",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.peopleNote => 鳩摩羅什は大乗経典、慧遠は浄土信仰、達磨は禅の伝承、玄奘は唯識経典の翻訳に関わり、インド仏教を東アジアの言語"
+  },
+  {
+    "term": "唯識経典",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.peopleNote => 鳩摩羅什は大乗経典、慧遠は浄土信仰、達磨は禅の伝承、玄奘は唯識経典の翻訳に関わり、インド仏教を東アジアの言語と社会へ適応させました。"
+  },
+  {
+    "term": "中央支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.0.text => きました。安禄山の反乱後は節度使が強まり、税制も変化して唐の中央支配は弱まりました。"
+  },
+  {
+    "term": "遠隔交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.4.summary => 農業生産と遠隔交易の拡大で都市・ギルド・大学・議会が成長する"
+  },
+  {
+    "term": "保護政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.5.summary => モンゴル帝国がユーラシアを征服し、駅伝制と保護政策で長距離交流を促す"
+  },
+  {
+    "term": "印刷技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.5.text => 秩序と重い軍事負担もありました。広域交流により火薬、羅針盤、印刷技術、医学知識が移動する一方、14世紀には交易網がペスト拡大の条件にもなりました。"
+  },
+  {
+    "term": "独占会社",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.4.text => 支えました。一方、価格上昇、鉱山事故、森林破壊、植民地支配、独占会社による武力行使が各地の暮らしを圧迫しました。"
+  },
+  {
+    "term": "海外交易",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.0.text => 18世紀後半のイギリスでは、農業生産の増加、海外交易で得た資本、豊富な石炭と鉄、港と運河の整備を背景に産業革命が始まりました。ジェームズ・ハー"
+  },
+  {
+    "term": "財政危機",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.summary => 財政危機と身分制への不満から王政が崩れ、人権宣言・共和政・恐怖政治へ進む"
+  },
+  {
+    "term": "解放政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.text => 。アメリカでは奴隷制をめぐる対立が南北戦争へ発展し、戦争中の解放政策と憲法改正によって制度上の奴隷制は廃止されました。ただし解放後も人種隔離、投票妨害、暴力、"
+  },
+  {
+    "term": "貿易会社",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.text => 蒸気船、鉄道、電信、連発銃、医薬品は遠隔地の支配を容易にし、貿易会社、銀行、宣教師、探検家が軍隊や政府の進出に先立つこともありました。セシル・ローズは南部アフ"
+  },
+  {
+    "term": "鉱山会社",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.peopleNote => セシル・ローズは鉱山会社と政治権力を利用して南部アフリカのイギリス支配を広げました。その事業は鉄道と鉱業を発展させ"
+  },
+  {
+    "term": "会社支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => ンドへ広がり、旧王侯、農民、都市住民も参加しました。鎮圧後、会社支配は終わり、イギリス政府が直接統治しました。鉄道、電信、英語教育、法制度は行政と軍事移動を効"
+  },
+  {
+    "term": "南京条約",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 19世紀の東アジアでは、清がアヘン戦争に敗れ、南京条約などで港の開放、賠償金、治外法権を認めさせられました。太平天国の乱など国内の反乱も続き、清"
+  },
+  {
+    "term": "洋務運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 乱など国内の反乱も続き、清は西洋式兵器・造船・工場を導入する洋務運動を進めましたが、政治制度と財政の改革は限定的でした。一方、日本ではペリー来航後に開国し、明"
+  },
+  {
+    "term": "学校制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => に開国し、明治政府が藩を廃して中央集権国家をつくり、徴兵制、学校制度、地租改正、官営工場、鉄道を整えました。その近代化は条約改正と国家独立を目的としましたが、"
+  },
+  {
+    "term": "革命運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.peopleNote => ペリーは日本へ開国を迫り、孫文は清朝を倒して共和国をつくる革命運動を進めました。二人は東アジアの国際秩序が変わる別々の局面を示します。"
+  },
+  {
+    "term": "鉄道会社",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.4.text => 地、炭鉱、鉄鉱山、油田を結び、全国市場をつくりました。政府は鉄道会社へ広大な土地を与え、ヨーロッパやアジアからの移民が線路建設、鉱山、製鉄所、食肉工場で働きま"
+  },
+  {
+    "term": "工業技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.5.peopleNote => ス線、フローレンス・ナイチンゲールは統計と衛生改革を通して、工業技術と科学が交通・医療・戦争へ及ぼす影響を示しました。"
+  },
+  {
+    "term": "世界戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.0.summary => 同盟対立と総動員体制が地域紛争を世界戦争へ変え、塹壕戦と新兵器が被害を拡大する"
+  },
+  {
+    "term": "経済危機",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.text => 、軍部が満州への進出を正当化する背景になりました。世界恐慌は経済危機が独裁・保護貿易・軍事膨張へ結び付く危険を示しました。"
+  },
+  {
+    "term": "国家制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.2.summary => ヒトラーの独裁が人種法・強制収容所・大量虐殺を国家制度として進める"
+  },
+  {
+    "term": "国際機構",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.text => 界大戦の被害と国際連盟の失敗を受け、連合国は戦争中から新しい国際機構を協議しました。1945年のサンフランシスコ会議で国際連合憲章が採択され、同年10月に国際"
+  },
+  {
+    "term": "経済体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 第二次世界大戦後、アメリカとソ連は政治制度、経済体制、安全保障をめぐって対立し、世界は西側と東側の陣営に分かれました。アメリカはマーシャル・プ"
+  },
+  {
+    "term": "産業政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.2.text => 戦後の東アジアでは、国家の産業政策、教育拡充、輸出、海外投資を背景に急速な経済成長が進みました。日本は1950年代後半から自"
+  },
+  {
+    "term": "欧州連合",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.4.text => 税を減らして商品・資本・人の移動を広げました。1993年には欧州連合が発足し、加盟国の多くが共通通貨ユーロを導入しました。国境検査を減らす仕組み、共通市場、農"
+  },
+  {
+    "term": "共同機関",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.4.text => した。ヨーロッパ統合は国家をなくす制度ではなく、主権の一部を共同機関へ委ねる試みです。"
+  },
+  {
+    "term": "研究機関",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.5.text => 型通信を研究したコンピューターネットワークから発展し、大学や研究機関を結ぶ仕組みとして広がりました。1989年には、文書をリンクで結び、共通の方法で閲覧できる"
+  },
+  {
+    "term": "国際制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.summary => 気候変動・感染症・紛争・AIの影響が国境を越え、科学と国際制度の協力を必要とする"
+  },
+  {
+    "term": "環境政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => の急速な利用拡大があります。レイチェル・カーソンの農薬批判は環境政策を見直すきっかけとなり、ワンガリ・マータイはケニアで女性の生活改善と森林回復を結び付けた植"
+  },
+  {
+    "term": "植林運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => ガリ・マータイはケニアで女性の生活改善と森林回復を結び付けた植林運動を広げました。感染症対策では、各国の検査・医療体制だけでなく、情報共有、ワクチン開発、公平"
+  },
+  {
+    "term": "国際条約",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => く、誰がデータを集め、判断し、利益と損失を負うかにあります。国際条約、法律、企業責任、市民参加、科学教育を組み合わせて管理する必要があります。"
+  },
+  {
+    "term": "東洋思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ショーペンハウアー.modal.profile => の欲望が苦しみを生むと考え、芸術や思いやりに救いを見ました。東洋思想にも関心を持ち、後の文学や哲学に影響しました。この人物が立てた問いは、後の哲学者が賛成や批"
+  },
+  {
+    "term": "拡大政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:太宗.modal.profile => え、都長安を国際的な都市として発展させました。周辺へ軍を送る拡大政策も行い、東アジアの国々に大きな影響を与えました。この人物の歩みから、政治の改革が人々の権利"
+  },
+  {
+    "term": "経済政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジャワハルラール・ネルー.modal.profile => 科学教育、非同盟外交を重視しました。一方で中国との国境問題や経済政策には難しさも残りました。成果だけでなく、運動が直面した反対や限界も含めて理解する必要があり"
+  },
+  {
+    "term": "武力支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ヴァスコ・ダ・ガマ.modal.profile => しました。香辛料交易を求める航路でしたが、のちにポルトガルの武力支配にもつながりました。成果だけでなく、運動が直面した反対や限界も含めて理解する必要があります"
+  },
+  {
+    "term": "選挙運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ベナジル・ブット.modal.profile => 民主化を進めましたが、汚職疑惑や政治対立も続き、2007年の選挙運動中に暗殺されました。成果だけでなく、運動が直面した反対や限界も含めて理解する必要があります"
+  },
+  {
+    "term": "宗教文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ウラジーミル1世.modal.profile => で人々に洗礼を受けさせたと伝えられます。ロシアやウクライナの宗教文化に大きな影響を残しました。キリスト教は、イエスを救い主と信じ、聖書を聖典とする宗教です。こ"
+  },
+  {
+    "term": "百科全書",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ディドロ.modal.profile => フランスの思想家・編集者です。科学、技術、思想を集めた『百科全書』を仲間と編集しました。知識を広く共有しようとした試みは、啓蒙思想が社会を変える力を示し"
+  },
+  {
+    "term": "反対運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:リー・クアンユー.modal.profile => を育てて都市国家の経済を発展させました。一方で、政府は報道や反対運動を厳しく制限したと批判されています。成果だけでなく、運動が直面した反対や限界も含めて理解す"
+  },
+  {
+    "term": "差分機関",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:チャールズ・バベッジ.modal.profile => イギリスの数学者です。計算を自動で行う差分機関と、プログラム可能な解析機関を設計しました。完成には至りませんでしたが、現代のコンピュータ"
+  },
+  {
+    "term": "対ソ政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ハリー・トルーマン.modal.profile => 次世界大戦末期に原子爆弾使用を決定し、日本の降伏後は冷戦期の対ソ政策を進めました。マーシャル・プランやNATOにつながる政策を支えました。冷戦は、第二次世界大"
+  },
+  {
+    "term": "占領政策",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ダグラス・マッカーサー.modal.profile => アメリカ軍人です。太平洋戦争で連合国軍を指揮し、戦後は日本の占領政策を主導しました。日本国憲法、土地改革、教育改革などに関わりましたが、占領には限界や議論もあ"
+  },
+  {
+    "term": "道家思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:荘子.modal.profile => 示しました。『荘子』には本人以外の文章も含まれると考えられ、道家思想を学ぶ大切な書です。教えがどのように弟子や信者へ受け継がれ、地域をこえて広がったのかが重要"
+  },
+  {
+    "term": "資治通鑑",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:司馬光.modal.profile => 宋の政治家・歴史家です。王安石の改革に反対し、長い歴史書『資治通鑑』をまとめました。過去の政治の成功と失敗から、君主が国を治める方法を学ぼうとしました。こ"
+  },
+  {
+    "term": "役人制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:忽必烈.modal.profile => ハンの孫で、中国に元を建てた皇帝です。大都を都とし、中国式の役人制度を使って広い地域を治めました。日本への遠征は失敗し、支配下の人々には重い負担もありました。"
+  },
+  {
+    "term": "女性の都",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:クリスティーヌ・ド・ピザン.modal.profile => 世フランスで、女性が学び働く力を持つと文章で訴えた作家です。『女性の都』で、女性への偏見に反論しました。女性が自分の名で生計を立てた早い例の一人です。"
+  },
+  {
+    "term": "権利宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:オランプ・ド・グージュ.modal.profile => フランス革命期の作家です。『女性と女性市民の権利宣言』で、女性にも政治参加や法の平等が必要だと訴えました。革命政府を批判したため逮捕され、ギロ"
+  },
+  {
+    "term": "普仏戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ナポレオン3世.modal.profile => リ改造を進め、産業化を後押ししました。一方で対外戦争を行い、普仏戦争で敗れて退位しました。"
+  },
+  {
+    "term": "統一運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:マッツィーニ.modal.profile => 、共和政と民族統一を訴えました。蜂起は失敗も多かったものの、統一運動の理想を広げました。"
+  },
+  {
+    "term": "西南戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:西郷隆盛.modal.profile => 開城に関わり、新政府の成立を助けました。のちに政府と対立し、西南戦争で士族反乱を率いて敗れました。"
+  },
+  {
+    "term": "改革思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:康有為.modal.profile => 清末の改革思想家です。光緒帝を支えて戊戌の変法を進め、制度改革と立憲政治を訴えました。改革は西太后らによ"
+  },
+  {
+    "term": "権威主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:蒋介石.modal.profile => 争では国民政府を率いました。国共内戦に敗れて台湾へ移り、長く権威主義的な統治を行いました。"
+  },
+  {
+    "term": "思想運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:魯迅.modal.profile => などで古い社会や人々の弱さを鋭く批判しました。中国の近代化と思想運動に大きな影響を与えました。"
+  },
+  {
+    "term": "狂人日記",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:魯迅.modal.profile => 中国近代文学を代表する作家です。『狂人日記』『阿Q正伝』などで古い社会や人々の弱さを鋭く批判しました。中国の近代化と思想運動に大き"
+  },
+  {
+    "term": "阿Q正伝",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:魯迅.modal.profile => 中国近代文学を代表する作家です。『狂人日記』『阿Q正伝』などで古い社会や人々の弱さを鋭く批判しました。中国の近代化と思想運動に大きな影響を与え"
+  },
+  {
+    "term": "白鳥の湖",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:チャイコフスキー.modal.profile => ロシアの作曲家です。『白鳥の湖』『くるみ割り人形』『悲愴』などで知られ、バレエ音楽と交響曲を発展させました。ロシア音楽"
+  },
+  {
+    "term": "映画技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:トーマス・エジソン.modal.profile => アメリカの発明家・事業家です。白熱電球、蓄音機、映画技術、電力供給の仕組みに関わりました。研究所で多くの技術者を組織し、発明を産業へ結びつけました"
+  },
+  {
+    "term": "十月革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:トロツキー.modal.profile => ロシア革命の指導者です。十月革命と赤軍の組織に大きく関わりました。スターリンとの権力争いに敗れて国外追放され、メキシコで暗"
+  },
+  {
+    "term": "東欧支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:スターリン.modal.profile => や強制収容所で多くの人が犠牲になりました。第二次世界大戦後は東欧支配と冷戦に関わりました。"
+  },
+  {
+    "term": "日露戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ニコライ2世.modal.profile => ロシア帝国最後の皇帝です。日露戦争、第一次世界大戦、国内の不満に対応できず、1917年の二月革命で退位しました。のちに家族と"
+  },
+  {
+    "term": "二月革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ニコライ2世.modal.profile => 露戦争、第一次世界大戦、国内の不満に対応できず、1917年の二月革命で退位しました。のちに家族とともに処刑されました。"
+  },
+  {
+    "term": "表現主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ゴッホ.modal.profile => 景に感情をこめて描きました。生前は評価が低かったものの、後の表現主義や近代美術に大きな影響を与えました。"
+  },
+  {
+    "term": "ゲルニカ",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ピカソ.modal.profile => す。キュビスムを生み、形を分解して複数の視点から描きました。『ゲルニカ』では戦争の暴力を強く表現し、20世紀美術を変えました。"
+  },
+  {
+    "term": "考える人",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ロダン.modal.profile => フランスの彫刻家です。『考える人』『カレーの市民』などで、人間の動きや苦しみを力強く表しました。近代彫刻を代表する人物で"
+  },
+  {
+    "term": "生活文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ココ・シャネル.modal.profile => いドレスなどを広め、女性の服装を大きく変えました。20世紀の生活文化とファッションに影響しました。"
+  },
+  {
+    "term": "沈黙の春",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:レイチェル・カーソン.modal.profile => アメリカの海洋生物学者・作家です。『沈黙の春』で農薬が鳥や人の環境に与える影響を示しました。科学の情報を市民に伝え、環境保護の運動と"
+  },
+  {
+    "term": "動物農場",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジョージ・オーウェル.modal.profile => イギリスの作家です。『動物農場』『一九八四年』で独裁、監視、言葉の支配を批判しました。全体主義への警告として、現代政治"
+  },
+  {
+    "term": "老人と海",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:アーネスト・ヘミングウェイ.modal.profile => イン内戦を経験し、簡潔な文体で戦争と人間の孤独を描きました。『老人と海』などで知られます。"
+  },
+  {
+    "term": "与党支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジョモ・ケニヤッタ.modal.profile => です。イギリス植民地支配からの独立を進めましたが、政権は強い与党支配と土地問題を抱えました。"
+  },
+  {
+    "term": "第二の性",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:シモーヌ・ド・ボーヴォワ.modal.profile => フランスの哲学者・作家です。『第二の性』で、女性らしさは社会によって作られる面があると論じました。現代フェミニズムに大きな影響"
+  },
+  {
+    "term": "実存主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジャン＝ポール・サルトル.modal.profile => フランスの哲学者・作家です。実存主義を代表し、人は自分の選択に責任を持つと論じました。戦後の政治運動や植民地支配への批判にも関"
+  },
+  {
+    "term": "気候運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:グレタ・トゥーンベリ.modal.profile => を始め、気候変動への対策を政治家に求めました。若者の国際的な気候運動を広げました。"
+  },
+  {
+    "term": "HTTP",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ティム・バーナーズ＝リー.modal.profile => 。1989年にWorld Wide Webを考案し、URL、HTTP、HTMLの仕組みを整えました。情報を世界で結びつける基盤を作りました。"
+  },
+  {
+    "term": "HTML",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ティム・バーナーズ＝リー.modal.profile => 年にWorld Wide Webを考案し、URL、HTTP、HTMLの仕組みを整えました。情報を世界で結びつける基盤を作りました。"
+  },
+  {
+    "term": "NASA",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:キャサリン・ジョンソン.modal.profile => アメリカの数学者です。NASAで宇宙船の軌道計算を担当し、マーキュリー計画やアポロ計画を支えました。黒人女性科学者の貢献"
+  },
+  {
+    "term": "PS細胞",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:山中伸弥.modal.profile => 日本の医学者です。体の細胞をiPS細胞へ変える方法を発見し、再生医療研究を大きく進めました。病気の研究や治療法開発への応用が期待"
+  },
+  {
+    "term": "七人の侍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:黒澤明.modal.profile => 日本の映画監督です。『羅生門』『七人の侍』などで国際的に高く評価されました。映像表現と物語の作り方は世界の映画監督に影響を与えま"
+  },
+  {
+    "term": "反戦運動",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ボブ・ディラン.modal.profile => アメリカの歌手・作詞家です。公民権運動や反戦運動の時代に、社会への問いをこめた歌を発表しました。歌詞の文学性が評価されノーベル文学賞を受け"
+  },
+  {
+    "term": "音楽文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジョン・レノン.modal.profile => イギリスの音楽家です。ビートルズの一員として世界の音楽文化を変え、解散後は平和運動にも関わりました。『イマジン』などで戦争のない世界を訴えました。"
+  },
+  {
+    "term": "イマジン",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ジョン・レノン.modal.profile => して世界の音楽文化を変え、解散後は平和運動にも関わりました。『イマジン』などで戦争のない世界を訴えました。"
+  },
+  {
+    "term": "スリラー",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:マイケル・ジャクソン.modal.profile => アメリカの歌手・ダンサーです。『スリラー』などで音楽、ダンス、映像表現を結びつけ、ポップ音楽を世界化しました。人種をこえた大衆文"
+  },
+  {
+    "term": "政治革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:市民革命.summary => 身分制と専制を変えた政治革命"
+  },
+  {
+    "term": "行政制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:インドの植民地支配.modal.whatHappened => インドはイギリスの支配下で、鉄道や行政制度が整えられる一方、経済や政治を大きく支配されました。人々の抵抗は、のちの独立運動につながり"
+  },
+  {
+    "term": "欧州戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "action:三十年戦争.summary => 宗教と国益が重なった欧州戦争"
+  },
+  {
+    "term": "秦王政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.3.text => し、秦は商鞅の改革によって戸籍、軍功、郡県支配を強めました。秦王政は紀元前221年に六国を滅ぼして始皇帝を名乗り、文字、貨幣、度量衡、車輪の幅を統一しました"
+  },
+  {
+    "term": "被支配",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.text => する場合も、武力で抵抗する場合もあり、帝国主義は国家間競争と被支配地域の社会変化を同時に生みました。"
+  },
+  {
+    "term": "国会議",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.2.text => 率いるナチ党が勢力を伸ばしました。1933年に首相となると、国会議事堂放火事件を利用して基本的人権を停止し、全権委任法で議会を無力化しました。政党、労働組合"
+  },
+  {
+    "term": "神の国",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:アウグスティヌス.modal.profile => アフリカのヒッポで司教を務めたキリスト教思想家です。『告白』『神の国』で信仰、人の心、国家を考えました。西ヨーロッパの神学と哲学に長く大きな影響を与えました"
+  },
+  {
+    "term": "実利論",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:カウティリヤ.modal.profile => インドでチャンドラグプタを助けたと伝えられる政治思想家です。『実利論』では、税、外交、情報、王の務めを細かく考えました。著者や成立時期には研究上の議論があり"
+  },
+  {
+    "term": "国富論",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:アダム・スミス.modal.profile => スコットランドの経済学者です。分業や市場の働きを考え、『国富論』を書きました。自由な商業を重視しましたが、労働者の教育や貧困の問題にも目を向けました。"
+  },
+  {
+    "term": "長恨歌",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:白居易.modal.profile => 分かりやすい言葉で、役人の不正や農民の苦しみを詩にしました。『長恨歌』などは中国だけでなく、日本の平安時代の文学にも影響を与えました。この人物の活動によって"
+  },
+  {
+    "term": "道徳経",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:老子.modal.profile => 『道徳経』の作者とされる中国の思想家です。無理に支配せず、自然の道に従う考えを説きました。実在や"
+  },
+  {
+    "term": "倶舎論",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ヴァスバンドゥ.modal.profile => す。心が世界をどう受け取るかを考える唯識の学びを広めました。『倶舎論』などは中国や日本にも伝わり、仏教の授業で長く読まれました。仏教は、釈迦の教えをもとに、"
+  },
+  {
+    "term": "資本論",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:カール・マルクス.modal.profile => の関係を分析し、資本主義の矛盾を批判しました。『共産党宣言』『資本論』は労働運動や社会主義に大きな影響を与えました。社会主義は、貧富の差や労働者の苦しい生活"
+  },
+  {
+    "term": "韓非子",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:韓非.modal.profile => には、君主が明確な法律と賞罰を用いるべきだと説きました。著作『韓非子』は秦の政治思想に影響し、厳しい統治の考え方として知られます。その思想は、知識を覚えるだ"
+  },
+  {
+    "term": "反革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:マラー.modal.profile => の新聞記者・政治家です。新聞で王党派や穏健派を激しく批判し、反革命の疑いがある人々への厳しい処罰を求めました。彼の文章は、革命期の政治的な対立を強めました。"
+  },
+  {
+    "term": "自省録",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:マルクス・アウレリウス.modal.profile => ローマ帝国の皇帝で、哲学書『自省録』を書いた人物です。国境での戦いと疫病に苦しむ中、義務や心のあり方を考えました。五賢帝の"
+  },
+  {
+    "term": "仏国記",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:法顕.modal.profile => す。戒律の経典を求めてインドへ旅し、海路で中国へ帰りました。『仏国記』にインドや東南アジアの社会を記録し、当時の国際交流を伝えました。"
+  },
+  {
+    "term": "罪と罰",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ドストエフスキー.modal.profile => ロシアの小説家です。『罪と罰』『カラマーゾフの兄弟』などで信仰、罪、自由、貧困を描きました。近代社会の不安と人間の内"
+  },
+  {
+    "term": "桜の園",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:チェーホフ.modal.profile => 小説と戯曲で、地方社会の停滞や人々の小さな希望を描きました。『桜の園』などは近代演劇の表現に大きな影響を与えました。"
+  },
+  {
+    "term": "夜と霧",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ヴィクトール・フランクル.modal.profile => オーストリアの精神科医です。強制収容所を生き延び、『夜と霧』で極限状況の中でも意味を探す人間の姿を記しました。心理療法にも影響を与えました。"
+  },
+  {
+    "term": "独裁者",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:チャップリン.modal.profile => 出身の映画俳優・監督です。喜劇映画で貧困や機械化社会を描き、『独裁者』ではヒトラーを風刺しました。映画を通じて社会批判を広げました。"
+  },
+  {
+    "term": "URL",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:ティム・バーナーズ＝リー.modal.profile => 学者です。1989年にWorld Wide Webを考案し、URL、HTTP、HTMLの仕組みを整えました。情報を世界で結びつける基盤を作りました。"
+  },
+  {
+    "term": "羅生門",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:黒澤明.modal.profile => 日本の映画監督です。『羅生門』『七人の侍』などで国際的に高く評価されました。映像表現と物語の作り方は世界の映画監督に"
+  },
+  {
+    "term": "火の鳥",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "people:手塚治虫.modal.profile => 日本の漫画家・アニメ作家です。『鉄腕アトム』『火の鳥』などで、物語性のある漫画とテレビアニメを発展させました。戦後日本の大衆文化に大きな影響"
+  }
+]

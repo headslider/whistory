@@ -1,0 +1,1555 @@
+{
+  "assetFolder": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people",
+  "assetImageCount": 257,
+  "assetReadErrors": [],
+  "peopleCount": 300,
+  "peopleWithImage": 179,
+  "peopleWithoutImage": 121,
+  "missingReferencedFiles": [
+    {
+      "person": "アウグストゥス",
+      "image": "assets/people/person-91451153e6.webp"
+    }
+  ],
+  "referencedAssetFileCount": 179,
+  "unreferencedAssetFileCount": 78,
+  "unreferencedAssetFiles": [
+    {
+      "asset": "person-03ca2051e4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-03ca2051e4.webp",
+      "size": 86866,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-04926774bb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-04926774bb.webp",
+      "size": 228308,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-09a9b8e268.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-09a9b8e268.webp",
+      "size": 139338,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-0c46b3ceb5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-0c46b3ceb5.webp",
+      "size": 174798,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-0cd15da63c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-0cd15da63c.webp",
+      "size": 190888,
+      "width": 1280,
+      "height": 1036
+    },
+    {
+      "asset": "person-12b6aece80.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-12b6aece80.webp",
+      "size": 201582,
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "asset": "person-1d0d3cb02a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-1d0d3cb02a.webp",
+      "size": 133440,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-277170700f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-277170700f.webp",
+      "size": 106888,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-27e4fcd404.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-27e4fcd404.webp",
+      "size": 275348,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-289f09b2c1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-289f09b2c1.webp",
+      "size": 146684,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-2a34f269dc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2a34f269dc.webp",
+      "size": 132308,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-2a7c737236.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2a7c737236.webp",
+      "size": 242890,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-2b05c47332.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2b05c47332.webp",
+      "size": 196554,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-2bdfcc418c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2bdfcc418c.webp",
+      "size": 243158,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-2f8083da37.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2f8083da37.webp",
+      "size": 211318,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-310584639b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-310584639b.webp",
+      "size": 223298,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-34175beaf7.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-34175beaf7.webp",
+      "size": 241858,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-36d85a6245.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-36d85a6245.webp",
+      "size": 164064,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-37f0c076e5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-37f0c076e5.webp",
+      "size": 233872,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-39b9a1d500.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-39b9a1d500.webp",
+      "size": 182582,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-472258e19b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-472258e19b.webp",
+      "size": 149712,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-478ac60599.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-478ac60599.webp",
+      "size": 101558,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-47c3008c5d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-47c3008c5d.webp",
+      "size": 123500,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-4e6efc87f3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-4e6efc87f3.webp",
+      "size": 264544,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-50d7071b0b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-50d7071b0b.webp",
+      "size": 172426,
+      "width": 1280,
+      "height": 882
+    },
+    {
+      "asset": "person-555618cb1b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-555618cb1b.webp",
+      "size": 189634,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-59ba2c317a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-59ba2c317a.webp",
+      "size": 203530,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-5f21763da9.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-5f21763da9.webp",
+      "size": 198294,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-6b0028f33d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-6b0028f33d.webp",
+      "size": 224726,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-6f3b31a3ab.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-6f3b31a3ab.webp",
+      "size": 122226,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-7359ad9c67.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7359ad9c67.webp",
+      "size": 153018,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-7468017804.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7468017804.webp",
+      "size": 109722,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-785a2ae2f4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-785a2ae2f4.webp",
+      "size": 136362,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-840a99a0cf.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-840a99a0cf.webp",
+      "size": 124822,
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "asset": "person-87055886a8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-87055886a8.webp",
+      "size": 181990,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-8740de73ea.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8740de73ea.webp",
+      "size": 151296,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-874aa62782.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-874aa62782.webp",
+      "size": 153012,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-879932e7c0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-879932e7c0.webp",
+      "size": 202222,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-8a4d970f45.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8a4d970f45.webp",
+      "size": 157350,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-8c1b0020dc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8c1b0020dc.webp",
+      "size": 136206,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-8df86bd2a8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8df86bd2a8.webp",
+      "size": 181676,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-90b15201b0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-90b15201b0.webp",
+      "size": 161960,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-97acc2cc6c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-97acc2cc6c.webp",
+      "size": 93372,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-9a20be8088.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9a20be8088.webp",
+      "size": 131346,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-9b84e7a0e2.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9b84e7a0e2.webp",
+      "size": 179740,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-9f2e63dfb1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9f2e63dfb1.webp",
+      "size": 269118,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-9f857af814.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9f857af814.webp",
+      "size": 200076,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-a17abc7079.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a17abc7079.webp",
+      "size": 204770,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-a2aefb7f2c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a2aefb7f2c.webp",
+      "size": 118662,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-a7b8af0f50.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a7b8af0f50.webp",
+      "size": 138116,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-ab1c64034b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ab1c64034b.webp",
+      "size": 241314,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-b057e4e120.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-b057e4e120.webp",
+      "size": 193804,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-b1c029c022.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-b1c029c022.webp",
+      "size": 197886,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-bb38d4f78a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-bb38d4f78a.webp",
+      "size": 198368,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-bc35ea24de.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-bc35ea24de.webp",
+      "size": 202772,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-be2dfc8c8f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-be2dfc8c8f.webp",
+      "size": 232280,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-cb7645de73.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-cb7645de73.webp",
+      "size": 246834,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-cf05b51c03.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-cf05b51c03.webp",
+      "size": 215414,
+      "width": 1280,
+      "height": 854
+    },
+    {
+      "asset": "person-d186cd4e90.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d186cd4e90.webp",
+      "size": 236840,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-d2b1c7651d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d2b1c7651d.webp",
+      "size": 208786,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-d2ea2ab172.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d2ea2ab172.webp",
+      "size": 194492,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-d7203de00e.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d7203de00e.webp",
+      "size": 222612,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-d7cc59fb4a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d7cc59fb4a.webp",
+      "size": 185988,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-d9b1a0a91b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d9b1a0a91b.webp",
+      "size": 186786,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-df245183a3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-df245183a3.webp",
+      "size": 164634,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-e0096d2ed3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e0096d2ed3.webp",
+      "size": 74654,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-e10c617704.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e10c617704.webp",
+      "size": 237528,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-e2c09518fa.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e2c09518fa.webp",
+      "size": 148356,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-e963d604cb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e963d604cb.webp",
+      "size": 271638,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-ee0d81f4a1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ee0d81f4a1.webp",
+      "size": 111094,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-ef17beb844.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ef17beb844.webp",
+      "size": 124490,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-ef77ce40cf.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ef77ce40cf.webp",
+      "size": 99732,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-f1b1a88c09.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f1b1a88c09.webp",
+      "size": 146026,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-f8d7bd726d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f8d7bd726d.webp",
+      "size": 149152,
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "asset": "person-fa1becdf28.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fa1becdf28.webp",
+      "size": 185968,
+      "width": 1280,
+      "height": 1024
+    },
+    {
+      "asset": "person-fa993cfb81.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fa993cfb81.webp",
+      "size": 188398,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-fdc746fddd.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fdc746fddd.webp",
+      "size": 87812,
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "asset": "person-fe9479e29d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fe9479e29d.webp",
+      "size": 137702,
+      "width": 1280,
+      "height": 853
+    }
+  ],
+  "exactDuplicateGroups": [],
+  "nearDuplicatePairsThresholdMae1": [
+    {
+      "a": "person-0011a7b938.webp",
+      "b": "person-2f8083da37.webp",
+      "mae": 0.595,
+      "aReferencedBy": [
+        "ラファエロ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-04926774bb.webp",
+      "b": "person-32c3a12328.webp",
+      "mae": 0.589,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "カール5世"
+      ]
+    },
+    {
+      "a": "person-09a9b8e268.webp",
+      "b": "person-09dac962cb.webp",
+      "mae": 0.566,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "バッハ"
+      ]
+    },
+    {
+      "a": "person-0c00fa8a54.webp",
+      "b": "person-4e6d38825c.webp",
+      "mae": 0.55,
+      "aReferencedBy": [
+        "ソロン"
+      ],
+      "bReferencedBy": [
+        "ソクラテス"
+      ]
+    },
+    {
+      "a": "person-0c46b3ceb5.webp",
+      "b": "person-5bdbdabb4c.webp",
+      "mae": 0.53,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "ゴルバチョフ"
+      ]
+    },
+    {
+      "a": "person-0cd15da63c.webp",
+      "b": "person-7407a9e24f.webp",
+      "mae": 0.561,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "パウロ"
+      ]
+    },
+    {
+      "a": "person-0dbfd89beb.webp",
+      "b": "person-785a2ae2f4.webp",
+      "mae": 0.539,
+      "aReferencedBy": [
+        "アウグスティヌス"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-1141366ba2.webp",
+      "b": "person-d7cc59fb4a.webp",
+      "mae": 0.572,
+      "aReferencedBy": [
+        "ミケランジェロ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-11e8ea1d8a.webp",
+      "b": "person-874aa62782.webp",
+      "mae": 0.554,
+      "aReferencedBy": [
+        "マリー・アントワネット"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-161894fd4d.webp",
+      "b": "person-97acc2cc6c.webp",
+      "mae": 0.548,
+      "aReferencedBy": [
+        "ライプニッツ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-1679093f0c.webp",
+      "b": "person-ab1c64034b.webp",
+      "mae": 0.543,
+      "aReferencedBy": [
+        "サルゴン"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-191db0da82.webp",
+      "b": "person-d2ea2ab172.webp",
+      "mae": 0.567,
+      "aReferencedBy": [
+        "マーティン・ルーサー・キング・ジュニア"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-1cc2e1acb2.webp",
+      "b": "person-f1b1a88c09.webp",
+      "mae": 0.535,
+      "aReferencedBy": [
+        "アベル・タスマン"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-1d0d3cb02a.webp",
+      "b": "person-e66d9b1378.webp",
+      "mae": 0.546,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "スピノザ"
+      ]
+    },
+    {
+      "a": "person-1e015e3361.webp",
+      "b": "person-9a20be8088.webp",
+      "mae": 0.567,
+      "aReferencedBy": [
+        "ネルソン・マンデラ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-23a2f61d69.webp",
+      "b": "person-478ac60599.webp",
+      "mae": 0.513,
+      "aReferencedBy": [
+        "ヘーゲル"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-277170700f.webp",
+      "b": "person-deca27f0a0.webp",
+      "mae": 0.555,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "シラー"
+      ]
+    },
+    {
+      "a": "person-27e4fcd404.webp",
+      "b": "person-4305b9c03d.webp",
+      "mae": 0.614,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "ルイ14世"
+      ]
+    },
+    {
+      "a": "person-289f09b2c1.webp",
+      "b": "person-a84fa933f1.webp",
+      "mae": 0.542,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "モーツァルト"
+      ]
+    },
+    {
+      "a": "person-2a34f269dc.webp",
+      "b": "person-632d4656c3.webp",
+      "mae": 0.519,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アダム・スミス"
+      ]
+    },
+    {
+      "a": "person-2a7c737236.webp",
+      "b": "person-5efae04b1c.webp",
+      "mae": 0.622,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "釈迦"
+      ]
+    },
+    {
+      "a": "person-2b05c47332.webp",
+      "b": "person-c3eae4eafa.webp",
+      "mae": 0.549,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アッシュルナツィルパル2世"
+      ]
+    },
+    {
+      "a": "person-2bdfcc418c.webp",
+      "b": "person-4ceade843b.webp",
+      "mae": 0.552,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "キュロス2世"
+      ]
+    },
+    {
+      "a": "person-2dab609327.webp",
+      "b": "person-e0096d2ed3.webp",
+      "mae": 0.527,
+      "aReferencedBy": [
+        "フローレンス・ナイチンゲール"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-309ec64c9d.webp",
+      "b": "person-6f3b31a3ab.webp",
+      "mae": 0.531,
+      "aReferencedBy": [
+        "アベラール"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-310584639b.webp",
+      "b": "person-f462836a0c.webp",
+      "mae": 0.544,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "ナルメル"
+      ]
+    },
+    {
+      "a": "person-3402a471f3.webp",
+      "b": "person-5f21763da9.webp",
+      "mae": 0.549,
+      "aReferencedBy": [
+        "アメンホテプ3世"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-34175beaf7.webp",
+      "b": "person-eb7674eb9e.webp",
+      "mae": 0.548,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "ユスティニアヌス"
+      ]
+    },
+    {
+      "a": "person-36d85a6245.webp",
+      "b": "person-521067b1b1.webp",
+      "mae": 0.567,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "グーテンベルク"
+      ]
+    },
+    {
+      "a": "person-37f0c076e5.webp",
+      "b": "person-827fa9b9b3.webp",
+      "mae": 0.6,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "マンサ・ムーサ"
+      ]
+    },
+    {
+      "a": "person-39b9a1d500.webp",
+      "b": "person-8d1e003d26.webp",
+      "mae": 0.526,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アメリゴ・ヴェスプッチ"
+      ]
+    },
+    {
+      "a": "person-3b4f71264c.webp",
+      "b": "person-9f2e63dfb1.webp",
+      "mae": 0.553,
+      "aReferencedBy": [
+        "アルタクセルクセス1世"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-3b5126d5ca.webp",
+      "b": "person-555618cb1b.webp",
+      "mae": 0.6,
+      "aReferencedBy": [
+        "アショーカ王"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-3c08d403ad.webp",
+      "b": "person-8740de73ea.webp",
+      "mae": 0.584,
+      "aReferencedBy": [
+        "孔子"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-3d930c4d52.webp",
+      "b": "person-7468017804.webp",
+      "mae": 0.561,
+      "aReferencedBy": [
+        "カント"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-3dcf243a52.webp",
+      "b": "person-b1c029c022.webp",
+      "mae": 0.583,
+      "aReferencedBy": [
+        "ニーチェ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-472258e19b.webp",
+      "b": "person-4ab47aade7.webp",
+      "mae": 0.571,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "ベートーヴェン"
+      ]
+    },
+    {
+      "a": "person-47c3008c5d.webp",
+      "b": "person-575516c8d8.webp",
+      "mae": 0.554,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "カルヴァン"
+      ]
+    },
+    {
+      "a": "person-490f054f0e.webp",
+      "b": "person-e963d604cb.webp",
+      "mae": 0.565,
+      "aReferencedBy": [
+        "アルキメデス"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-4ae32d11c2.webp",
+      "b": "person-fdc746fddd.webp",
+      "mae": 0.522,
+      "aReferencedBy": [
+        "ニュートン"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-4e6efc87f3.webp",
+      "b": "person-50808aa356.webp",
+      "mae": 0.599,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "チャールズ・ダーウィン"
+      ]
+    },
+    {
+      "a": "person-50d7071b0b.webp",
+      "b": "person-6f8c27de1c.webp",
+      "mae": 0.589,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アレクサンドロス大王"
+      ]
+    },
+    {
+      "a": "person-5119f42d3b.webp",
+      "b": "person-cf05b51c03.webp",
+      "mae": 0.62,
+      "aReferencedBy": [
+        "クフ王"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-5282fde232.webp",
+      "b": "person-90b15201b0.webp",
+      "mae": 0.541,
+      "aReferencedBy": [
+        "アクエンアテン"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-54ea3251de.webp",
+      "b": "person-9b84e7a0e2.webp",
+      "mae": 0.583,
+      "aReferencedBy": [
+        "ショーペンハウアー"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-57040e1942.webp",
+      "b": "person-be2dfc8c8f.webp",
+      "mae": 0.617,
+      "aReferencedBy": [
+        "ワンガリ・マータイ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-59ba2c317a.webp",
+      "b": "person-f58f3d2792.webp",
+      "mae": 0.561,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "ヘンリー8世"
+      ]
+    },
+    {
+      "a": "person-638347cdb2.webp",
+      "b": "person-840a99a0cf.webp",
+      "mae": 0.526,
+      "aReferencedBy": [
+        "デカルト"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-6ce46faf8f.webp",
+      "b": "person-bc35ea24de.webp",
+      "mae": 0.539,
+      "aReferencedBy": [
+        "始皇帝"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-7359ad9c67.webp",
+      "b": "person-de50729232.webp",
+      "mae": 0.556,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "カエサル"
+      ]
+    },
+    {
+      "a": "person-7ebbc36049.webp",
+      "b": "person-879932e7c0.webp",
+      "mae": 0.61,
+      "aReferencedBy": [
+        "アメンエムハト1世"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-809fb0c62e.webp",
+      "b": "person-f6d272d91c.webp",
+      "mae": 0.581,
+      "aReferencedBy": [
+        "ジル・ド・レエ"
+      ],
+      "bReferencedBy": [
+        "ジャンヌ・ダルク"
+      ]
+    },
+    {
+      "a": "person-83bd092dca.webp",
+      "b": "person-b057e4e120.webp",
+      "mae": 0.541,
+      "aReferencedBy": [
+        "イエス"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-87055886a8.webp",
+      "b": "person-ed3d36e598.webp",
+      "mae": 0.585,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アッシュルバニパル"
+      ]
+    },
+    {
+      "a": "person-8a4d970f45.webp",
+      "b": "person-f2de242edd.webp",
+      "mae": 0.53,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アムンゼン"
+      ]
+    },
+    {
+      "a": "person-8a96ecd37a.webp",
+      "b": "person-df245183a3.webp",
+      "mae": 0.548,
+      "aReferencedBy": [
+        "アタナシウス"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-8c1b0020dc.webp",
+      "b": "person-92d4a96fa6.webp",
+      "mae": 0.512,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "鄧小平"
+      ]
+    },
+    {
+      "a": "person-8df86bd2a8.webp",
+      "b": "person-be824ba0ed.webp",
+      "mae": 0.586,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "鄭和"
+      ]
+    },
+    {
+      "a": "person-8e2dc5e8cf.webp",
+      "b": "person-e2c09518fa.webp",
+      "mae": 0.59,
+      "aReferencedBy": [
+        "ジェームズ・ワット"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-91451153e6.webp",
+      "b": "person-fa1becdf28.webp",
+      "mae": 0.553,
+      "aReferencedBy": [
+        "アウグストゥス"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-94822eef6a.webp",
+      "b": "person-fa993cfb81.webp",
+      "mae": 0.599,
+      "aReferencedBy": [
+        "チンギス・ハン"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-a17abc7079.webp",
+      "b": "person-e6f9de6616.webp",
+      "mae": 0.53,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "イザムバード・キングダム・ブルネル"
+      ]
+    },
+    {
+      "a": "person-a2aefb7f2c.webp",
+      "b": "person-bc57242847.webp",
+      "mae": 0.538,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "シェイクスピア"
+      ]
+    },
+    {
+      "a": "person-a7b8af0f50.webp",
+      "b": "person-fadfe26fcd.webp",
+      "mae": 0.521,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アレッサンドロ・ボルタ"
+      ]
+    },
+    {
+      "a": "person-a9d2a04956.webp",
+      "b": "person-d7203de00e.webp",
+      "mae": 0.548,
+      "aReferencedBy": [
+        "アビゲイル・アダムズ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-ad4f3ff7e7.webp",
+      "b": "person-d2b1c7651d.webp",
+      "mae": 0.591,
+      "aReferencedBy": [
+        "イブン・バットゥータ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-ad6e558560.webp",
+      "b": "person-d9b1a0a91b.webp",
+      "mae": 0.593,
+      "aReferencedBy": [
+        "レオナルド・ダ・ヴィンチ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-b128c0aae5.webp",
+      "b": "person-ef77ce40cf.webp",
+      "mae": 0.534,
+      "aReferencedBy": [
+        "ジョージ・ワシントン"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-b1751a213c.webp",
+      "b": "person-fe9479e29d.webp",
+      "mae": 0.541,
+      "aReferencedBy": [
+        "マルティン・ルター"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-bb38d4f78a.webp",
+      "b": "person-e75a7651c8.webp",
+      "mae": 0.554,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アリウス"
+      ]
+    },
+    {
+      "a": "person-cc3460bb5b.webp",
+      "b": "person-ee0d81f4a1.webp",
+      "mae": 0.493,
+      "aReferencedBy": [
+        "ガリレオ・ガリレイ"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-d186cd4e90.webp",
+      "b": "person-f420e3f10a.webp",
+      "mae": 0.576,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "ハンニバル"
+      ]
+    },
+    {
+      "a": "person-e08a16a58c.webp",
+      "b": "person-ef17beb844.webp",
+      "mae": 0.546,
+      "aReferencedBy": [
+        "コペルニクス"
+      ],
+      "bReferencedBy": []
+    },
+    {
+      "a": "person-e10c617704.webp",
+      "b": "person-f6ad9aafd6.webp",
+      "mae": 0.551,
+      "aReferencedBy": [],
+      "bReferencedBy": [
+        "アルキビアデス"
+      ]
+    }
+  ],
+  "confirmationImageCount": 115,
+  "confirmationImagesNotFoundInAssets": [],
+  "confirmationMatchedAssetCount": 115,
+  "unreferencedAssetsNotMatchedToConfirmationFolderCount": 78,
+  "unreferencedAssetsNotMatchedToConfirmationFolder": [
+    {
+      "asset": "person-03ca2051e4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-03ca2051e4.webp"
+    },
+    {
+      "asset": "person-04926774bb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-04926774bb.webp"
+    },
+    {
+      "asset": "person-09a9b8e268.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-09a9b8e268.webp"
+    },
+    {
+      "asset": "person-0c46b3ceb5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-0c46b3ceb5.webp"
+    },
+    {
+      "asset": "person-0cd15da63c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-0cd15da63c.webp"
+    },
+    {
+      "asset": "person-12b6aece80.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-12b6aece80.webp"
+    },
+    {
+      "asset": "person-1d0d3cb02a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-1d0d3cb02a.webp"
+    },
+    {
+      "asset": "person-277170700f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-277170700f.webp"
+    },
+    {
+      "asset": "person-27e4fcd404.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-27e4fcd404.webp"
+    },
+    {
+      "asset": "person-289f09b2c1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-289f09b2c1.webp"
+    },
+    {
+      "asset": "person-2a34f269dc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2a34f269dc.webp"
+    },
+    {
+      "asset": "person-2a7c737236.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2a7c737236.webp"
+    },
+    {
+      "asset": "person-2b05c47332.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2b05c47332.webp"
+    },
+    {
+      "asset": "person-2bdfcc418c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2bdfcc418c.webp"
+    },
+    {
+      "asset": "person-2f8083da37.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2f8083da37.webp"
+    },
+    {
+      "asset": "person-310584639b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-310584639b.webp"
+    },
+    {
+      "asset": "person-34175beaf7.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-34175beaf7.webp"
+    },
+    {
+      "asset": "person-36d85a6245.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-36d85a6245.webp"
+    },
+    {
+      "asset": "person-37f0c076e5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-37f0c076e5.webp"
+    },
+    {
+      "asset": "person-39b9a1d500.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-39b9a1d500.webp"
+    },
+    {
+      "asset": "person-472258e19b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-472258e19b.webp"
+    },
+    {
+      "asset": "person-478ac60599.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-478ac60599.webp"
+    },
+    {
+      "asset": "person-47c3008c5d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-47c3008c5d.webp"
+    },
+    {
+      "asset": "person-4e6efc87f3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-4e6efc87f3.webp"
+    },
+    {
+      "asset": "person-50d7071b0b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-50d7071b0b.webp"
+    },
+    {
+      "asset": "person-555618cb1b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-555618cb1b.webp"
+    },
+    {
+      "asset": "person-59ba2c317a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-59ba2c317a.webp"
+    },
+    {
+      "asset": "person-5f21763da9.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-5f21763da9.webp"
+    },
+    {
+      "asset": "person-6b0028f33d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-6b0028f33d.webp"
+    },
+    {
+      "asset": "person-6f3b31a3ab.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-6f3b31a3ab.webp"
+    },
+    {
+      "asset": "person-7359ad9c67.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7359ad9c67.webp"
+    },
+    {
+      "asset": "person-7468017804.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7468017804.webp"
+    },
+    {
+      "asset": "person-785a2ae2f4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-785a2ae2f4.webp"
+    },
+    {
+      "asset": "person-840a99a0cf.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-840a99a0cf.webp"
+    },
+    {
+      "asset": "person-87055886a8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-87055886a8.webp"
+    },
+    {
+      "asset": "person-8740de73ea.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8740de73ea.webp"
+    },
+    {
+      "asset": "person-874aa62782.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-874aa62782.webp"
+    },
+    {
+      "asset": "person-879932e7c0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-879932e7c0.webp"
+    },
+    {
+      "asset": "person-8a4d970f45.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8a4d970f45.webp"
+    },
+    {
+      "asset": "person-8c1b0020dc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8c1b0020dc.webp"
+    },
+    {
+      "asset": "person-8df86bd2a8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8df86bd2a8.webp"
+    },
+    {
+      "asset": "person-90b15201b0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-90b15201b0.webp"
+    },
+    {
+      "asset": "person-97acc2cc6c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-97acc2cc6c.webp"
+    },
+    {
+      "asset": "person-9a20be8088.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9a20be8088.webp"
+    },
+    {
+      "asset": "person-9b84e7a0e2.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9b84e7a0e2.webp"
+    },
+    {
+      "asset": "person-9f2e63dfb1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9f2e63dfb1.webp"
+    },
+    {
+      "asset": "person-9f857af814.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9f857af814.webp"
+    },
+    {
+      "asset": "person-a17abc7079.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a17abc7079.webp"
+    },
+    {
+      "asset": "person-a2aefb7f2c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a2aefb7f2c.webp"
+    },
+    {
+      "asset": "person-a7b8af0f50.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a7b8af0f50.webp"
+    },
+    {
+      "asset": "person-ab1c64034b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ab1c64034b.webp"
+    },
+    {
+      "asset": "person-b057e4e120.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-b057e4e120.webp"
+    },
+    {
+      "asset": "person-b1c029c022.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-b1c029c022.webp"
+    },
+    {
+      "asset": "person-bb38d4f78a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-bb38d4f78a.webp"
+    },
+    {
+      "asset": "person-bc35ea24de.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-bc35ea24de.webp"
+    },
+    {
+      "asset": "person-be2dfc8c8f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-be2dfc8c8f.webp"
+    },
+    {
+      "asset": "person-cb7645de73.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-cb7645de73.webp"
+    },
+    {
+      "asset": "person-cf05b51c03.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-cf05b51c03.webp"
+    },
+    {
+      "asset": "person-d186cd4e90.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d186cd4e90.webp"
+    },
+    {
+      "asset": "person-d2b1c7651d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d2b1c7651d.webp"
+    },
+    {
+      "asset": "person-d2ea2ab172.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d2ea2ab172.webp"
+    },
+    {
+      "asset": "person-d7203de00e.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d7203de00e.webp"
+    },
+    {
+      "asset": "person-d7cc59fb4a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d7cc59fb4a.webp"
+    },
+    {
+      "asset": "person-d9b1a0a91b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d9b1a0a91b.webp"
+    },
+    {
+      "asset": "person-df245183a3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-df245183a3.webp"
+    },
+    {
+      "asset": "person-e0096d2ed3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e0096d2ed3.webp"
+    },
+    {
+      "asset": "person-e10c617704.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e10c617704.webp"
+    },
+    {
+      "asset": "person-e2c09518fa.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e2c09518fa.webp"
+    },
+    {
+      "asset": "person-e963d604cb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e963d604cb.webp"
+    },
+    {
+      "asset": "person-ee0d81f4a1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ee0d81f4a1.webp"
+    },
+    {
+      "asset": "person-ef17beb844.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ef17beb844.webp"
+    },
+    {
+      "asset": "person-ef77ce40cf.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ef77ce40cf.webp"
+    },
+    {
+      "asset": "person-f1b1a88c09.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f1b1a88c09.webp"
+    },
+    {
+      "asset": "person-f8d7bd726d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f8d7bd726d.webp"
+    },
+    {
+      "asset": "person-fa1becdf28.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fa1becdf28.webp"
+    },
+    {
+      "asset": "person-fa993cfb81.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fa993cfb81.webp"
+    },
+    {
+      "asset": "person-fdc746fddd.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fdc746fddd.webp"
+    },
+    {
+      "asset": "person-fe9479e29d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fe9479e29d.webp"
+    }
+  ]
+}

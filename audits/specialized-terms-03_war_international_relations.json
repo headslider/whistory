@@ -1,0 +1,891 @@
+[
+  {
+    "term": "国際機関",
+    "count": 65,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.cards.power.summary => 国家、軍、国際機関、市民、抵抗運動が歴史を動かしました。戦争を止め、人権を守るしくみが強く求められました。"
+  },
+  {
+    "term": "国際機関・連合",
+    "count": 20,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:194.type => 国際機関・連合"
+  },
+  {
+    "term": "国際秩序",
+    "count": 16,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.peopleNote => を倒して共和国をつくる革命運動を進めました。二人は東アジアの国際秩序が変わる別々の局面を示します。"
+  },
+  {
+    "term": "独裁体制",
+    "count": 10,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:168.text => 第二次大戦は第二次世界大戦の勢力で力を持った同盟・国家です。独裁体制、侵略、抵抗、総力戦が世界に広がり、戦後の国際秩序を大きく変えました。"
+  },
+  {
+    "term": "政治・軍",
+    "count": 8,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アレクサンドロス大王.modal.profile => っかけになりました。この人物の治世から、王朝を維持するために政治・軍事・外交が一体となっていたことを学べます。ギリシャ・西アジアで「東西を結んだ征服者」とされ"
+  },
+  {
+    "term": "総力戦",
+    "count": 7,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.4.summary => 枢軸国と連合国の総力戦が欧州・アジア・太平洋を覆い、都市・民間人・捕虜へ巨大な被害を与える"
+  },
+  {
+    "term": "非同盟",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.1.text => ハルラール・ネルーが独立後の首相となり、議会政治、重工業化、非同盟外交を進めましたが、分離独立したインドとパキスタンの間では大量の避難民と宗教暴力が起こりま"
+  },
+  {
+    "term": "ポエニ戦争",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.2.text => を組み合わせて統治しました。イタリア半島統一後、カルタゴとのポエニ戦争に入り、ハンニバルは軍と象を率いてアルプスを越え、カンナエでローマ軍を破りました。しかしス"
+  },
+  {
+    "term": "スペイン軍",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.2.text => 訳・交渉役として、言語だけでなく地域の政治関係を伝えました。スペイン軍は一度都を追われましたが、天然痘の流行と包囲戦によって1521年にテノチティトランを陥落さ"
+  },
+  {
+    "term": "アメリカ軍",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ドワイト・アイゼンハワー.modal.profile => 次世界大戦で連合国軍を率り、ノルマンディー上陸作戦を指揮したアメリカ軍人です。後に大統領となり、冷戦下で軍事同盟を維持しながら大規模戦争を避けようとしました。冷"
+  },
+  {
+    "term": "十字軍",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フリードリヒ・バルバロッサ.modal.profile => 軍にも参加しましたが、遠征の途中で川に落ちて亡くなりました。十字軍は、聖地エルサレムをめぐって西ヨーロッパのキリスト教勢力が行った遠征です。その治世は、君主"
+  },
+  {
+    "term": "ニカイア公会議",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.2.text => ンスタンティヌス帝らのミラノ勅令で信仰が公認され、325年のニカイア公会議では、アリウスの説をめぐってキリストの神性が議論されました。アタナシウスはニカイア派を守り"
+  },
+  {
+    "term": "日中戦争",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.3.text => 連盟の批判を受けて脱退した後も軍事進出を続け、1937年には日中戦争が全面化しました。南京を含む各地で捕虜・民間人の殺害、略奪、性暴力が起こり、中国側でも長期"
+  },
+  {
+    "term": "枢軸国",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.subcategories.4.summary => 枢軸国と連合国の総力戦が欧州・アジア・太平洋を覆い、都市・民間人・捕虜へ巨大な被害を与える"
+  },
+  {
+    "term": "核戦争",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.peopleNote => ジョン・F・ケネディはキューバ危機で核戦争回避に関わり、ゴルバチョフは改革・軍縮・東欧不介入によって冷戦終結を促しました。"
+  },
+  {
+    "term": "ポウハタン連合",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:113.name => ポウハタン連合"
+  },
+  {
+    "term": "マラーター同盟",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:141.name => マラーター同盟"
+  },
+  {
+    "term": "インド国民会議",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:179.name => インド国民会議"
+  },
+  {
+    "term": "アフリカ連合",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:197.name => アフリカ連合"
+  },
+  {
+    "term": "中央同盟国",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:165.name => 中央同盟国"
+  },
+  {
+    "term": "中央同盟",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:165.name => 中央同盟国"
+  },
+  {
+    "term": "オーストリア継承戦争",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フリードリヒ2世.modal.profile => プロイセン王です。軍隊と官僚制を整え、オーストリア継承戦争や七年戦争で領土を広げました。啓蒙専制君主と呼ばれますが、国家と軍事を強く重視しました。"
+  },
+  {
+    "term": "政治家・将軍",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:テミストクレス.modal.profile => アテネの政治家・将軍です。ペルシャの侵攻に備えて海軍を強化し、サラミスの海戦でギリシャ側の勝利に貢献しました。"
+  },
+  {
+    "term": "イタリア軍",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.1.text => ネリク2世は武器輸入と外交を進め、1896年のアドワの戦いでイタリア軍を破り、独立を守りました。"
+  },
+  {
+    "term": "フランス軍",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャンヌ・ダルク.modal.profile => フランスの農村出身で、神の声を聞いたと信じて百年戦争のフランス軍を励ました少女です。オルレアン解放に関わりましたが、捕らえられ裁判で処刑され、後に名誉が回"
+  },
+  {
+    "term": "ペルシャ軍",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ミルティアデス.modal.profile => 古代アテネの将軍です。ペルシャ軍をマラトンの戦いで破る作戦を指揮しました。勝利はアテネの自信を高めましたが、のちに失敗した"
+  },
+  {
+    "term": "ローマ軍",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.2.text => に入り、ハンニバルは軍と象を率いてアルプスを越え、カンナエでローマ軍を破りました。しかしスキピオ・アフリカヌスが北アフリカへ攻め込み、ザマの戦いで勝利しました"
+  },
+  {
+    "term": "身分秩序",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 。グプタ朝期にはサンスクリット文化と寺院建築が栄えましたが、身分秩序や職業の世襲も社会に根強く残りました。"
+  },
+  {
+    "term": "七年戦争",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.1.text => 七年戦争後、イギリスは北アメリカ13植民地へ印紙法や茶法などの課税を強めました。植民地側は議会に代"
+  },
+  {
+    "term": "対外戦争",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 。両国の違いは文化の優劣ではなく、国内政治、財政、改革勢力、対外戦争の結果が重なって生まれました。"
+  },
+  {
+    "term": "政治体制",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:近衛文麿.modal.profile => 前に内閣を率いました。外交で戦争を避ける交渉に失敗し、国内の政治体制を戦時向けにまとめる動きにも関わりました。"
+  },
+  {
+    "term": "独立軍",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.1.peopleNote => ジョージ・ワシントンは独立軍、トマス・ジェファーソンは独立宣言、ベンジャミン・フランクリンは対仏外交を担いました。トマ"
+  },
+  {
+    "term": "新兵器",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.0.summary => 同盟対立と総動員体制が地域紛争を世界戦争へ変え、塹壕戦と新兵器が被害を拡大する"
+  },
+  {
+    "term": "外国軍",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ダントン.modal.profile => フランス革命期の政治家です。外国軍の侵入に対して革命政府をまとめましたが、のちに恐怖政治を弱めようとしてロベスピエールと対立"
+  },
+  {
+    "term": "核軍拡・軍事同盟・代理戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.summary => 米ソ対立が核軍拡・軍事同盟・代理戦争を生み、緊張緩和と改革を経て終結する"
+  },
+  {
+    "term": "日中戦争・太平洋戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.3.summary => 満州事変から日中戦争・太平洋戦争へ拡大し、占領地と都市住民へ甚大な被害を与える"
+  },
+  {
+    "term": "サンフランシスコ会議",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.text => 連合国は戦争中から新しい国際機構を協議しました。1945年のサンフランシスコ会議で国際連合憲章が採択され、同年10月に国際連合が発足しました。総会では全加盟国が参加し、安"
+  },
+  {
+    "term": "セネカフォールズ会議",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:エリザベス・キャディ・スタントン.modal.profile => アメリカの女性権利運動家です。1848年のセネカフォールズ会議で女性の参政権を求める宣言をまとめました。奴隷制廃止運動とも関わり、法的平等を訴えました。"
+  },
+  {
+    "term": "トルデシリャス条約",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.0.text => ブスが1492年にカリブ海へ到達しました。両国は教皇の仲介とトルデシリャス条約で支配圏を分けようとしましたが、航路開拓は交易だけでなく、要塞建設、改宗強制、土地の占領、"
+  },
+  {
+    "term": "独裁・保護貿易・軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.text => 州への進出を正当化する背景になりました。世界恐慌は経済危機が独裁・保護貿易・軍事膨張へ結び付く危険を示しました。"
+  },
+  {
+    "term": "アレクサンドロス軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:チャンドラグプタ.modal.profile => くをまとめ、首都パータリプトラを中心に役人と軍で治めました。アレクサンドロス軍の撤退後の地域を取り込み、王国を広げました。この人物の歩みから、政治の改革が人々の権利や国"
+  },
+  {
+    "term": "企業・軍隊・条約",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.summary => 工業国が資源・市場・軍事拠点を求め、企業・軍隊・条約を使って海外支配を拡大する"
+  },
+  {
+    "term": "交通・医療・戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.5.peopleNote => ス・ナイチンゲールは統計と衛生改革を通して、工業技術と科学が交通・医療・戦争へ及ぼす影響を示しました。"
+  },
+  {
+    "term": "アフリカ民族会議",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.text => 都市で働くにも通行証を求められました。ネルソン・マンデラらのアフリカ民族会議は当初非暴力運動を行いましたが、シャープビル虐殺と組織禁止後には武装闘争へ移り、マンデラは"
+  },
+  {
+    "term": "女性社会政治同盟",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:エメリン・パンクハースト.modal.profile => イギリスの女性参政権運動家です。女性社会政治同盟を率い、投票権を求めて集会や抗議行動を行いました。激しい行動は議論を呼びましたが、参政権実"
+  },
+  {
+    "term": "資源・市場・軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.0.summary => 工業国が資源・市場・軍事拠点を求め、企業・軍隊・条約を使って海外支配を拡大する"
+  },
+  {
+    "term": "検査・医療体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => 回復を結び付けた植林運動を広げました。感染症対策では、各国の検査・医療体制だけでなく、情報共有、ワクチン開発、公平な供給が必要です。AIは医療診断、翻訳、科学研究、"
+  },
+  {
+    "term": "スターリン体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:レフ・ランダウ.modal.profile => 低温物理や量子論を発展させ、理論物理学に大きく貢献しました。スターリン体制下で逮捕された経験もあり、科学と政治の関係を示します。"
+  },
+  {
+    "term": "国際連合憲章",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.text => い国際機構を協議しました。1945年のサンフランシスコ会議で国際連合憲章が採択され、同年10月に国際連合が発足しました。総会では全加盟国が参加し、安全保障理事会に"
+  },
+  {
+    "term": "イギリス海軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジェームズ・クック.modal.profile => イギリス海軍の航海者です。太平洋でニュージーランドやオーストラリア東岸を詳しく測量しました。科学調査を"
+  },
+  {
+    "term": "アメリカ海軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:チェスター・ニミッツ.modal.profile => アメリカ海軍の司令官です。太平洋戦争で空母を中心とする作戦を指揮し、ミッドウェー海戦などで勝利しました"
+  },
+  {
+    "term": "先住民同盟",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.2.summary => スペイン勢力が先住民同盟・内戦・感染症を利用してアステカとインカを征服する"
+  },
+  {
+    "term": "アヘン戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 19世紀の東アジアでは、清がアヘン戦争に敗れ、南京条約などで港の開放、賠償金、治外法権を認めさせられました。太平天国の乱など国内"
+  },
+  {
+    "term": "西洋式兵器",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => を認めさせられました。太平天国の乱など国内の反乱も続き、清は西洋式兵器・造船・工場を導入する洋務運動を進めましたが、政治制度と財政の改革は限定的でした。一方、日"
+  },
+  {
+    "term": "総動員体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.0.summary => 同盟対立と総動員体制が地域紛争を世界戦争へ変え、塹壕戦と新兵器が被害を拡大する"
+  },
+  {
+    "term": "植民地戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.text => 方、拒否権によって大国間対立を止められない場合があり、冷戦や植民地戦争では十分に機能できない限界も残りました。"
+  },
+  {
+    "term": "政治家・軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カエサル.modal.profile => 紀元前1世紀のローマの政治家・軍人です。ガリア（今のフランス）を平定して大きな力を持ちました。「来た、見た、勝った」の言葉"
+  },
+  {
+    "term": "大規模戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ドワイト・アイゼンハワー.modal.profile => カ軍人です。後に大統領となり、冷戦下で軍事同盟を維持しながら大規模戦争を避けようとしました。冷戦は、第二次世界大戦後にアメリカとソ連が直接の全面戦争を避けながら"
+  },
+  {
+    "term": "モンゴル軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:バトゥ.modal.profile => チンギス・ハンの孫で、モンゴル軍を率いてロシアや東ヨーロッパへ進んだ指導者です。ボルガ川下流にキプチャク・ハン国を築き、交"
+  },
+  {
+    "term": "家族秩序",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.1.text => た。朝鮮半島、ベトナム、日本にも伝わりましたが、理想とされた家族秩序は女性や年少者の行動を強く制限する面もありました。"
+  },
+  {
+    "term": "政治秩序",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.3.peopleNote => ムハンマドはメディナで信仰共同体と政治秩序を築きました。その死後、カリフが共同体を率いましたが、後継をめぐる対立はスンナ派とシーア派"
+  },
+  {
+    "term": "財政危機",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.summary => 財政危機と身分制への不満から王政が崩れ、人権宣言・共和政・恐怖政治へ進む"
+  },
+  {
+    "term": "南京条約",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 19世紀の東アジアでは、清がアヘン戦争に敗れ、南京条約などで港の開放、賠償金、治外法権を認めさせられました。太平天国の乱など国内の反乱も続き、清"
+  },
+  {
+    "term": "世界戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.0.summary => 同盟対立と総動員体制が地域紛争を世界戦争へ変え、塹壕戦と新兵器が被害を拡大する"
+  },
+  {
+    "term": "経済危機",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.text => 、軍部が満州への進出を正当化する背景になりました。世界恐慌は経済危機が独裁・保護貿易・軍事膨張へ結び付く危険を示しました。"
+  },
+  {
+    "term": "初期海軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.3.peopleNote => 東条英機は対米英開戦と戦争指導、山本五十六は真珠湾攻撃と初期海軍作戦、チェスター・ニミッツは米軍の太平洋反攻を指揮しました。"
+  },
+  {
+    "term": "国際機構",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.text => 界大戦の被害と国際連盟の失敗を受け、連合国は戦争中から新しい国際機構を協議しました。1945年のサンフランシスコ会議で国際連合憲章が採択され、同年10月に国際"
+  },
+  {
+    "term": "経済体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 第二次世界大戦後、アメリカとソ連は政治制度、経済体制、安全保障をめぐって対立し、世界は西側と東側の陣営に分かれました。アメリカはマーシャル・プ"
+  },
+  {
+    "term": "改革・軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.peopleNote => ・ケネディはキューバ危機で核戦争回避に関わり、ゴルバチョフは改革・軍縮・東欧不介入によって冷戦終結を促しました。"
+  },
+  {
+    "term": "植民地軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.1.text => 第二次世界大戦後、ヨーロッパ諸国の国力低下、植民地軍の経験、民族運動の成長、国際連合の民族自決支持を背景に、アジア・アフリカで独立が進みました"
+  },
+  {
+    "term": "欧州連合",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.4.text => 税を減らして商品・資本・人の移動を広げました。1993年には欧州連合が発足し、加盟国の多くが共通通貨ユーロを導入しました。国境検査を減らす仕組み、共通市場、農"
+  },
+  {
+    "term": "国際条約",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => く、誰がデータを集め、判断し、利益と損失を負うかにあります。国際条約、法律、企業責任、市民参加、科学教育を組み合わせて管理する必要があります。"
+  },
+  {
+    "term": "日本海軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:山本五十六.modal.profile => 日本海軍の軍人です。日米開戦に反対する考えも持ちながら、真珠湾攻撃の作戦を指揮しました。1943年"
+  },
+  {
+    "term": "神父・軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ホセ・モレーロス.modal.profile => メキシコ独立運動を引き継いだ神父・軍事指導者です。独立、身分制の廃止、土地と税の改革を掲げました。議会を開き憲法づくりを進めま"
+  },
+  {
+    "term": "普仏戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ナポレオン3世.modal.profile => リ改造を進め、産業化を後押ししました。一方で対外戦争を行い、普仏戦争で敗れて退位しました。"
+  },
+  {
+    "term": "西南戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:西郷隆盛.modal.profile => 開城に関わり、新政府の成立を助けました。のちに政府と対立し、西南戦争で士族反乱を率いて敗れました。"
+  },
+  {
+    "term": "日露戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ニコライ2世.modal.profile => ロシア帝国最後の皇帝です。日露戦争、第一次世界大戦、国内の不満に対応できず、1917年の二月革命で退位しました。のちに家族と"
+  },
+  {
+    "term": "日本陸軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:石原莞爾.modal.profile => 日本陸軍の軍人です。1931年の満州事変の計画に深く関わり、日本の中国東北部への軍事進出を進めまし"
+  },
+  {
+    "term": "欧州戦争",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:三十年戦争.summary => 宗教と国益が重なった欧州戦争"
+  },
+  {
+    "term": "大陸軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.1.text => 民の同意にもとづく政府を主張しました。ジョージ・ワシントンが大陸軍を率い、ベンジャミン・フランクリンがフランスの参戦を取り付けたことで戦局が変わり、1783"
+  },
+  {
+    "term": "会社軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 製綿布の流入で地域の手工業が打撃を受けました。1857年には会社軍のインド人兵士の反乱が北インドへ広がり、旧王侯、農民、都市住民も参加しました。鎮圧後、会社"
+  },
+  {
+    "term": "国会議",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.2.text => 率いるナチ党が勢力を伸ばしました。1933年に首相となると、国会議事堂放火事件を利用して基本的人権を停止し、全権委任法で議会を無力化しました。政党、労働組合"
+  },
+  {
+    "term": "日本軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.3.text => 太平洋艦隊を指揮してミッドウェー海戦以後の反攻を進めました。日本軍の占領下では強制労働、食料徴発、捕虜虐待が行われ、東南アジアと太平洋諸島の住民も戦闘・飢餓"
+  },
+  {
+    "term": "連合軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.4.text => ことで戦争はさらに世界化しました。ドワイト・アイゼンハワーは連合軍のノルマンディー上陸作戦を指揮し、シャルル・ド・ゴールは自由フランスを率いました。東部戦線"
+  },
+  {
+    "term": "常備軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ルイ14世.modal.profile => な影響を与えました。絶対王政は、国王が強い権力を集め、官僚や常備軍を使って国を治める政治です。この人物の治世から、王朝を維持するために政治・軍事・外交が一体"
+  },
+  {
+    "term": "反乱軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フランシスコ・フランコ.modal.profile => スペイン内戦で反乱軍を率り、1939年から独裁政治を行った人物です。反対派を弾圧し、長く自由な政治を認めません"
+  },
+  {
+    "term": "陸軍軍",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:東条英機.modal.profile => 日本の陸軍軍人・首相です。1941年から44年にかけて戦時内閣を率い、太平洋戦争の拡大に大きな責任を負"
+  },
+  {
+    "term": "世界大戦",
+    "count": 290,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.title => 二つの世界大戦の時代"
+  },
+  {
+    "term": "第二次世界大戦",
+    "count": 148,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.cards.event.summary => 第一次世界大戦、世界恐慌、第二次世界大戦、ホロコースト、原子爆弾、国際連合の成立が起こりました。"
+  },
+  {
+    "term": "第一次世界大戦",
+    "count": 84,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.cards.event.summary => 第一次世界大戦、世界恐慌、第二次世界大戦、ホロコースト、原子爆弾、国際連合の成立が起こりました。"
+  },
+  {
+    "term": "国際連合",
+    "count": 51,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.cards.event.summary => 世界大戦、世界恐慌、第二次世界大戦、ホロコースト、原子爆弾、国際連合の成立が起こりました。"
+  },
+  {
+    "term": "ナチス",
+    "count": 30,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.cards.event.detail => さえたい地域別のできごとは、第一次世界大戦の拡大、世界恐慌、ナチスの独裁と迫害、東アジア・太平洋の戦争拡大、第二次世界大戦の世界的被害、国際連合の成立です。"
+  },
+  {
+    "term": "核兵器",
+    "count": 24,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => は東欧の社会主義政権とワルシャワ条約機構を支えました。両国は核兵器と大陸間ミサイルを増やしましたが、直接戦えば全面核戦争になるため、朝鮮戦争、ベトナム戦争、"
+  },
+  {
+    "term": "百年戦争",
+    "count": 20,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ヘンリー5世.title => 百年戦争を戦った王"
+  },
+  {
+    "term": "南北戦争",
+    "count": 16,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.4.text => 内の奴隷制が廃止されました。アメリカでは奴隷制をめぐる対立が南北戦争へ発展し、戦争中の解放政策と憲法改正によって制度上の奴隷制は廃止されました。ただし解放後も"
+  },
+  {
+    "term": "全面戦争",
+    "count": 16,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ジョン・F・ケネディ.modal.profile => されました。冷戦は、第二次世界大戦後にアメリカとソ連が直接の全面戦争を避けながら、軍事・経済・思想で対立した状態です。その活動は、社会の中で見過ごされていた差"
+  },
+  {
+    "term": "連合国",
+    "count": 15,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.subcategories.4.summary => 枢軸国と連合国の総力戦が欧州・アジア・太平洋を覆い、都市・民間人・捕虜へ巨大な被害を与える"
+  },
+  {
+    "term": "不平等条約",
+    "count": 14,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "actionCards:東アジア列強進出期.modal.whatHappened => 、朝鮮、ロシア、欧米列強が東アジアで影響力を競った時代です。不平等条約、改革、戦争が重なり、地域の力関係が大きく変わりました。争いは軍隊だけでなく、都市や農村、"
+  },
+  {
+    "term": "太平洋戦争",
+    "count": 13,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.subcategories.3.summary => 満州事変から日中戦争・太平洋戦争へ拡大し、占領地と都市住民へ甚大な被害を与える"
+  },
+  {
+    "term": "国際連盟",
+    "count": 12,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.subcategories.3.text => 満州事変をきっかけに中国東北部を占領し、満州国を建てました。国際連盟の批判を受けて脱退した後も軍事進出を続け、1937年には日中戦争が全面化しました。南京を含"
+  },
+  {
+    "term": "独立戦争",
+    "count": 11,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.3.peopleNote => シモン・ボリバルは北部南アメリカの独立戦争を指揮し、複数地域をまとめる大コロンビアを構想しましたが、地域対立により分裂しました。"
+  },
+  {
+    "term": "ペルシャ戦争",
+    "count": 10,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.2.eras.0.subcategories.1.text => の部族を組み替え、五百人評議会と陶片追放の制度を整えました。ペルシャ戦争後、ペリクレスの時代には民会、陪審、公職手当が発達し、貧しい男性市民も政治へ参加しやすくな"
+  },
+  {
+    "term": "ファシズム",
+    "count": 10,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.subcategories.2.text => ダヤ人約600万人が殺害されました。ベニート・ムッソリーニのファシズム政権も独裁と対外侵略を進め、国家宣伝と差別法が暴力を正当化しました。"
+  },
+  {
+    "term": "ワルシャワ条約機構",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => カはマーシャル・プランとNATO、ソ連は東欧の社会主義政権とワルシャワ条約機構を支えました。両国は核兵器と大陸間ミサイルを増やしましたが、直接戦えば全面核戦争になるため"
+  },
+  {
+    "term": "ベトナム戦争",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => を増やしましたが、直接戦えば全面核戦争になるため、朝鮮戦争、ベトナム戦争、アフガニスタン侵攻などで間接的に争いました。1962年のキューバ危機では、ジョン・F・ケ"
+  },
+  {
+    "term": "朝鮮戦争",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 間ミサイルを増やしましたが、直接戦えば全面核戦争になるため、朝鮮戦争、ベトナム戦争、アフガニスタン侵攻などで間接的に争いました。1962年のキューバ危機では、"
+  },
+  {
+    "term": "ペロポネソス戦争",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.2.eras.0.subcategories.1.text => トスはペルシャ戦争を広い民族世界から記録し、トゥキディデスはペロポネソス戦争を権力・恐怖・利益から分析しました。"
+  },
+  {
+    "term": "キューバ危機",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 争、アフガニスタン侵攻などで間接的に争いました。1962年のキューバ危機では、ジョン・F・ケネディ政権とソ連が海上封鎖と交渉を通じて衝突を回避しました。1980年"
+  },
+  {
+    "term": "三十年戦争",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "actionCards:三十年戦争.modal.whyImportant => 三十年戦争は、勢力関係、国境、政治制度を組み替え、兵士だけでなく市民社会にも長期的な影響を残した点が"
+  },
+  {
+    "term": "NATO",
+    "count": 5,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 側と東側の陣営に分かれました。アメリカはマーシャル・プランとNATO、ソ連は東欧の社会主義政権とワルシャワ条約機構を支えました。両国は核兵器と大陸間ミサイルを"
+  },
+  {
+    "term": "マーシャル・プラン",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => って対立し、世界は西側と東側の陣営に分かれました。アメリカはマーシャル・プランとNATO、ソ連は東欧の社会主義政権とワルシャワ条約機構を支えました。両国は核兵器と大陸間"
+  },
+  {
+    "term": "連合国第二次大戦",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "kingdomCards:168.name => 連合国第二次大戦"
+  },
+  {
+    "term": "イタリア戦争",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "actionCards:イタリア戦争.modal.whyImportant => イタリア戦争は、勢力関係、国境、政治制度を組み替え、兵士だけでなく市民社会にも長期的な影響を残した点が"
+  },
+  {
+    "term": "侵略戦争",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.8.eras.0.subcategories.2.peopleNote => アドルフ・ヒトラーはナチ独裁と侵略戦争、ベニート・ムッソリーニはファシズム独裁とエチオピア侵攻を進めました。"
+  },
+  {
+    "term": "軍事同盟",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.summary => 米ソ対立が核軍拡・軍事同盟・代理戦争を生み、緊張緩和と改革を経て終結する"
+  },
+  {
+    "term": "宗教戦争",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:アンリ4世.title => 宗教戦争をしずめた王"
+  },
+  {
+    "term": "連合国軍",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ドワイト・アイゼンハワー.modal.profile => 第二次世界大戦で連合国軍を率り、ノルマンディー上陸作戦を指揮したアメリカ軍人です。後に大統領となり、冷戦下で軍事同"
+  },
+  {
+    "term": "大陸間ミサイル",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 社会主義政権とワルシャワ条約機構を支えました。両国は核兵器と大陸間ミサイルを増やしましたが、直接戦えば全面核戦争になるため、朝鮮戦争、ベトナム戦争、アフガニスタン侵"
+  },
+  {
+    "term": "ナポレオン戦争",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "actionCards:ヨーロッパ列強の勢力均衡.modal.whatHappened => 力のつり合いを意識して外交と戦争をくり返した時代です。革命とナポレオン戦争へもつながりました。争いは軍隊だけでなく、都市や農村、交易路、住民の移動にも影響しました。"
+  },
+  {
+    "term": "カリンガ戦争",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.2.eras.0.subcategories.4.text => 路、軍隊を整え、広い領域を統治しました。その孫アショーカ王はカリンガ戦争で多数の死者、捕虜、追放者が出たことを自らの碑文に記し、征服の被害を後悔しました。その後は"
+  },
+  {
+    "term": "ベルリン会議",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.subcategories.1.text => ーロッパ諸国は海岸部の拠点から内陸へ進み、1884～85年のベルリン会議では、アフリカ人代表を招かずに植民地獲得の原則を決めました。ヘンリー・モートン・スタンリー"
+  },
+  {
+    "term": "全面核戦争",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.text => た。両国は核兵器と大陸間ミサイルを増やしましたが、直接戦えば全面核戦争になるため、朝鮮戦争、ベトナム戦争、アフガニスタン侵攻などで間接的に争いました。1962年"
+  },
+  {
+    "term": "第二次ポエニ戦争",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:スキピオ・アフリカヌス.modal.profile => ローマの将軍です。第二次ポエニ戦争で北アフリカへ軍を進め、ザマの戦いでカルタゴのハンニバルを破りました。この勝利でローマが西"
+  },
+  {
+    "term": "アメリカ独立戦争",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ラファイエット.modal.profile => フランス貴族でありながらアメリカ独立戦争に参加し、ワシントンを助けた人物です。フランス革命でも自由と立憲政治を支持しましたが、激し"
+  },
+  {
+    "term": "第3回十字軍",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:フリードリヒ・バルバロッサ.modal.profile => 帝で、イタリアへ何度も遠征して帝国の力を広げようとしました。第3回十字軍にも参加しましたが、遠征の途中で川に落ちて亡くなりました。十字軍は、聖地エルサレムをめぐっ"
+  },
+  {
+    "term": "クリミア戦争",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:フローレンス・ナイチンゲール.modal.profile => クリミア戦争の病院で衛生状態を調べ、清潔な水、換気、記録を重視して死亡を減らした看護師です。帰国後は看"
+  },
+  {
+    "term": "代理戦争",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.0.summary => 米ソ対立が核軍拡・軍事同盟・代理戦争を生み、緊張緩和と改革を経て終結する"
+  }
+]

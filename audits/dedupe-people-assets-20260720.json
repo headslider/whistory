@@ -1,0 +1,1336 @@
+{
+  "threshold": "160px RGB MAE <= 1.2",
+  "beforeAssetCount": 255,
+  "duplicateGroupCount": 72,
+  "duplicatePairCount": 72,
+  "updatedRefs": [
+    {
+      "person": "ソロン",
+      "oldImage": "assets/people/person-0c00fa8a54.webp",
+      "newImage": "assets/people/person-4e6d38825c.webp",
+      "reason": "duplicate-image"
+    },
+    {
+      "person": "ジル・ド・レエ",
+      "oldImage": "assets/people/person-809fb0c62e.webp",
+      "newImage": "assets/people/person-f6d272d91c.webp",
+      "reason": "duplicate-image"
+    },
+    {
+      "person": "アウグストゥス",
+      "oldImage": "assets/people/person-91451153e6.webp",
+      "newImage": "assets/people/person-fa1becdf28.webp",
+      "reason": "missing-reference-fixed-from-confirmation",
+      "mae": 0.95
+    }
+  ],
+  "removedAssets": [
+    {
+      "asset": "person-2f8083da37.webp",
+      "keptAs": "person-0011a7b938.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-04926774bb.webp",
+      "keptAs": "person-32c3a12328.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-09a9b8e268.webp",
+      "keptAs": "person-09dac962cb.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-0c00fa8a54.webp",
+      "keptAs": "person-4e6d38825c.webp",
+      "wasReferencedBy": [
+        "ソロン"
+      ]
+    },
+    {
+      "asset": "person-0c46b3ceb5.webp",
+      "keptAs": "person-5bdbdabb4c.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-0cd15da63c.webp",
+      "keptAs": "person-7407a9e24f.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-785a2ae2f4.webp",
+      "keptAs": "person-0dbfd89beb.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-d7cc59fb4a.webp",
+      "keptAs": "person-1141366ba2.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-874aa62782.webp",
+      "keptAs": "person-11e8ea1d8a.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-97acc2cc6c.webp",
+      "keptAs": "person-161894fd4d.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-ab1c64034b.webp",
+      "keptAs": "person-1679093f0c.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-d2ea2ab172.webp",
+      "keptAs": "person-191db0da82.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-f1b1a88c09.webp",
+      "keptAs": "person-1cc2e1acb2.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-1d0d3cb02a.webp",
+      "keptAs": "person-e66d9b1378.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-9a20be8088.webp",
+      "keptAs": "person-1e015e3361.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-478ac60599.webp",
+      "keptAs": "person-23a2f61d69.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-277170700f.webp",
+      "keptAs": "person-deca27f0a0.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-27e4fcd404.webp",
+      "keptAs": "person-4305b9c03d.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-289f09b2c1.webp",
+      "keptAs": "person-a84fa933f1.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-2a34f269dc.webp",
+      "keptAs": "person-632d4656c3.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-2a7c737236.webp",
+      "keptAs": "person-5efae04b1c.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-2b05c47332.webp",
+      "keptAs": "person-c3eae4eafa.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-2bdfcc418c.webp",
+      "keptAs": "person-4ceade843b.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-e0096d2ed3.webp",
+      "keptAs": "person-2dab609327.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-6f3b31a3ab.webp",
+      "keptAs": "person-309ec64c9d.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-310584639b.webp",
+      "keptAs": "person-f462836a0c.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-5f21763da9.webp",
+      "keptAs": "person-3402a471f3.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-34175beaf7.webp",
+      "keptAs": "person-eb7674eb9e.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-36d85a6245.webp",
+      "keptAs": "person-521067b1b1.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-37f0c076e5.webp",
+      "keptAs": "person-827fa9b9b3.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-39b9a1d500.webp",
+      "keptAs": "person-8d1e003d26.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-9f2e63dfb1.webp",
+      "keptAs": "person-3b4f71264c.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-555618cb1b.webp",
+      "keptAs": "person-3b5126d5ca.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-8740de73ea.webp",
+      "keptAs": "person-3c08d403ad.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-7468017804.webp",
+      "keptAs": "person-3d930c4d52.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-b1c029c022.webp",
+      "keptAs": "person-3dcf243a52.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-472258e19b.webp",
+      "keptAs": "person-4ab47aade7.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-47c3008c5d.webp",
+      "keptAs": "person-575516c8d8.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-e963d604cb.webp",
+      "keptAs": "person-490f054f0e.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-fdc746fddd.webp",
+      "keptAs": "person-4ae32d11c2.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-4e6efc87f3.webp",
+      "keptAs": "person-50808aa356.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-50d7071b0b.webp",
+      "keptAs": "person-6f8c27de1c.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-cf05b51c03.webp",
+      "keptAs": "person-5119f42d3b.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-90b15201b0.webp",
+      "keptAs": "person-5282fde232.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-9b84e7a0e2.webp",
+      "keptAs": "person-54ea3251de.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-be2dfc8c8f.webp",
+      "keptAs": "person-57040e1942.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-59ba2c317a.webp",
+      "keptAs": "person-f58f3d2792.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-840a99a0cf.webp",
+      "keptAs": "person-638347cdb2.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-bc35ea24de.webp",
+      "keptAs": "person-6ce46faf8f.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-7359ad9c67.webp",
+      "keptAs": "person-de50729232.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-879932e7c0.webp",
+      "keptAs": "person-7ebbc36049.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-809fb0c62e.webp",
+      "keptAs": "person-f6d272d91c.webp",
+      "wasReferencedBy": [
+        "ジル・ド・レエ"
+      ]
+    },
+    {
+      "asset": "person-b057e4e120.webp",
+      "keptAs": "person-83bd092dca.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-87055886a8.webp",
+      "keptAs": "person-ed3d36e598.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-8a4d970f45.webp",
+      "keptAs": "person-f2de242edd.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-df245183a3.webp",
+      "keptAs": "person-8a96ecd37a.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-8c1b0020dc.webp",
+      "keptAs": "person-92d4a96fa6.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-8df86bd2a8.webp",
+      "keptAs": "person-be824ba0ed.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-e2c09518fa.webp",
+      "keptAs": "person-8e2dc5e8cf.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-fa993cfb81.webp",
+      "keptAs": "person-94822eef6a.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-a17abc7079.webp",
+      "keptAs": "person-e6f9de6616.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-a2aefb7f2c.webp",
+      "keptAs": "person-bc57242847.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-a7b8af0f50.webp",
+      "keptAs": "person-fadfe26fcd.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-d7203de00e.webp",
+      "keptAs": "person-a9d2a04956.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-d2b1c7651d.webp",
+      "keptAs": "person-ad4f3ff7e7.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-d9b1a0a91b.webp",
+      "keptAs": "person-ad6e558560.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-ef77ce40cf.webp",
+      "keptAs": "person-b128c0aae5.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-fe9479e29d.webp",
+      "keptAs": "person-b1751a213c.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-bb38d4f78a.webp",
+      "keptAs": "person-e75a7651c8.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-d186cd4e90.webp",
+      "keptAs": "person-f420e3f10a.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-ef17beb844.webp",
+      "keptAs": "person-e08a16a58c.webp",
+      "wasReferencedBy": []
+    },
+    {
+      "asset": "person-e10c617704.webp",
+      "keptAs": "person-f6ad9aafd6.webp",
+      "wasReferencedBy": []
+    }
+  ],
+  "groups": [
+    {
+      "keep": "person-0011a7b938.webp",
+      "members": [
+        "person-0011a7b938.webp",
+        "person-2f8083da37.webp"
+      ],
+      "referencedBy": {
+        "person-0011a7b938.webp": [
+          "ラファエロ"
+        ],
+        "person-2f8083da37.webp": []
+      }
+    },
+    {
+      "keep": "person-32c3a12328.webp",
+      "members": [
+        "person-04926774bb.webp",
+        "person-32c3a12328.webp"
+      ],
+      "referencedBy": {
+        "person-04926774bb.webp": [],
+        "person-32c3a12328.webp": [
+          "カール5世"
+        ]
+      }
+    },
+    {
+      "keep": "person-09dac962cb.webp",
+      "members": [
+        "person-09a9b8e268.webp",
+        "person-09dac962cb.webp"
+      ],
+      "referencedBy": {
+        "person-09a9b8e268.webp": [],
+        "person-09dac962cb.webp": [
+          "バッハ"
+        ]
+      }
+    },
+    {
+      "keep": "person-4e6d38825c.webp",
+      "members": [
+        "person-0c00fa8a54.webp",
+        "person-4e6d38825c.webp"
+      ],
+      "referencedBy": {
+        "person-0c00fa8a54.webp": [
+          "ソロン"
+        ],
+        "person-4e6d38825c.webp": [
+          "ソクラテス"
+        ]
+      }
+    },
+    {
+      "keep": "person-5bdbdabb4c.webp",
+      "members": [
+        "person-0c46b3ceb5.webp",
+        "person-5bdbdabb4c.webp"
+      ],
+      "referencedBy": {
+        "person-0c46b3ceb5.webp": [],
+        "person-5bdbdabb4c.webp": [
+          "ゴルバチョフ"
+        ]
+      }
+    },
+    {
+      "keep": "person-7407a9e24f.webp",
+      "members": [
+        "person-0cd15da63c.webp",
+        "person-7407a9e24f.webp"
+      ],
+      "referencedBy": {
+        "person-0cd15da63c.webp": [],
+        "person-7407a9e24f.webp": [
+          "パウロ"
+        ]
+      }
+    },
+    {
+      "keep": "person-0dbfd89beb.webp",
+      "members": [
+        "person-0dbfd89beb.webp",
+        "person-785a2ae2f4.webp"
+      ],
+      "referencedBy": {
+        "person-0dbfd89beb.webp": [
+          "アウグスティヌス"
+        ],
+        "person-785a2ae2f4.webp": []
+      }
+    },
+    {
+      "keep": "person-1141366ba2.webp",
+      "members": [
+        "person-1141366ba2.webp",
+        "person-d7cc59fb4a.webp"
+      ],
+      "referencedBy": {
+        "person-1141366ba2.webp": [
+          "ミケランジェロ"
+        ],
+        "person-d7cc59fb4a.webp": []
+      }
+    },
+    {
+      "keep": "person-11e8ea1d8a.webp",
+      "members": [
+        "person-11e8ea1d8a.webp",
+        "person-874aa62782.webp"
+      ],
+      "referencedBy": {
+        "person-11e8ea1d8a.webp": [
+          "マリー・アントワネット"
+        ],
+        "person-874aa62782.webp": []
+      }
+    },
+    {
+      "keep": "person-161894fd4d.webp",
+      "members": [
+        "person-161894fd4d.webp",
+        "person-97acc2cc6c.webp"
+      ],
+      "referencedBy": {
+        "person-161894fd4d.webp": [
+          "ライプニッツ"
+        ],
+        "person-97acc2cc6c.webp": []
+      }
+    },
+    {
+      "keep": "person-1679093f0c.webp",
+      "members": [
+        "person-1679093f0c.webp",
+        "person-ab1c64034b.webp"
+      ],
+      "referencedBy": {
+        "person-1679093f0c.webp": [
+          "サルゴン"
+        ],
+        "person-ab1c64034b.webp": []
+      }
+    },
+    {
+      "keep": "person-191db0da82.webp",
+      "members": [
+        "person-191db0da82.webp",
+        "person-d2ea2ab172.webp"
+      ],
+      "referencedBy": {
+        "person-191db0da82.webp": [
+          "マーティン・ルーサー・キング・ジュニア"
+        ],
+        "person-d2ea2ab172.webp": []
+      }
+    },
+    {
+      "keep": "person-1cc2e1acb2.webp",
+      "members": [
+        "person-1cc2e1acb2.webp",
+        "person-f1b1a88c09.webp"
+      ],
+      "referencedBy": {
+        "person-1cc2e1acb2.webp": [
+          "アベル・タスマン"
+        ],
+        "person-f1b1a88c09.webp": []
+      }
+    },
+    {
+      "keep": "person-e66d9b1378.webp",
+      "members": [
+        "person-1d0d3cb02a.webp",
+        "person-e66d9b1378.webp"
+      ],
+      "referencedBy": {
+        "person-1d0d3cb02a.webp": [],
+        "person-e66d9b1378.webp": [
+          "スピノザ"
+        ]
+      }
+    },
+    {
+      "keep": "person-1e015e3361.webp",
+      "members": [
+        "person-1e015e3361.webp",
+        "person-9a20be8088.webp"
+      ],
+      "referencedBy": {
+        "person-1e015e3361.webp": [
+          "ネルソン・マンデラ"
+        ],
+        "person-9a20be8088.webp": []
+      }
+    },
+    {
+      "keep": "person-23a2f61d69.webp",
+      "members": [
+        "person-23a2f61d69.webp",
+        "person-478ac60599.webp"
+      ],
+      "referencedBy": {
+        "person-23a2f61d69.webp": [
+          "ヘーゲル"
+        ],
+        "person-478ac60599.webp": []
+      }
+    },
+    {
+      "keep": "person-deca27f0a0.webp",
+      "members": [
+        "person-277170700f.webp",
+        "person-deca27f0a0.webp"
+      ],
+      "referencedBy": {
+        "person-277170700f.webp": [],
+        "person-deca27f0a0.webp": [
+          "シラー"
+        ]
+      }
+    },
+    {
+      "keep": "person-4305b9c03d.webp",
+      "members": [
+        "person-27e4fcd404.webp",
+        "person-4305b9c03d.webp"
+      ],
+      "referencedBy": {
+        "person-27e4fcd404.webp": [],
+        "person-4305b9c03d.webp": [
+          "ルイ14世"
+        ]
+      }
+    },
+    {
+      "keep": "person-a84fa933f1.webp",
+      "members": [
+        "person-289f09b2c1.webp",
+        "person-a84fa933f1.webp"
+      ],
+      "referencedBy": {
+        "person-289f09b2c1.webp": [],
+        "person-a84fa933f1.webp": [
+          "モーツァルト"
+        ]
+      }
+    },
+    {
+      "keep": "person-632d4656c3.webp",
+      "members": [
+        "person-2a34f269dc.webp",
+        "person-632d4656c3.webp"
+      ],
+      "referencedBy": {
+        "person-2a34f269dc.webp": [],
+        "person-632d4656c3.webp": [
+          "アダム・スミス"
+        ]
+      }
+    },
+    {
+      "keep": "person-5efae04b1c.webp",
+      "members": [
+        "person-2a7c737236.webp",
+        "person-5efae04b1c.webp"
+      ],
+      "referencedBy": {
+        "person-2a7c737236.webp": [],
+        "person-5efae04b1c.webp": [
+          "釈迦"
+        ]
+      }
+    },
+    {
+      "keep": "person-c3eae4eafa.webp",
+      "members": [
+        "person-2b05c47332.webp",
+        "person-c3eae4eafa.webp"
+      ],
+      "referencedBy": {
+        "person-2b05c47332.webp": [],
+        "person-c3eae4eafa.webp": [
+          "アッシュルナツィルパル2世"
+        ]
+      }
+    },
+    {
+      "keep": "person-4ceade843b.webp",
+      "members": [
+        "person-2bdfcc418c.webp",
+        "person-4ceade843b.webp"
+      ],
+      "referencedBy": {
+        "person-2bdfcc418c.webp": [],
+        "person-4ceade843b.webp": [
+          "キュロス2世"
+        ]
+      }
+    },
+    {
+      "keep": "person-2dab609327.webp",
+      "members": [
+        "person-2dab609327.webp",
+        "person-e0096d2ed3.webp"
+      ],
+      "referencedBy": {
+        "person-2dab609327.webp": [
+          "フローレンス・ナイチンゲール"
+        ],
+        "person-e0096d2ed3.webp": []
+      }
+    },
+    {
+      "keep": "person-309ec64c9d.webp",
+      "members": [
+        "person-309ec64c9d.webp",
+        "person-6f3b31a3ab.webp"
+      ],
+      "referencedBy": {
+        "person-309ec64c9d.webp": [
+          "アベラール"
+        ],
+        "person-6f3b31a3ab.webp": []
+      }
+    },
+    {
+      "keep": "person-f462836a0c.webp",
+      "members": [
+        "person-310584639b.webp",
+        "person-f462836a0c.webp"
+      ],
+      "referencedBy": {
+        "person-310584639b.webp": [],
+        "person-f462836a0c.webp": [
+          "ナルメル"
+        ]
+      }
+    },
+    {
+      "keep": "person-3402a471f3.webp",
+      "members": [
+        "person-3402a471f3.webp",
+        "person-5f21763da9.webp"
+      ],
+      "referencedBy": {
+        "person-3402a471f3.webp": [
+          "アメンホテプ3世"
+        ],
+        "person-5f21763da9.webp": []
+      }
+    },
+    {
+      "keep": "person-eb7674eb9e.webp",
+      "members": [
+        "person-34175beaf7.webp",
+        "person-eb7674eb9e.webp"
+      ],
+      "referencedBy": {
+        "person-34175beaf7.webp": [],
+        "person-eb7674eb9e.webp": [
+          "ユスティニアヌス"
+        ]
+      }
+    },
+    {
+      "keep": "person-521067b1b1.webp",
+      "members": [
+        "person-36d85a6245.webp",
+        "person-521067b1b1.webp"
+      ],
+      "referencedBy": {
+        "person-36d85a6245.webp": [],
+        "person-521067b1b1.webp": [
+          "グーテンベルク"
+        ]
+      }
+    },
+    {
+      "keep": "person-827fa9b9b3.webp",
+      "members": [
+        "person-37f0c076e5.webp",
+        "person-827fa9b9b3.webp"
+      ],
+      "referencedBy": {
+        "person-37f0c076e5.webp": [],
+        "person-827fa9b9b3.webp": [
+          "マンサ・ムーサ"
+        ]
+      }
+    },
+    {
+      "keep": "person-8d1e003d26.webp",
+      "members": [
+        "person-39b9a1d500.webp",
+        "person-8d1e003d26.webp"
+      ],
+      "referencedBy": {
+        "person-39b9a1d500.webp": [],
+        "person-8d1e003d26.webp": [
+          "アメリゴ・ヴェスプッチ"
+        ]
+      }
+    },
+    {
+      "keep": "person-3b4f71264c.webp",
+      "members": [
+        "person-3b4f71264c.webp",
+        "person-9f2e63dfb1.webp"
+      ],
+      "referencedBy": {
+        "person-3b4f71264c.webp": [
+          "アルタクセルクセス1世"
+        ],
+        "person-9f2e63dfb1.webp": []
+      }
+    },
+    {
+      "keep": "person-3b5126d5ca.webp",
+      "members": [
+        "person-3b5126d5ca.webp",
+        "person-555618cb1b.webp"
+      ],
+      "referencedBy": {
+        "person-3b5126d5ca.webp": [
+          "アショーカ王"
+        ],
+        "person-555618cb1b.webp": []
+      }
+    },
+    {
+      "keep": "person-3c08d403ad.webp",
+      "members": [
+        "person-3c08d403ad.webp",
+        "person-8740de73ea.webp"
+      ],
+      "referencedBy": {
+        "person-3c08d403ad.webp": [
+          "孔子"
+        ],
+        "person-8740de73ea.webp": []
+      }
+    },
+    {
+      "keep": "person-3d930c4d52.webp",
+      "members": [
+        "person-3d930c4d52.webp",
+        "person-7468017804.webp"
+      ],
+      "referencedBy": {
+        "person-3d930c4d52.webp": [
+          "カント"
+        ],
+        "person-7468017804.webp": []
+      }
+    },
+    {
+      "keep": "person-3dcf243a52.webp",
+      "members": [
+        "person-3dcf243a52.webp",
+        "person-b1c029c022.webp"
+      ],
+      "referencedBy": {
+        "person-3dcf243a52.webp": [
+          "ニーチェ"
+        ],
+        "person-b1c029c022.webp": []
+      }
+    },
+    {
+      "keep": "person-4ab47aade7.webp",
+      "members": [
+        "person-472258e19b.webp",
+        "person-4ab47aade7.webp"
+      ],
+      "referencedBy": {
+        "person-472258e19b.webp": [],
+        "person-4ab47aade7.webp": [
+          "ベートーヴェン"
+        ]
+      }
+    },
+    {
+      "keep": "person-575516c8d8.webp",
+      "members": [
+        "person-47c3008c5d.webp",
+        "person-575516c8d8.webp"
+      ],
+      "referencedBy": {
+        "person-47c3008c5d.webp": [],
+        "person-575516c8d8.webp": [
+          "カルヴァン"
+        ]
+      }
+    },
+    {
+      "keep": "person-490f054f0e.webp",
+      "members": [
+        "person-490f054f0e.webp",
+        "person-e963d604cb.webp"
+      ],
+      "referencedBy": {
+        "person-490f054f0e.webp": [
+          "アルキメデス"
+        ],
+        "person-e963d604cb.webp": []
+      }
+    },
+    {
+      "keep": "person-4ae32d11c2.webp",
+      "members": [
+        "person-4ae32d11c2.webp",
+        "person-fdc746fddd.webp"
+      ],
+      "referencedBy": {
+        "person-4ae32d11c2.webp": [
+          "ニュートン"
+        ],
+        "person-fdc746fddd.webp": []
+      }
+    },
+    {
+      "keep": "person-50808aa356.webp",
+      "members": [
+        "person-4e6efc87f3.webp",
+        "person-50808aa356.webp"
+      ],
+      "referencedBy": {
+        "person-4e6efc87f3.webp": [],
+        "person-50808aa356.webp": [
+          "チャールズ・ダーウィン"
+        ]
+      }
+    },
+    {
+      "keep": "person-6f8c27de1c.webp",
+      "members": [
+        "person-50d7071b0b.webp",
+        "person-6f8c27de1c.webp"
+      ],
+      "referencedBy": {
+        "person-50d7071b0b.webp": [],
+        "person-6f8c27de1c.webp": [
+          "アレクサンドロス大王"
+        ]
+      }
+    },
+    {
+      "keep": "person-5119f42d3b.webp",
+      "members": [
+        "person-5119f42d3b.webp",
+        "person-cf05b51c03.webp"
+      ],
+      "referencedBy": {
+        "person-5119f42d3b.webp": [
+          "クフ王"
+        ],
+        "person-cf05b51c03.webp": []
+      }
+    },
+    {
+      "keep": "person-5282fde232.webp",
+      "members": [
+        "person-5282fde232.webp",
+        "person-90b15201b0.webp"
+      ],
+      "referencedBy": {
+        "person-5282fde232.webp": [
+          "アクエンアテン"
+        ],
+        "person-90b15201b0.webp": []
+      }
+    },
+    {
+      "keep": "person-54ea3251de.webp",
+      "members": [
+        "person-54ea3251de.webp",
+        "person-9b84e7a0e2.webp"
+      ],
+      "referencedBy": {
+        "person-54ea3251de.webp": [
+          "ショーペンハウアー"
+        ],
+        "person-9b84e7a0e2.webp": []
+      }
+    },
+    {
+      "keep": "person-57040e1942.webp",
+      "members": [
+        "person-57040e1942.webp",
+        "person-be2dfc8c8f.webp"
+      ],
+      "referencedBy": {
+        "person-57040e1942.webp": [
+          "ワンガリ・マータイ"
+        ],
+        "person-be2dfc8c8f.webp": []
+      }
+    },
+    {
+      "keep": "person-f58f3d2792.webp",
+      "members": [
+        "person-59ba2c317a.webp",
+        "person-f58f3d2792.webp"
+      ],
+      "referencedBy": {
+        "person-59ba2c317a.webp": [],
+        "person-f58f3d2792.webp": [
+          "ヘンリー8世"
+        ]
+      }
+    },
+    {
+      "keep": "person-638347cdb2.webp",
+      "members": [
+        "person-638347cdb2.webp",
+        "person-840a99a0cf.webp"
+      ],
+      "referencedBy": {
+        "person-638347cdb2.webp": [
+          "デカルト"
+        ],
+        "person-840a99a0cf.webp": []
+      }
+    },
+    {
+      "keep": "person-6ce46faf8f.webp",
+      "members": [
+        "person-6ce46faf8f.webp",
+        "person-bc35ea24de.webp"
+      ],
+      "referencedBy": {
+        "person-6ce46faf8f.webp": [
+          "始皇帝"
+        ],
+        "person-bc35ea24de.webp": []
+      }
+    },
+    {
+      "keep": "person-de50729232.webp",
+      "members": [
+        "person-7359ad9c67.webp",
+        "person-de50729232.webp"
+      ],
+      "referencedBy": {
+        "person-7359ad9c67.webp": [],
+        "person-de50729232.webp": [
+          "カエサル"
+        ]
+      }
+    },
+    {
+      "keep": "person-7ebbc36049.webp",
+      "members": [
+        "person-7ebbc36049.webp",
+        "person-879932e7c0.webp"
+      ],
+      "referencedBy": {
+        "person-7ebbc36049.webp": [
+          "アメンエムハト1世"
+        ],
+        "person-879932e7c0.webp": []
+      }
+    },
+    {
+      "keep": "person-f6d272d91c.webp",
+      "members": [
+        "person-809fb0c62e.webp",
+        "person-f6d272d91c.webp"
+      ],
+      "referencedBy": {
+        "person-809fb0c62e.webp": [
+          "ジル・ド・レエ"
+        ],
+        "person-f6d272d91c.webp": [
+          "ジャンヌ・ダルク"
+        ]
+      }
+    },
+    {
+      "keep": "person-83bd092dca.webp",
+      "members": [
+        "person-83bd092dca.webp",
+        "person-b057e4e120.webp"
+      ],
+      "referencedBy": {
+        "person-83bd092dca.webp": [
+          "イエス"
+        ],
+        "person-b057e4e120.webp": []
+      }
+    },
+    {
+      "keep": "person-ed3d36e598.webp",
+      "members": [
+        "person-87055886a8.webp",
+        "person-ed3d36e598.webp"
+      ],
+      "referencedBy": {
+        "person-87055886a8.webp": [],
+        "person-ed3d36e598.webp": [
+          "アッシュルバニパル"
+        ]
+      }
+    },
+    {
+      "keep": "person-f2de242edd.webp",
+      "members": [
+        "person-8a4d970f45.webp",
+        "person-f2de242edd.webp"
+      ],
+      "referencedBy": {
+        "person-8a4d970f45.webp": [],
+        "person-f2de242edd.webp": [
+          "アムンゼン"
+        ]
+      }
+    },
+    {
+      "keep": "person-8a96ecd37a.webp",
+      "members": [
+        "person-8a96ecd37a.webp",
+        "person-df245183a3.webp"
+      ],
+      "referencedBy": {
+        "person-8a96ecd37a.webp": [
+          "アタナシウス"
+        ],
+        "person-df245183a3.webp": []
+      }
+    },
+    {
+      "keep": "person-92d4a96fa6.webp",
+      "members": [
+        "person-8c1b0020dc.webp",
+        "person-92d4a96fa6.webp"
+      ],
+      "referencedBy": {
+        "person-8c1b0020dc.webp": [],
+        "person-92d4a96fa6.webp": [
+          "鄧小平"
+        ]
+      }
+    },
+    {
+      "keep": "person-be824ba0ed.webp",
+      "members": [
+        "person-8df86bd2a8.webp",
+        "person-be824ba0ed.webp"
+      ],
+      "referencedBy": {
+        "person-8df86bd2a8.webp": [],
+        "person-be824ba0ed.webp": [
+          "鄭和"
+        ]
+      }
+    },
+    {
+      "keep": "person-8e2dc5e8cf.webp",
+      "members": [
+        "person-8e2dc5e8cf.webp",
+        "person-e2c09518fa.webp"
+      ],
+      "referencedBy": {
+        "person-8e2dc5e8cf.webp": [
+          "ジェームズ・ワット"
+        ],
+        "person-e2c09518fa.webp": []
+      }
+    },
+    {
+      "keep": "person-94822eef6a.webp",
+      "members": [
+        "person-94822eef6a.webp",
+        "person-fa993cfb81.webp"
+      ],
+      "referencedBy": {
+        "person-94822eef6a.webp": [
+          "チンギス・ハン"
+        ],
+        "person-fa993cfb81.webp": []
+      }
+    },
+    {
+      "keep": "person-e6f9de6616.webp",
+      "members": [
+        "person-a17abc7079.webp",
+        "person-e6f9de6616.webp"
+      ],
+      "referencedBy": {
+        "person-a17abc7079.webp": [],
+        "person-e6f9de6616.webp": [
+          "イザムバード・キングダム・ブルネル"
+        ]
+      }
+    },
+    {
+      "keep": "person-bc57242847.webp",
+      "members": [
+        "person-a2aefb7f2c.webp",
+        "person-bc57242847.webp"
+      ],
+      "referencedBy": {
+        "person-a2aefb7f2c.webp": [],
+        "person-bc57242847.webp": [
+          "シェイクスピア"
+        ]
+      }
+    },
+    {
+      "keep": "person-fadfe26fcd.webp",
+      "members": [
+        "person-a7b8af0f50.webp",
+        "person-fadfe26fcd.webp"
+      ],
+      "referencedBy": {
+        "person-a7b8af0f50.webp": [],
+        "person-fadfe26fcd.webp": [
+          "アレッサンドロ・ボルタ"
+        ]
+      }
+    },
+    {
+      "keep": "person-a9d2a04956.webp",
+      "members": [
+        "person-a9d2a04956.webp",
+        "person-d7203de00e.webp"
+      ],
+      "referencedBy": {
+        "person-a9d2a04956.webp": [
+          "アビゲイル・アダムズ"
+        ],
+        "person-d7203de00e.webp": []
+      }
+    },
+    {
+      "keep": "person-ad4f3ff7e7.webp",
+      "members": [
+        "person-ad4f3ff7e7.webp",
+        "person-d2b1c7651d.webp"
+      ],
+      "referencedBy": {
+        "person-ad4f3ff7e7.webp": [
+          "イブン・バットゥータ"
+        ],
+        "person-d2b1c7651d.webp": []
+      }
+    },
+    {
+      "keep": "person-ad6e558560.webp",
+      "members": [
+        "person-ad6e558560.webp",
+        "person-d9b1a0a91b.webp"
+      ],
+      "referencedBy": {
+        "person-ad6e558560.webp": [
+          "レオナルド・ダ・ヴィンチ"
+        ],
+        "person-d9b1a0a91b.webp": []
+      }
+    },
+    {
+      "keep": "person-b128c0aae5.webp",
+      "members": [
+        "person-b128c0aae5.webp",
+        "person-ef77ce40cf.webp"
+      ],
+      "referencedBy": {
+        "person-b128c0aae5.webp": [
+          "ジョージ・ワシントン"
+        ],
+        "person-ef77ce40cf.webp": []
+      }
+    },
+    {
+      "keep": "person-b1751a213c.webp",
+      "members": [
+        "person-b1751a213c.webp",
+        "person-fe9479e29d.webp"
+      ],
+      "referencedBy": {
+        "person-b1751a213c.webp": [
+          "マルティン・ルター"
+        ],
+        "person-fe9479e29d.webp": []
+      }
+    },
+    {
+      "keep": "person-e75a7651c8.webp",
+      "members": [
+        "person-bb38d4f78a.webp",
+        "person-e75a7651c8.webp"
+      ],
+      "referencedBy": {
+        "person-bb38d4f78a.webp": [],
+        "person-e75a7651c8.webp": [
+          "アリウス"
+        ]
+      }
+    },
+    {
+      "keep": "person-f420e3f10a.webp",
+      "members": [
+        "person-d186cd4e90.webp",
+        "person-f420e3f10a.webp"
+      ],
+      "referencedBy": {
+        "person-d186cd4e90.webp": [],
+        "person-f420e3f10a.webp": [
+          "ハンニバル"
+        ]
+      }
+    },
+    {
+      "keep": "person-e08a16a58c.webp",
+      "members": [
+        "person-e08a16a58c.webp",
+        "person-ef17beb844.webp"
+      ],
+      "referencedBy": {
+        "person-e08a16a58c.webp": [
+          "コペルニクス"
+        ],
+        "person-ef17beb844.webp": []
+      }
+    },
+    {
+      "keep": "person-f6ad9aafd6.webp",
+      "members": [
+        "person-e10c617704.webp",
+        "person-f6ad9aafd6.webp"
+      ],
+      "referencedBy": {
+        "person-e10c617704.webp": [],
+        "person-f6ad9aafd6.webp": [
+          "アルキビアデス"
+        ]
+      }
+    }
+  ],
+  "backup": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\data-backups\\20260720-195916-dedupe-people-assets-before"
+}

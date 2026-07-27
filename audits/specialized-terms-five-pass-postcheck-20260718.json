@@ -1,0 +1,62 @@
+{
+  "01_science_technology": {
+    "checkedTerms": 34,
+    "missingTooltip": [
+      {
+        "term": "電信",
+        "count": 17
+      },
+      {
+        "term": "汽船",
+        "count": 7
+      },
+      {
+        "term": "原子",
+        "count": 7
+      }
+    ]
+  },
+  "02_political_systems_revolutions": {
+    "checkedTerms": 39,
+    "missingTooltip": [
+      {
+        "term": "憲法改正",
+        "count": 1
+      }
+    ]
+  },
+  "03_war_international_relations": {
+    "checkedTerms": 42,
+    "missingTooltip": []
+  },
+  "04_religion_thought_culture": {
+    "checkedTerms": 28,
+    "missingTooltip": [
+      {
+        "term": "儒教",
+        "count": 28
+      },
+      {
+        "term": "大学",
+        "count": 24
+      },
+      {
+        "term": "写本",
+        "count": 1
+      }
+    ]
+  },
+  "05_colonial_society_economy": {
+    "checkedTerms": 43,
+    "missingTooltip": [
+      {
+        "term": "奴隷制",
+        "count": 24
+      },
+      {
+        "term": "国際社会主義運動",
+        "count": 3
+      }
+    ]
+  }
+}

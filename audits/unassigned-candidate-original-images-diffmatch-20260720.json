@@ -1,0 +1,204 @@
+{
+  "method": "96px RGB mean absolute difference; used if bestMae <= 4.0",
+  "candidateFolderCount": 189,
+  "usedByCurrentPeopleImages": 161,
+  "unassignedInCandidateFolder": 28,
+  "unused": [
+    {
+      "name": "ChatGPT Image 2026年7月16日 12_50_27.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 12_50_27.png",
+      "bestMae": 16.429,
+      "nearestAssigned": "ハンムラビ",
+      "nearestImage": "assets/people/person-9bb5f948fd.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月16日 17_21_57.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 17_21_57.png",
+      "bestMae": 33.309,
+      "nearestAssigned": "ヘンリー5世",
+      "nearestImage": "assets/people/person-9e2923c493.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月16日 19_35_02.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 19_35_02.png",
+      "bestMae": 51.168,
+      "nearestAssigned": "メネス",
+      "nearestImage": "assets/people/person-019b1d8d30.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月16日 19_39_31.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 19_39_31.png",
+      "bestMae": 31.907,
+      "nearestAssigned": "ヘラクレイオス",
+      "nearestImage": "assets/people/person-9a6aa60aa5.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月16日 19_50_02.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 19_50_02.png",
+      "bestMae": 39.915,
+      "nearestAssigned": "チンギス・ハン",
+      "nearestImage": "assets/people/person-94822eef6a.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月16日 22_42_34.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 22_42_34.png",
+      "bestMae": 27.934,
+      "nearestAssigned": "ニュートン",
+      "nearestImage": "assets/people/person-4ae32d11c2.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月17日 01_36_19.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月17日 01_36_19.png",
+      "bestMae": 33.787,
+      "nearestAssigned": "アメリゴ・ヴェスプッチ",
+      "nearestImage": "assets/people/person-8d1e003d26.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月17日 08_06_36.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月17日 08_06_36.png",
+      "bestMae": 40.609,
+      "nearestAssigned": "アルキビアデス",
+      "nearestImage": "assets/people/person-f6ad9aafd6.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月17日 12_52_10.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月17日 12_52_10.png",
+      "bestMae": 45.93,
+      "nearestAssigned": "モンテスキュー",
+      "nearestImage": "assets/people/person-2562164bcc.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月17日 14_17_25.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月17日 14_17_25.png",
+      "bestMae": 38.922,
+      "nearestAssigned": "サルゴン",
+      "nearestImage": "assets/people/person-1679093f0c.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 02_27_57.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_27_57.png",
+      "bestMae": 31.934,
+      "nearestAssigned": "ジョージ・ワシントン",
+      "nearestImage": "assets/people/person-b128c0aae5.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 02_52_25.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_52_25.png",
+      "bestMae": 36.526,
+      "nearestAssigned": "ジャンヌ・ダルク",
+      "nearestImage": "assets/people/person-f6d272d91c.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 02_57_18.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_57_18.png",
+      "bestMae": 37.562,
+      "nearestAssigned": "ネヴィル・チェンバレン",
+      "nearestImage": "assets/people/person-fd6656d191.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 03_01_55.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 03_01_55.png",
+      "bestMae": 35.874,
+      "nearestAssigned": "ショーペンハウアー",
+      "nearestImage": "assets/people/person-54ea3251de.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 08_57_38.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 08_57_38.png",
+      "bestMae": 32.605,
+      "nearestAssigned": "クローヴィス",
+      "nearestImage": "assets/people/person-547e05b8b9.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_15_14.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_15_14.png",
+      "bestMae": 44.486,
+      "nearestAssigned": "アショーカ王",
+      "nearestImage": "assets/people/person-3b5126d5ca.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_15_54.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_15_54.png",
+      "bestMae": 37.165,
+      "nearestAssigned": "アレクサンドロス大王",
+      "nearestImage": "assets/people/person-6f8c27de1c.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_17_12.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_17_12.png",
+      "bestMae": 40.377,
+      "nearestAssigned": "アウンサンスーチー",
+      "nearestImage": "assets/people/person-2a1b09d78c.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_34_50.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_34_50.png",
+      "bestMae": 42.165,
+      "nearestAssigned": "テオドラ",
+      "nearestImage": "assets/people/person-7294fab46e.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_38_45.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_38_45.png",
+      "bestMae": 41.133,
+      "nearestAssigned": "キュロス2世",
+      "nearestImage": "assets/people/person-4ceade843b.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_40_58.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_40_58.png",
+      "bestMae": 34.806,
+      "nearestAssigned": "アベラール",
+      "nearestImage": "assets/people/person-309ec64c9d.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_44_02.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_44_02.png",
+      "bestMae": 36.146,
+      "nearestAssigned": "チャールズ・ダーウィン",
+      "nearestImage": "assets/people/person-50808aa356.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_45_51.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_45_51.png",
+      "bestMae": 37.788,
+      "nearestAssigned": "チャールズ1世",
+      "nearestImage": "assets/people/person-d3cc59b102.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 10_05_59.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_05_59.png",
+      "bestMae": 34.587,
+      "nearestAssigned": "テオドラ",
+      "nearestImage": "assets/people/person-7294fab46e.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 10_08_12.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_08_12.png",
+      "bestMae": 40.13,
+      "nearestAssigned": "アレクサンドロス大王",
+      "nearestImage": "assets/people/person-6f8c27de1c.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 10_14_41.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_14_41.png",
+      "bestMae": 34.434,
+      "nearestAssigned": "テオドラ",
+      "nearestImage": "assets/people/person-7294fab46e.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 20_14_54.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 20_14_54.png",
+      "bestMae": 43.992,
+      "nearestAssigned": "マリウス",
+      "nearestImage": "assets/people/person-3b825e131f.webp"
+    },
+    {
+      "name": "S__56033284.jpg",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\S__56033284.jpg",
+      "bestMae": 48.397,
+      "nearestAssigned": "マリウス",
+      "nearestImage": "assets/people/person-3b825e131f.webp"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "assetCount": 185,
+  "assetErrors": [],
+  "peopleCount": 300,
+  "peopleWithImage": 179,
+  "peopleWithoutImage": 121,
+  "missingRefs": [
+    {
+      "person": "ジル・ド・レエ",
+      "image": "assets/people/person-809fb0c62e.webp"
+    }
+  ],
+  "duplicateImageReferences": {},
+  "unreferencedAssetCount": 7,
+  "confirmationImageCount": 115,
+  "confirmationMissingInAssets": [],
+  "historyGuard": {
+    "subcategories": 53,
+    "totalChars": 17035,
+    "minChars": 283,
+    "canary": true
+  }
+}

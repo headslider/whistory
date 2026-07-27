@@ -1,0 +1,14 @@
+{
+  "terms": 820,
+  "learningVersion": "20260718-rozan-yuishiki-ruby",
+  "readings": {
+    "廬山": {
+      "reading": "ろざん",
+      "hasTooltip": true
+    },
+    "唯識思想": {
+      "reading": "ゆいしきしそう",
+      "hasTooltip": true
+    }
+  }
+}

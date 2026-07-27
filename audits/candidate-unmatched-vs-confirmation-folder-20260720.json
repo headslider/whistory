@@ -1,0 +1,776 @@
+{
+  "unmatchedCount": 22,
+  "confirmationImageCount": 115,
+  "matches": [
+    {
+      "candidate": "ChatGPT Image 2026年7月16日 19_39_31.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 19_39_31.png",
+      "bestMae": 34.746,
+      "bestPerson": "チンギス・ハン",
+      "bestFile": "チンギス・ハン.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\チンギス・ハン.png",
+      "top5": [
+        {
+          "mae": 34.746,
+          "person": "チンギス・ハン",
+          "file": "チンギス・ハン.png"
+        },
+        {
+          "mae": 36.339,
+          "person": "ナポレオン・ボナパルト",
+          "file": "ナポレオン・ボナパルト.png"
+        },
+        {
+          "mae": 37.375,
+          "person": "アメリゴ・ヴェスプッチ",
+          "file": "アメリゴ・ヴェスプッチ.png"
+        },
+        {
+          "mae": 38.128,
+          "person": "始皇帝",
+          "file": "始皇帝.png"
+        },
+        {
+          "mae": 38.178,
+          "person": "アベル・タスマン",
+          "file": "アベル・タスマン.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月16日 19_50_02.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 19_50_02.png",
+      "bestMae": 39.931,
+      "bestPerson": "チンギス・ハン",
+      "bestFile": "チンギス・ハン.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\チンギス・ハン.png",
+      "top5": [
+        {
+          "mae": 39.931,
+          "person": "チンギス・ハン",
+          "file": "チンギス・ハン.png"
+        },
+        {
+          "mae": 40.095,
+          "person": "ネルソン・マンデラ",
+          "file": "ネルソン・マンデラ.png"
+        },
+        {
+          "mae": 40.609,
+          "person": "ミルティアデス",
+          "file": "ミルティアデス.png"
+        },
+        {
+          "mae": 41.603,
+          "person": "チャールズ・ダーウィン",
+          "file": "チャールズ・ダーウィン.png"
+        },
+        {
+          "mae": 41.729,
+          "person": "ジョージ・スティーブンソン",
+          "file": "ジョージ・スティーブンソン.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月16日 22_42_34.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 22_42_34.png",
+      "bestMae": 27.948,
+      "bestPerson": "ニュートン",
+      "bestFile": "ニュートン.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\ニュートン.png",
+      "top5": [
+        {
+          "mae": 27.948,
+          "person": "ニュートン",
+          "file": "ニュートン.png"
+        },
+        {
+          "mae": 28.258,
+          "person": "ガリレオ・ガリレイ",
+          "file": "ガリレオ・ガリレイ.png"
+        },
+        {
+          "mae": 29.159,
+          "person": "シラー",
+          "file": "シラー.png"
+        },
+        {
+          "mae": 29.836,
+          "person": "レントゲン",
+          "file": "レントゲン.png"
+        },
+        {
+          "mae": 30.011,
+          "person": "フローレンス・ナイチンゲール",
+          "file": "フローレンス・ナイチンゲール.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月17日 08_06_36.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月17日 08_06_36.png",
+      "bestMae": 40.622,
+      "bestPerson": "アルキビアデス",
+      "bestFile": "アルキビアデス.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\アルキビアデス.png",
+      "top5": [
+        {
+          "mae": 40.622,
+          "person": "アルキビアデス",
+          "file": "アルキビアデス.png"
+        },
+        {
+          "mae": 43.749,
+          "person": "チンギス・ハン",
+          "file": "チンギス・ハン.png"
+        },
+        {
+          "mae": 44.137,
+          "person": "サルゴン",
+          "file": "サルゴン.png"
+        },
+        {
+          "mae": 44.722,
+          "person": "ジョージ・スティーブンソン",
+          "file": "ジョージ・スティーブンソン.png"
+        },
+        {
+          "mae": 45.341,
+          "person": "パウロ",
+          "file": "パウロ.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月17日 14_17_25.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月17日 14_17_25.png",
+      "bestMae": 38.927,
+      "bestPerson": "サルゴン",
+      "bestFile": "サルゴン.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\サルゴン.png",
+      "top5": [
+        {
+          "mae": 38.927,
+          "person": "サルゴン",
+          "file": "サルゴン.png"
+        },
+        {
+          "mae": 40.951,
+          "person": "ミルティアデス",
+          "file": "ミルティアデス.png"
+        },
+        {
+          "mae": 41.42,
+          "person": "チンギス・ハン",
+          "file": "チンギス・ハン.png"
+        },
+        {
+          "mae": 41.697,
+          "person": "杜甫",
+          "file": "杜甫.png"
+        },
+        {
+          "mae": 41.877,
+          "person": "カウティリヤ",
+          "file": "カウティリヤ.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 02_27_57.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_27_57.png",
+      "bestMae": 31.928,
+      "bestPerson": "ジョージ・ワシントン",
+      "bestFile": "ジョージ・ワシントン.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\ジョージ・ワシントン.png",
+      "top5": [
+        {
+          "mae": 31.928,
+          "person": "ジョージ・ワシントン",
+          "file": "ジョージ・ワシントン.png"
+        },
+        {
+          "mae": 33.052,
+          "person": "クローヴィス1世",
+          "file": "クローヴィス1世.png"
+        },
+        {
+          "mae": 35.602,
+          "person": "アベラール",
+          "file": "アベラール.png"
+        },
+        {
+          "mae": 36.473,
+          "person": "ベニート・ムッソリーニ",
+          "file": "ベニート・ムッソリーニ.png"
+        },
+        {
+          "mae": 37.219,
+          "person": "ジャン＝ジャック・ルソー",
+          "file": "ジャン＝ジャック・ルソー.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 02_52_25.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_52_25.png",
+      "bestMae": 0.0,
+      "bestPerson": "ジャン＝ジャック・ルソー",
+      "bestFile": "ジャン＝ジャック・ルソー.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\ジャン＝ジャック・ルソー.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "ジャン＝ジャック・ルソー",
+          "file": "ジャン＝ジャック・ルソー.png"
+        },
+        {
+          "mae": 36.536,
+          "person": "ジャンヌ・ダルク",
+          "file": "ジャンヌ・ダルク.png"
+        },
+        {
+          "mae": 36.546,
+          "person": "シャムシアダド1世",
+          "file": "シャムシアダド1世.png"
+        },
+        {
+          "mae": 36.736,
+          "person": "クローヴィス1世",
+          "file": "クローヴィス1世.png"
+        },
+        {
+          "mae": 36.946,
+          "person": "アベラール",
+          "file": "アベラール.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 02_57_18.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_57_18.png",
+      "bestMae": 0.0,
+      "bestPerson": "ジョージ・スティーブンソン",
+      "bestFile": "ジョージ・スティーブンソン.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\ジョージ・スティーブンソン.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "ジョージ・スティーブンソン",
+          "file": "ジョージ・スティーブンソン.png"
+        },
+        {
+          "mae": 39.656,
+          "person": "杜甫",
+          "file": "杜甫.png"
+        },
+        {
+          "mae": 40.27,
+          "person": "チンギス・ハン",
+          "file": "チンギス・ハン.png"
+        },
+        {
+          "mae": 40.598,
+          "person": "ニーチェ",
+          "file": "ニーチェ.png"
+        },
+        {
+          "mae": 41.589,
+          "person": "ミルティアデス",
+          "file": "ミルティアデス.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 03_01_55.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 03_01_55.png",
+      "bestMae": 0.0,
+      "bestPerson": "レオポルド2世",
+      "bestFile": "レオポルド2世.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\レオポルド2世.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "レオポルド2世",
+          "file": "レオポルド2世.png"
+        },
+        {
+          "mae": 35.863,
+          "person": "ショーペンハウアー",
+          "file": "ショーペンハウアー.png"
+        },
+        {
+          "mae": 36.557,
+          "person": "アメリゴ・ヴェスプッチ",
+          "file": "アメリゴ・ヴェスプッチ.png"
+        },
+        {
+          "mae": 37.53,
+          "person": "フアン・セバスティアン・エルカーノ",
+          "file": "フアン・セバスティアン・エルカーノ.png"
+        },
+        {
+          "mae": 38.214,
+          "person": "ベニート・ムッソリーニ",
+          "file": "ベニート・ムッソリーニ.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 08_57_38.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 08_57_38.png",
+      "bestMae": 0.0,
+      "bestPerson": "ベニート・ムッソリーニ",
+      "bestFile": "ベニート・ムッソリーニ.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\ベニート・ムッソリーニ.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "ベニート・ムッソリーニ",
+          "file": "ベニート・ムッソリーニ.png"
+        },
+        {
+          "mae": 32.601,
+          "person": "クローヴィス1世",
+          "file": "クローヴィス1世.png"
+        },
+        {
+          "mae": 33.433,
+          "person": "始皇帝",
+          "file": "始皇帝.png"
+        },
+        {
+          "mae": 34.857,
+          "person": "ヘンリ8世",
+          "file": "ヘンリ8世.png"
+        },
+        {
+          "mae": 36.561,
+          "person": "シェイクスピア",
+          "file": "シェイクスピア.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 09_15_14.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_15_14.png",
+      "bestMae": 0.0,
+      "bestPerson": "カフラー",
+      "bestFile": "カフラー.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\カフラー.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "カフラー",
+          "file": "カフラー.png"
+        },
+        {
+          "mae": 42.552,
+          "person": "メネリク2世",
+          "file": "メネリク2世.png"
+        },
+        {
+          "mae": 44.49,
+          "person": "アショーカ王",
+          "file": "アショーカ王.png"
+        },
+        {
+          "mae": 45.039,
+          "person": "アレクサンドロス大王",
+          "file": "アレクサンドロス大王.png"
+        },
+        {
+          "mae": 45.384,
+          "person": "ナルメル",
+          "file": "ナルメル.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 09_15_54.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_15_54.png",
+      "bestMae": 0.0,
+      "bestPerson": "シュルギ",
+      "bestFile": "シュルギ.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\シュルギ.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "シュルギ",
+          "file": "シュルギ.png"
+        },
+        {
+          "mae": 36.429,
+          "person": "ウラジーミル1世",
+          "file": "ウラジーミル1世.png"
+        },
+        {
+          "mae": 37.143,
+          "person": "アレクサンドロス大王",
+          "file": "アレクサンドロス大王.png"
+        },
+        {
+          "mae": 37.585,
+          "person": "キュロス2世",
+          "file": "キュロス2世.png"
+        },
+        {
+          "mae": 38.604,
+          "person": "ポンペイウス",
+          "file": "ポンペイウス.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 09_17_12.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_17_12.png",
+      "bestMae": 0.0,
+      "bestPerson": "テミストクレス",
+      "bestFile": "テミストクレス.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\テミストクレス.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "テミストクレス",
+          "file": "テミストクレス.png"
+        },
+        {
+          "mae": 42.075,
+          "person": "ウラジーミル1世",
+          "file": "ウラジーミル1世.png"
+        },
+        {
+          "mae": 42.449,
+          "person": "チャールズ・ダーウィン",
+          "file": "チャールズ・ダーウィン.png"
+        },
+        {
+          "mae": 42.765,
+          "person": "メネリク2世",
+          "file": "メネリク2世.png"
+        },
+        {
+          "mae": 42.858,
+          "person": "ニーチェ",
+          "file": "ニーチェ.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 09_34_50.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_34_50.png",
+      "bestMae": 0.0,
+      "bestPerson": "スラ",
+      "bestFile": "スラ.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\スラ.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "スラ",
+          "file": "スラ.png"
+        },
+        {
+          "mae": 43.023,
+          "person": "ショーペンハウアー",
+          "file": "ショーペンハウアー.png"
+        },
+        {
+          "mae": 43.37,
+          "person": "始皇帝",
+          "file": "始皇帝.png"
+        },
+        {
+          "mae": 43.658,
+          "person": "フランシスコ・フランコ",
+          "file": "フランシスコ・フランコ.png"
+        },
+        {
+          "mae": 44.045,
+          "person": "テオドロス2世",
+          "file": "テオドロス2世.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 09_38_45.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_38_45.png",
+      "bestMae": 0.0,
+      "bestPerson": "ゾロアスター",
+      "bestFile": "ゾロアスター.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\ゾロアスター.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "ゾロアスター",
+          "file": "ゾロアスター.png"
+        },
+        {
+          "mae": 39.965,
+          "person": "シュルギ",
+          "file": "シュルギ.png"
+        },
+        {
+          "mae": 41.15,
+          "person": "キュロス2世",
+          "file": "キュロス2世.png"
+        },
+        {
+          "mae": 41.973,
+          "person": "ヤロスラフ賢公",
+          "file": "ヤロスラフ賢公.png"
+        },
+        {
+          "mae": 42.319,
+          "person": "ウラジーミル1世",
+          "file": "ウラジーミル1世.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 09_40_58.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_40_58.png",
+      "bestMae": 0.0,
+      "bestPerson": "安禄山",
+      "bestFile": "安禄山.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\安禄山.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "安禄山",
+          "file": "安禄山.png"
+        },
+        {
+          "mae": 34.811,
+          "person": "アベラール",
+          "file": "アベラール.png"
+        },
+        {
+          "mae": 35.498,
+          "person": "クローヴィス1世",
+          "file": "クローヴィス1世.png"
+        },
+        {
+          "mae": 35.617,
+          "person": "ベートーヴェン",
+          "file": "ベートーヴェン.png"
+        },
+        {
+          "mae": 37.381,
+          "person": "モーツァルト",
+          "file": "モーツァルト.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 09_44_02.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_44_02.png",
+      "bestMae": 0.0,
+      "bestPerson": "ウラジーミル1世",
+      "bestFile": "ウラジーミル1世.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\ウラジーミル1世.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "ウラジーミル1世",
+          "file": "ウラジーミル1世.png"
+        },
+        {
+          "mae": 36.145,
+          "person": "チャールズ・ダーウィン",
+          "file": "チャールズ・ダーウィン.png"
+        },
+        {
+          "mae": 36.405,
+          "person": "ポンペイウス",
+          "file": "ポンペイウス.png"
+        },
+        {
+          "mae": 36.429,
+          "person": "シュルギ",
+          "file": "シュルギ.png"
+        },
+        {
+          "mae": 36.613,
+          "person": "カエサル",
+          "file": "カエサル.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 09_45_51.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_45_51.png",
+      "bestMae": 0.0,
+      "bestPerson": "フアン・セバスティアン・エルカーノ",
+      "bestFile": "フアン・セバスティアン・エルカーノ.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\フアン・セバスティアン・エルカーノ.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "フアン・セバスティアン・エルカーノ",
+          "file": "フアン・セバスティアン・エルカーノ.png"
+        },
+        {
+          "mae": 37.53,
+          "person": "レオポルド2世",
+          "file": "レオポルド2世.png"
+        },
+        {
+          "mae": 38.06,
+          "person": "アレクサンドロス大王",
+          "file": "アレクサンドロス大王.png"
+        },
+        {
+          "mae": 38.282,
+          "person": "カエサル",
+          "file": "カエサル.png"
+        },
+        {
+          "mae": 38.684,
+          "person": "ウラジーミル1世",
+          "file": "ウラジーミル1世.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 10_05_59.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_05_59.png",
+      "bestMae": 0.0,
+      "bestPerson": "ディドロ",
+      "bestFile": "ディドロ.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\ディドロ.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "ディドロ",
+          "file": "ディドロ.png"
+        },
+        {
+          "mae": 40.242,
+          "person": "バッハ",
+          "file": "バッハ.png"
+        },
+        {
+          "mae": 40.494,
+          "person": "クローヴィス1世",
+          "file": "クローヴィス1世.png"
+        },
+        {
+          "mae": 40.56,
+          "person": "ヘンリ8世",
+          "file": "ヘンリ8世.png"
+        },
+        {
+          "mae": 40.816,
+          "person": "アベラール",
+          "file": "アベラール.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 10_08_12.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_08_12.png",
+      "bestMae": 0.0,
+      "bestPerson": "メネリク2世",
+      "bestFile": "メネリク2世.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\メネリク2世.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "メネリク2世",
+          "file": "メネリク2世.png"
+        },
+        {
+          "mae": 38.673,
+          "person": "ウラジーミル1世",
+          "file": "ウラジーミル1世.png"
+        },
+        {
+          "mae": 40.114,
+          "person": "アレクサンドロス大王",
+          "file": "アレクサンドロス大王.png"
+        },
+        {
+          "mae": 40.793,
+          "person": "ナルメル",
+          "file": "ナルメル.png"
+        },
+        {
+          "mae": 41.148,
+          "person": "アショーカ王",
+          "file": "アショーカ王.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 10_14_41.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_14_41.png",
+      "bestMae": 0.0,
+      "bestPerson": "フランシスコ・フランコ",
+      "bestFile": "フランシスコ・フランコ.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\フランシスコ・フランコ.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "フランシスコ・フランコ",
+          "file": "フランシスコ・フランコ.png"
+        },
+        {
+          "mae": 37.181,
+          "person": "クローヴィス1世",
+          "file": "クローヴィス1世.png"
+        },
+        {
+          "mae": 37.944,
+          "person": "ベニート・ムッソリーニ",
+          "file": "ベニート・ムッソリーニ.png"
+        },
+        {
+          "mae": 38.759,
+          "person": "ヘンリ8世",
+          "file": "ヘンリ8世.png"
+        },
+        {
+          "mae": 39.798,
+          "person": "アベラール",
+          "file": "アベラール.png"
+        }
+      ]
+    },
+    {
+      "candidate": "ChatGPT Image 2026年7月18日 20_14_54.png",
+      "candidatePath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 20_14_54.png",
+      "bestMae": 0.0,
+      "bestPerson": "リム・シン",
+      "bestFile": "リム・シン.png",
+      "bestPath": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史確認用\\リム・シン.png",
+      "top5": [
+        {
+          "mae": 0.0,
+          "person": "リム・シン",
+          "file": "リム・シン.png"
+        },
+        {
+          "mae": 46.406,
+          "person": "アリウス",
+          "file": "アリウス.png"
+        },
+        {
+          "mae": 47.267,
+          "person": "ソクラテス",
+          "file": "ソクラテス.png"
+        },
+        {
+          "mae": 47.283,
+          "person": "サルゴン",
+          "file": "サルゴン.png"
+        },
+        {
+          "mae": 47.473,
+          "person": "アビゲイル・アダムズ",
+          "file": "アビゲイル・アダムズ.png"
+        }
+      ]
+    }
+  ]
+}

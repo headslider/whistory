@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checkedAt": "2026-07-17T15:52:37.376Z",
+  "notes": [
+    "JSON and JS data wrappers synchronized",
+    "history subcategories=53, textLen=17035, minText=283",
+    "history-content matches complete_v1 source",
+    "people=300, peopleByName=632",
+    "people count matches v15 source",
+    "actions=111",
+    "learning terms=755",
+    "Jin dynasty vs commodity gold context checks passed"
+  ],
+  "failures": []
+}

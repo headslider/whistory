@@ -1,0 +1,679 @@
+{
+  "count": 48,
+  "grouped": [
+    {
+      "compound": "科挙官僚",
+      "term": "科挙",
+      "label": "people:則天武后:whatDid",
+      "snippet": "てて皇帝となり、科挙官僚と仏教を支配に用"
+    },
+    {
+      "compound": "科挙文体",
+      "term": "科挙",
+      "label": "people:韓愈:whyImportant",
+      "snippet": "付け、後の宋学・科挙文体・東アジア漢文へ"
+    },
+    {
+      "compound": "回十字軍",
+      "term": "十字軍",
+      "label": "people:エレノア・オブ・アキテーヌ:profile",
+      "snippet": "世と結婚し、第2回十字軍にも同行しました"
+    },
+    {
+      "compound": "核兵器管理",
+      "term": "核兵器",
+      "label": "people:アルベルト・アインシュタイン:profile",
+      "snippet": "へ移住し、戦後は核兵器管理と平和を訴えまし"
+    },
+    {
+      "compound": "核兵器時代",
+      "term": "核兵器",
+      "label": "people:ハリー・トルーマン:whyImportant",
+      "snippet": "の形成を主導し、核兵器時代の政治的責任を残"
+    },
+    {
+      "compound": "旧約聖書",
+      "term": "聖書",
+      "label": "people:ヒエロニムス:profile",
+      "snippet": "・校訂しました。旧約聖書では当時一般的だ"
+    },
+    {
+      "compound": "共和政回復",
+      "term": "共和政",
+      "label": "people:ブルートゥス:whyImportant",
+      "snippet": "独裁への抵抗が共和政回復ではなく新たな内"
+    },
+    {
+      "compound": "共和政国家",
+      "term": "共和政",
+      "label": "people:ジョージ・ワシントン:whyImportant",
+      "snippet": "アメリカ独立と共和政国家の出発を導き、大"
+    },
+    {
+      "compound": "共和政政治",
+      "term": "共和政",
+      "label": "people:クラッスス:whyImportant",
+      "snippet": "大な富と軍事力が共和政政治を動かし、その死"
+    },
+    {
+      "compound": "共和政崩壊",
+      "term": "共和政",
+      "label": "people:ポンペイウス:whyImportant",
+      "snippet": "同士の権力争いで共和政崩壊を加速させたため"
+    },
+    {
+      "compound": "共和政理念",
+      "term": "共和政",
+      "label": "people:キケロ:whyImportant",
+      "snippet": "共和政理念と自然法思想を後"
+    },
+    {
+      "compound": "教巡礼者",
+      "term": "巡礼者",
+      "label": "people:リチャード1世:profile",
+      "snippet": "したが、キリスト教巡礼者の訪問を認める和"
+    },
+    {
+      "compound": "経典翻訳",
+      "term": "経典",
+      "label": "people:慧遠:profile",
+      "snippet": "の僧とも交流し、経典翻訳と教理理解を支え"
+    },
+    {
+      "compound": "原子力",
+      "term": "原子",
+      "label": "people:アルベルト・アインシュタイン:whyImportant",
+      "snippet": "築き、宇宙研究、原子力、精密測定など広"
+    },
+    {
+      "compound": "語聖書",
+      "term": "聖書",
+      "label": "people:グーテンベルク:profile",
+      "snippet": "には美しいラテン語聖書を大量に印刷し、"
+    },
+    {
+      "compound": "工場制度",
+      "term": "工場制",
+      "label": "people:リチャード・アークライト:whatDid",
+      "snippet": "糸を大量生産する工場制度を広めました。"
+    },
+    {
+      "compound": "皇帝官僚制",
+      "term": "官僚制",
+      "label": "people:クラウディウス:profile",
+      "snippet": "誇張されました。皇帝官僚制の発展を進めた人"
+    },
+    {
+      "compound": "国際大学",
+      "term": "大学",
+      "label": "people:ラビンドラナート・タゴール:profile",
+      "snippet": "育を目指し、後の国際大学ヴィシュヴァ・バ"
+    },
+    {
+      "compound": "写本保存",
+      "term": "写本",
+      "label": "people:ベネディクトゥス:profile",
+      "snippet": "れ、農業、教育、写本保存、救貧活動の基盤"
+    },
+    {
+      "compound": "主要経典",
+      "term": "経典",
+      "label": "people:鳩摩羅什:whyImportant",
+      "snippet": "大乗仏教の主要経典を東アジアへ定着"
+    },
+    {
+      "compound": "儒教復興",
+      "term": "儒教",
+      "label": "people:韓愈:whyImportant",
+      "snippet": "唐宋の散文と儒教復興を結び付け、後の"
+    },
+    {
+      "compound": "十字軍国家",
+      "term": "十字軍",
+      "label": "people:サラディン:whyImportant",
+      "snippet": "勢力を再統合して十字軍国家へ反撃し、宗教戦"
+    },
+    {
+      "compound": "十字軍時代",
+      "term": "十字軍",
+      "label": "people:リチャード1世:whyImportant",
+      "snippet": "十字軍時代の騎士王を象徴す"
+    },
+    {
+      "compound": "十字軍主力",
+      "term": "十字軍",
+      "label": "people:サラディン:profile",
+      "snippet": "ティーンの戦いで十字軍主力を破り、エルサレ"
+    },
+    {
+      "compound": "十字軍占領時",
+      "term": "十字軍",
+      "label": "people:サラディン:profile",
+      "snippet": "し、1099年の十字軍占領時の大量殺害とは異"
+    },
+    {
+      "compound": "十字軍側",
+      "term": "十字軍",
+      "label": "people:サラディン:profile",
+      "snippet": "と戦い、沿岸部を十字軍側に残しつつ巡礼を"
+    },
+    {
+      "compound": "女性参政権",
+      "term": "参政権",
+      "label": "people:ダグラス・マッカーサー:profile",
+      "snippet": "解体、農地改革、女性参政権などに関わりまし"
+    },
+    {
+      "compound": "新約聖書",
+      "term": "聖書",
+      "label": "people:パウロ:profile",
+      "snippet": "者へ送った手紙は新約聖書に収められ、イエ"
+    },
+    {
+      "compound": "身分制社会",
+      "term": "身分制",
+      "label": "people:ルソー:profile",
+      "snippet": "まれの思想家で、身分制社会と文明のあり方を"
+    },
+    {
+      "compound": "身分制廃止",
+      "term": "身分制",
+      "label": "people:ロベスピエール:profile",
+      "snippet": "護士・政治家で、身分制廃止、普通選挙、奴隷"
+    },
+    {
+      "compound": "聖公会聖職者",
+      "term": "聖職者",
+      "label": "people:デズモンド・ツツ:profile",
+      "snippet": "南アフリカの聖公会聖職者で、教師を経て司"
+    },
+    {
+      "compound": "聖書本文",
+      "term": "聖書",
+      "label": "people:ヒエロニムス:whyImportant",
+      "snippet": "で長く標準となる聖書本文を整え、宗教・教"
+    },
+    {
+      "compound": "聖書翻訳",
+      "term": "聖書",
+      "label": "people:メトディオス:whatDid",
+      "snippet": "も現地語の典礼・聖書翻訳・聖職者教育を守"
+    },
+    {
+      "compound": "聖職者教育",
+      "term": "聖職者",
+      "label": "people:メトディオス:whatDid",
+      "snippet": "典礼・聖書翻訳・聖職者教育を守りました。"
+    },
+    {
+      "compound": "第三回十字軍",
+      "term": "十字軍",
+      "label": "people:フリードリヒ・バルバロッサ:whatDid",
+      "snippet": "を図り、晩年には第三回十字軍を率いました。"
+    },
+    {
+      "compound": "中世大学",
+      "term": "大学",
+      "label": "people:アベラール:whyImportant",
+      "snippet": "ラ学を発展させ、中世大学の討論教育へ影響"
+    },
+    {
+      "compound": "奴隷制廃止",
+      "term": "奴隷制",
+      "label": "people:ベンジャミン・フランクリン:profile",
+      "snippet": "したが、晩年には奴隷制廃止を訴えました。"
+    },
+    {
+      "compound": "奴隷制反対",
+      "term": "奴隷制",
+      "label": "people:ロベスピエール:profile",
+      "snippet": "廃止、普通選挙、奴隷制反対などを主張し、「"
+    },
+    {
+      "compound": "非暴力運動",
+      "term": "非暴力",
+      "label": "people:セサル・チャベス:whyImportant",
+      "snippet": "労働者の権利を、非暴力運動によって全米の問"
+    },
+    {
+      "compound": "非暴力抵抗",
+      "term": "非暴力",
+      "label": "people:マハトマ・ガンディー:profile",
+      "snippet": "し、真理に基づく非暴力抵抗「サティヤーグラ"
+    },
+    {
+      "compound": "微生物学",
+      "term": "微生物",
+      "label": "people:ルイ・パスツール:whyImportant",
+      "snippet": "微生物学と予防医学の基礎"
+    },
+    {
+      "compound": "微生物学者",
+      "term": "微生物",
+      "label": "people:ルイ・パスツール:profile",
+      "snippet": "ランスの化学者・微生物学者で、発酵や腐敗が"
+    },
+    {
+      "compound": "民主政下",
+      "term": "民主政",
+      "label": "people:アルキビアデス:whyImportant",
+      "snippet": "民主政下の人気政治家の野"
+    },
+    {
+      "compound": "民主政治",
+      "term": "民主政",
+      "label": "people:フランシスコ・フランコ:profile",
+      "snippet": "ンは立憲君主制と民主政治へ移行しました。"
+    },
+    {
+      "compound": "冷戦介入",
+      "term": "冷戦",
+      "label": "people:パトリス・ルムンバ:whyImportant",
+      "snippet": "旧宗主国の利害と冷戦介入によって妨げられ"
+    },
+    {
+      "compound": "冷戦初期",
+      "term": "冷戦",
+      "label": "people:ジョージ・マーシャル:whyImportant",
+      "snippet": "欧州復興を支え、冷戦初期の西側秩序を安定"
+    },
+    {
+      "compound": "冷戦秩序",
+      "term": "冷戦",
+      "label": "people:ハリー・トルーマン:whyImportant",
+      "snippet": "世界大戦の終結と冷戦秩序の形成を主導し、"
+    },
+    {
+      "compound": "連合国遠征軍最高司令官",
+      "term": "連合国",
+      "label": "people:ドワイト・アイゼンハワー:profile",
+      "snippet": "二次世界大戦では連合国遠征軍最高司令官としてノルマンデ"
+    }
+  ],
+  "all": [
+    {
+      "compound": "第三回十字軍",
+      "term": "十字軍",
+      "label": "people:フリードリヒ・バルバロッサ:profile",
+      "snippet": "後は和約を結び、第三回十字軍に参加しましたが"
+    },
+    {
+      "compound": "第三回十字軍",
+      "term": "十字軍",
+      "label": "people:フリードリヒ・バルバロッサ:whatDid",
+      "snippet": "を図り、晩年には第三回十字軍を率いました。"
+    },
+    {
+      "compound": "共和政国家",
+      "term": "共和政",
+      "label": "people:ジョージ・ワシントン:whyImportant",
+      "snippet": "アメリカ独立と共和政国家の出発を導き、大"
+    },
+    {
+      "compound": "非暴力抵抗",
+      "term": "非暴力",
+      "label": "people:マハトマ・ガンディー:profile",
+      "snippet": "し、真理に基づく非暴力抵抗「サティヤーグラ"
+    },
+    {
+      "compound": "核兵器管理",
+      "term": "核兵器",
+      "label": "people:アルベルト・アインシュタイン:profile",
+      "snippet": "へ移住し、戦後は核兵器管理と平和を訴えまし"
+    },
+    {
+      "compound": "原子力",
+      "term": "原子",
+      "label": "people:アルベルト・アインシュタイン:whyImportant",
+      "snippet": "築き、宇宙研究、原子力、精密測定など広"
+    },
+    {
+      "compound": "語聖書",
+      "term": "聖書",
+      "label": "people:グーテンベルク:profile",
+      "snippet": "には美しいラテン語聖書を大量に印刷し、"
+    },
+    {
+      "compound": "旧約聖書",
+      "term": "聖書",
+      "label": "people:ミケランジェロ:profile",
+      "snippet": "ナ礼拝堂の天井に旧約聖書の場面を描き、晩"
+    },
+    {
+      "compound": "新約聖書",
+      "term": "聖書",
+      "label": "people:パウロ:profile",
+      "snippet": "者へ送った手紙は新約聖書に収められ、イエ"
+    },
+    {
+      "compound": "工場制度",
+      "term": "工場制",
+      "label": "people:リチャード・アークライト:profile",
+      "snippet": "労働を集中させる工場制度を広め、綿工業の"
+    },
+    {
+      "compound": "工場制度",
+      "term": "工場制",
+      "label": "people:リチャード・アークライト:whatDid",
+      "snippet": "糸を大量生産する工場制度を広めました。"
+    },
+    {
+      "compound": "科挙官僚",
+      "term": "科挙",
+      "label": "people:則天武后:whatDid",
+      "snippet": "てて皇帝となり、科挙官僚と仏教を支配に用"
+    },
+    {
+      "compound": "民主政治",
+      "term": "民主政",
+      "label": "people:モンテスキュー:whyImportant",
+      "snippet": "し、近代の憲法と民主政治の設計に影響した"
+    },
+    {
+      "compound": "民主政治",
+      "term": "民主政",
+      "label": "people:インディラ・ガンディー:whyImportant",
+      "snippet": "序を動かす一方、民主政治と強権統治の緊張"
+    },
+    {
+      "compound": "旧約聖書",
+      "term": "聖書",
+      "label": "people:ヒエロニムス:profile",
+      "snippet": "・校訂しました。旧約聖書では当時一般的だ"
+    },
+    {
+      "compound": "聖書本文",
+      "term": "聖書",
+      "label": "people:ヒエロニムス:whyImportant",
+      "snippet": "で長く標準となる聖書本文を整え、宗教・教"
+    },
+    {
+      "compound": "身分制社会",
+      "term": "身分制",
+      "label": "people:ルソー:profile",
+      "snippet": "まれの思想家で、身分制社会と文明のあり方を"
+    },
+    {
+      "compound": "民主政治",
+      "term": "民主政",
+      "label": "people:ルソー:whyImportant",
+      "snippet": "えを広め、革命・民主政治・近代教育へ影響"
+    },
+    {
+      "compound": "民主政治",
+      "term": "民主政",
+      "label": "people:ベニート・ムッソリーニ:whyImportant",
+      "snippet": "ファシズムが民主政治を破壊し、民族主"
+    },
+    {
+      "compound": "共和政崩壊",
+      "term": "共和政",
+      "label": "people:スラ:whyImportant",
+      "snippet": "う先例をつくり、共和政崩壊への流れを決定的"
+    },
+    {
+      "compound": "民主政治",
+      "term": "民主政",
+      "label": "people:フランシスコ・フランコ:profile",
+      "snippet": "ンは立憲君主制と民主政治へ移行しました。"
+    },
+    {
+      "compound": "共和政崩壊",
+      "term": "共和政",
+      "label": "people:ポンペイウス:profile",
+      "snippet": "た。軍事的成功と共和政崩壊を結ぶ人物です。"
+    },
+    {
+      "compound": "共和政崩壊",
+      "term": "共和政",
+      "label": "people:ポンペイウス:whyImportant",
+      "snippet": "同士の権力争いで共和政崩壊を加速させたため"
+    },
+    {
+      "compound": "聖書翻訳",
+      "term": "聖書",
+      "label": "people:ヤロスラフ賢公:profile",
+      "snippet": "堂を建て、学校や聖書翻訳を支援しました。"
+    },
+    {
+      "compound": "非暴力運動",
+      "term": "非暴力",
+      "label": "people:ダライ・ラマ14世:whyImportant",
+      "snippet": "国際社会へ伝え、非暴力運動の象徴となったた"
+    },
+    {
+      "compound": "民主政下",
+      "term": "民主政",
+      "label": "people:アルキビアデス:whyImportant",
+      "snippet": "民主政下の人気政治家の野"
+    },
+    {
+      "compound": "共和政政治",
+      "term": "共和政",
+      "label": "people:クラッスス:whyImportant",
+      "snippet": "大な富と軍事力が共和政政治を動かし、その死"
+    },
+    {
+      "compound": "写本保存",
+      "term": "写本",
+      "label": "people:ベネディクトゥス:profile",
+      "snippet": "れ、農業、教育、写本保存、救貧活動の基盤"
+    },
+    {
+      "compound": "聖公会聖職者",
+      "term": "聖職者",
+      "label": "people:デズモンド・ツツ:profile",
+      "snippet": "南アフリカの聖公会聖職者で、教師を経て司"
+    },
+    {
+      "compound": "共和政理念",
+      "term": "共和政",
+      "label": "people:キケロ:whyImportant",
+      "snippet": "共和政理念と自然法思想を後"
+    },
+    {
+      "compound": "回十字軍",
+      "term": "十字軍",
+      "label": "people:エレノア・オブ・アキテーヌ:profile",
+      "snippet": "世と結婚し、第2回十字軍にも同行しました"
+    },
+    {
+      "compound": "冷戦介入",
+      "term": "冷戦",
+      "label": "people:パトリス・ルムンバ:whyImportant",
+      "snippet": "旧宗主国の利害と冷戦介入によって妨げられ"
+    },
+    {
+      "compound": "共和政回復",
+      "term": "共和政",
+      "label": "people:ブルートゥス:whyImportant",
+      "snippet": "独裁への抵抗が共和政回復ではなく新たな内"
+    },
+    {
+      "compound": "聖書翻訳",
+      "term": "聖書",
+      "label": "people:キュリロス:profile",
+      "snippet": "スラヴ語で礼拝と聖書翻訳を行うため、グラ"
+    },
+    {
+      "compound": "聖書翻訳",
+      "term": "聖書",
+      "label": "people:キュリロス:whatDid",
+      "snippet": "ラヴ語で布教し、聖書翻訳のための文字を整"
+    },
+    {
+      "compound": "儒教復興",
+      "term": "儒教",
+      "label": "people:韓愈:profile",
+      "snippet": "学者にも影響し、儒教復興と散文改革を結び"
+    },
+    {
+      "compound": "儒教復興",
+      "term": "儒教",
+      "label": "people:韓愈:whyImportant",
+      "snippet": "唐宋の散文と儒教復興を結び付け、後の"
+    },
+    {
+      "compound": "科挙文体",
+      "term": "科挙",
+      "label": "people:韓愈:whyImportant",
+      "snippet": "付け、後の宋学・科挙文体・東アジア漢文へ"
+    },
+    {
+      "compound": "教巡礼者",
+      "term": "巡礼者",
+      "label": "people:リチャード1世:profile",
+      "snippet": "したが、キリスト教巡礼者の訪問を認める和"
+    },
+    {
+      "compound": "十字軍時代",
+      "term": "十字軍",
+      "label": "people:リチャード1世:whyImportant",
+      "snippet": "十字軍時代の騎士王を象徴す"
+    },
+    {
+      "compound": "奴隷制廃止",
+      "term": "奴隷制",
+      "label": "people:ベンジャミン・フランクリン:profile",
+      "snippet": "したが、晩年には奴隷制廃止を訴えました。"
+    },
+    {
+      "compound": "冷戦秩序",
+      "term": "冷戦",
+      "label": "people:ハリー・トルーマン:whyImportant",
+      "snippet": "世界大戦の終結と冷戦秩序の形成を主導し、"
+    },
+    {
+      "compound": "核兵器時代",
+      "term": "核兵器",
+      "label": "people:ハリー・トルーマン:whyImportant",
+      "snippet": "の形成を主導し、核兵器時代の政治的責任を残"
+    },
+    {
+      "compound": "聖職者教育",
+      "term": "聖職者",
+      "label": "people:メトディオス:whatDid",
+      "snippet": "典礼・聖書翻訳・聖職者教育を守りました。"
+    },
+    {
+      "compound": "聖書翻訳",
+      "term": "聖書",
+      "label": "people:メトディオス:whatDid",
+      "snippet": "も現地語の典礼・聖書翻訳・聖職者教育を守"
+    },
+    {
+      "compound": "連合国遠征軍最高司令官",
+      "term": "連合国",
+      "label": "people:ドワイト・アイゼンハワー:profile",
+      "snippet": "二次世界大戦では連合国遠征軍最高司令官としてノルマンデ"
+    },
+    {
+      "compound": "十字軍国家",
+      "term": "十字軍",
+      "label": "people:サラディン:profile",
+      "snippet": "シリアを統合し、十字軍国家に対抗しました。"
+    },
+    {
+      "compound": "十字軍主力",
+      "term": "十字軍",
+      "label": "people:サラディン:profile",
+      "snippet": "ティーンの戦いで十字軍主力を破り、エルサレ"
+    },
+    {
+      "compound": "十字軍占領時",
+      "term": "十字軍",
+      "label": "people:サラディン:profile",
+      "snippet": "し、1099年の十字軍占領時の大量殺害とは異"
+    },
+    {
+      "compound": "十字軍側",
+      "term": "十字軍",
+      "label": "people:サラディン:profile",
+      "snippet": "と戦い、沿岸部を十字軍側に残しつつ巡礼を"
+    },
+    {
+      "compound": "十字軍国家",
+      "term": "十字軍",
+      "label": "people:サラディン:whyImportant",
+      "snippet": "勢力を再統合して十字軍国家へ反撃し、宗教戦"
+    },
+    {
+      "compound": "微生物学者",
+      "term": "微生物",
+      "label": "people:ルイ・パスツール:profile",
+      "snippet": "ランスの化学者・微生物学者で、発酵や腐敗が"
+    },
+    {
+      "compound": "微生物学",
+      "term": "微生物",
+      "label": "people:ルイ・パスツール:whyImportant",
+      "snippet": "微生物学と予防医学の基礎"
+    },
+    {
+      "compound": "女性参政権",
+      "term": "参政権",
+      "label": "people:ダグラス・マッカーサー:profile",
+      "snippet": "解体、農地改革、女性参政権などに関わりまし"
+    },
+    {
+      "compound": "冷戦初期",
+      "term": "冷戦",
+      "label": "people:ジョージ・マーシャル:whyImportant",
+      "snippet": "欧州復興を支え、冷戦初期の西側秩序を安定"
+    },
+    {
+      "compound": "皇帝官僚制",
+      "term": "官僚制",
+      "label": "people:クラウディウス:profile",
+      "snippet": "誇張されました。皇帝官僚制の発展を進めた人"
+    },
+    {
+      "compound": "非暴力運動",
+      "term": "非暴力",
+      "label": "people:ローザ・パークス:whyImportant",
+      "snippet": "権運動を全国的な非暴力運動へ発展させる象徴"
+    },
+    {
+      "compound": "主要経典",
+      "term": "経典",
+      "label": "people:鳩摩羅什:whyImportant",
+      "snippet": "大乗仏教の主要経典を東アジアへ定着"
+    },
+    {
+      "compound": "奴隷制反対",
+      "term": "奴隷制",
+      "label": "people:ロベスピエール:profile",
+      "snippet": "廃止、普通選挙、奴隷制反対などを主張し、「"
+    },
+    {
+      "compound": "身分制廃止",
+      "term": "身分制",
+      "label": "people:ロベスピエール:profile",
+      "snippet": "護士・政治家で、身分制廃止、普通選挙、奴隷"
+    },
+    {
+      "compound": "国際大学",
+      "term": "大学",
+      "label": "people:ラビンドラナート・タゴール:profile",
+      "snippet": "育を目指し、後の国際大学ヴィシュヴァ・バ"
+    },
+    {
+      "compound": "非暴力運動",
+      "term": "非暴力",
+      "label": "people:セサル・チャベス:whyImportant",
+      "snippet": "労働者の権利を、非暴力運動によって全米の問"
+    },
+    {
+      "compound": "経典翻訳",
+      "term": "経典",
+      "label": "people:慧遠:profile",
+      "snippet": "の僧とも交流し、経典翻訳と教理理解を支え"
+    },
+    {
+      "compound": "中世大学",
+      "term": "大学",
+      "label": "people:アベラール:whyImportant",
+      "snippet": "ラ学を発展させ、中世大学の討論教育へ影響"
+    }
+  ]
+}

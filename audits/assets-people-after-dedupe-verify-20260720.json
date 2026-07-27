@@ -1,0 +1,23 @@
+{
+  "assetCount": 183,
+  "assetErrors": [],
+  "peopleCount": 300,
+  "peopleWithImage": 179,
+  "peopleWithoutImage": 121,
+  "missingRefs": [
+    {
+      "person": "ガリレオ・ガリレイ",
+      "image": "assets/people/person-cc3460bb5b.webp"
+    }
+  ],
+  "unreferencedAssetCount": 7,
+  "confirmationImageCount": 115,
+  "confirmationMissingInAssets": [],
+  "confirmationMatchedAssetCount": 115,
+  "historyGuard": {
+    "subcategories": 53,
+    "totalChars": 17035,
+    "minChars": 283,
+    "canary": true
+  }
+}

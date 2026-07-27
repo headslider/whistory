@@ -1,0 +1,89 @@
+{
+  "removed": [
+    {
+      "term": "村",
+      "before": {
+        "reading": "むら",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "村",
+          "reading": "むら",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "道",
+      "before": {
+        "reading": "みち",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "道",
+          "reading": "みち",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "核",
+      "before": {
+        "reading": "かく",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "核",
+          "reading": "かく",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "港",
+      "before": {
+        "reading": "みなと",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "港",
+          "reading": "みなと",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "海",
+      "before": {
+        "reading": "うみ",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "海",
+          "reading": "うみ",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "銀",
+      "before": {
+        "reading": "ぎん",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "銀",
+          "reading": "ぎん",
+          "mode": "whole-term"
+        }
+      }
+    }
+  ],
+  "total": 796
+}

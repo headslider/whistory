@@ -1,0 +1,187 @@
+{
+  "count": 7,
+  "grouped": [
+    {
+      "term": "諸侯",
+      "compound": "派諸侯",
+      "label": "data.people.peopleByName.カール5世.modal.profile",
+      "snippet": "。宗教改革ではルター派諸侯と対立し、フランス王"
+    },
+    {
+      "term": "諸侯",
+      "compound": "地方諸侯",
+      "label": "data.people.peopleByName.テオドロス2世.modal.whatDid",
+      "snippet": "地方諸侯を抑えてエチオピア再"
+    },
+    {
+      "term": "均衡",
+      "compound": "政治均衡",
+      "label": "data.people.peopleByName.カエサル.modal.whyImportant",
+      "snippet": "共和政の政治均衡を崩し、ローマが皇帝"
+    },
+    {
+      "term": "均衡",
+      "compound": "勢力均衡",
+      "label": "data.modal.kingdomCards[223].displayName",
+      "snippet": "ヨーロッパ列強の勢力均衡(ヨーロッパ)"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料貿易",
+      "label": "data.people.peopleByName.ヴァスコ・ダ・ガマ.modal.whyImportant",
+      "snippet": "香辛料貿易の経路を変え、ポルト"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料諸島",
+      "label": "data.people.peopleByName.フアン・セバスティアン・エルカーノ.modal.whatDid",
+      "snippet": "ビクトリア号を率い、香辛料諸島から喜望峰を回って史"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料交易",
+      "label": "data.history.groups[5].eras[0].subcategories[4].text",
+      "snippet": "洋の港に要塞を築き、香辛料交易へ軍事的に介入しまし"
+    }
+  ],
+  "all": [
+    {
+      "term": "諸侯",
+      "compound": "派諸侯",
+      "label": "data.people.people[18].modal.profile",
+      "snippet": "。宗教改革ではルター派諸侯と対立し、フランス王"
+    },
+    {
+      "term": "諸侯",
+      "compound": "地方諸侯",
+      "label": "data.people.people[157].modal.profile",
+      "snippet": "のエチオピア皇帝で、地方諸侯が分立していた「諸侯"
+    },
+    {
+      "term": "諸侯",
+      "compound": "地方諸侯",
+      "label": "data.people.people[157].modal.whatDid",
+      "snippet": "地方諸侯を抑えてエチオピア再"
+    },
+    {
+      "term": "諸侯",
+      "compound": "派諸侯",
+      "label": "data.people.peopleByName.カール5世.modal.profile",
+      "snippet": "。宗教改革ではルター派諸侯と対立し、フランス王"
+    },
+    {
+      "term": "諸侯",
+      "compound": "地方諸侯",
+      "label": "data.people.peopleByName.テオドロス2世.modal.profile",
+      "snippet": "のエチオピア皇帝で、地方諸侯が分立していた「諸侯"
+    },
+    {
+      "term": "諸侯",
+      "compound": "地方諸侯",
+      "label": "data.people.peopleByName.テオドロス2世.modal.whatDid",
+      "snippet": "地方諸侯を抑えてエチオピア再"
+    },
+    {
+      "term": "均衡",
+      "compound": "政治均衡",
+      "label": "data.people.people[46].modal.whyImportant",
+      "snippet": "共和政の政治均衡を崩し、ローマが皇帝"
+    },
+    {
+      "term": "均衡",
+      "compound": "政治均衡",
+      "label": "data.people.peopleByName.カエサル.modal.whyImportant",
+      "snippet": "共和政の政治均衡を崩し、ローマが皇帝"
+    },
+    {
+      "term": "均衡",
+      "compound": "勢力均衡",
+      "label": "data.actions.actionCards.ヨーロッパ列強の勢力均衡.modal.whyImportant",
+      "snippet": "ヨーロッパ列強の勢力均衡は、勢力関係、国境、"
+    },
+    {
+      "term": "均衡",
+      "compound": "勢力均衡",
+      "label": "data.modal.kingdomCards[223].name",
+      "snippet": "ヨーロッパ列強の勢力均衡"
+    },
+    {
+      "term": "均衡",
+      "compound": "勢力均衡",
+      "label": "data.modal.kingdomCards[223].displayName",
+      "snippet": "ヨーロッパ列強の勢力均衡(ヨーロッパ)"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料貿易",
+      "label": "data.people.people[112].modal.profile",
+      "snippet": "な被害を与えました。香辛料貿易の新航路を築く一方、"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料貿易",
+      "label": "data.people.people[112].modal.whyImportant",
+      "snippet": "香辛料貿易の経路を変え、ポルト"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料諸島",
+      "label": "data.people.people[126].modal.profile",
+      "snippet": "支援を受け、西回りで香辛料諸島へ到達する航路を探し"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料諸島",
+      "label": "data.people.people[140].modal.profile",
+      "snippet": "リア号」の船長として香辛料諸島からインド洋を西へ進"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料諸島",
+      "label": "data.people.people[140].modal.whatDid",
+      "snippet": "ビクトリア号を率い、香辛料諸島から喜望峰を回って史"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料貿易",
+      "label": "data.people.peopleByName.ヴァスコ・ダ・ガマ.modal.profile",
+      "snippet": "な被害を与えました。香辛料貿易の新航路を築く一方、"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料貿易",
+      "label": "data.people.peopleByName.ヴァスコ・ダ・ガマ.modal.whyImportant",
+      "snippet": "香辛料貿易の経路を変え、ポルト"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料諸島",
+      "label": "data.people.peopleByName.フェルディナンド・マゼラン.modal.profile",
+      "snippet": "支援を受け、西回りで香辛料諸島へ到達する航路を探し"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料諸島",
+      "label": "data.people.peopleByName.フアン・セバスティアン・エルカーノ.modal.profile",
+      "snippet": "リア号」の船長として香辛料諸島からインド洋を西へ進"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料諸島",
+      "label": "data.people.peopleByName.フアン・セバスティアン・エルカーノ.modal.whatDid",
+      "snippet": "ビクトリア号を率い、香辛料諸島から喜望峰を回って史"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料交易",
+      "label": "data.history.groups[5].eras[0].subcategories[1].text",
+      "snippet": "は科学探検ではなく、香辛料交易と帝国間競争でした。"
+    },
+    {
+      "term": "香辛料",
+      "compound": "香辛料交易",
+      "label": "data.history.groups[5].eras[0].subcategories[4].text",
+      "snippet": "洋の港に要塞を築き、香辛料交易へ軍事的に介入しまし"
+    }
+  ]
+}

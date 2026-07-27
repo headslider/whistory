@@ -1,0 +1,15 @@
+# Local assistant/tool state
+.claude/
+.codex/
+.agents/
+
+# Runtime logs
+*.log
+.codex-http-server.*.log
+
+# Large local historical backups not needed for public site
+backups/
+
+# OS files
+Thumbs.db
+.DS_Store

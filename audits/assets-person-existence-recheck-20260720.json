@@ -1,0 +1,1174 @@
+{
+  "method": "fresh recheck: confirmation named images vs all assets, and names vs current people-data.json",
+  "peopleCount": 300,
+  "assetImageCount": 409,
+  "confirmationImageCount": 115,
+  "confirmationMatchedAssetExactNameInPeople": 102,
+  "confirmationMatchedAssetNameNotExactInPeople": 13,
+  "possiblePeopleNotInPeopleData": 0,
+  "confirmationImagesNotFoundInAssets": 0,
+  "unreferencedAssetsNotMatchedToConfirmationFolderCount": 230,
+  "assetReadErrors": [],
+  "nameNotExactItems": [
+    {
+      "confirmationName": "クローヴィス1世",
+      "asset": "person-547e05b8b9.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-547e05b8b9.webp",
+      "mae": 0.546,
+      "referencedBy": [
+        "クローヴィス"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "クローヴィス",
+        "クセルクセス1世",
+        "キュロス2世",
+        "オットー1世",
+        "アルタクセルクセス1世"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ゴットフリート・ライプニッツ",
+      "asset": "person-161894fd4d.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-161894fd4d.webp",
+      "mae": 0.34,
+      "referencedBy": [
+        "ライプニッツ"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "ライプニッツ",
+        "チェスター・ニミッツ",
+        "リチャード・アークライト",
+        "フリードリヒ・バルバロッサ",
+        "トーマス・サンカラ"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ジャン・カルヴァン",
+      "asset": "person-575516c8d8.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-575516c8d8.webp",
+      "mae": 0.344,
+      "referencedBy": [
+        "カルヴァン"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "カルヴァン",
+        "ジャンヌ・ダルク",
+        "ジャック・カルティエ",
+        "ジョン・カボット",
+        "ベンジャミン・フランクリン"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ジャン＝ジャック・ルソー",
+      "asset": "person-59efcfe648.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-59efcfe648.webp",
+      "mae": 0.321,
+      "referencedBy": [
+        "ルソー"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "ジャック・カルティエ",
+        "ジャンヌ・ダルク",
+        "ジョン・ロック",
+        "ジョン・スノー",
+        "ルソー"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "チャンドラグプタ・マウリヤ",
+      "asset": "person-60e45e3ac2.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-60e45e3ac2.webp",
+      "mae": 0.352,
+      "referencedBy": [
+        "チャンドラグプタ"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "チャンドラグプタ",
+        "チャンドラグプタ2世",
+        "リチャード・ド・ベリー",
+        "チャールズ・ダーウィン",
+        "リチャード・アークライト"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ナポレオン・ボナパルト",
+      "asset": "person-aecb5fefb9.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-aecb5fefb9.webp",
+      "mae": 0.572,
+      "referencedBy": [
+        "ナポレオン"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "ナポレオン",
+        "クレオパトラ",
+        "アレッサンドロ・ボルタ",
+        "ジョン・カボット",
+        "シモン・ボリバル"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ニコラウス・コペルニクス",
+      "asset": "person-e08a16a58c.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e08a16a58c.webp",
+      "mae": 0.343,
+      "referencedBy": [
+        "コペルニクス"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "コペルニクス",
+        "ティベリウス・グラックス",
+        "エルナン・コルテス",
+        "フランシス・ドレーク",
+        "ジュリウス・ニエレレ"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "バールーフ・デ・スピノザ",
+      "asset": "person-e66d9b1378.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e66d9b1378.webp",
+      "mae": 0.315,
+      "referencedBy": [
+        "スピノザ"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "スピノザ",
+        "バルトロメ・デ・ラス・カサス",
+        "バルトロメウ・ディアス",
+        "カール・マルクス",
+        "ブルートゥス"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ヘンリ8世",
+      "asset": "person-f58f3d2792.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f58f3d2792.webp",
+      "mae": 0.37,
+      "referencedBy": [
+        "ヘンリー8世"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "ヘンリー8世",
+        "ヘンリー5世",
+        "アンリ4世",
+        "メネリク2世",
+        "センナケリブ"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ユスティニアヌス1世",
+      "asset": "person-eb7674eb9e.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-eb7674eb9e.webp",
+      "mae": 0.329,
+      "referencedBy": [
+        "ユスティニアヌス"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "ユスティニアヌス",
+        "アウグスティヌス",
+        "ミルティアデス",
+        "ウィリアム1世",
+        "ウェスパシアヌス"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "リム・シン",
+      "asset": "person-724f1ef951.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-724f1ef951.webp",
+      "mae": 0.357,
+      "referencedBy": [
+        "リムシン"
+      ],
+      "normalizedMatches": [
+        "リムシン"
+      ],
+      "closePeopleNames": [
+        "リムシン",
+        "リー・クアンユー",
+        "フィリップ・ペタン",
+        "パトリス・ルムンバ",
+        "ハリー・トルーマン"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ルター",
+      "asset": "person-b1751a213c.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-b1751a213c.webp",
+      "mae": 0.318,
+      "referencedBy": [
+        "マルティン・ルター"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "ルソー",
+        "マルティン・ルター",
+        "ウォルター・ローリー",
+        "ヴォルテール",
+        "ブルートゥス"
+      ],
+      "judgement": "別名の可能性あり"
+    },
+    {
+      "confirmationName": "ルネ・デカルト",
+      "asset": "person-638347cdb2.webp",
+      "assetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-638347cdb2.webp",
+      "mae": 0.32,
+      "referencedBy": [
+        "デカルト"
+      ],
+      "normalizedMatches": [],
+      "closePeopleNames": [
+        "デカルト",
+        "ルイ・パスツール",
+        "ベネディクトゥス",
+        "ベナジル・ブット",
+        "ジョン・カボット"
+      ],
+      "judgement": "別名の可能性あり"
+    }
+  ],
+  "possibleMissingPeopleItems": [],
+  "confirmationNotFoundItems": [],
+  "unreferencedAssetsNotMatchedToConfirmationFolder": [
+    {
+      "asset": "person-03ca2051e4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-03ca2051e4.webp"
+    },
+    {
+      "asset": "person-04926774bb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-04926774bb.webp"
+    },
+    {
+      "asset": "person-09a9b8e268.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-09a9b8e268.webp"
+    },
+    {
+      "asset": "person-0c46b3ceb5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-0c46b3ceb5.webp"
+    },
+    {
+      "asset": "person-0cd15da63c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-0cd15da63c.webp"
+    },
+    {
+      "asset": "person-12b6aece80.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-12b6aece80.webp"
+    },
+    {
+      "asset": "person-1d0d3cb02a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-1d0d3cb02a.webp"
+    },
+    {
+      "asset": "person-277170700f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-277170700f.webp"
+    },
+    {
+      "asset": "person-27e4fcd404.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-27e4fcd404.webp"
+    },
+    {
+      "asset": "person-289f09b2c1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-289f09b2c1.webp"
+    },
+    {
+      "asset": "person-2a34f269dc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2a34f269dc.webp"
+    },
+    {
+      "asset": "person-2a7c737236.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2a7c737236.webp"
+    },
+    {
+      "asset": "person-2b05c47332.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2b05c47332.webp"
+    },
+    {
+      "asset": "person-2bdfcc418c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2bdfcc418c.webp"
+    },
+    {
+      "asset": "person-2f8083da37.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2f8083da37.webp"
+    },
+    {
+      "asset": "person-310584639b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-310584639b.webp"
+    },
+    {
+      "asset": "person-34175beaf7.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-34175beaf7.webp"
+    },
+    {
+      "asset": "person-36d85a6245.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-36d85a6245.webp"
+    },
+    {
+      "asset": "person-373824e054.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-373824e054.webp"
+    },
+    {
+      "asset": "person-37f0c076e5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-37f0c076e5.webp"
+    },
+    {
+      "asset": "person-39b9a1d500.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-39b9a1d500.webp"
+    },
+    {
+      "asset": "person-472258e19b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-472258e19b.webp"
+    },
+    {
+      "asset": "person-478ac60599.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-478ac60599.webp"
+    },
+    {
+      "asset": "person-47c3008c5d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-47c3008c5d.webp"
+    },
+    {
+      "asset": "person-4e6efc87f3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-4e6efc87f3.webp"
+    },
+    {
+      "asset": "person-50d7071b0b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-50d7071b0b.webp"
+    },
+    {
+      "asset": "person-555618cb1b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-555618cb1b.webp"
+    },
+    {
+      "asset": "person-59ba2c317a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-59ba2c317a.webp"
+    },
+    {
+      "asset": "person-5f21763da9.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-5f21763da9.webp"
+    },
+    {
+      "asset": "person-6b0028f33d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-6b0028f33d.webp"
+    },
+    {
+      "asset": "person-6f3b31a3ab.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-6f3b31a3ab.webp"
+    },
+    {
+      "asset": "person-7359ad9c67.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7359ad9c67.webp"
+    },
+    {
+      "asset": "person-7468017804.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7468017804.webp"
+    },
+    {
+      "asset": "person-785a2ae2f4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-785a2ae2f4.webp"
+    },
+    {
+      "asset": "person-840a99a0cf.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-840a99a0cf.webp"
+    },
+    {
+      "asset": "person-87055886a8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-87055886a8.webp"
+    },
+    {
+      "asset": "person-8740de73ea.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8740de73ea.webp"
+    },
+    {
+      "asset": "person-874aa62782.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-874aa62782.webp"
+    },
+    {
+      "asset": "person-879932e7c0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-879932e7c0.webp"
+    },
+    {
+      "asset": "person-8a4d970f45.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8a4d970f45.webp"
+    },
+    {
+      "asset": "person-8c1b0020dc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8c1b0020dc.webp"
+    },
+    {
+      "asset": "person-8df86bd2a8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-8df86bd2a8.webp"
+    },
+    {
+      "asset": "person-90b15201b0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-90b15201b0.webp"
+    },
+    {
+      "asset": "person-97acc2cc6c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-97acc2cc6c.webp"
+    },
+    {
+      "asset": "person-9a20be8088.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9a20be8088.webp"
+    },
+    {
+      "asset": "person-9b84e7a0e2.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9b84e7a0e2.webp"
+    },
+    {
+      "asset": "person-9f2e63dfb1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9f2e63dfb1.webp"
+    },
+    {
+      "asset": "person-9f857af814.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9f857af814.webp"
+    },
+    {
+      "asset": "person-a17abc7079.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a17abc7079.webp"
+    },
+    {
+      "asset": "person-a2aefb7f2c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a2aefb7f2c.webp"
+    },
+    {
+      "asset": "person-a7b8af0f50.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-a7b8af0f50.webp"
+    },
+    {
+      "asset": "person-ab1c64034b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ab1c64034b.webp"
+    },
+    {
+      "asset": "person-b057e4e120.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-b057e4e120.webp"
+    },
+    {
+      "asset": "person-b1c029c022.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-b1c029c022.webp"
+    },
+    {
+      "asset": "person-bb38d4f78a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-bb38d4f78a.webp"
+    },
+    {
+      "asset": "person-bc35ea24de.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-bc35ea24de.webp"
+    },
+    {
+      "asset": "person-be2dfc8c8f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-be2dfc8c8f.webp"
+    },
+    {
+      "asset": "person-cb7645de73.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-cb7645de73.webp"
+    },
+    {
+      "asset": "person-cf05b51c03.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-cf05b51c03.webp"
+    },
+    {
+      "asset": "person-d186cd4e90.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d186cd4e90.webp"
+    },
+    {
+      "asset": "person-d2b1c7651d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d2b1c7651d.webp"
+    },
+    {
+      "asset": "person-d2ea2ab172.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d2ea2ab172.webp"
+    },
+    {
+      "asset": "person-d7203de00e.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d7203de00e.webp"
+    },
+    {
+      "asset": "person-d7cc59fb4a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d7cc59fb4a.webp"
+    },
+    {
+      "asset": "person-d9b1a0a91b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-d9b1a0a91b.webp"
+    },
+    {
+      "asset": "person-df245183a3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-df245183a3.webp"
+    },
+    {
+      "asset": "person-e0096d2ed3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e0096d2ed3.webp"
+    },
+    {
+      "asset": "person-e10c617704.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e10c617704.webp"
+    },
+    {
+      "asset": "person-e2c09518fa.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e2c09518fa.webp"
+    },
+    {
+      "asset": "person-e963d604cb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e963d604cb.webp"
+    },
+    {
+      "asset": "person-ee0d81f4a1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ee0d81f4a1.webp"
+    },
+    {
+      "asset": "person-ef17beb844.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ef17beb844.webp"
+    },
+    {
+      "asset": "person-ef77ce40cf.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ef77ce40cf.webp"
+    },
+    {
+      "asset": "person-f1b1a88c09.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f1b1a88c09.webp"
+    },
+    {
+      "asset": "person-f8d7bd726d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f8d7bd726d.webp"
+    },
+    {
+      "asset": "person-fa1becdf28.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fa1becdf28.webp"
+    },
+    {
+      "asset": "person-fa993cfb81.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fa993cfb81.webp"
+    },
+    {
+      "asset": "person-fdc746fddd.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fdc746fddd.webp"
+    },
+    {
+      "asset": "person-fe9479e29d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fe9479e29d.webp"
+    },
+    {
+      "asset": "アウグスティヌス-785a2ae2f4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アウグスティヌス-785a2ae2f4.webp"
+    },
+    {
+      "asset": "アウグストゥス-785a2ae2f4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アウグストゥス-785a2ae2f4.webp"
+    },
+    {
+      "asset": "アウグストゥス-fa1becdf28.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アウグストゥス-fa1becdf28.webp"
+    },
+    {
+      "asset": "アウンサンスーチー-2a1b09d78c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アウンサンスーチー-2a1b09d78c.webp"
+    },
+    {
+      "asset": "アクエンアテン-90b15201b0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アクエンアテン-90b15201b0.webp"
+    },
+    {
+      "asset": "アショーカ王-555618cb1b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アショーカ王-555618cb1b.webp"
+    },
+    {
+      "asset": "アタナシウス-df245183a3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アタナシウス-df245183a3.webp"
+    },
+    {
+      "asset": "アダム・スミス-2a34f269dc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アダム・スミス-2a34f269dc.webp"
+    },
+    {
+      "asset": "アッシュルナツィルパル2世-2b05c47332.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アッシュルナツィルパル2世-2b05c47332.webp"
+    },
+    {
+      "asset": "アッシュルバニパル-87055886a8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アッシュルバニパル-87055886a8.webp"
+    },
+    {
+      "asset": "アドルフ・ヒトラー-860e88f804.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アドルフ・ヒトラー-860e88f804.webp"
+    },
+    {
+      "asset": "アビゲイル・アダムズ-d7203de00e.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アビゲイル・アダムズ-d7203de00e.webp"
+    },
+    {
+      "asset": "アベラール-6f3b31a3ab.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アベラール-6f3b31a3ab.webp"
+    },
+    {
+      "asset": "アベル・タスマン-f1b1a88c09.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アベル・タスマン-f1b1a88c09.webp"
+    },
+    {
+      "asset": "アムンゼン-8a4d970f45.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アムンゼン-8a4d970f45.webp"
+    },
+    {
+      "asset": "アメリゴ・ヴェスプッチ-39b9a1d500.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アメリゴ・ヴェスプッチ-39b9a1d500.webp"
+    },
+    {
+      "asset": "アメンエムハト1世-5f21763da9.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アメンエムハト1世-5f21763da9.webp"
+    },
+    {
+      "asset": "アメンエムハト1世-879932e7c0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アメンエムハト1世-879932e7c0.webp"
+    },
+    {
+      "asset": "アメンホテプ3世-5f21763da9.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アメンホテプ3世-5f21763da9.webp"
+    },
+    {
+      "asset": "アリウス-bb38d4f78a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アリウス-bb38d4f78a.webp"
+    },
+    {
+      "asset": "アリストテレス-6b0028f33d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アリストテレス-6b0028f33d.webp"
+    },
+    {
+      "asset": "アルキビアデス-e10c617704.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アルキビアデス-e10c617704.webp"
+    },
+    {
+      "asset": "アルキメデス-e963d604cb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アルキメデス-e963d604cb.webp"
+    },
+    {
+      "asset": "アルタクセルクセス1世-9f2e63dfb1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アルタクセルクセス1世-9f2e63dfb1.webp"
+    },
+    {
+      "asset": "アルベルト・アインシュタイン-48f6387587.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アルベルト・アインシュタイン-48f6387587.webp"
+    },
+    {
+      "asset": "アレクサンドロス大王-50d7071b0b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アレクサンドロス大王-50d7071b0b.webp"
+    },
+    {
+      "asset": "アレッサンドロ・ボルタ-a7b8af0f50.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アレッサンドロ・ボルタ-a7b8af0f50.webp"
+    },
+    {
+      "asset": "アンリ4世-1ac2f10bef.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\アンリ4世-1ac2f10bef.webp"
+    },
+    {
+      "asset": "イエス-b057e4e120.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\イエス-b057e4e120.webp"
+    },
+    {
+      "asset": "イザムバード・キングダム・ブルネル-a17abc7079.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\イザムバード・キングダム・ブルネル-a17abc7079.webp"
+    },
+    {
+      "asset": "イブン・バットゥータ-d2b1c7651d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\イブン・バットゥータ-d2b1c7651d.webp"
+    },
+    {
+      "asset": "インディラ・ガンディー-83952b1af6.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\インディラ・ガンディー-83952b1af6.webp"
+    },
+    {
+      "asset": "ウィンストン・チャーチル-ad26ae571c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ウィンストン・チャーチル-ad26ae571c.webp"
+    },
+    {
+      "asset": "ウルナンム-6ef4c2baf1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ウルナンム-6ef4c2baf1.webp"
+    },
+    {
+      "asset": "エドワード1世-2108b78bda.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\エドワード1世-2108b78bda.webp"
+    },
+    {
+      "asset": "エンヘドゥアンナ-bae8508d5f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\エンヘドゥアンナ-bae8508d5f.webp"
+    },
+    {
+      "asset": "エンリケ航海王子-17ac22d8f8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\エンリケ航海王子-17ac22d8f8.webp"
+    },
+    {
+      "asset": "オットー1世-516f25fdf3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\オットー1世-516f25fdf3.webp"
+    },
+    {
+      "asset": "オットー1世-5ba86ccd42.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\オットー1世-5ba86ccd42.webp"
+    },
+    {
+      "asset": "カエサル-7359ad9c67.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\カエサル-7359ad9c67.webp"
+    },
+    {
+      "asset": "カトー-e6cb8aba55.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\カトー-e6cb8aba55.webp"
+    },
+    {
+      "asset": "カルヴァン-47c3008c5d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\カルヴァン-47c3008c5d.webp"
+    },
+    {
+      "asset": "カント-7468017804.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\カント-7468017804.webp"
+    },
+    {
+      "asset": "カール5世-04926774bb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\カール5世-04926774bb.webp"
+    },
+    {
+      "asset": "カール大帝-5ba86ccd42.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\カール大帝-5ba86ccd42.webp"
+    },
+    {
+      "asset": "ガリレオ・ガリレイ-ee0d81f4a1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ガリレオ・ガリレイ-ee0d81f4a1.webp"
+    },
+    {
+      "asset": "キュロス2世-2bdfcc418c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\キュロス2世-2bdfcc418c.webp"
+    },
+    {
+      "asset": "クセルクセス1世-653eee17f8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\クセルクセス1世-653eee17f8.webp"
+    },
+    {
+      "asset": "クフ王-cf05b51c03.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\クフ王-cf05b51c03.webp"
+    },
+    {
+      "asset": "クリストファー・コロンブス-ad25b28545.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\クリストファー・コロンブス-ad25b28545.webp"
+    },
+    {
+      "asset": "クレイステネス-d5e93608d0.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\クレイステネス-d5e93608d0.webp"
+    },
+    {
+      "asset": "クレオパトラ-c35825710f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\クレオパトラ-c35825710f.webp"
+    },
+    {
+      "asset": "クローヴィス-547e05b8b9.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\クローヴィス-547e05b8b9.webp"
+    },
+    {
+      "asset": "グデア-d69e810d52.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\グデア-d69e810d52.webp"
+    },
+    {
+      "asset": "グーテンベルク-36d85a6245.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\グーテンベルク-36d85a6245.webp"
+    },
+    {
+      "asset": "コペルニクス-ef17beb844.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\コペルニクス-ef17beb844.webp"
+    },
+    {
+      "asset": "ゴルバチョフ-0c46b3ceb5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ゴルバチョフ-0c46b3ceb5.webp"
+    },
+    {
+      "asset": "サミュエル・クロムプトン-51af8aee07.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\サミュエル・クロムプトン-51af8aee07.webp"
+    },
+    {
+      "asset": "サルゴン-ab1c64034b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\サルゴン-ab1c64034b.webp"
+    },
+    {
+      "asset": "シェイクスピア-a2aefb7f2c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\シェイクスピア-a2aefb7f2c.webp"
+    },
+    {
+      "asset": "シモン・ボリバル-04de7d8241.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\シモン・ボリバル-04de7d8241.webp"
+    },
+    {
+      "asset": "ショーペンハウアー-9b84e7a0e2.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ショーペンハウアー-9b84e7a0e2.webp"
+    },
+    {
+      "asset": "シラー-277170700f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\シラー-277170700f.webp"
+    },
+    {
+      "asset": "ジェセル-af40024a79.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジェセル-af40024a79.webp"
+    },
+    {
+      "asset": "ジェームズ・ハーグリーブス-94098b32d7.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジェームズ・ハーグリーブス-94098b32d7.webp"
+    },
+    {
+      "asset": "ジェームズ・ワット-e2c09518fa.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジェームズ・ワット-e2c09518fa.webp"
+    },
+    {
+      "asset": "ジャワハルラール・ネルー-d1557caa09.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジャワハルラール・ネルー-d1557caa09.webp"
+    },
+    {
+      "asset": "ジャンヌ・ダルク-9f857af814.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジャンヌ・ダルク-9f857af814.webp"
+    },
+    {
+      "asset": "ジョン・F・ケネディ-03ca2051e4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジョン・F・ケネディ-03ca2051e4.webp"
+    },
+    {
+      "asset": "ジョン・ロック-3f43fd47bb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジョン・ロック-3f43fd47bb.webp"
+    },
+    {
+      "asset": "ジョージ・ワシントン-ef77ce40cf.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジョージ・ワシントン-ef77ce40cf.webp"
+    },
+    {
+      "asset": "ジル・ド・レエ-809fb0c62e.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ジル・ド・レエ-809fb0c62e.webp"
+    },
+    {
+      "asset": "スキピオ・アフリカヌス-cfb119e804.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\スキピオ・アフリカヌス-cfb119e804.webp"
+    },
+    {
+      "asset": "スネフェル-1f3e28397d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\スネフェル-1f3e28397d.webp"
+    },
+    {
+      "asset": "スネフェル-62e4a669a6.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\スネフェル-62e4a669a6.webp"
+    },
+    {
+      "asset": "スピノザ-1d0d3cb02a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\スピノザ-1d0d3cb02a.webp"
+    },
+    {
+      "asset": "セシル・ローズ-d7452f90ef.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\セシル・ローズ-d7452f90ef.webp"
+    },
+    {
+      "asset": "ソロン-0c00fa8a54.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ソロン-0c00fa8a54.webp"
+    },
+    {
+      "asset": "ダレイオス1世-91f786f396.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ダレイオス1世-91f786f396.webp"
+    },
+    {
+      "asset": "チャールズ1世-d3cc59b102.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\チャールズ1世-d3cc59b102.webp"
+    },
+    {
+      "asset": "チャールズ・ダーウィン-4e6efc87f3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\チャールズ・ダーウィン-4e6efc87f3.webp"
+    },
+    {
+      "asset": "チンギス・ハン-fa993cfb81.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\チンギス・ハン-fa993cfb81.webp"
+    },
+    {
+      "asset": "ティベリウス・グラックス-4e2e5a3bee.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ティベリウス・グラックス-4e2e5a3bee.webp"
+    },
+    {
+      "asset": "テオドラ-7294fab46e.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\テオドラ-7294fab46e.webp"
+    },
+    {
+      "asset": "デイヴィッド・リヴィングストン-90abd8cf8f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\デイヴィッド・リヴィングストン-90abd8cf8f.webp"
+    },
+    {
+      "asset": "デカルト-840a99a0cf.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\デカルト-840a99a0cf.webp"
+    },
+    {
+      "asset": "ナポレオン-aecb5fefb9.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ナポレオン-aecb5fefb9.webp"
+    },
+    {
+      "asset": "ナルメル-310584639b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ナルメル-310584639b.webp"
+    },
+    {
+      "asset": "ニュートン-fdc746fddd.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ニュートン-fdc746fddd.webp"
+    },
+    {
+      "asset": "ニーチェ-b1c029c022.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ニーチェ-b1c029c022.webp"
+    },
+    {
+      "asset": "ネルソン・マンデラ-9a20be8088.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ネルソン・マンデラ-9a20be8088.webp"
+    },
+    {
+      "asset": "ネヴィル・チェンバレン-fd6656d191.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ネヴィル・チェンバレン-fd6656d191.webp"
+    },
+    {
+      "asset": "ノーベル-f8d7bd726d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ノーベル-f8d7bd726d.webp"
+    },
+    {
+      "asset": "ハンニバル-d186cd4e90.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ハンニバル-d186cd4e90.webp"
+    },
+    {
+      "asset": "ハンムラビ-12b6aece80.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ハンムラビ-12b6aece80.webp"
+    },
+    {
+      "asset": "バシレイオス2世-8ef1cb23d8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\バシレイオス2世-8ef1cb23d8.webp"
+    },
+    {
+      "asset": "バッハ-09a9b8e268.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\バッハ-09a9b8e268.webp"
+    },
+    {
+      "asset": "バルトロメウ・ディアス-4800aabf28.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\バルトロメウ・ディアス-4800aabf28.webp"
+    },
+    {
+      "asset": "バルトロメ・デ・ラス・カサス-96f97c1af2.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\バルトロメ・デ・ラス・カサス-96f97c1af2.webp"
+    },
+    {
+      "asset": "パウロ-0cd15da63c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\パウロ-0cd15da63c.webp"
+    },
+    {
+      "asset": "ヒエロニムス-e2200bc7bb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヒエロニムス-e2200bc7bb.webp"
+    },
+    {
+      "asset": "フリードリヒ・バルバロッサ-dfb6ed9cfb.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\フリードリヒ・バルバロッサ-dfb6ed9cfb.webp"
+    },
+    {
+      "asset": "フローレンス・ナイチンゲール-e0096d2ed3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\フローレンス・ナイチンゲール-e0096d2ed3.webp"
+    },
+    {
+      "asset": "ヘラクレイオス-9a6aa60aa5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヘラクレイオス-9a6aa60aa5.webp"
+    },
+    {
+      "asset": "ヘンリー5世-9e2923c493.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヘンリー5世-9e2923c493.webp"
+    },
+    {
+      "asset": "ヘンリー8世-59ba2c317a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヘンリー8世-59ba2c317a.webp"
+    },
+    {
+      "asset": "ヘンリー・モートン・スタンリー-b08f4fcadd.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヘンリー・モートン・スタンリー-b08f4fcadd.webp"
+    },
+    {
+      "asset": "ヘーゲル-478ac60599.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヘーゲル-478ac60599.webp"
+    },
+    {
+      "asset": "ヘーゲル-7468017804.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヘーゲル-7468017804.webp"
+    },
+    {
+      "asset": "ベナジル・ブット-1f3e28397d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ベナジル・ブット-1f3e28397d.webp"
+    },
+    {
+      "asset": "ベートーヴェン-472258e19b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ベートーヴェン-472258e19b.webp"
+    },
+    {
+      "asset": "ペテロ-597700fe67.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ペテロ-597700fe67.webp"
+    },
+    {
+      "asset": "ペリクレス-b9aecbca6c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ペリクレス-b9aecbca6c.webp"
+    },
+    {
+      "asset": "ペリー-f3d03b470d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ペリー-f3d03b470d.webp"
+    },
+    {
+      "asset": "マクシミリアン1世-6686946bab.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\マクシミリアン1世-6686946bab.webp"
+    },
+    {
+      "asset": "マハトマ・ガンディー-cb7645de73.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\マハトマ・ガンディー-cb7645de73.webp"
+    },
+    {
+      "asset": "マララ・ユスフザイ-7ca7f530e8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\マララ・ユスフザイ-7ca7f530e8.webp"
+    },
+    {
+      "asset": "マリウス-3b825e131f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\マリウス-3b825e131f.webp"
+    },
+    {
+      "asset": "マリー・アントワネット-874aa62782.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\マリー・アントワネット-874aa62782.webp"
+    },
+    {
+      "asset": "マルティン・ルター-fe9479e29d.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\マルティン・ルター-fe9479e29d.webp"
+    },
+    {
+      "asset": "マンサ・ムーサ-37f0c076e5.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\マンサ・ムーサ-37f0c076e5.webp"
+    },
+    {
+      "asset": "マーティン・ルーサー・キング・ジュニア-d2ea2ab172.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\マーティン・ルーサー・キング・ジュニア-d2ea2ab172.webp"
+    },
+    {
+      "asset": "ミケランジェロ-d7cc59fb4a.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ミケランジェロ-d7cc59fb4a.webp"
+    },
+    {
+      "asset": "ムハンマド-920c89b7aa.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ムハンマド-920c89b7aa.webp"
+    },
+    {
+      "asset": "メネス-019b1d8d30.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\メネス-019b1d8d30.webp"
+    },
+    {
+      "asset": "モンテスキュー-2562164bcc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\モンテスキュー-2562164bcc.webp"
+    },
+    {
+      "asset": "モーツァルト-289f09b2c1.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\モーツァルト-289f09b2c1.webp"
+    },
+    {
+      "asset": "ユスティニアヌス-34175beaf7.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ユスティニアヌス-34175beaf7.webp"
+    },
+    {
+      "asset": "ライプニッツ-97acc2cc6c.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ライプニッツ-97acc2cc6c.webp"
+    },
+    {
+      "asset": "ラファエロ-d9b1a0a91b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ラファエロ-d9b1a0a91b.webp"
+    },
+    {
+      "asset": "リチャード・アークライト-620e13ee9b.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\リチャード・アークライト-620e13ee9b.webp"
+    },
+    {
+      "asset": "ルイ14世-27e4fcd404.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ルイ14世-27e4fcd404.webp"
+    },
+    {
+      "asset": "ルイ16世-4fd5b57d17.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ルイ16世-4fd5b57d17.webp"
+    },
+    {
+      "asset": "ルイ16世-d3cc59b102.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ルイ16世-d3cc59b102.webp"
+    },
+    {
+      "asset": "レオナルド・ダ・ヴィンチ-2f8083da37.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\レオナルド・ダ・ヴィンチ-2f8083da37.webp"
+    },
+    {
+      "asset": "レオニダス-ceda1bc256.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\レオニダス-ceda1bc256.webp"
+    },
+    {
+      "asset": "レントゲン-373824e054.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\レントゲン-373824e054.webp"
+    },
+    {
+      "asset": "ワンガリ・マータイ-be2dfc8c8f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ワンガリ・マータイ-be2dfc8c8f.webp"
+    },
+    {
+      "asset": "ヴァスコ・ダ・ガマ-3b613a629f.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヴァスコ・ダ・ガマ-3b613a629f.webp"
+    },
+    {
+      "asset": "ヴォルテール-90ebf84bd9.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\ヴォルテール-90ebf84bd9.webp"
+    },
+    {
+      "asset": "則天武后-634820150e.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\則天武后-634820150e.webp"
+    },
+    {
+      "asset": "太宗-64ef03b0e4.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\太宗-64ef03b0e4.webp"
+    },
+    {
+      "asset": "始皇帝-bc35ea24de.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\始皇帝-bc35ea24de.webp"
+    },
+    {
+      "asset": "孔子-8740de73ea.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\孔子-8740de73ea.webp"
+    },
+    {
+      "asset": "孫文-5afa942243.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\孫文-5afa942243.webp"
+    },
+    {
+      "asset": "楊貴妃-7226500134.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\楊貴妃-7226500134.webp"
+    },
+    {
+      "asset": "玄奘-077a351fc3.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\玄奘-077a351fc3.webp"
+    },
+    {
+      "asset": "玄宗-0cc7ff9461.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\玄宗-0cc7ff9461.webp"
+    },
+    {
+      "asset": "鄧小平-8c1b0020dc.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\鄧小平-8c1b0020dc.webp"
+    },
+    {
+      "asset": "鄭和-8df86bd2a8.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\鄭和-8df86bd2a8.webp"
+    },
+    {
+      "asset": "釈迦-2a7c737236.webp",
+      "path": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\釈迦-2a7c737236.webp"
+    }
+  ]
+}

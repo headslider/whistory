@@ -1,0 +1,6170 @@
+{
+  "generatedAt": "2026-07-17T04:55:11.958Z",
+  "summary": {
+    "tooltipCandidateTerms": 589,
+    "regionTerms": 38,
+    "personRubyCandidates": 44,
+    "labelReviewTerms": 9,
+    "actionNamesWithoutTooltip": 0
+  },
+  "tooltipCandidates": [
+    {
+      "term": "キリスト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 20,
+      "count": 41,
+      "sample": "イエス。いえす。キリスト教の中心となった人。religion。1世紀ごろ、ローマ帝国の支配下に"
+    },
+    {
+      "term": "ローマ帝国",
+      "kinds": [
+        "action-tag",
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 18,
+      "count": 73,
+      "sample": "ス。いえす。キリスト教の中心となった人。religion。1世紀ごろ、ローマ帝国の支配下にあったユダヤ地方で活動し、神への愛と隣人への思いやりを説いた"
+    },
+    {
+      "term": "メソポタミア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 18,
+      "count": 29,
+      "sample": "た王。monarch,politician。バビロン第1王朝の王です。メソポタミア南部で都市を支配し、裁判の基準となる決まりを石柱に刻ませました。罰は身"
+    },
+    {
+      "term": "イスラム",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 16,
+      "count": 114,
+      "sample": "ムハンマド。むはんまど。イスラム教を始めた預言者。religion。7世紀のアラビア半島で、唯一の神ア"
+    },
+    {
+      "term": "インターネット",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 12,
+      "count": 66,
+      "sample": "インターネットの広がり。インターネットが広がり、生活と交流が変わる。世界。インターネ"
+    },
+    {
+      "term": "アッシリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 9,
+      "count": 9,
+      "sample": "を動かした人。monarch,politician。メソポタミア北部でアッシリア系の王国を築いた王です。マリなどを支配し、息子たちを各地に置きました。"
+    },
+    {
+      "term": "都市国家",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 6,
+      "count": 48,
+      "sample": "narch,politician。アッカドのサルゴンは、メソポタミアの都市国家を軍事と役人の仕組みでまとめ、初期の広域国家を築きました。各地の神殿や"
+    },
+    {
+      "term": "ルネサンス",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 6,
+      "count": 30,
+      "sample": "レオナルド・ダ・ヴィンチ。れおなるど・だ・びんち。ルネサンスの天才。culture,science。15〜16世紀のイタリアの芸術"
+    },
+    {
+      "term": "ナチス",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 6,
+      "count": 17,
+      "sample": "れの物理学者で、時間と空間、重力の見方を変えた相対性理論を示しました。ナチスの迫害を逃れてアメリカへ移り、戦争後は核兵器の危険にも声を上げました。"
+    },
+    {
+      "term": "ピラミッド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 6,
+      "count": 15,
+      "sample": "クフ王。くふおう。大ピラミッドの時代の王。monarch。古代エジプト第四王朝の王で、ギザの大ピラミ"
+    },
+    {
+      "term": "カトリック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 6,
+      "count": 11,
+      "sample": "王。monarch,politician。16世紀末のフランス王です。カトリックとプロテスタントが争う宗教戦争のなかで即位し、1598年のナント勅令で"
+    },
+    {
+      "term": "全面戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 6,
+      "count": 8,
+      "sample": "途中で暗殺されました。冷戦は、第二次世界大戦後にアメリカとソ連が直接の全面戦争を避けながら、軍事・経済・思想で対立した状態です。その活動は、社会の中"
+    },
+    {
+      "term": "オアシス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 6,
+      "count": 7,
+      "sample": "によって、品物とともに技術、宗教、言語、病気も伝わりました。港や宿場、オアシスは交流の拠点として栄えました。一つの出来事だけで成立したのではなく、以"
+    },
+    {
+      "term": "アッシリア帝国",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 6,
+      "count": 6,
+      "sample": "2世。都市と文字を動かした人。monarch,politician。新アッシリア帝国の王です。首都ニムルドを大きく造り替え、軍事遠征で周辺国に服従を求めま"
+    },
+    {
+      "term": "新アッシリア帝国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 6,
+      "count": 6,
+      "sample": "ル2世。都市と文字を動かした人。monarch,politician。新アッシリア帝国の王です。首都ニムルドを大きく造り替え、軍事遠征で周辺国に服従を求めま"
+    },
+    {
+      "term": "スパルタ",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 5,
+      "count": 11,
+      "sample": "レオニダス。レオニダス。政治と学問を広げた人。monarch,war。スパルタ王で、ペルシャ戦争のテルモピュライの戦いで少数の兵を率いた人物です。敗"
+    },
+    {
+      "term": "神聖ローマ帝国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 5,
+      "count": 10,
+      "sample": "オットー1世。おっとーいっせい。神聖ローマ帝国を始めた皇帝。monarch。東フランク（ドイツ）の王で、962年にロ"
+    },
+    {
+      "term": "ヒトラー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 5,
+      "count": 8,
+      "sample": "時間や空間、重力をそれまでとは異なる見方で説明した理論です。ナチスは、ヒトラーが率いた政党で、人種差別と独裁を進め、第二次世界大戦と大量虐殺を引き起"
+    },
+    {
+      "term": "古代エジプト第十八王朝",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 5,
+      "count": 5,
+      "sample": "シェプスト。王権と建築を示す人。monarch,politician。古代エジプト第十八王朝の女性ファラオです。男王と同じように王の称号や姿で公の場に現れ、紅海沿"
+    },
+    {
+      "term": "ナチス・ドイツ",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 4,
+      "count": 8,
+      "sample": "h,politician,war。イギリスの首相です。第二次世界大戦でナチス・ドイツに抵抗する演説を行い、連合国を率いました。一方で植民地支配を支持した面"
+    },
+    {
+      "term": "エルサレム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 4,
+      "count": 7,
+      "sample": "も参加しましたが、遠征の途中で川に落ちて亡くなりました。十字軍は、聖地エルサレムをめぐって西ヨーロッパのキリスト教勢力が行った遠征です。その治世は、君"
+    },
+    {
+      "term": "ギリシャ・ローマ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 4,
+      "count": 5,
+      "sample": "ンスを代表する、芸術と科学の両方にすぐれた天才です。ルネサンスは、古代ギリシャ・ローマの文化を学び直し、人間や自然を新しい目で表そうとした文化運動です。その"
+    },
+    {
+      "term": "アケメネス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 4,
+      "count": 4,
+      "sample": "。広い国をまとめた人。monarch,politician。ペルシャのアケメネス朝を築いた王です。メディア、リディア、新バビロニアを支配下に置きました"
+    },
+    {
+      "term": "アレクサンドロス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 4,
+      "count": 4,
+      "sample": "アレクサンドロス大王。あれくさんどろすだいおう。東西を結んだ征服者。monarch。マ"
+    },
+    {
+      "term": "ストライキ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 4,
+      "count": 4,
+      "sample": "深い対立も起きました。非暴力とは、武器や暴力に頼らず、行進や不買運動、ストライキなどで社会を変えようとする方法です。個人の行動が多くの人を動かし、法律"
+    },
+    {
+      "term": "古代エジプト第四王朝",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 4,
+      "count": 4,
+      "sample": "クフ王。くふおう。大ピラミッドの時代の王。monarch。古代エジプト第四王朝の王で、ギザの大ピラミッドを造った王と考えられています。石材の運び方や"
+    },
+    {
+      "term": "百年戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 10,
+      "sample": "ヘンリー5世。へんりーごせい。百年戦争を戦った王。monarch。15世紀初めのイングランド王です。フランス"
+    },
+    {
+      "term": "東ローマ帝国",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 6,
+      "sample": "ニアヌス。王国と都市を支えた人。monarch,politician。東ローマ帝国の皇帝です。ローマ法を集めて『ローマ法大全』を整え、コンスタンティノー"
+    },
+    {
+      "term": "カルタゴ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 5,
+      "sample": "。はんにばる。ローマと戦った将軍。war。紀元前3世紀、北アフリカの国カルタゴの将軍です。象をつれてアルプス山脈をこえ、強大なローマ軍を何度も破りま"
+    },
+    {
+      "term": "太平洋戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 5,
+      "sample": "ラス・マッカーサー。戦争と平和を動かした人。war。アメリカ軍人です。太平洋戦争で連合国軍を指揮し、戦後は日本の占領政策を主導しました。日本国憲法、土"
+    },
+    {
+      "term": "連合国",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 3,
+      "count": 4,
+      "sample": "ギリスの首相です。第二次世界大戦でナチス・ドイツに抵抗する演説を行い、連合国を率いました。一方で植民地支配を支持した面もあり、戦争の英雄だけでは語"
+    },
+    {
+      "term": "アケメネス朝ペルシャ",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "イオス1世。広い国をまとめた人。monarch,politician。アケメネス朝ペルシャの王です。州に分けて役人を置き、王の道や共通の貨幣を整えました。広い帝"
+    },
+    {
+      "term": "ニネヴェ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "た人。monarch,politician。新アッシリア帝国の王です。ニネヴェを水路や宮殿のある大都市に整え、ユダ王国のラキシュを攻めました。攻城の"
+    },
+    {
+      "term": "マウリヤ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "おう。仏教を保護した王。monarch,politician。インドのマウリヤ朝を治めた王です。カリンガ戦争の被害を見て暴力を反省し、仏教を支えまし"
+    },
+    {
+      "term": "マウリヤ朝",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "おう。仏教を保護した王。monarch,politician。インドのマウリヤ朝を治めた王です。カリンガ戦争の被害を見て暴力を反省し、仏教を支えました"
+    },
+    {
+      "term": "フランク王国",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 10,
+      "sample": "クローヴィス。くろーびす。フランク王国を建てた王。monarch,politician。フランク王国を建て、"
+    },
+    {
+      "term": "ハプスブルク",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 8,
+      "sample": "。自分や子・孫の結婚によって、戦わずにオランダやスペインなど広い領土をハプスブルク家のものにしました。孫のカール5世が受けつぐ大帝国の土台を築きました。"
+    },
+    {
+      "term": "Web",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 2,
+      "count": 6,
+      "sample": "な通信網が生活に広がった変化。インターネットサービス。インターネット。Web。普及。1991年にWorld Wide Webが公開され、1993年"
+    },
+    {
+      "term": "パキスタン",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 6,
+      "sample": "ユスフザイ。まらら・ゆすふざい。教育の権利を訴える人。society。パキスタンで女の子が学校へ通う権利を訴え、武装勢力に襲われながらも活動を続けた人"
+    },
+    {
+      "term": "メソアメリカ",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 6,
+      "sample": "マリンチェ。マリンチェ。航海と交流に関わった人。society。メソアメリカ出身で、ナワトル語とマヤ語を話し、スペイン語通訳を介してコルテスを助け"
+    },
+    {
+      "term": "アショーカ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 5,
+      "sample": "アショーカ王。あしょーかおう。仏教を保護した王。monarch,politici"
+    },
+    {
+      "term": "ヒンドゥー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 5,
+      "sample": "religion,philosopher。19世紀インドの宗教家です。ヒンドゥー教を中心に、異なる宗教にも真理があると考えました。質素な生活と神への深"
+    },
+    {
+      "term": "Meta",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 2,
+      "count": 4,
+      "sample": "。友人関係を広げた大規模SNS。インターネットサービス。SNS。交流。Meta。2004年2月4日に始まったSNSです。実名に近い友人関係をネット上"
+    },
+    {
+      "term": "ファシズム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 4,
+      "sample": "。monarch,politician,war。イタリアの独裁者です。ファシズム政権を作り、反対する人を抑え、エチオピアへ侵略しました。ヒトラーと同盟"
+    },
+    {
+      "term": "Google",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "Google検索。ウェブ情報を探す検索サービス。インターネットサービス。検索。情報"
+    },
+    {
+      "term": "アッカド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "ルゴン。都市と文字を動かした人。monarch,politician。アッカドのサルゴンは、メソポタミアの都市国家を軍事と役人の仕組みでまとめ、初期"
+    },
+    {
+      "term": "アッラー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "ム教を始めた預言者。religion。7世紀のアラビア半島で、唯一の神アッラーから啓示を受けたと説いたイスラム教の預言者です。メッカで信仰を広めた後"
+    },
+    {
+      "term": "アンデス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "らえ、内戦中のインカを支配下に置きました。戦い、疫病、強制労働により、アンデスの人々の社会は大きく変えられました。この人物を学ぶ際は、戦術や勝敗だけ"
+    },
+    {
+      "term": "スパルタクス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "rch,politician,war。共和政ローマの富裕な政治家です。スパルタクスの反乱を鎮め、ポンペイウス、カエサルと第一回三頭政治を作りました。東方"
+    },
+    {
+      "term": "ダレイオス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "ダレイオス1世。ダレイオス1世。広い国をまとめた人。monarch,politi"
+    },
+    {
+      "term": "テルモピュライ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "ャの王です。父ダレイオス1世の後を継ぎ、大軍でギリシャへ遠征しました。テルモピュライを突破した後、サラミス海戦で敗れ、遠征は成功しませんでした。その活動は"
+    },
+    {
+      "term": "トゥパク・アマル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "トゥパク・アマル1世。トゥパク・アマル1世。航海と交流に関わった人。monarch,p"
+    },
+    {
+      "term": "ニカイア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "世紀のアレクサンドリア司教です。イエス・キリストの性質をめぐる論争で、ニカイア公会議の立場を守りました。何度も追放されながら議論を続け、教会の教義形"
+    },
+    {
+      "term": "ノルマンディー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "アム1世。王国と都市を支えた人。monarch,politician。ノルマンディー公からイングランド王となった人物です。1066年にヘースティングズの戦"
+    },
+    {
+      "term": "ベルギー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "ciety。アフリカを探検した記者・探検家です。コンゴ川流域を調査し、ベルギー王レオポルド2世の支配拡大を助けました。探検は現地の人々への暴力的な植"
+    },
+    {
+      "term": "ペルシャ戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "オニダス。政治と学問を広げた人。monarch,war。スパルタ王で、ペルシャ戦争のテルモピュライの戦いで少数の兵を率いた人物です。敗北した戦いですが、"
+    },
+    {
+      "term": "マゼラン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "ノ。航海と交流に関わった人。society。スペイン船団の航海者です。マゼランの死後に指揮を引き継ぎ、1522年にヨーロッパへ帰還しました。世界を一"
+    },
+    {
+      "term": "マラトン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "通の貨幣を整えました。広い帝国を連絡網で治めましたが、ギリシャ遠征ではマラトンで敗れました。この人物の歩みから、政治の改革が人々の権利や国家の形にど"
+    },
+    {
+      "term": "レオポルド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "。アフリカを探検した記者・探検家です。コンゴ川流域を調査し、ベルギー王レオポルド2世の支配拡大を助けました。探検は現地の人々への暴力的な植民地化と結び"
+    },
+    {
+      "term": "アステカ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "た人。war。スペインの征服者です。先住民の一部と同盟し、1521年にアステカの都テノチティトランを倒しました。武力だけでなく疫病も大きな被害を生み"
+    },
+    {
+      "term": "アタワルパ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "交流に関わった人。war。スペインの征服者です。1532年にインカ皇帝アタワルパを捕らえ、内戦中のインカを支配下に置きました。戦い、疫病、強制労働によ"
+    },
+    {
+      "term": "イムホテプ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "onarch,politician。古代エジプト第三王朝の王です。宰相イムホテプと結び付けられるサッカラの階段ピラミッドを造らせました。石を大規模に使"
+    },
+    {
+      "term": "ウル第三王朝",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ナンム。都市と文字を動かした人。monarch,politician。ウル第三王朝を始めた王です。メソポタミア南部で運河や神殿を整え、契約や罰を定めた法"
+    },
+    {
+      "term": "キエフ公国",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ミル1世。王国と都市を支えた人。monarch,politician。キエフ公国の君主です。988年ごろに東方キリスト教を受け入れ、ドニエプル川で人々"
+    },
+    {
+      "term": "コーラン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "避けてメディナへ移り、信者の共同体を築きました。啓示をまとめた聖典が『コーラン』で、信仰だけでなく生活や社会の決まりにも関わります。ムハンマドの活動"
+    },
+    {
+      "term": "コロッセウム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "後にローマ帝国を立て直した皇帝です。財政を整え、ローマ市内に円形闘技場コロッセウムの建設を始めました。新しい王朝を安定させ、行政の立て直しを進めました。"
+    },
+    {
+      "term": "サラミス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "の後を継ぎ、大軍でギリシャへ遠征しました。テルモピュライを突破した後、サラミス海戦で敗れ、遠征は成功しませんでした。その活動は、政治制度を変えるには"
+    },
+    {
+      "term": "サンスクリット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ダーサ。カーリダーサ。広い国をまとめた人。culture。古代インドのサンスクリット文学を代表する詩人・劇作家です。『シャクンタラー』などで自然や人の心を"
+    },
+    {
+      "term": "ジェニー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "えた人。science。イギリスの織物職人です。複数の糸を同時に紡げるジェニー紡績機を考案しました。糸の生産が増える一方、手仕事の職人は仕事を失う不"
+    },
+    {
+      "term": "シチリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "r。第二次世界大戦でアメリカ軍の戦車部隊を率いた将軍です。北アフリカ、シチリア、フランスで機動戦を進めました。強い指導力で知られる一方、兵士への暴言"
+    },
+    {
+      "term": "デイル・エル・バハリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "す。内戦後の統一を進め、中王国の始まりを築きました。王墓は山のふもとのデイル・エル・バハリに残ります。その活動は、政治制度を変えるには法律だけでなく、社会の支持"
+    },
+    {
+      "term": "ニュージーランド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "y。オランダ東インド会社の航海者です。1642年に現在のタスマニア島とニュージーランド周辺を航海しました。航海中には先住民との衝突も起き、地図作りと植民地化"
+    },
+    {
+      "term": "ネブカドネザル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "メディアと協力してニネヴェを倒した王です。新バビロニア王国を始め、息子ネブカドネザル2世がさらに国を広げる土台を作りました。この人物の歩みから、政治の改革"
+    },
+    {
+      "term": "バビロニア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "cian。ペルシャのアケメネス朝を築いた王です。メディア、リディア、新バビロニアを支配下に置きました。征服地の宗教や慣習をある程度認めたとされますが、"
+    },
+    {
+      "term": "バルカン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "えた人。monarch,politician。東ローマ帝国の皇帝です。バルカン半島でブルガリアを破り、帝国の勢力を強めました。地方の大貴族を抑え、税"
+    },
+    {
+      "term": "フィリピン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ペインに仕えた航海者です。南アメリカ南端の海峡を通り太平洋へ出ました。フィリピンで戦死しましたが、船団は初の世界一周を成し遂げました。個人の行動が多く"
+    },
+    {
+      "term": "フィレンツェ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "テ。ダンテ。王国と都市を支えた人。culture。イタリアの詩人です。フィレンツェの政治対立で追放されながら、『神曲』をイタリア語で書きました。ラテン語"
+    },
+    {
+      "term": "プログラム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "人。science。イギリスの数学者です。計算を自動で行う差分機関と、プログラム可能な解析機関を設計しました。完成には至りませんでしたが、現代のコンピ"
+    },
+    {
+      "term": "プロテスタント",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "rch,politician。16世紀末のフランス王です。カトリックとプロテスタントが争う宗教戦争のなかで即位し、1598年のナント勅令で信仰の自由をある"
+    },
+    {
+      "term": "ペロポネソス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "問を広げた人。politician,war。アテネの政治家・将軍です。ペロポネソス戦争の中でアテネ、スパルタ、ペルシャ側を行き来しました。才能と強い野心"
+    },
+    {
+      "term": "ペロポネソス戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "問を広げた人。politician,war。アテネの政治家・将軍です。ペロポネソス戦争の中でアテネ、スパルタ、ペルシャ側を行き来しました。才能と強い野心で戦"
+    },
+    {
+      "term": "ベンガル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ート・タゴール。近代社会を動かした人。culture,society。ベンガルの詩人・教育者です。『ギーターンジャリ』でノーベル文学賞を受けました。"
+    },
+    {
+      "term": "ヘンリー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ヘンリー5世。へんりーごせい。百年戦争を戦った王。monarch。15世紀初め"
+    },
+    {
+      "term": "マーシャル・プラン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "期に原子爆弾使用を決定し、日本の降伏後は冷戦期の対ソ政策を進めました。マーシャル・プランやNATOにつながる政策を支えました。冷戦は、第二次世界大戦後にアメリ"
+    },
+    {
+      "term": "メッセージアプリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ンターネットサービス。メッセージ。通話。Meta。2009年に始まったメッセージアプリです。電話番号でつながり、文字、音声、通話を安く使えるため、世界の連絡"
+    },
+    {
+      "term": "メディア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "arch,politician。ペルシャのアケメネス朝を築いた王です。メディア、リディア、新バビロニアを支配下に置きました。征服地の宗教や慣習をある"
+    },
+    {
+      "term": "モクテスマ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "モクテスマ1世。[object Object]"
+    },
+    {
+      "term": "ユーフラテス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "リリム。都市と文字を動かした人。monarch,politician。ユーフラテス川沿いのマリ王国を治めた王です。宮殿の粘土板には、外交、軍事、商人、食"
+    },
+    {
+      "term": "ラムセス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ラムセス2世。[object Object]"
+    },
+    {
+      "term": "レオナルド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "像」やバチカンのシスティナ礼拝堂の天井画など、力強い作品を残しました。レオナルドと並ぶルネサンスの大芸術家です。ルネサンスは、古代ギリシャ・ローマの文"
+    },
+    {
+      "term": "ロンドン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "itician,war。フランスの軍人・政治家です。第二次世界大戦中、ロンドンから自由フランスを呼びかけました。戦後は第五共和政を作り、大統領として"
+    },
+    {
+      "term": "ワクチン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "や病気に関わることを示し、加熱で食品を守る低温殺菌を広めました。狂犬病ワクチンの研究も進め、衛生と予防医学に影響しました。発見の内容だけでなく、どの"
+    },
+    {
+      "term": "古代エジプト第十二王朝",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ムハト1世。王権と建築を示す人。monarch,politician。古代エジプト第十二王朝を始めた王です。都を北へ移して行政を整え、地方の有力者を抑えようとしま"
+    },
+    {
+      "term": "独立戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "monarch,politician。北アメリカの植民地側の軍を率いて独立戦争を戦い、独立後に初代アメリカ大統領となりました。大統領を二期で退き、権"
+    },
+    {
+      "term": "ヘレニズム",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 8,
+      "sample": "ヘレニズム諸国の並立。後継王国が競争したヘレニズム時代。地中海地域。拮抗時代。ヘ"
+    },
+    {
+      "term": "アジア・アフリカ",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 6,
+      "sample": "アジア・アフリカの独立。植民地だった国々が独立を進める。アジア・アフリカ。独立。アジア"
+    },
+    {
+      "term": "マリ帝国",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 6,
+      "sample": "マンサ・ムーサ。まんさ・むーさ。マリ帝国の王。monarch,politician。西アフリカのマリ帝国の王で"
+    },
+    {
+      "term": "世界交易",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 6,
+      "sample": "香辛料と銀の世界交易。香辛料と銀を通じて世界の交易が広がる。アジア。香辛料。銀。世界交易。"
+    },
+    {
+      "term": "インダス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 4,
+      "sample": "インダス文明の計画都市。インダス文明の計画的な都市が発展する。南アジア。文明。"
+    },
+    {
+      "term": "エックス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 4,
+      "sample": "レントゲン。れんとげん。エックス線を発見した科学者。science。19世紀末のドイツの物理学者です。"
+    },
+    {
+      "term": "ダイナマイト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 4,
+      "sample": "ノーベル。のーべる。ダイナマイトの発明者。science。19世紀スウェーデンの科学者・実業家です。爆"
+    },
+    {
+      "term": "チベット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 4,
+      "sample": "を動かした人。politician,religion,society。チベット仏教の指導者です。1959年にインドへ亡命し、チベットの自治と非暴力に"
+    },
+    {
+      "term": "ペルシャ帝国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 4,
+      "sample": "ペルシャ帝国の多民族支配。ペルシャ帝国が多くの民族を治める。西アジア。帝国。政治。"
+    },
+    {
+      "term": "南北アメリカ",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 1,
+      "count": 4,
+      "sample": "南北アメリカの初期農業。トウモロコシなどを育てる農業が始まる。南北アメリカ。農業。"
+    },
+    {
+      "term": "アステカ・インカ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 3,
+      "sample": "アステカ・インカの征服。アステカ・インカがスペインの侵攻で滅びる。中南米。征服。植民地"
+    },
+    {
+      "term": "インダス文明",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 3,
+      "sample": "インダス文明の計画都市。インダス文明の計画的な都市が発展する。南アジア。文明。都市"
+    },
+    {
+      "term": "インド洋交易",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 3,
+      "sample": "インド洋交易の広がり。インド洋交易が広がる。南アジア・東南アジア。インド洋。交易。"
+    },
+    {
+      "term": "スウェーデン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 3,
+      "sample": "ノーベル。のーべる。ダイナマイトの発明者。science。19世紀スウェーデンの科学者・実業家です。爆発物のダイナマイトを発明して大きな富を得ました"
+    },
+    {
+      "term": "マフディー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 3,
+      "sample": "会を動かした人。monarch,politician。スーダンで自らをマフディーと名乗り、エジプト・イギリスの支配に反対する運動を率いた宗教指導者です"
+    },
+    {
+      "term": "ラテンアメリカ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 3,
+      "sample": "ラテンアメリカ独立運動。ラテンアメリカ諸国が独立を進める。中南米。独立。国づくり。中"
+    },
+    {
+      "term": "宗教戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 3,
+      "sample": "アンリ4世。あんりよんせい。宗教戦争をしずめた王。monarch,politician。16世紀末のフラン"
+    },
+    {
+      "term": "・インド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "けでなく、運動が直面した反対や限界も含めて理解する必要があります。中国・インド洋で「大船団を率いた航海者」とされる理由を、行動の結果と残された課題の"
+    },
+    {
+      "term": "NATO",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "定し、日本の降伏後は冷戦期の対ソ政策を進めました。マーシャル・プランやNATOにつながる政策を支えました。冷戦は、第二次世界大戦後にアメリカとソ連が"
+    },
+    {
+      "term": "アステカ帝国",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "がスペインの侵攻で滅びる。中南米。征服。植民地。スペインの侵攻により、アステカ帝国とインカ帝国は滅びました。病気、武器、同盟関係、支配への不満が重なり、"
+    },
+    {
+      "term": "アッシュルナツィルパル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アッシュルナツィルパル2世。アッシュルナツィルパル2世。都市と文字を動かした人。monarc"
+    },
+    {
+      "term": "アメンエムハト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アメンエムハト1世。アメンエムハト1世。王権と建築を示す人。monarch,poli"
+    },
+    {
+      "term": "アメンホテプ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アメンホテプ3世。アメンホテプ3世。王権と建築を示す人。monarch,polit"
+    },
+    {
+      "term": "アルタクセルクセス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アルタクセルクセス1世。アルタクセルクセス1世。広い国をまとめた人。monarch,po"
+    },
+    {
+      "term": "アントニウス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "の古代エジプト最後の女王です。かしこさと話術でローマの有力者カエサルやアントニウスと手を結び、国を守ろうとしました。最後はローマに敗れ、エジプトはローマ"
+    },
+    {
+      "term": "イエス・キリスト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "igion,philosopher。4世紀のアレクサンドリア司教です。イエス・キリストの性質をめぐる論争で、ニカイア公会議の立場を守りました。何度も追放され"
+    },
+    {
+      "term": "イベリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "タイファ諸王国の時代。イベリアのイスラム諸国が分立した時代。スペイン。拮抗時代。イスラム。都市文化。"
+    },
+    {
+      "term": "インカ帝国",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "攻で滅びる。中南米。征服。植民地。スペインの侵攻により、アステカ帝国とインカ帝国は滅びました。病気、武器、同盟関係、支配への不満が重なり、先住民社会に"
+    },
+    {
+      "term": "ウィリアム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ウィリアム1世。ウィリアム1世。王国と都市を支えた人。monarch,polit"
+    },
+    {
+      "term": "ヴェーダーンタ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "pher。インドの宗教思想家です。1893年にシカゴで演説し、ヨーガやヴェーダーンタの考えを世界へ紹介しました。貧しい人を助ける活動も重視し、インドの自信"
+    },
+    {
+      "term": "ウラジーミル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ウラジーミル1世。ウラジーミル1世。王国と都市を支えた人。monarch,poli"
+    },
+    {
+      "term": "エジプト・イギリス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "narch,politician。スーダンで自らをマフディーと名乗り、エジプト・イギリスの支配に反対する運動を率いた宗教指導者です。1885年にハルツームを占"
+    },
+    {
+      "term": "エンリケ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "エンリケ航海王子。エンリケ航海王子。航海と交流に関わった人。monarch,p"
+    },
+    {
+      "term": "オスマン・ハプスブルク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "オスマン・ハプスブルク対立。中東欧の支配をめぐる二大勢力の対立。中央ヨーロッパ。拮抗時代。オ"
+    },
+    {
+      "term": "オスマン帝国",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "の対立。中央ヨーロッパ。拮抗時代。オスマン。ハプスブルク。ヨーロッパ。オスマン帝国とハプスブルク家がバルカンや中央ヨーロッパで競い合った時代です。宗教、"
+    },
+    {
+      "term": "オルガン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "。音楽の父。other。17〜18世紀ドイツの作曲家です。教会の音楽やオルガン曲を数多く作り、複数の旋律を組み合わせる作曲の技術を高めました。「音楽"
+    },
+    {
+      "term": "オンライン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "Wikipedia。共同編集で作るオンライン百科事典。インターネットサービス。知識。協力。Web。2001年1月1"
+    },
+    {
+      "term": "カニシカ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "カニシカ王。カニシカ王。広い国をまとめた人。monarch,politicia"
+    },
+    {
+      "term": "キュロス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "キュロス2世。キュロス2世。広い国をまとめた人。monarch,politic"
+    },
+    {
+      "term": "ギリシャポリス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ギリシャポリスの競合。都市国家が同盟と戦争を重ねた時代。地中海地域。拮抗時代。ギリシ"
+    },
+    {
+      "term": "クーデター",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "、汚職の削減を進めました。急進的な改革は支持と反発を生み、1987年のクーデターで殺害されました。その活動は、社会の中で見過ごされていた差別や貧困、権"
+    },
+    {
+      "term": "クセルクセス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "クセルクセス1世。クセルクセス1世。広い国をまとめた人。monarch,polit"
+    },
+    {
+      "term": "グレゴリウス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "グレゴリウス1世。グレゴリウス1世。信仰と学問を伝えた人。religion。6世紀"
+    },
+    {
+      "term": "コルテス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "。メソアメリカ出身で、ナワトル語とマヤ語を話し、スペイン語通訳を介してコルテスを助けた女性です。植民地支配に協力したとだけ決めつけられず、奴隷にされ"
+    },
+    {
+      "term": "サハラ交易",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "サヘル諸王国の競合。サハラ交易をめぐり王国が競った時代。アフリカ。拮抗時代。交易。イスラム。サハラ交"
+    },
+    {
+      "term": "サヘル諸王国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "サヘル諸王国の競合。サハラ交易をめぐり王国が競った時代。アフリカ。拮抗時代。交易。"
+    },
+    {
+      "term": "システィナ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "5〜16世紀のイタリアの彫刻家・画家です。彫刻「ダビデ像」やバチカンのシスティナ礼拝堂の天井画など、力強い作品を残しました。レオナルドと並ぶルネサンス"
+    },
+    {
+      "term": "シャムシアダド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "シャムシアダド1世。シャムシアダド1世。都市と文字を動かした人。monarch,po"
+    },
+    {
+      "term": "シャルマネセル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "シャルマネセル3世。シャルマネセル3世。都市と文字を動かした人。monarch,po"
+    },
+    {
+      "term": "スーダン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アフマド。近代社会を動かした人。monarch,politician。スーダンで自らをマフディーと名乗り、エジプト・イギリスの支配に反対する運動を率"
+    },
+    {
+      "term": "スフィンクス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ジプト第四王朝の王で、ギザの二番目に大きいピラミッドを建てた王です。大スフィンクスとの関係が有力視されますが、誰が造らせたかには研究上の議論もあります。"
+    },
+    {
+      "term": "スルタナ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "・教育者です。女性が学べない社会を批判し、女子学校を開きました。小説『スルタナの夢』では女性が科学と政治を担う社会を描き、女性教育の必要を訴えました"
+    },
+    {
+      "term": "スワヒリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ch,politician,society。タンザニア初代大統領です。スワヒリ語を共通語として広め、教育と農村開発を重視しました。共同で暮らす村づく"
+    },
+    {
+      "term": "センウセレト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "センウセレト3世。センウセレト3世。王権と建築を示す人。monarch,polit"
+    },
+    {
+      "term": "タイファ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "タイファ諸王国の時代。イベリアのイスラム諸国が分立した時代。スペイン。拮抗時代"
+    },
+    {
+      "term": "タイファ諸王国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "タイファ諸王国の時代。イベリアのイスラム諸国が分立した時代。スペイン。拮抗時代。イス"
+    },
+    {
+      "term": "ダライ・ラマ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ダライ・ラマ14世。ダライ・ラマ14世。現代社会を動かした人。politician"
+    },
+    {
+      "term": "チベット仏教",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "を動かした人。politician,religion,society。チベット仏教の指導者です。1959年にインドへ亡命し、チベットの自治と非暴力による"
+    },
+    {
+      "term": "ティグラトピレセル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ティグラトピレセル1世。ティグラトピレセル1世。都市と文字を動かした人。monarch,"
+    },
+    {
+      "term": "テオドロス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "テオドロス2世。テオドロス2世。近代社会を動かした人。monarch,polit"
+    },
+    {
+      "term": "トウモロコシ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "南北アメリカの初期農業。トウモロコシなどを育てる農業が始まる。南北アメリカ。農業。アメリカ大陸。くらし。南"
+    },
+    {
+      "term": "トトメス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "トトメス3世。トトメス3世。王権と建築を示す人。monarch,politic"
+    },
+    {
+      "term": "ナチズム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "人。monarch,politician,war。ドイツの独裁者です。ナチズムと人種差別を広め、侵略戦争を始めました。ユダヤ人をはじめ多くの人々を組"
+    },
+    {
+      "term": "ナポレオン法典",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "頭し、皇帝となってヨーロッパ各地へ軍を送った指導者です。法律をまとめたナポレオン法典を広めた一方、長い戦争で多くの犠牲を出しました。ナポレオン法典は、法の"
+    },
+    {
+      "term": "ナワトル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "リンチェ。航海と交流に関わった人。society。メソアメリカ出身で、ナワトル語とマヤ語を話し、スペイン語通訳を介してコルテスを助けた女性です。植民"
+    },
+    {
+      "term": "ノルウェー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ン。あむんぜん。南極点に初到達した探検家。other。19〜20世紀のノルウェーの探検家です。1911年、人類で初めて南極点に到達しました。きびしい寒"
+    },
+    {
+      "term": "バシレイオス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "バシレイオス2世。バシレイオス2世。王国と都市を支えた人。monarch,poli"
+    },
+    {
+      "term": "バス・ボイコット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "白人に譲ることを拒んだ公民権運動家です。逮捕をきっかけにモンゴメリーのバス・ボイコットが始まり、人種隔離に反対する運動が広がりました。公民権運動は、アメリカ"
+    },
+    {
+      "term": "バチカン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ure。15〜16世紀のイタリアの彫刻家・画家です。彫刻「ダビデ像」やバチカンのシスティナ礼拝堂の天井画など、力強い作品を残しました。レオナルドと並"
+    },
+    {
+      "term": "バビロン第1王朝",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ビ。はんむらび。法律を整えた王。monarch,politician。バビロン第1王朝の王です。メソポタミア南部で都市を支配し、裁判の基準となる決まりを石柱"
+    },
+    {
+      "term": "バランス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "on。イタリアで修道院生活の規則を整えた修道士です。祈り、読書、労働をバランスよく行う「ベネディクト戒律」は、西ヨーロッパの修道院が学びや福祉を支え"
+    },
+    {
+      "term": "パルチザン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ch,politician,war。第二次世界大戦中にユーゴスラビアのパルチザンを率り、戦後の社会主義連邦を作った指導者です。ソ連と距離を置きましたが"
+    },
+    {
+      "term": "パルティア",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "を鎮め、ポンペイウス、カエサルと第一回三頭政治を作りました。東方遠征でパルティアに敗れ、戦死しました。共和政は、世襲の王ではなく、国民や代表者が政治を"
+    },
+    {
+      "term": "ハンムラビ法典",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "メソポタミア南部で運河や神殿を整え、契約や罰を定めた法典を残しました。ハンムラビ法典より古い法律文書の一つとして重要です。ハンムラビ法典は、裁判や財産、家"
+    },
+    {
+      "term": "ブルガリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "arch,politician。東ローマ帝国の皇帝です。バルカン半島でブルガリアを破り、帝国の勢力を強めました。地方の大貴族を抑え、税と軍の仕組みを整"
+    },
+    {
+      "term": "ベネディクト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ベネディクトゥス。ベネディクトゥス。信仰と学問を伝えた人。religion。イタリ"
+    },
+    {
+      "term": "ベルサイユ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "「太陽王」と呼ばれました。自らが国の全てを決める絶対王政を進め、豪華なベルサイユ宮殿を建てました。強い軍隊で何度も戦争を行い、ヨーロッパに大きな影響を"
+    },
+    {
+      "term": "マルクス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "実業家の子です。イギリスの工場地帯を調べ、労働者の生活を記録しました。マルクスと協力して社会主義の考えをまとめ、研究と出版を支えました。社会主義は、"
+    },
+    {
+      "term": "マルコム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "マルコムX。マルコムX。現代社会を動かした人。religion,society"
+    },
+    {
+      "term": "ミッドウェー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "。アメリカ海軍の司令官です。太平洋戦争で空母を中心とする作戦を指揮し、ミッドウェー海戦などで勝利しました。海上戦の戦略を動かしましたが、戦争は多くの犠牲"
+    },
+    {
+      "term": "メネリク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "メネリク2世。メネリク2世。近代社会を動かした人。monarch,politi"
+    },
+    {
+      "term": "メントゥホテプ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "メントゥホテプ2世。メントゥホテプ2世。王権と建築を示す人。monarch,poli"
+    },
+    {
+      "term": "モナ・リザ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "re,science。15〜16世紀のイタリアの芸術家・科学者です。「モナ・リザ」などの絵をえがく一方、人体や機械、飛行のしくみも研究しました。ルネサ"
+    },
+    {
+      "term": "モンゴメリー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "で、バスの席を白人に譲ることを拒んだ公民権運動家です。逮捕をきっかけにモンゴメリーのバス・ボイコットが始まり、人種隔離に反対する運動が広がりました。公民"
+    },
+    {
+      "term": "ヤロスラフ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ヤロスラフ賢公。ヤロスラフ賢公。王国と都市を支えた人。monarch,polit"
+    },
+    {
+      "term": "ユーゴスラビア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "た人。monarch,politician,war。第二次世界大戦中にユーゴスラビアのパルチザンを率り、戦後の社会主義連邦を作った指導者です。ソ連と距離を"
+    },
+    {
+      "term": "ラガシュ",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "onarch,politician,culture。メソポタミア南部のラガシュを治めた支配者です。神殿建設と運河整備を進め、遠方から石材や木材を集め"
+    },
+    {
+      "term": "リチャード",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "リチャード1世。リチャード1世。王国と都市を支えた人。monarch。イングラン"
+    },
+    {
+      "term": "環境運動",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ワンガリ・マータイ。わんがり・まーたい。木を植える環境運動家。politician,society。ケニアで女性たちと木を植える"
+    },
+    {
+      "term": "社会主義連邦",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "n,war。第二次世界大戦中にユーゴスラビアのパルチザンを率り、戦後の社会主義連邦を作った指導者です。ソ連と距離を置きましたが、多民族の対立を強い統治で"
+    },
+    {
+      "term": "侵略戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "itician,war。ドイツの独裁者です。ナチズムと人種差別を広め、侵略戦争を始めました。ユダヤ人をはじめ多くの人々を組織的に迫害・殺害したホロコ"
+    },
+    {
+      "term": "新バビロニア王国",
+      "kinds": [
+        "kingdom-name",
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "としてアッシリアから独立し、メディアと協力してニネヴェを倒した王です。新バビロニア王国を始め、息子ネブカドネザル2世がさらに国を広げる土台を作りました。この"
+    },
+    {
+      "term": "人種隔離政策アパルトヘイト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "者。monarch,politician,society。南アフリカで人種隔離政策アパルトヘイトに反対し、長い投獄を経験した政治家です。解放後は交渉を進め、1994年"
+    },
+    {
+      "term": "中央ヨーロッパ",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "オスマン・ハプスブルク対立。中東欧の支配をめぐる二大勢力の対立。中央ヨーロッパ。拮抗時代。オスマン。ハプスブルク。ヨーロッパ。オスマン帝国とハプスブ"
+    },
+    {
+      "term": "日本国憲法",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "す。太平洋戦争で連合国軍を指揮し、戦後は日本の占領政策を主導しました。日本国憲法、土地改革、教育改革などに関わりましたが、占領には限界や議論もあります"
+    },
+    {
+      "term": "北米植民地",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "北米植民地と先住民勢力の競合。北米の土地と交易をめぐる勢力争い。北アメリカ。拮抗"
+    },
+    {
+      "term": "・アジア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "東アジア・太平洋の戦争拡大。日本・中国・アジア太平洋地域で戦争が広がる。東アジア・太平洋。東アジア。太平洋。戦争。日"
+    },
+    {
+      "term": "・アンソニー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スーザン・B・アンソニー。[object Object]"
+    },
+    {
+      "term": "・ケネディ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジョン・F・ケネディ。じょん・えふ・けねでぃ。冷戦期のアメリカ大統領。monarch,po"
+    },
+    {
+      "term": "・モルガン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "J・P・モルガン。[object Object]"
+    },
+    {
+      "term": "アーイシャ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アーイシャ。[object Object]"
+    },
+    {
+      "term": "アーネスト・ヘミングウェイ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アーネスト・ヘミングウェイ。[object Object]"
+    },
+    {
+      "term": "アイスキュロス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アイスキュロス。[object Object]"
+    },
+    {
+      "term": "アイユーブ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ラディン。王国と都市を支えた人。monarch,politician。アイユーブ朝を築いたイスラム世界の指導者です。エジプトとシリアをまとめ、1187"
+    },
+    {
+      "term": "アウラングゼーブ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アウラングゼーブ。[object Object]"
+    },
+    {
+      "term": "アカデメイア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "olar,philosopher。ソクラテスの弟子で、アテネに学びの場アカデメイアを開いた哲学者です。対話の形で、正義やよい政治を考えました。彼の著作は"
+    },
+    {
+      "term": "アキテーヌ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エレノア・オブ・アキテーヌ。エレノア・オブ・アキテーヌ。王国と都市を支えた人。monarch。フ"
+    },
+    {
+      "term": "アグスティン・デ・イトゥルビデ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アグスティン・デ・イトゥルビデ。[object Object]"
+    },
+    {
+      "term": "アクバル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アクバル。[object Object]"
+    },
+    {
+      "term": "アケトアテン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ian。古代エジプト第十八王朝の王です。太陽の円盤アテンを重んじ、都をアケトアテンへ移しました。従来の神官の力を弱める改革でしたが、死後まもなく元の信仰"
+    },
+    {
+      "term": "アジャンクール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "のイングランド王です。フランスと長く続いた百年戦争を戦い、1415年のアジャンクールの戦いで大勝しました。一時はフランス王位の継承を約束させるなど、王の力"
+    },
+    {
+      "term": "アシュターディヤーイー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ンドの文法学者です。サンスクリット語の規則を短い文で体系的にまとめた『アシュターディヤーイー』を残しました。言葉を細かく分析する方法は、後の言語学にも注目されてい"
+    },
+    {
+      "term": "アスキア・ムハンマド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アスキア・ムハンマド。[object Object]"
+    },
+    {
+      "term": "アブー・バクル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アブー・バクル。[object Object]"
+    },
+    {
+      "term": "アフォンソ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アフォンソ1世。[object Object]"
+    },
+    {
+      "term": "アフォンソ・デ・アルブケルケ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アフォンソ・デ・アルブケルケ。[object Object]"
+    },
+    {
+      "term": "アメリカ独立運動",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ダムズ。革命と権利を動かした人。monarch,politician。アメリカ独立運動の指導者で、第二代大統領です。独立のための外交に尽くし、憲法にも関わり"
+    },
+    {
+      "term": "アメリカ独立戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "革命と権利を動かした人。politician。フランス貴族でありながらアメリカ独立戦争に参加し、ワシントンを助けた人物です。フランス革命でも自由と立憲政治を"
+    },
+    {
+      "term": "アラン・チューリング",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アラン・チューリング。[object Object]"
+    },
+    {
+      "term": "アリーガル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "7年の反乱後、イスラム教徒が近代科学と英語教育を学ぶ必要を説きました。アリーガル学院を作り、近代的な教育の基盤を整えました。イスラム教は、唯一神アッラ"
+    },
+    {
+      "term": "アリスタルコス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アリスタルコス。[object Object]"
+    },
+    {
+      "term": "アリストファネス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アリストファネス。[object Object]"
+    },
+    {
+      "term": "アル・キンディー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アル・キンディー。[object Object]"
+    },
+    {
+      "term": "アル・ビールーニー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アル・ビールーニー。[object Object]"
+    },
+    {
+      "term": "アル・ファーラービー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アル・ファーラービー。[object Object]"
+    },
+    {
+      "term": "アル・フワーリズミー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アル・フワーリズミー。[object Object]"
+    },
+    {
+      "term": "アル・ラーズィー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アル・ラーズィー。[object Object]"
+    },
+    {
+      "term": "アルプス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "軍。war。紀元前3世紀、北アフリカの国カルタゴの将軍です。象をつれてアルプス山脈をこえ、強大なローマ軍を何度も破りました。最後はローマに敗れました"
+    },
+    {
+      "term": "アンソニー・ジョンソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アンソニー・ジョンソン。[object Object]"
+    },
+    {
+      "term": "アンドリュー・カーネギー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アンドリュー・カーネギー。[object Object]"
+    },
+    {
+      "term": "アンドレイ・サハロフ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アンドレイ・サハロフ。[object Object]"
+    },
+    {
+      "term": "アンネ・フランク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アンネ・フランク。[object Object]"
+    },
+    {
+      "term": "イーロン・マスク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イーロン・マスク。[object Object]"
+    },
+    {
+      "term": "イサベル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イサベル1世。[object Object]"
+    },
+    {
+      "term": "イシュ・ワク・チャン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イシュ・ワク・チャン。[object Object]"
+    },
+    {
+      "term": "イブン・アラビー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イブン・アラビー。[object Object]"
+    },
+    {
+      "term": "イブン・シーナー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イブン・シーナー。[object Object]"
+    },
+    {
+      "term": "イブン・ハルドゥーン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イブン・ハルドゥーン。[object Object]"
+    },
+    {
+      "term": "イブン・ヤースィーン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イブン・ヤースィーン。[object Object]"
+    },
+    {
+      "term": "イブン・ルシュド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イブン・ルシュド。[object Object]"
+    },
+    {
+      "term": "インド独立運動",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "会を動かした人。monarch,politician,society。インド独立運動家で、独立後の初代首相です。議会制民主主義、科学教育、非同盟外交を重視"
+    },
+    {
+      "term": "ヴィクトール・フランクル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヴィクトール・フランクル。[object Object]"
+    },
+    {
+      "term": "ヴィクトリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヴィクトリア女王。[object Object]"
+    },
+    {
+      "term": "ヴィシー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "war。第一次世界大戦で名を上げたフランス軍人です。第二次世界大戦中はヴィシー政権の首班となり、ナチス・ドイツに協力しました。戦後に裁かれ、評価は大"
+    },
+    {
+      "term": "ウィリアム・アダムス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ウィリアム・アダムス。[object Object]"
+    },
+    {
+      "term": "ウィリアム・ウィルバーフォース",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ウィリアム・ウィルバーフォース。[object Object]"
+    },
+    {
+      "term": "ウェールズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "narch,politician。13〜14世紀のイングランド王です。ウェールズを征服し、スコットランドとも激しく戦いました。国を治めるために貴族や都"
+    },
+    {
+      "term": "ヴェスヴィオ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "父ウェスパシアヌスの後を継ぎ、コロッセウムを完成させました。在位中にはヴェスヴィオ火山の噴火や大火があり、救援や復興に取り組んだと伝えられます。政策の成"
+    },
+    {
+      "term": "ヴェネツィア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "家が商業と外交で競った時代。イタリア。拮抗時代。都市国家。ルネサンス。ヴェネツィア、フィレンツェ、ミラノなどの都市国家が商業、銀行、外交で競い合いました"
+    },
+    {
+      "term": "ウェルギリウス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ウェルギリウス。[object Object]"
+    },
+    {
+      "term": "ウクライナ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "受け入れ、ドニエプル川で人々に洗礼を受けさせたと伝えられます。ロシアやウクライナの宗教文化に大きな影響を残しました。キリスト教は、イエスを救い主と信じ"
+    },
+    {
+      "term": "ウサイン・ボルト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ウサイン・ボルト。[object Object]"
+    },
+    {
+      "term": "ウスマーン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ウスマーン。[object Object]"
+    },
+    {
+      "term": "ウッドロウ・ウィルソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ウッドロウ・ウィルソン。[object Object]"
+    },
+    {
+      "term": "ウマイヤ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イスラム諸国が分立した時代。スペイン。拮抗時代。イスラム。都市文化。後ウマイヤ朝のあと、イベリア半島のイスラム勢力が多くの小王国に分かれた時代です。"
+    },
+    {
+      "term": "ウマイヤ朝",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イスラム諸国が分立した時代。スペイン。拮抗時代。イスラム。都市文化。後ウマイヤ朝のあと、イベリア半島のイスラム勢力が多くの小王国に分かれた時代です。競"
+    },
+    {
+      "term": "ウルガタ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "聖書をラテン語へ訳した学者・修道士です。ヘブライ語などを学び、のちに「ウルガタ」と呼ばれる訳を整えました。西ヨーロッパの教会で長く使われる聖書の土台"
+    },
+    {
+      "term": "ウルグ・ベク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ウルグ・ベク。[object Object]"
+    },
+    {
+      "term": "エイブラハム・リンカーン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エイブラハム・リンカーン。[object Object]"
+    },
+    {
+      "term": "エウリピデス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エウリピデス。[object Object]"
+    },
+    {
+      "term": "エカチェリーナ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エカチェリーナ2世。[object Object]"
+    },
+    {
+      "term": "エクアドル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "部でスペインからの独立運動を率いた指導者です。ベネズエラ、コロンビア、エクアドル、ボリビアの独立に深く関わりましたが、社会の差別や対立は残りました。政"
+    },
+    {
+      "term": "エディット・シュタイン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エディット・シュタイン。[object Object]"
+    },
+    {
+      "term": "エドワード",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エドワード1世。えどわーどいっせい。議会と法を整えた王。monarch,poli"
+    },
+    {
+      "term": "エミリオ・アギナルド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エミリオ・アギナルド。[object Object]"
+    },
+    {
+      "term": "エメリン・パンクハースト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エメリン・パンクハースト。[object Object]"
+    },
+    {
+      "term": "エラトステネス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エラトステネス。[object Object]"
+    },
+    {
+      "term": "エリザベス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エリザベス1世。[object Object]"
+    },
+    {
+      "term": "エリザベス・キャディ・スタントン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エリザベス・キャディ・スタントン。[object Object]"
+    },
+    {
+      "term": "エレノア・ルーズベルト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エレノア・ルーズベルト。[object Object]"
+    },
+    {
+      "term": "エロイーズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "・教師です。信仰に関する教えを、問いと論理を使って考えようとしました。エロイーズとの手紙でも知られ、学問の自由と教会の権威がぶつかった時代を生きました"
+    },
+    {
+      "term": "エンリコ・フェルミ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エンリコ・フェルミ。[object Object]"
+    },
+    {
+      "term": "オウィディウス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "オウィディウス。[object Object]"
+    },
+    {
+      "term": "オーストラリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。society。イギリス海軍の航海者です。太平洋でニュージーランドやオーストラリア東岸を詳しく測量しました。科学調査を進めた一方、先住民の土地へのイギリ"
+    },
+    {
+      "term": "オスカー・シンドラー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "オスカー・シンドラー。[object Object]"
+    },
+    {
+      "term": "オットー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "オットー1世。おっとーいっせい。神聖ローマ帝国を始めた皇帝。monarch。東"
+    },
+    {
+      "term": "オベリスク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "リア・パレスチナ方面へ何度も遠征し、周辺の王に貢ぎ物を求めました。黒色オベリスクには、各地の支配者が貢納する姿が刻まれています。政策の成果だけでなく、"
+    },
+    {
+      "term": "オラウダ・イクイアーノ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "オラウダ・イクイアーノ。[object Object]"
+    },
+    {
+      "term": "オランダ東インド会社",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "・タスマン。アベル・タスマン。航海と交流に関わった人。society。オランダ東インド会社の航海者です。1642年に現在のタスマニア島とニュージーランド周辺を航"
+    },
+    {
+      "term": "オランプ・ド・グージュ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "オランプ・ド・グージュ。[object Object]"
+    },
+    {
+      "term": "オルレアン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "出身で、神の声を聞いたと信じて百年戦争のフランス軍を励ました少女です。オルレアン解放に関わりましたが、捕らえられ裁判で処刑され、後に名誉が回復されまし"
+    },
+    {
+      "term": "カヴール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "カヴール。[object Object]"
+    },
+    {
+      "term": "ガウディ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ガウディ。[object Object]"
+    },
+    {
+      "term": "ガブリエラ・ミストラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ガブリエラ・ミストラ。[object Object]"
+    },
+    {
+      "term": "カラカラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "カラカラ。[object Object]"
+    },
+    {
+      "term": "カリカット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ty。ポルトガルの航海者です。1498年にアフリカ南端を回ってインドのカリカットへ到着しました。香辛料交易を求める航路でしたが、のちにポルトガルの武力"
+    },
+    {
+      "term": "ガリバルディ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ガリバルディ。[object Object]"
+    },
+    {
+      "term": "カリンガ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "onarch,politician。インドのマウリヤ朝を治めた王です。カリンガ戦争の被害を見て暴力を反省し、仏教を支えました。石柱の文で、人や動物を"
+    },
+    {
+      "term": "カリンガ戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "onarch,politician。インドのマウリヤ朝を治めた王です。カリンガ戦争の被害を見て暴力を反省し、仏教を支えました。石柱の文で、人や動物をいた"
+    },
+    {
+      "term": "カルロス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "せい。広大な領土を治めた皇帝。monarch。16世紀に、スペイン王（カルロス1世）でありながら神聖ローマ皇帝も兼ねた人物です。ドイツ、スペイン、オ"
+    },
+    {
+      "term": "ガンジス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "インドの諸国が競い合った時代。南アジア。拮抗時代。インド。王国。仏教。ガンジス川流域を中心に、多くの王国や共和国が競い合った時代です。都市、商業、仏"
+    },
+    {
+      "term": "カンタベリー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ulture。中世イングランドの詩人です。巡礼者たちが語る話を集めた『カンタベリー物語』を書きました。さまざまな身分の人を英語で描き、中世の社会や言葉を"
+    },
+    {
+      "term": "ギーターンジャリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "した人。culture,society。ベンガルの詩人・教育者です。『ギーターンジャリ』でノーベル文学賞を受けました。自然と自由を大切にする学校を作り、植民"
+    },
+    {
+      "term": "キャサリン・ジョンソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "キャサリン・ジョンソン。[object Object]"
+    },
+    {
+      "term": "キューバ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ty。20世紀アメリカの大統領です。ソ連との緊張が高まる冷戦のさなか、キューバ危機で核戦争の危機を回避しました。宇宙開発や人種差別の解消にも取り組み"
+    },
+    {
+      "term": "ギリシャ遠征",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "置き、王の道や共通の貨幣を整えました。広い帝国を連絡網で治めましたが、ギリシャ遠征ではマラトンで敗れました。この人物の歩みから、政治の改革が人々の権利や"
+    },
+    {
+      "term": "ギルガメシュ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "an。新アッシリア帝国の王です。ニネヴェに粘土板を集めた図書館を造り、ギルガメシュ叙事詩などが後世に残る助けとなりました。戦争では多くの都市を破壊し、帝"
+    },
+    {
+      "term": "クアウテモック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "クアウテモック。[object Object]"
+    },
+    {
+      "term": "クシャーナ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "カニシカ王。広い国をまとめた人。monarch,politician。クシャーナ朝の王です。中央アジアから北インドに広がる地域を治め、シルクロード交易"
+    },
+    {
+      "term": "クシャーナ朝",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "カニシカ王。広い国をまとめた人。monarch,politician。クシャーナ朝の王です。中央アジアから北インドに広がる地域を治め、シルクロード交易を"
+    },
+    {
+      "term": "グプタ朝",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "世。広い国をまとめた人。monarch,politician。インドのグプタ朝の王です。北インドで勢力を広げ、金貨を発行し、学問や芸術が栄えた時代を"
+    },
+    {
+      "term": "クラーモント",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "と産業を変えた人。science。アメリカの発明家・技術者です。蒸気船クラーモント号をハドソン川で定期運航させました。川を上流へも安定して進める蒸気船は"
+    },
+    {
+      "term": "グラハム・ベル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "グラハム・ベル。[object Object]"
+    },
+    {
+      "term": "クララ・ツェトキン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "クララ・ツェトキン。[object Object]"
+    },
+    {
+      "term": "クララ・バートン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "クララ・バートン。[object Object]"
+    },
+    {
+      "term": "グリーンベルト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "家。politician,society。ケニアで女性たちと木を植えるグリーンベルト運動を始めた環境活動家です。森を守ることを、土、水、女性の仕事、民主主"
+    },
+    {
+      "term": "クリスティーヌ・ド・ピザン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "クリスティーヌ・ド・ピザン。[object Object]"
+    },
+    {
+      "term": "クリミア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ちんげーる。看護を変えた人。war,culture,medicine。クリミア戦争の病院で衛生状態を調べ、清潔な水、換気、記録を重視して死亡を減らし"
+    },
+    {
+      "term": "クリミア戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ちんげーる。看護を変えた人。war,culture,medicine。クリミア戦争の病院で衛生状態を調べ、清潔な水、換気、記録を重視して死亡を減らした看"
+    },
+    {
+      "term": "グレート・ウェスタン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。科学と産業を変えた人。science。19世紀イギリスの技術者です。グレート・ウェスタン鉄道の橋やトンネル、大型蒸気船を設計しました。鉄道と船の改良によって、"
+    },
+    {
+      "term": "グレタ・トゥーンベリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "グレタ・トゥーンベリ。[object Object]"
+    },
+    {
+      "term": "クワメ・エンクルマ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "クワメ・エンクルマ。[object Object]"
+    },
+    {
+      "term": "ゲルマン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "を建てた王。monarch,politician。フランク王国を建て、ゲルマンの諸部族をまとめた王です。496年ごろにキリスト教に改宗し、王国と教会"
+    },
+    {
+      "term": "ココ・シャネル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ココ・シャネル。[object Object]"
+    },
+    {
+      "term": "コモン・センス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "cian。イギリス生まれでアメリカとフランスの革命を支えた作家です。『コモン・センス』で植民地の独立を強く訴えました。人権や社会保障についても、分かりやす"
+    },
+    {
+      "term": "コロンビア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "南アメリカ北部でスペインからの独立運動を率いた指導者です。ベネズエラ、コロンビア、エクアドル、ボリビアの独立に深く関わりましたが、社会の差別や対立は残"
+    },
+    {
+      "term": "コンスタンティヌス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "コンスタンティヌス。[object Object]"
+    },
+    {
+      "term": "コンスタンティノープル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "an。東ローマ帝国の皇帝です。ローマ法を集めて『ローマ法大全』を整え、コンスタンティノープルのハギア・ソフィアを再建しました。西地中海の奪回も試みましたが、戦費は"
+    },
+    {
+      "term": "コンピューター",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "グラム可能な解析機関を設計しました。完成には至りませんでしたが、現代のコンピューターの考え方を早くから示しました。発見の内容だけでなく、どの証拠から結論を"
+    },
+    {
+      "term": "コンモドゥス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "コンモドゥス。[object Object]"
+    },
+    {
+      "term": "ササン朝ペルシャ",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "えた人。monarch,politician。東ローマ帝国の皇帝です。ササン朝ペルシャとの長い戦争を立て直しましたが、その直後にイスラム勢力がシリアやエジプ"
+    },
+    {
+      "term": "サッカラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "cian。古代エジプト第三王朝の王です。宰相イムホテプと結び付けられるサッカラの階段ピラミッドを造らせました。石を大規模に使った王墓は、のちのピラミ"
+    },
+    {
+      "term": "サッフォー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "サッフォー。[object Object]"
+    },
+    {
+      "term": "ザビエル・デ・メネゼス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ザビエル・デ・メネゼス。[object Object]"
+    },
+    {
+      "term": "サマリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "た人。monarch,politician。新アッシリア帝国の王です。サマリアを支配し、王都ドゥル・シャルキンを新しく建設しました。住民を別の地域へ"
+    },
+    {
+      "term": "サミュエル・ド・シャンプラン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "サミュエル・ド・シャンプラン。[object Object]"
+    },
+    {
+      "term": "サリー・ライド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "サリー・ライド。[object Object]"
+    },
+    {
+      "term": "ジェームズ・ワトソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジェームズ・ワトソン。[object Object]"
+    },
+    {
+      "term": "ジェーン・アダムズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジェーン・アダムズ。[object Object]"
+    },
+    {
+      "term": "ジェーン・グドール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジェーン・グドール。[object Object]"
+    },
+    {
+      "term": "シモーヌ・ヴェイユ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "シモーヌ・ヴェイユ。[object Object]"
+    },
+    {
+      "term": "シモーヌ・ド・ボーヴォワ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "シモーヌ・ド・ボーヴォワ。[object Object]"
+    },
+    {
+      "term": "シャー・ジャハーン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "シャー・ジャハーン。[object Object]"
+    },
+    {
+      "term": "ジャイナ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "域を中心に、多くの王国や共和国が競い合った時代です。都市、商業、仏教やジャイナ教の広がりと結びつき、マガダ国の台頭へつながりました。一つの出来事だけ"
+    },
+    {
+      "term": "シャクンタラー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ture。古代インドのサンスクリット文学を代表する詩人・劇作家です。『シャクンタラー』などで自然や人の心を豊かに描きました。生涯の詳しいことは分からず、作"
+    },
+    {
+      "term": "ジャコバン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "権利を動かした人。monarch,politician。フランス革命でジャコバン派を率いた政治家です。1793年から公安委員会で戦争と国内の反乱に対応"
+    },
+    {
+      "term": "ジャック・デサリーヌ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジャン＝ジャック・デサリーヌ。[object Object]"
+    },
+    {
+      "term": "シヤフ・カック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "シヤフ・カック。[object Object]"
+    },
+    {
+      "term": "ジャン・ド・ブレブフ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジャン・ド・ブレブフ。[object Object]"
+    },
+    {
+      "term": "ジャン・モネ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジャン・モネ。[object Object]"
+    },
+    {
+      "term": "ジャンヌ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジル・ド・レエ。じる・ど・れえ。ジャンヌとともに戦った貴族。war。百年戦争でジャンヌ・ダルクとともに戦ったフ"
+    },
+    {
+      "term": "ジュネーブ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "religion。16世紀の宗教改革者です。フランスに生まれ、スイスのジュネーブで、まじめに働き節約することを重んじる教えを広めました。その考えは商工"
+    },
+    {
+      "term": "ジュリエット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ure。16〜17世紀のイギリスの劇作家です。「ハムレット」「ロミオとジュリエット」など、人の心を深くえがいた劇や詩を数多く残しました。その作品は今も世"
+    },
+    {
+      "term": "ジョージ・オーウェル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジョージ・オーウェル。[object Object]"
+    },
+    {
+      "term": "ジョゼフ・リスター",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジョゼフ・リスター。[object Object]"
+    },
+    {
+      "term": "ジョモ・ケニヤッタ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジョモ・ケニヤッタ。[object Object]"
+    },
+    {
+      "term": "ジョン・フォン・ノイマン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジョン・フォン・ノイマン。[object Object]"
+    },
+    {
+      "term": "ジョン・レノン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジョン・レノン。[object Object]"
+    },
+    {
+      "term": "ジョン・ロックフェラー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジョン・ロックフェラー。[object Object]"
+    },
+    {
+      "term": "シラクサ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "メデス。アルキメデス。政治と学問を広げた人。science。シチリア島シラクサの数学者・技術者です。てこの原理や水に浮く物の性質を考え、円周率にも近"
+    },
+    {
+      "term": "シリア・パレスチナ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "た人。monarch,politician。新アッシリア帝国の王です。シリア・パレスチナ方面へ何度も遠征し、周辺の王に貢ぎ物を求めました。黒色オベリスクには、"
+    },
+    {
+      "term": "シルクロード交易",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "an。クシャーナ朝の王です。中央アジアから北インドに広がる地域を治め、シルクロード交易を支えました。仏教の保護者として知られますが、仏典の会議との関係には不"
+    },
+    {
+      "term": "シルビア・アール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "シルビア・アール。[object Object]"
+    },
+    {
+      "term": "シンガポール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "会を動かした人。monarch,politician,society。シンガポール初代首相です。住宅、教育、港湾を整え、貿易と工業を育てて都市国家の経済"
+    },
+    {
+      "term": "スーパーアプリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "中国で始まったメッセージアプリです。支払い、店、行政サービスまで使えるスーパーアプリとして、中国の生活を変えました。情報を受け取るだけでなく、個人が発信し"
+    },
+    {
+      "term": "スカルノ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スカルノ。[object Object]"
+    },
+    {
+      "term": "スターリン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スターリン。[object Object]"
+    },
+    {
+      "term": "スティーブ・ジョブズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スティーブ・ジョブズ。[object Object]"
+    },
+    {
+      "term": "スティーブン・ホーキング",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スティーブン・ホーキング。[object Object]"
+    },
+    {
+      "term": "スペイン植民地",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "人。culture,society。フィリピンの作家・医師です。小説でスペイン植民地支配や教会の不正を批判し、改革を求めました。武装蜂起の指導者ではありま"
+    },
+    {
+      "term": "スマートフォン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。動画。SNS。2010年10月に始まった写真・動画中心のSNSです。スマートフォンで日常を見せ合う文化を広げ、流行や広告の作られ方も変えました。検索や投"
+    },
+    {
+      "term": "スレイマン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スレイマン1世。[object Object]"
+    },
+    {
+      "term": "スンジャタ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スンジャタ。[object Object]"
+    },
+    {
+      "term": "セオドア・ルーズベルト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "セオドア・ルーズベルト。[object Object]"
+    },
+    {
+      "term": "セプティミウス・セウェルス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "セプティミウス・セウェルス。[object Object]"
+    },
+    {
+      "term": "セリーナ・ウィリアムズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "セリーナ・ウィリアムズ。[object Object]"
+    },
+    {
+      "term": "セルゲイ・ブリン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "セルゲイ・ブリン。[object Object]"
+    },
+    {
+      "term": "セントローレンス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ティエ。航海と交流に関わった人。society。フランスの航海者です。セントローレンス川をさかのぼり、現在のカナダ東部を調べました。先住民との出会いと衝突を"
+    },
+    {
+      "term": "ソジャーナ・トゥルース",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ソジャーナ・トゥルース。[object Object]"
+    },
+    {
+      "term": "ソフィア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "キエフ公国の君主です。法律集『ルースカヤ・プラウダ』を整え、キエフに聖ソフィア大聖堂を建てました。ヨーロッパ各地の王家と婚姻関係を結び、国の地位を高"
+    },
+    {
+      "term": "ソフォクレス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ソフォクレス。[object Object]"
+    },
+    {
+      "term": "ソンガイ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "た時代。アフリカ。拮抗時代。交易。イスラム。サハラ交易をめぐり、マリ、ソンガイなどの王国が力を競った時代です。金、塩、イスラム文化、巡礼が都市と王権"
+    },
+    {
+      "term": "ソンニ・アリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ソンニ・アリ。[object Object]"
+    },
+    {
+      "term": "ダイヤモンド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "h,politician。イギリスの実業家・政治家です。南部アフリカでダイヤモンド事業を広げ、イギリスの植民地支配を推進しました。土地や政治権利を奪う政"
+    },
+    {
+      "term": "タキトゥス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "タキトゥス。[object Object]"
+    },
+    {
+      "term": "タスマニア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。society。オランダ東インド会社の航海者です。1642年に現在のタスマニア島とニュージーランド周辺を航海しました。航海中には先住民との衝突も起き"
+    },
+    {
+      "term": "ダニエル・エルズバーグ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ダニエル・エルズバーグ。[object Object]"
+    },
+    {
+      "term": "タンザニア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "会を動かした人。monarch,politician,society。タンザニア初代大統領です。スワヒリ語を共通語として広め、教育と農村開発を重視しま"
+    },
+    {
+      "term": "チェーホフ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "チェーホフ。[object Object]"
+    },
+    {
+      "term": "チエン・シゥン・ウー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "チエン・シゥン・ウー。[object Object]"
+    },
+    {
+      "term": "チグリス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "都市と文字。メソポタミアで都市と文字が生まれる。西アジア。文明。文字。チグリス川とユーフラテス川の流域では、農業と交易を支える都市が発達しました。税"
+    },
+    {
+      "term": "チャールズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "チャールズ1世。ちゃーるずいっせい。革命で処刑された王。monarch,poli"
+    },
+    {
+      "term": "チャイコフスキー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "チャイコフスキー。[object Object]"
+    },
+    {
+      "term": "チャップリン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "チャップリン。[object Object]"
+    },
+    {
+      "term": "ディエゴ・リベラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ディエゴ・リベラ。[object Object]"
+    },
+    {
+      "term": "ディオクレティアヌス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ディオクレティアヌス。[object Object]"
+    },
+    {
+      "term": "ティム・バーナーズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ティム・バーナーズ＝リー。[object Object]"
+    },
+    {
+      "term": "ティムール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ティムール。[object Object]"
+    },
+    {
+      "term": "テオドシウス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "テオドシウス。[object Object]"
+    },
+    {
+      "term": "テカムセ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "テカムセ。[object Object]"
+    },
+    {
+      "term": "テノチティトラン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。スペインの征服者です。先住民の一部と同盟し、1521年にアステカの都テノチティトランを倒しました。武力だけでなく疫病も大きな被害を生み、スペイン支配が始ま"
+    },
+    {
+      "term": "ドゥームズデイ・ブック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "1066年にヘースティングズの戦いで勝ち、土地と城を配り直しました。『ドゥームズデイ・ブック』で土地や人口を調べ、支配を強めました。政策の成果だけでなく、反対勢力"
+    },
+    {
+      "term": "トゥサン・ルーヴェルチュール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "トゥサン・ルーヴェルチュール。[object Object]"
+    },
+    {
+      "term": "トゥパク・インカ・ユパンキ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "トゥパク・インカ・ユパンキ。[object Object]"
+    },
+    {
+      "term": "ドゥル・シャルキン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "politician。新アッシリア帝国の王です。サマリアを支配し、王都ドゥル・シャルキンを新しく建設しました。住民を別の地域へ移す政策を使い、広い帝国を管理し"
+    },
+    {
+      "term": "トーマス・エジソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "トーマス・エジソン。[object Object]"
+    },
+    {
+      "term": "ドストエフスキー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ドストエフスキー。[object Object]"
+    },
+    {
+      "term": "ドニエプル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ian。キエフ公国の君主です。988年ごろに東方キリスト教を受け入れ、ドニエプル川で人々に洗礼を受けさせたと伝えられます。ロシアやウクライナの宗教文化"
+    },
+    {
+      "term": "トマス・アクィナス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "トマス・アクィナス。[object Object]"
+    },
+    {
+      "term": "トラヤヌス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "トラヤヌス。[object Object]"
+    },
+    {
+      "term": "トルストイ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "トルストイ。[object Object]"
+    },
+    {
+      "term": "ドロシー・ホジキン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ドロシー・ホジキン。[object Object]"
+    },
+    {
+      "term": "トロツキー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "トロツキー。[object Object]"
+    },
+    {
+      "term": "トンネル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ence。19世紀イギリスの技術者です。グレート・ウェスタン鉄道の橋やトンネル、大型蒸気船を設計しました。鉄道と船の改良によって、人や品物が遠い地域"
+    },
+    {
+      "term": "トンブクトゥ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。メッカ巡礼で大勢を連れ、金を使ったことが地中海世界にも知られました。トンブクトゥに学びの場を整え、イスラム文化を支えました。政策の成果だけでなく、反対"
+    },
+    {
+      "term": "ナボニドス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ナボニドス。[object Object]"
+    },
+    {
+      "term": "ナポレオン戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "シアなどが力のつり合いを意識して外交と戦争をくり返した時代です。革命とナポレオン戦争へもつながりました。争いは軍隊だけでなく、都市や農村、交易路、住民の移"
+    },
+    {
+      "term": "ニール・アームストロング",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ニール・アームストロング。[object Object]"
+    },
+    {
+      "term": "ニールス・ボーア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ニールス・ボーア。[object Object]"
+    },
+    {
+      "term": "ニコラ・テスラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ニコラ・テスラ。[object Object]"
+    },
+    {
+      "term": "ニコライ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ニコライ2世。[object Object]"
+    },
+    {
+      "term": "ニムルド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。monarch,politician。新アッシリア帝国の王です。首都ニムルドを大きく造り替え、軍事遠征で周辺国に服従を求めました。宮殿のレリーフは"
+    },
+    {
+      "term": "ニューラナーク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "scholar,society。イギリスの工場経営者・社会改革家です。ニューラナークの紡績工場で、子どもの労働を減らし、学校や住まいを整えました。協同組合"
+    },
+    {
+      "term": "ネサワルコヨトル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ネサワルコヨトル。[object Object]"
+    },
+    {
+      "term": "ネットワーク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "が発展する。西アジア。イスラム世界。学問。商業。イスラム世界では商人のネットワークが広がり、都市で数学、医学、天文学、哲学が発展しました。紙や書物の広が"
+    },
+    {
+      "term": "ハーヴェイ・ミルク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ハーヴェイ・ミルク。[object Object]"
+    },
+    {
+      "term": "パータリプトラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ian。インドのマウリヤ朝を築いた王です。北インドの多くをまとめ、首都パータリプトラを中心に役人と軍で治めました。アレクサンドロス軍の撤退後の地域を取り込"
+    },
+    {
+      "term": "バーブル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "バーブル。[object Object]"
+    },
+    {
+      "term": "パール・バック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "パール・バック。[object Object]"
+    },
+    {
+      "term": "ハールーン・アッラシード",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ハールーン・アッラシード。[object Object]"
+    },
+    {
+      "term": "ハギア・ソフィア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "です。ローマ法を集めて『ローマ法大全』を整え、コンスタンティノープルのハギア・ソフィアを再建しました。西地中海の奪回も試みましたが、戦費は大きな負担になりま"
+    },
+    {
+      "term": "パチャクテク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "パチャクテク。[object Object]"
+    },
+    {
+      "term": "ハドソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。science。アメリカの発明家・技術者です。蒸気船クラーモント号をハドソン川で定期運航させました。川を上流へも安定して進める蒸気船は、人と荷物の"
+    },
+    {
+      "term": "ハドリアヌス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ハドリアヌス。[object Object]"
+    },
+    {
+      "term": "バベッジ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ラブレス。科学と産業を変えた人。science。イギリスの数学者です。バベッジの解析機関について、数だけでなく記号や音楽も扱える可能性を考えました。"
+    },
+    {
+      "term": "ハムレット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スの大劇作家。culture。16〜17世紀のイギリスの劇作家です。「ハムレット」「ロミオとジュリエット」など、人の心を深くえがいた劇や詩を数多く残し"
+    },
+    {
+      "term": "バヤジード・バスターミー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "バヤジード・バスターミー。[object Object]"
+    },
+    {
+      "term": "ハリエット・タブマン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ハリエット・タブマン。[object Object]"
+    },
+    {
+      "term": "ハルツーム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "プト・イギリスの支配に反対する運動を率いた宗教指導者です。1885年にハルツームを占領し、マフディー国家を作りました。この人物の歩みから、政治の改革が"
+    },
+    {
+      "term": "パルテノン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "市民集会を重視した政治家です。裁判や役職に手当を出して参加しやすくし、パルテノン神殿の建設も進めました。ただし市民権を持つのは限られた男性でした。この"
+    },
+    {
+      "term": "パレット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "プト王です。王が上エジプトと下エジプトを支配する姿を刻んだ「ナルメルのパレット」が残ります。統一の中心人物とされますが、詳しい過程には不明な点もあり"
+    },
+    {
+      "term": "バングラデシュ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "society。インドの首相です。農業生産を増やす政策や、1971年のバングラデシュ独立に関わりました。非常事態宣言で自由を制限したため、強い指導と民主主"
+    },
+    {
+      "term": "ハンナ・アーレント",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ハンナ・アーレント。[object Object]"
+    },
+    {
+      "term": "ピーター・ストイフェサント",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ピーター・ストイフェサント。[object Object]"
+    },
+    {
+      "term": "ピエール・キュリー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ピエール・キュリー。[object Object]"
+    },
+    {
+      "term": "ビスマルク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ビスマルク。[object Object]"
+    },
+    {
+      "term": "ピューリタン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イングランド王です。議会を無視して税を集めようとしたため対立が深まり、ピューリタン革命（清教徒革命）が起こりました。戦いに敗れて裁判にかけられ、王であり"
+    },
+    {
+      "term": "ピューリタン革命",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "イングランド王です。議会を無視して税を集めようとしたため対立が深まり、ピューリタン革命（清教徒革命）が起こりました。戦いに敗れて裁判にかけられ、王でありなが"
+    },
+    {
+      "term": "ピョートル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ピョートル1世。[object Object]"
+    },
+    {
+      "term": "ビラール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ビラール。[object Object]"
+    },
+    {
+      "term": "ビル・ゲイツ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ビル・ゲイツ。[object Object]"
+    },
+    {
+      "term": "ビルカバンバ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "litician,war。インカ王家につながる人物で、スペイン支配後もビルカバンバで抵抗を続けました。1572年に捕らえられ処刑され、独立を失ったアンデ"
+    },
+    {
+      "term": "ヒルデガルト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヒルデガルト。[object Object]"
+    },
+    {
+      "term": "ファーティマ・アル・フィフリーヤ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ファーティマ・アル・フィフリーヤ。[object Object]"
+    },
+    {
+      "term": "ファラオ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "人。monarch,politician。古代エジプト第十八王朝の女性ファラオです。男王と同じように王の称号や姿で公の場に現れ、紅海沿岸からプントへ"
+    },
+    {
+      "term": "フィディアス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フィディアス。[object Object]"
+    },
+    {
+      "term": "フェリペ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フェリペ2世。[object Object]"
+    },
+    {
+      "term": "フェルナンド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フェルナンド2世。[object Object]"
+    },
+    {
+      "term": "プトレマイオス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "プトレマイオス。[object Object]"
+    },
+    {
+      "term": "フランクリン・ルーズベルト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フランクリン・ルーズベルト。[object Object]"
+    },
+    {
+      "term": "フランシス・クリック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フランシス・クリック。[object Object]"
+    },
+    {
+      "term": "フランシスコ・ザビエル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フランシスコ・ザビエル。[object Object]"
+    },
+    {
+      "term": "フランス・ドイツ・イタリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。monarch,politician。フランク王国の王として、現在のフランス・ドイツ・イタリア北部などを統一しました。800年にローマ皇帝の位を授けられ、学問や教会"
+    },
+    {
+      "term": "フランチェスコ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フランチェスコ。[object Object]"
+    },
+    {
+      "term": "フリーダ・カーロ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フリーダ・カーロ。[object Object]"
+    },
+    {
+      "term": "フリードリヒ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フリードリヒ2世。[object Object]"
+    },
+    {
+      "term": "ブリタンニア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "politician。ローマ帝国四代目の皇帝です。官僚の仕組みを整え、ブリタンニアへの遠征を始めました。病気や身体の特徴を理由に軽く見られましたが、行政"
+    },
+    {
+      "term": "プリニウス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "プリニウス。[object Object]"
+    },
+    {
+      "term": "ブルキナファソ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "会を動かした人。monarch,politician,society。ブルキナファソの大統領です。女性の権利、予防接種、植林、汚職の削減を進めました。急進"
+    },
+    {
+      "term": "ブルボン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "8年のナント勅令で信仰の自由をある程度認めて、国の混乱をしずめました。ブルボン朝を開いた王です。その活動は、政治制度を変えるには法律だけでなく、社会"
+    },
+    {
+      "term": "フレデリック・ダグラス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フレデリック・ダグラス。[object Object]"
+    },
+    {
+      "term": "フレデリック・テイラー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "フレデリック・テイラー。[object Object]"
+    },
+    {
+      "term": "プロイセン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。ヨーロッパ。拮抗時代。外交。戦争。イギリス、フランス、オーストリア、プロイセン、ロシアなどが力のつり合いを意識して外交と戦争をくり返した時代です。革"
+    },
+    {
+      "term": "ヘースティングズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "an。ノルマンディー公からイングランド王となった人物です。1066年にヘースティングズの戦いで勝ち、土地と城を配り直しました。『ドゥームズデイ・ブック』で土"
+    },
+    {
+      "term": "ベトナム",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ソ連を中心に世界が二つの陣営に分かれました。核兵器の不安と、朝鮮戦争やベトナム戦争など各地の対立を生みました。この動きは、誰が政治に参加し、法律や税"
+    },
+    {
+      "term": "ベトナム戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ソ連を中心に世界が二つの陣営に分かれました。核兵器の不安と、朝鮮戦争やベトナム戦争など各地の対立を生みました。この動きは、誰が政治に参加し、法律や税をど"
+    },
+    {
+      "term": "ベネズエラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ician。南アメリカ北部でスペインからの独立運動を率いた指導者です。ベネズエラ、コロンビア、エクアドル、ボリビアの独立に深く関わりましたが、社会の差"
+    },
+    {
+      "term": "ヘブライ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": ",culture。キリスト教の聖書をラテン語へ訳した学者・修道士です。ヘブライ語などを学び、のちに「ウルガタ」と呼ばれる訳を整えました。西ヨーロッパ"
+    },
+    {
+      "term": "ベルシャザル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ベルシャザル。[object Object]"
+    },
+    {
+      "term": "ベルトルト・ブレヒト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ベルトルト・ブレヒト。[object Object]"
+    },
+    {
+      "term": "ベルナルド・オヒギンス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ベルナルド・オヒギンス。[object Object]"
+    },
+    {
+      "term": "ペレストロイカ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "olitician。20世紀のソ連の指導者です。政治や経済の立て直し（ペレストロイカ）と情報公開を進め、アメリカと協力して冷戦を終わらせました。その後ソ連"
+    },
+    {
+      "term": "ヘレン・ケラー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヘレン・ケラー。[object Object]"
+    },
+    {
+      "term": "ベンキョウ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ベンキョウ。[object Object]"
+    },
+    {
+      "term": "ヘンリー・フォード",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヘンリー・フォード。[object Object]"
+    },
+    {
+      "term": "ホー・チ・ミン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ホー・チ・ミン。[object Object]"
+    },
+    {
+      "term": "ポーランド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "にくす。地動説を唱えた学者。culture,science。16世紀のポーランドの学者です。それまで信じられていた「太陽が地球の周りを回る」という考え"
+    },
+    {
+      "term": "ポール・サルトル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ジャン＝ポール・サルトル。[object Object]"
+    },
+    {
+      "term": "ポカホンタス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ポカホンタス。[object Object]"
+    },
+    {
+      "term": "ホセ・マルティ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ホセ・マルティ。[object Object]"
+    },
+    {
+      "term": "ホセ・モレーロス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ホセ・モレーロス。[object Object]"
+    },
+    {
+      "term": "ボブ・ディラン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ボブ・ディラン。[object Object]"
+    },
+    {
+      "term": "ボリビア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "からの独立運動を率いた指導者です。ベネズエラ、コロンビア、エクアドル、ボリビアの独立に深く関わりましたが、社会の差別や対立は残りました。政策の成果だ"
+    },
+    {
+      "term": "ホルエムヘブ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ホルエムヘブ。[object Object]"
+    },
+    {
+      "term": "マーガレット・ミード",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マーガレット・ミード。[object Object]"
+    },
+    {
+      "term": "マーク・ザッカーバーグ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マーク・ザッカーバーグ。[object Object]"
+    },
+    {
+      "term": "マーク・トウェイン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マーク・トウェイン。[object Object]"
+    },
+    {
+      "term": "マーシャル・ニーレンバーグ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マーシャル・ニーレンバーグ。[object Object]"
+    },
+    {
+      "term": "マアムーン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マアムーン。[object Object]"
+    },
+    {
+      "term": "マイケル・ジャクソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マイケル・ジャクソン。[object Object]"
+    },
+    {
+      "term": "マイケル・ジョーダン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マイケル・ジョーダン。[object Object]"
+    },
+    {
+      "term": "マガダ国",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "が競い合った時代です。都市、商業、仏教やジャイナ教の広がりと結びつき、マガダ国の台頭へつながりました。一つの出来事だけで成立したのではなく、以前から"
+    },
+    {
+      "term": "マクシミリアン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マクシミリアン1世。まくしみりあんいっせい。結婚で領土を広げた皇帝。monarch。"
+    },
+    {
+      "term": "マクスウェル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マクスウェル。[object Object]"
+    },
+    {
+      "term": "マグダラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "域をまとめ、軍や行政を強くしようとしました。イギリスとの対立で孤立し、マグダラでの戦いの後に自ら命を絶ちました。その活動は、政治制度を変えるには法律"
+    },
+    {
+      "term": "マグナ・カルタ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ド王です。フランスとの戦いや重い課税への反発を受け、1215年に貴族へマグナ・カルタを認めました。王も法律に従うという考えにつながる重要な文書です。この人"
+    },
+    {
+      "term": "マケドニア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ス大王。あれくさんどろすだいおう。東西を結んだ征服者。monarch。マケドニア王としてギリシャからエジプト、ペルシャ、インド北西部まで軍を進めました"
+    },
+    {
+      "term": "マザー・テレサ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マザー・テレサ。[object Object]"
+    },
+    {
+      "term": "マッツィーニ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マッツィーニ。[object Object]"
+    },
+    {
+      "term": "マテオ・リッチ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マテオ・リッチ。[object Object]"
+    },
+    {
+      "term": "マフディー国家",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "に反対する運動を率いた宗教指導者です。1885年にハルツームを占領し、マフディー国家を作りました。この人物の歩みから、政治の改革が人々の権利や国家の形にど"
+    },
+    {
+      "term": "マヤ諸都市",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マヤ都市国家の競合。マヤ諸都市が同盟と戦争を重ねた時代。メソアメリカ。拮抗時代。マヤ。都市国家。文字"
+    },
+    {
+      "term": "マリア・テレジア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マリア・テレジア。[object Object]"
+    },
+    {
+      "term": "マリア・モンテッソーリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マリア・モンテッソーリ。[object Object]"
+    },
+    {
+      "term": "マリー・キュリー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マリー・キュリー。[object Object]"
+    },
+    {
+      "term": "マリ王国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "動かした人。monarch,politician。ユーフラテス川沿いのマリ王国を治めた王です。宮殿の粘土板には、外交、軍事、商人、食料についての手紙"
+    },
+    {
+      "term": "マルクス・アウレリウス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マルクス・アウレリウス。[object Object]"
+    },
+    {
+      "term": "マルコ・ポーロ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マルコ・ポーロ。[object Object]"
+    },
+    {
+      "term": "マルティン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "サン＝マルティン。[object Object]"
+    },
+    {
+      "term": "ミゲル・イダルゴ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ミゲル・イダルゴ。[object Object]"
+    },
+    {
+      "term": "ミャンマー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "スーチー。現代社会を動かした人。politician,society。ミャンマーの民主化運動を率り、長く自宅軟禁された政治家です。後に政権に参加しまし"
+    },
+    {
+      "term": "ミュール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ce。イギリスの発明家です。ジェニー紡績機と水力紡績機の長所を合わせたミュール紡績機を作りました。細く丈夫な綿糸を作れるようになり、織物工業の発展を"
+    },
+    {
+      "term": "ミュンヘン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "h,politician,war。第二次世界大戦前のイギリス首相です。ミュンヘン協定でドイツに譲歩し、戦争を避けようとしました。しかしヒトラーの侵略を"
+    },
+    {
+      "term": "ミリセント・フォーセット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ミリセント・フォーセット。[object Object]"
+    },
+    {
+      "term": "ムスタファ・ケマル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ムスタファ・ケマル。[object Object]"
+    },
+    {
+      "term": "メイ・ジェミソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "メイ・ジェミソン。[object Object]"
+    },
+    {
+      "term": "メタコメット",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "メタコメット。[object Object]"
+    },
+    {
+      "term": "メッカ巡礼",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。monarch,politician。西アフリカのマリ帝国の王です。メッカ巡礼で大勢を連れ、金を使ったことが地中海世界にも知られました。トンブクトゥ"
+    },
+    {
+      "term": "メディナ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "たと説いたイスラム教の預言者です。メッカで信仰を広めた後、迫害を避けてメディナへ移り、信者の共同体を築きました。啓示をまとめた聖典が『コーラン』で、"
+    },
+    {
+      "term": "メフメト",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "メフメト2世。[object Object]"
+    },
+    {
+      "term": "メンデル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "メンデル。[object Object]"
+    },
+    {
+      "term": "メンデレーエフ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "メンデレーエフ。[object Object]"
+    },
+    {
+      "term": "モーター",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "磁石を動かすと電気が生まれる電磁誘導を発見しました。この原理は発電機やモーターにつながり、電気を社会で使う基礎を作りました。発見の内容だけでなく、ど"
+    },
+    {
+      "term": "モハメド・アリ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "モハメド・アリ。[object Object]"
+    },
+    {
+      "term": "モロッコ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "religion,culture,political-scholar。モロッコを出発し、メッカ、東アフリカ、インド、中国などを長年旅した法学者です。"
+    },
+    {
+      "term": "ヤア・アサンテワ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヤア・アサンテワ。[object Object]"
+    },
+    {
+      "term": "ヤヌシュ・コルチャック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヤヌシュ・コルチャック。[object Object]"
+    },
+    {
+      "term": "ユーリイ・ガガーリン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ユーリイ・ガガーリン。[object Object]"
+    },
+    {
+      "term": "ユダ王国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "n。新アッシリア帝国の王です。ニネヴェを水路や宮殿のある大都市に整え、ユダ王国のラキシュを攻めました。攻城の様子を彫刻に残し、帝国の軍事と都市建設を"
+    },
+    {
+      "term": "ユリアヌス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ユリアヌス。[object Object]"
+    },
+    {
+      "term": "ヨーゼフ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヨーゼフ2世。[object Object]"
+    },
+    {
+      "term": "ラービア・アルアダウィーヤ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ラービア・アルアダウィーヤ。[object Object]"
+    },
+    {
+      "term": "ラウル・ワレンバーグ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ラウル・ワレンバーグ。[object Object]"
+    },
+    {
+      "term": "ラキシュ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "シリア帝国の王です。ニネヴェを水路や宮殿のある大都市に整え、ユダ王国のラキシュを攻めました。攻城の様子を彫刻に残し、帝国の軍事と都市建設を示しました"
+    },
+    {
+      "term": "ラシードゥッディーン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ラシードゥッディーン。[object Object]"
+    },
+    {
+      "term": "ラリー・ペイジ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ラリー・ペイジ。[object Object]"
+    },
+    {
+      "term": "ラリベラ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ラリベラ。[object Object]"
+    },
+    {
+      "term": "リーナス・トーバルズ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "リーナス・トーバルズ。[object Object]"
+    },
+    {
+      "term": "リオネル・メッシ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "リオネル・メッシ。[object Object]"
+    },
+    {
+      "term": "リチャード・ファインマン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "リチャード・ファインマン。[object Object]"
+    },
+    {
+      "term": "リディア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "politician。ペルシャのアケメネス朝を築いた王です。メディア、リディア、新バビロニアを支配下に置きました。征服地の宗教や慣習をある程度認めた"
+    },
+    {
+      "term": "リバプール・マンチェスター",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "術者です。蒸気機関車を改良し、鉄道で石炭や人を運ぶ仕組みを広げました。リバプール・マンチェスター鉄道は、都市と工場を結ぶ交通の変化を象徴します。蒸気機関は、水を熱して"
+    },
+    {
+      "term": "リベリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "会を動かした人。monarch,politician,society。リベリアの大統領で、アフリカ初の選挙で選ばれた女性大統領です。内戦後の復興と女"
+    },
+    {
+      "term": "ルースカヤ・プラウダ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。monarch,politician。キエフ公国の君主です。法律集『ルースカヤ・プラウダ』を整え、キエフに聖ソフィア大聖堂を建てました。ヨーロッパ各地の王家と"
+    },
+    {
+      "term": "ルーミー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ルーミー。[object Object]"
+    },
+    {
+      "term": "ルクソール",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "な戦争より外交や贈り物を重視し、西アジアの王たちと手紙を交わしました。ルクソール神殿や巨大な像を造らせ、王の豊かさを示しました。政策の成果だけでなく、"
+    },
+    {
+      "term": "レイチェル・カーソン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "レイチェル・カーソン。[object Object]"
+    },
+    {
+      "term": "レーニン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "レーニン。[object Object]"
+    },
+    {
+      "term": "レオ・アフリカヌス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "レオ・アフリカヌス。[object Object]"
+    },
+    {
+      "term": "レザー・シャー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "レザー・シャー。[object Object]"
+    },
+    {
+      "term": "レフ・ランダウ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "レフ・ランダウ。[object Object]"
+    },
+    {
+      "term": "レリーフ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "都ニムルドを大きく造り替え、軍事遠征で周辺国に服従を求めました。宮殿のレリーフは繁栄を示す一方、征服の残酷さも伝えています。その活動は、政治制度を変"
+    },
+    {
+      "term": "ロアノーク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "と交流に関わった人。society。イングランドの廷臣で、北アメリカのロアノーク植民地を支援した人物です。入植地は消滅しましたが、この試みは先住民の土"
+    },
+    {
+      "term": "ロアノーク植民地",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "と交流に関わった人。society。イングランドの廷臣で、北アメリカのロアノーク植民地を支援した人物です。入植地は消滅しましたが、この試みは先住民の土地にヨ"
+    },
+    {
+      "term": "ローザ・ルクセンブルク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ローザ・ルクセンブルク。[object Object]"
+    },
+    {
+      "term": "ロザリンド・フランクリン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ロザリンド・フランクリン。[object Object]"
+    },
+    {
+      "term": "ロバート・オッペンハイマー",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ロバート・オッペンハイマー。[object Object]"
+    },
+    {
+      "term": "ロヒンギャ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "化運動を率り、長く自宅軟禁された政治家です。後に政権に参加しましたが、ロヒンギャへの迫害を十分に止めなかったとして国際的に厳しい批判を受けています。そ"
+    },
+    {
+      "term": "ロベール・シューマン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ロベール・シューマン。[object Object]"
+    },
+    {
+      "term": "ロベルト・コッホ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ロベルト・コッホ。[object Object]"
+    },
+    {
+      "term": "ワイナ・カパック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ワイナ・カパック。[object Object]"
+    },
+    {
+      "term": "ワシントン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "olitician。フランス貴族でありながらアメリカ独立戦争に参加し、ワシントンを助けた人物です。フランス革命でも自由と立憲政治を支持しましたが、激し"
+    },
+    {
+      "term": "ワスル帝国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "代社会を動かした人。monarch,politician。西アフリカでワスル帝国を築いた指導者です。軍と交易を組織し、フランスの植民地支配に長く抵抗し"
+    },
+    {
+      "term": "ワフンスナコック",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ワフンスナコック。[object Object]"
+    },
+    {
+      "term": "ワレンチナ・テレシコワ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ワレンチナ・テレシコワ。[object Object]"
+    },
+    {
+      "term": "ンジンガ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ンジンガ女王。[object Object]"
+    },
+    {
+      "term": "欧州戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "三十年戦争。宗教と国益が重なった欧州戦争。ヨーロッパ。拮抗時代。宗教改革。戦争。神聖ローマ帝国を中心に、宗教対"
+    },
+    {
+      "term": "海上交易",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "喜望峰を回り、インド洋へ通じる海路を示しました。ヨーロッパがアジアとの海上交易を目指す重要な一歩になりました。成果だけでなく、運動が直面した反対や限"
+    },
+    {
+      "term": "漢人王朝",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "教。中国の北と南に複数の王朝が並び立った時代です。北方民族の政権と南の漢人王朝が競い合い、仏教や貴族文化が広がりました。各勢力は武力だけでなく、外交"
+    },
+    {
+      "term": "議会制民主主義",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ician,society。インド独立運動家で、独立後の初代首相です。議会制民主主義、科学教育、非同盟外交を重視しました。一方で中国との国境問題や経済政策"
+    },
+    {
+      "term": "軍事・宗教",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "カール5世が受けつぐ大帝国の土台を築きました。この統治を通して、王権が軍事・宗教・行政とどのように結びついていたかが分かります。神聖ローマ帝国で「結婚"
+    },
+    {
+      "term": "軍事遠征",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "tician。新アッシリア帝国の王です。首都ニムルドを大きく造り替え、軍事遠征で周辺国に服従を求めました。宮殿のレリーフは繁栄を示す一方、征服の残酷"
+    },
+    {
+      "term": "軍事同盟",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ンディー上陸作戦を指揮したアメリカ軍人です。後に大統領となり、冷戦下で軍事同盟を維持しながら大規模戦争を避けようとしました。冷戦は、第二次世界大戦後"
+    },
+    {
+      "term": "憲法・議会",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "憲法と議会を求める動き。憲法・議会・国民の権利を求める動きが広がる。ヨーロッパ。憲法。議会。ヨーロッパ各"
+    },
+    {
+      "term": "古代エジプト第三王朝",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。ジェセル。王権と建築を示す人。monarch,politician。古代エジプト第三王朝の王です。宰相イムホテプと結び付けられるサッカラの階段ピラミッドを造ら"
+    },
+    {
+      "term": "古代エジプト第六王朝",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。ペピ2世。王権と建築を示す人。monarch,politician。古代エジプト第六王朝の王です。非常に長く治めたと伝えられますが、正確な年数は確かではありま"
+    },
+    {
+      "term": "後ウマイヤ朝",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "のイスラム諸国が分立した時代。スペイン。拮抗時代。イスラム。都市文化。後ウマイヤ朝のあと、イベリア半島のイスラム勢力が多くの小王国に分かれた時代です。競"
+    },
+    {
+      "term": "後継王国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヘレニズム諸国の並立。後継王国が競争したヘレニズム時代。地中海地域。拮抗時代。ヘレニズム。王国。文化"
+    },
+    {
+      "term": "香辛料交易",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "す。1498年にアフリカ南端を回ってインドのカリカットへ到着しました。香辛料交易を求める航路でしたが、のちにポルトガルの武力支配にもつながりました。成"
+    },
+    {
+      "term": "黒人解放運動",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "X。現代社会を動かした人。religion,society。アメリカの黒人解放運動家です。人種差別の中で黒人の自立と誇りを強く訴えました。後半には考えを"
+    },
+    {
+      "term": "自由フランス",
+      "kinds": [
+        "kingdom-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "n,war。フランスの軍人・政治家です。第二次世界大戦中、ロンドンから自由フランスを呼びかけました。戦後は第五共和政を作り、大統領としてフランスの政治制"
+    },
+    {
+      "term": "世界の海",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マゼラン船隊の世界一周。世界一周の船隊が航海を達成する。世界の海。航海。世界。海。船隊は大西洋、太平洋、インド洋を通って世界一周を達成"
+    },
+    {
+      "term": "政治革命",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "市民革命。身分制と専制を変えた政治革命。政治。権利。革命。特権や古い支配に反対し、権利や代表を求めた革命です"
+    },
+    {
+      "term": "清教徒革命",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。議会を無視して税を集めようとしたため対立が深まり、ピューリタン革命（清教徒革命）が起こりました。戦いに敗れて裁判にかけられ、王でありながら処刑されま"
+    },
+    {
+      "term": "西ローマ帝国",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "。貧しい人への救援、教会の土地管理、イングランドへの宣教を進めました。西ローマ帝国の後、教皇が政治や社会でも役割を持つ流れを強めました。その教えは信仰だ"
+    },
+    {
+      "term": "対外遠征",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ピラミッドを建て、滑らかな形の大ピラミッドへつながる技術を育てました。対外遠征や資材の確保も進めました。巨大なピラミッドの建設には、石材の運搬、食料"
+    },
+    {
+      "term": "大規模戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "したアメリカ軍人です。後に大統領となり、冷戦下で軍事同盟を維持しながら大規模戦争を避けようとしました。冷戦は、第二次世界大戦後にアメリカとソ連が直接の"
+    },
+    {
+      "term": "大乗仏教",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "すべてのものは他との関わりで成り立ち、固定した実体はないと考えました。大乗仏教の「空」の思想を深め、日本を含むアジアの仏教に影響しました。仏教は、釈"
+    },
+    {
+      "term": "第3回十字軍",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マ帝国の皇帝で、イタリアへ何度も遠征して帝国の力を広げようとしました。第3回十字軍にも参加しましたが、遠征の途中で川に落ちて亡くなりました。十字軍は、聖"
+    },
+    {
+      "term": "第二次ポエニ戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "と帝国を形づくった人。politician,war。ローマの将軍です。第二次ポエニ戦争で北アフリカへ軍を進め、ザマの戦いでカルタゴのハンニバルを破りました。"
+    },
+    {
+      "term": "朝鮮戦争",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アメリカとソ連を中心に世界が二つの陣営に分かれました。核兵器の不安と、朝鮮戦争やベトナム戦争など各地の対立を生みました。この動きは、誰が政治に参加し"
+    },
+    {
+      "term": "東アジア仏教",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ンドの言葉を読みやすい中国語に訳し、『法華経』などの理解を広げました。東アジア仏教の土台の一人です。仏教は、釈迦の教えをもとに、苦しみの原因を見つめ、迷"
+    },
+    {
+      "term": "東方遠征",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "クスの反乱を鎮め、ポンペイウス、カエサルと第一回三頭政治を作りました。東方遠征でパルティアに敗れ、戦死しました。共和政は、世襲の王ではなく、国民や代"
+    },
+    {
+      "term": "南アジア・東南アジア",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "インド洋交易の広がり。インド洋交易が広がる。南アジア・東南アジア。インド洋。交易。港。インド洋では季節風を利用して船が行き来し、香辛料"
+    },
+    {
+      "term": "品物・宗教",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "シルクロードの交流。シルクロードで品物・宗教・技術が伝わる。中央アジア。シルクロード。交易。シルクロードでは絹、馬"
+    }
+  ],
+  "regionTerms": [
+    {
+      "term": "アジア",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 73,
+      "count": 432,
+      "sample": "るために政治・軍事・外交が一体となっていたことを学べます。ギリシャ・西アジアで「東西を結んだ征服者」とされる理由を、行動の結果と残された課題の両面"
+    },
+    {
+      "term": "ヨーロッパ",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 67,
+      "count": 1045,
+      "sample": "スを救い主であるキリストと信じる宗教がキリスト教で、のちにローマ帝国やヨーロッパを中心に世界へ広がりました。。1世紀ごろ、ローマ帝国の支配下にあったユ"
+    },
+    {
+      "term": "アメリカ",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 58,
+      "count": 212,
+      "sample": "ありながら神聖ローマ皇帝も兼ねた人物です。ドイツ、スペイン、オランダ、アメリカ大陸の植民地まで治め、ヨーロッパ最大の権力者の一人になりました。植民地"
+    },
+    {
+      "term": "アフリカ",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 50,
+      "count": 486,
+      "sample": "まんさ・むーさ。マリ帝国の王。monarch,politician。西アフリカのマリ帝国の王です。メッカ巡礼で大勢を連れ、金を使ったことが地中海世界"
+    },
+    {
+      "term": "インド",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 44,
+      "count": 164,
+      "sample": "者。monarch。マケドニア王としてギリシャからエジプト、ペルシャ、インド北西部まで軍を進めました。征服地でギリシャ語や都市文化が広がり、各地の"
+    },
+    {
+      "term": "ローマ",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 43,
+      "count": 267,
+      "sample": "ス。いえす。キリスト教の中心となった人。religion。1世紀ごろ、ローマ帝国の支配下にあったユダヤ地方で活動し、神への愛と隣人への思いやりを説"
+    },
+    {
+      "term": "フランス",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 35,
+      "count": 136,
+      "sample": "。monarch,politician。フランク王国の王として、現在のフランス・ドイツ・イタリア北部などを統一しました。800年にローマ皇帝の位を授"
+    },
+    {
+      "term": "イギリス",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 31,
+      "count": 49,
+      "sample": "ヘンリー8世。へんりーはっせい。イギリス国教会をつくった王。monarch,politician。16世紀のイ"
+    },
+    {
+      "term": "西アジア",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 29,
+      "count": 175,
+      "sample": "するために政治・軍事・外交が一体となっていたことを学べます。ギリシャ・西アジアで「東西を結んだ征服者」とされる理由を、行動の結果と残された課題の両面"
+    },
+    {
+      "term": "エジプト",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 29,
+      "count": 124,
+      "sample": "クフ王。くふおう。大ピラミッドの時代の王。monarch。古代エジプト第四王朝の王で、ギザの大ピラミッドを造った王と考えられています。石材の"
+    },
+    {
+      "term": "ギリシャ",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 28,
+      "count": 83,
+      "sample": "どろすだいおう。東西を結んだ征服者。monarch。マケドニア王としてギリシャからエジプト、ペルシャ、インド北西部まで軍を進めました。征服地でギリシ"
+    },
+    {
+      "term": "東アジア",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 26,
+      "count": 520,
+      "sample": "長安を国際的な都市として発展させました。周辺へ軍を送る拡大政策も行い、東アジアの国々に大きな影響を与えました。この人物の歩みから、政治の改革が人々の"
+    },
+    {
+      "term": "中央アジア",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 23,
+      "count": 28,
+      "sample": "えをもとに成立した仏教は、修行と慈悲を重んじる宗教として広がり、のちに中央アジア、中国、朝鮮、日本などへ伝わりました。。紀元前5世紀ごろのインドで、人"
+    },
+    {
+      "term": "スペイン",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 21,
+      "count": 70,
+      "sample": "聖ローマ帝国の皇帝です。自分や子・孫の結婚によって、戦わずにオランダやスペインなど広い領土をハプスブルク家のものにしました。孫のカール5世が受けつぐ"
+    },
+    {
+      "term": "イタリア",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 16,
+      "count": 52,
+      "sample": "politician。フランク王国の王として、現在のフランス・ドイツ・イタリア北部などを統一しました。800年にローマ皇帝の位を授けられ、学問や教会"
+    },
+    {
+      "term": "イングランド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 16,
+      "count": 22,
+      "sample": "と法を整えた王。monarch,politician。13〜14世紀のイングランド王です。ウェールズを征服し、スコットランドとも激しく戦いました。国を治"
+    },
+    {
+      "term": "ペルシャ・インド・",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 14,
+      "count": 28,
+      "sample": "の改革が人々の権利や国家の形にどのような変化を与えたかを考えられます。ペルシャ・インド・中国で「広い国をまとめた人」とされる理由を、行動の結果と残された課題の"
+    },
+    {
+      "term": "アフリカ・アメリカ",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 13,
+      "count": 17,
+      "sample": "の権利や国家の形にどのような変化を与えたかを考えられます。ヨーロッパ・アフリカ・アメリカで「王国と都市を支えた人」とされる理由を、行動の結果と残された課題の両"
+    },
+    {
+      "term": "ペルシャ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 12,
+      "count": 17,
+      "sample": "結んだ征服者。monarch。マケドニア王としてギリシャからエジプト、ペルシャ、インド北西部まで軍を進めました。征服地でギリシャ語や都市文化が広がり"
+    },
+    {
+      "term": "ヨーロッパ・アフリカ・アメリカ",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 12,
+      "count": 15,
+      "sample": "の改革が人々の権利や国家の形にどのような変化を与えたかを考えられます。ヨーロッパ・アフリカ・アメリカで「王国と都市を支えた人」とされる理由を、行動の結果と残された課題の両"
+    },
+    {
+      "term": "ユーラシア",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 11,
+      "count": 28,
+      "sample": "その後の広い支配圏では人と物の移動も活発になりました。モンゴル帝国は、ユーラシア大陸の広い地域を支配し、東西の人・物・情報の移動を活発にした大帝国です"
+    },
+    {
+      "term": "南アジア",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 10,
+      "count": 65,
+      "sample": "船団を率いた航海者。society。明の永楽帝に仕え、大船団を率いて東南アジア、インド洋、東アフリカまで航海しました。中国の朝廷と各地の港を結び、贈"
+    },
+    {
+      "term": "北アメリカ",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 8,
+      "count": 42,
+      "sample": "んとん。アメリカ独立を導いた人。monarch,politician。北アメリカの植民地側の軍を率いて独立戦争を戦い、独立後に初代アメリカ大統領となり"
+    },
+    {
+      "term": "北アフリカ",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 7,
+      "count": 9,
+      "sample": "ハンニバル。はんにばる。ローマと戦った将軍。war。紀元前3世紀、北アフリカの国カルタゴの将軍です。象をつれてアルプス山脈をこえ、強大なローマ軍を"
+    },
+    {
+      "term": "アメリカ大陸",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 5,
+      "count": 6,
+      "sample": "ありながら神聖ローマ皇帝も兼ねた人物です。ドイツ、スペイン、オランダ、アメリカ大陸の植民地まで治め、ヨーロッパ最大の権力者の一人になりました。植民地は、"
+    },
+    {
+      "term": "地中海地域",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 4,
+      "count": 16,
+      "sample": "ギリシャの市民政治。ギリシャで市民による政治が始まる。地中海地域。政治。地中海。市民。ギリシャの都市国家では、市民が政治に参加するしく"
+    },
+    {
+      "term": "インド洋",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 4,
+      "count": 11,
+      "sample": "た航海者。society。明の永楽帝に仕え、大船団を率いて東南アジア、インド洋、東アフリカまで航海しました。中国の朝廷と各地の港を結び、贈り物や外交"
+    },
+    {
+      "term": "朝鮮半島",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 4,
+      "count": 6,
+      "sample": "学び、役人の考え方に大きな影響を与えました。中国の政治制度だけでなく、朝鮮半島や日本の学問にも広がりました。信仰は個人の心だけでなく、家族の暮らし、"
+    },
+    {
+      "term": "モンゴル",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 11,
+      "sample": "チンギス・ハン。ちんぎす・はん。モンゴル帝国を築いた人。monarch,politician。モンゴル高原の遊"
+    },
+    {
+      "term": "アラビア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 6,
+      "sample": "マド。むはんまど。イスラム教を始めた預言者。religion。7世紀のアラビア半島で、唯一の神アッラーから啓示を受けたと説いたイスラム教の預言者です"
+    },
+    {
+      "term": "フランク",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 6,
+      "sample": "クローヴィス。くろーびす。フランク王国を建てた王。monarch,politician。フランク王国を建"
+    },
+    {
+      "term": "オーストリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 5,
+      "sample": "まりー・あんとわねっと。フランス革命で処刑された王妃。monarch。オーストリアからフランスへ嫁ぎ、ルイ16世の王妃になりました。はなやかな宮廷生活が"
+    },
+    {
+      "term": "アレクサンドリア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "仰と学問を伝えた人。religion,philosopher。4世紀のアレクサンドリア司教です。イエス・キリストの性質をめぐる論争で、ニカイア公会議の立場を"
+    },
+    {
+      "term": "エチオピア",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "war。イタリアの独裁者です。ファシズム政権を作り、反対する人を抑え、エチオピアへ侵略しました。ヒトラーと同盟して第二次世界大戦に参加し、敗戦の中で処"
+    },
+    {
+      "term": "スコットランド",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "tician。13〜14世紀のイングランド王です。ウェールズを征服し、スコットランドとも激しく戦いました。国を治めるために貴族や都市の代表を集める議会のし"
+    },
+    {
+      "term": "バビロン",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "ビ。はんむらび。法律を整えた王。monarch,politician。バビロン第1王朝の王です。メソポタミア南部で都市を支配し、裁判の基準となる決ま"
+    },
+    {
+      "term": "オスマン",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 8,
+      "sample": "オスマン1世。[object Object]"
+    },
+    {
+      "term": "東アジア・太平洋",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 1,
+      "count": 3,
+      "sample": "東アジア・太平洋の戦争拡大。日本・中国・アジア太平洋地域で戦争が広がる。東アジア・太平"
+    }
+  ],
+  "personRubyCandidates": [
+    {
+      "term": "アレクサンドロス大王",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "アレクサンドロス大王。あれくさんどろすだいおう。東西を結んだ征服者。monarch。マケド"
+    },
+    {
+      "term": "アショーカ王",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 2,
+      "count": 5,
+      "sample": "アショーカ王。あしょーかおう。仏教を保護した王。monarch,politicia"
+    },
+    {
+      "term": "クセルクセス1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 2,
+      "count": 4,
+      "sample": "クセルクセス1世。クセルクセス1世。広い国をまとめた人。monarch,politic"
+    },
+    {
+      "term": "カール5世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "にオランダやスペインなど広い領土をハプスブルク家のものにしました。孫のカール5世が受けつぐ大帝国の土台を築きました。この統治を通して、王権が軍事・宗教"
+    },
+    {
+      "term": "ダレイオス1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "ダレイオス1世。ダレイオス1世。広い国をまとめた人。monarch,politici"
+    },
+    {
+      "term": "レオポルド2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 2,
+      "count": 3,
+      "sample": "。アフリカを探検した記者・探検家です。コンゴ川流域を調査し、ベルギー王レオポルド2世の支配拡大を助けました。探検は現地の人々への暴力的な植民地化と結び付い"
+    },
+    {
+      "term": "ルイ16世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 2,
+      "count": 2,
+      "sample": "ルイ16世。るいじゅうろくせい。フランス革命で処刑された王。monarch。18"
+    },
+    {
+      "term": "アッシュルナツィルパル2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アッシュルナツィルパル2世。アッシュルナツィルパル2世。都市と文字を動かした人。monarch,"
+    },
+    {
+      "term": "アメンエムハト1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アメンエムハト1世。アメンエムハト1世。王権と建築を示す人。monarch,politi"
+    },
+    {
+      "term": "アメンホテプ3世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アメンホテプ3世。アメンホテプ3世。王権と建築を示す人。monarch,politic"
+    },
+    {
+      "term": "アルタクセルクセス1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "アルタクセルクセス1世。アルタクセルクセス1世。広い国をまとめた人。monarch,poli"
+    },
+    {
+      "term": "ウィリアム1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ウィリアム1世。ウィリアム1世。王国と都市を支えた人。monarch,politic"
+    },
+    {
+      "term": "ウラジーミル1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ウラジーミル1世。ウラジーミル1世。王国と都市を支えた人。monarch,politi"
+    },
+    {
+      "term": "エンリケ航海王子",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "エンリケ航海王子。エンリケ航海王子。航海と交流に関わった人。monarch,polit"
+    },
+    {
+      "term": "カニシカ王",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "カニシカ王。カニシカ王。広い国をまとめた人。monarch,politician"
+    },
+    {
+      "term": "キュロス2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "キュロス2世。キュロス2世。広い国をまとめた人。monarch,politicia"
+    },
+    {
+      "term": "グレゴリウス1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "グレゴリウス1世。グレゴリウス1世。信仰と学問を伝えた人。religion。6世紀末の"
+    },
+    {
+      "term": "サルゴン2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "サルゴン2世。サルゴン2世。都市と文字を動かした人。monarch,politic"
+    },
+    {
+      "term": "シャムシアダド1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "シャムシアダド1世。シャムシアダド1世。都市と文字を動かした人。monarch,poli"
+    },
+    {
+      "term": "シャルマネセル3世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "シャルマネセル3世。シャルマネセル3世。都市と文字を動かした人。monarch,poli"
+    },
+    {
+      "term": "ジョン王",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ジョン王。ジョン王。王国と都市を支えた人。monarch,politician"
+    },
+    {
+      "term": "センウセレト3世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "センウセレト3世。センウセレト3世。王権と建築を示す人。monarch,politic"
+    },
+    {
+      "term": "ダライ・ラマ14世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ダライ・ラマ14世。ダライ・ラマ14世。現代社会を動かした人。politician,re"
+    },
+    {
+      "term": "チャンドラグプタ2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "チャンドラグプタ2世。チャンドラグプタ2世。広い国をまとめた人。monarch,polit"
+    },
+    {
+      "term": "ティグラトピレセル1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ティグラトピレセル1世。ティグラトピレセル1世。都市と文字を動かした人。monarch,po"
+    },
+    {
+      "term": "テオドロス2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "テオドロス2世。テオドロス2世。近代社会を動かした人。monarch,politic"
+    },
+    {
+      "term": "トゥパク・アマル1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "トゥパク・アマル1世。トゥパク・アマル1世。航海と交流に関わった人。monarch,pol"
+    },
+    {
+      "term": "トトメス3世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "トトメス3世。トトメス3世。王権と建築を示す人。monarch,politicia"
+    },
+    {
+      "term": "バシレイオス2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "バシレイオス2世。バシレイオス2世。王国と都市を支えた人。monarch,politi"
+    },
+    {
+      "term": "ペピ2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ペピ2世。ペピ2世。王権と建築を示す人。monarch,politician。"
+    },
+    {
+      "term": "メネリク2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "メネリク2世。メネリク2世。近代社会を動かした人。monarch,politici"
+    },
+    {
+      "term": "メントゥホテプ2世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "メントゥホテプ2世。メントゥホテプ2世。王権と建築を示す人。monarch,politi"
+    },
+    {
+      "term": "ヤロスラフ賢公",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "ヤロスラフ賢公。ヤロスラフ賢公。王国と都市を支えた人。monarch,politic"
+    },
+    {
+      "term": "リチャード1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 2,
+      "sample": "リチャード1世。リチャード1世。王国と都市を支えた人。monarch。イングランド王"
+    },
+    {
+      "term": "アンリ4世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "アンリ4世。あんりよんせい。宗教戦争をしずめた王。monarch,politic"
+    },
+    {
+      "term": "エドワード1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "エドワード1世。えどわーどいっせい。議会と法を整えた王。monarch,politi"
+    },
+    {
+      "term": "オットー1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "オットー1世。おっとーいっせい。神聖ローマ帝国を始めた皇帝。monarch。東フラ"
+    },
+    {
+      "term": "カール大帝",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "カール大帝。かーるたいてい。西ヨーロッパをまとめた皇帝。monarch,poli"
+    },
+    {
+      "term": "クフ王",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "クフ王。くふおう。大ピラミッドの時代の王。monarch。古代エジプト第四王"
+    },
+    {
+      "term": "チャールズ1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "チャールズ1世。ちゃーるずいっせい。革命で処刑された王。monarch,politi"
+    },
+    {
+      "term": "ヘンリー5世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヘンリー5世。へんりーごせい。百年戦争を戦った王。monarch。15世紀初めのイ"
+    },
+    {
+      "term": "ヘンリー8世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ヘンリー8世。へんりーはっせい。イギリス国教会をつくった王。monarch,pol"
+    },
+    {
+      "term": "マクシミリアン1世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "マクシミリアン1世。まくしみりあんいっせい。結婚で領土を広げた皇帝。monarch。15"
+    },
+    {
+      "term": "ルイ14世",
+      "kinds": [
+        "person-name"
+      ],
+      "sourceCount": 1,
+      "count": 1,
+      "sample": "ルイ14世。るいじゅうよんせい。絶対王政の太陽王。monarch。17世紀のフラ"
+    }
+  ],
+  "labelReviewTerms": [
+    {
+      "term": "拮抗時代",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 23,
+      "count": 529,
+      "sample": "春秋時代。周王室の衰えと諸侯の競争。中国。拮抗時代。諸侯。思想。周王の力が弱まり、多くの諸侯が同盟や戦争をくり返した時代"
+    },
+    {
+      "term": "20世紀",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 21,
+      "count": 24,
+      "sample": "アムンゼン。あむんぜん。南極点に初到達した探検家。other。19〜20世紀のノルウェーの探検家です。1911年、人類で初めて南極点に到達しました"
+    },
+    {
+      "term": "インターネットサービス",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 10,
+      "count": 110,
+      "sample": "インターネットの普及。世界的な通信網が生活に広がった変化。インターネットサービス。インターネット。Web。普及。1991年にWorld Wide We"
+    },
+    {
+      "term": "サービス",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 5,
+      "count": 8,
+      "sample": "Google検索。ウェブ情報を探す検索サービス。インターネットサービス。検索。情報。広告。1998年に会社として始ま"
+    },
+    {
+      "term": "社会運動",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 4,
+      "count": 8,
+      "sample": "ベスと農場労働者組合を作り、契約、賃金、農薬の安全を求めました。女性が社会運動で指導力を発揮した代表的な人物です。個人の行動が多くの人を動かし、法律"
+    },
+    {
+      "term": "都市文化",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 4,
+      "count": 4,
+      "sample": "ジプト、ペルシャ、インド北西部まで軍を進めました。征服地でギリシャ語や都市文化が広がり、各地の文化が混ざるきっかけになりました。この人物の治世から、"
+    },
+    {
+      "term": "国際関係",
+      "kinds": [
+        "action-tag"
+      ],
+      "sourceCount": 3,
+      "count": 6,
+      "sample": "第一次世界大戦。列強の対立が世界規模に広がった戦争。戦争。20世紀。国際関係。同盟関係によって多くの国が巻き込まれた戦争です。兵器の発達で被害が広"
+    },
+    {
+      "term": "ニュース",
+      "kinds": [
+        "regex-special"
+      ],
+      "sourceCount": 3,
+      "count": 3,
+      "sample": "4年2月4日に始まったSNSです。実名に近い友人関係をネット上に広げ、ニュース、広告、政治参加にも大きな影響を与えました。検索や投稿を支える仕組みは"
+    },
+    {
+      "term": "メッセージ",
+      "kinds": [
+        "action-tag",
+        "regex-special"
+      ],
+      "sourceCount": 2,
+      "count": 10,
+      "sample": "WhatsApp。世界で普及した通信アプリ。インターネットサービス。メッセージ。通話。Meta。2009年に始まったメッセージアプリです。電話番号で"
+    }
+  ],
+  "actionNamesWithoutTooltip": []
+}

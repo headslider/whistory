@@ -1,0 +1,28 @@
+{
+  "updates": [
+    {
+      "person": "ハンムラビ",
+      "oldImage": "assets/people/person-9bb5f948fd.webp",
+      "newImage": "assets/people/person-bd338fe558.webp",
+      "source": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 12_50_27.png"
+    }
+  ],
+  "backup": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\data-backups\\20260720-203826-replace-hammurabi-image-before",
+  "duplicateImageReferences": {
+    "assets/people/person-f6d272d91c.webp": [
+      "ジャンヌ・ダルク",
+      "ジル・ド・レエ"
+    ],
+    "assets/people/person-4e6d38825c.webp": [
+      "ソロン",
+      "ソクラテス"
+    ]
+  },
+  "missingImageReferences": [],
+  "historyGuard": {
+    "subcategories": 53,
+    "totalChars": 17035,
+    "minChars": 283,
+    "canary": true
+  }
+}

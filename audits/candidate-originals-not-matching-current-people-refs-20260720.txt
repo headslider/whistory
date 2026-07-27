@@ -1,0 +1,16 @@
+基準: 候補フォルダ内の元画像 vs 現在 people-data.json が参照しているWebP画像のみ
+候補フォルダ画像数: 187
+現在参照中WebP画像数: 177
+見た目一致あり: 177
+見た目一致なし: 10
+
+ChatGPT Image 2026年7月16日 12_50_27.png / nearest=ハンムラビ / mae=16.429 / nearestImage=assets/people/person-9bb5f948fd.webp
+ChatGPT Image 2026年7月16日 17_21_57.png / nearest=ヘンリー5世 / mae=33.309 / nearestImage=assets/people/person-9e2923c493.webp
+ChatGPT Image 2026年7月16日 19_35_02.png / nearest=メネス / mae=51.168 / nearestImage=assets/people/person-019b1d8d30.webp
+ChatGPT Image 2026年7月16日 22_42_34.png / nearest=ニュートン / mae=27.934 / nearestImage=assets/people/person-4ae32d11c2.webp
+ChatGPT Image 2026年7月17日 01_36_19.png / nearest=アメリゴ・ヴェスプッチ / mae=33.787 / nearestImage=assets/people/person-8d1e003d26.webp
+ChatGPT Image 2026年7月17日 08_06_36.png / nearest=アルキビアデス / mae=40.609 / nearestImage=assets/people/person-f6ad9aafd6.webp
+ChatGPT Image 2026年7月17日 12_52_10.png / nearest=モンテスキュー / mae=45.93 / nearestImage=assets/people/person-2562164bcc.webp
+ChatGPT Image 2026年7月17日 14_17_25.png / nearest=サルゴン / mae=38.922 / nearestImage=assets/people/person-1679093f0c.webp
+ChatGPT Image 2026年7月18日 02_27_57.png / nearest=ジョージ・ワシントン / mae=31.934 / nearestImage=assets/people/person-b128c0aae5.webp
+S__56033284.jpg / nearest=ルソー / mae=48.302 / nearestImage=assets/people/person-59efcfe648.webp

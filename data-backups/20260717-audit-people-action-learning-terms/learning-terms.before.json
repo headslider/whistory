@@ -1,0 +1,2326 @@
+{
+  "schemaVersion": 1,
+  "terms": {
+    "仰韶文化": {
+      "reading": "ぎょうしょうぶんか",
+      "ruby": {
+        "base": "仰韶文化",
+        "reading": "ぎょうしょうぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "龍山文化": {
+      "reading": "りゅうざんぶんか",
+      "ruby": {
+        "base": "龍山文化",
+        "reading": "りゅうざんぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "河姆渡文化": {
+      "reading": "かぼとぶんか",
+      "ruby": {
+        "base": "河姆渡文化",
+        "reading": "かぼとぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "良渚文化": {
+      "reading": "りょうしょぶんか",
+      "ruby": {
+        "base": "良渚文化",
+        "reading": "りょうしょぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "紅山文化": {
+      "reading": "こうさんぶんか",
+      "ruby": {
+        "base": "紅山文化",
+        "reading": "こうさんぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "三星堆文化": {
+      "reading": "さんせいたいぶんか",
+      "ruby": {
+        "base": "三星堆文化",
+        "reading": "さんせいたいぶんか",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "黄河流域": {
+      "reading": "こうがりゅういき",
+      "ruby": {
+        "base": "黄河流域",
+        "reading": "こうがりゅういき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "長江流域": {
+      "reading": "ちょうこうりゅういき",
+      "ruby": {
+        "base": "長江流域",
+        "reading": "ちょうこうりゅういき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "殷王朝": {
+      "reading": "いんおうちょう",
+      "ruby": {
+        "base": "殷王朝",
+        "reading": "いんおうちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "春秋時代": {
+      "reading": "しゅんじゅうじだい",
+      "ruby": {
+        "base": "春秋時代",
+        "reading": "しゅんじゅうじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "戦国時代": {
+      "reading": "せんごくじだい",
+      "ruby": {
+        "base": "戦国時代",
+        "reading": "せんごくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "秦と漢の中国統一": {
+      "reading": "しんとかんのちゅうごくとういつ",
+      "ruby": {
+        "base": "秦と漢の中国統一",
+        "reading": "しんとかんのちゅうごくとういつ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "前漢": {
+      "reading": "ぜんかん",
+      "ruby": {
+        "base": "前漢",
+        "reading": "ぜんかん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "後漢": {
+      "reading": "ごかん",
+      "ruby": {
+        "base": "後漢",
+        "reading": "ごかん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "東晋": {
+      "reading": "とうしん",
+      "ruby": {
+        "base": "東晋",
+        "reading": "とうしん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "中国南北朝時代": {
+      "reading": "ちゅうごくなんぼくちょうじだい",
+      "ruby": {
+        "base": "中国南北朝時代",
+        "reading": "ちゅうごくなんぼくちょうじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "五胡十六国": {
+      "reading": "ごこじゅうろっこく",
+      "ruby": {
+        "base": "五胡十六国",
+        "reading": "ごこじゅうろっこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "五胡十六国時代": {
+      "reading": "ごこじゅうろっこくじだい",
+      "ruby": {
+        "base": "五胡十六国時代",
+        "reading": "ごこじゅうろっこくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "五代十国時代": {
+      "reading": "ごだいじっこくじだい",
+      "ruby": {
+        "base": "五代十国時代",
+        "reading": "ごだいじっこくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "北魏": {
+      "reading": "ほくぎ",
+      "ruby": {
+        "base": "北魏",
+        "reading": "ほくぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "渤海": {
+      "reading": "ぼっかい",
+      "ruby": {
+        "base": "渤海",
+        "reading": "ぼっかい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "扶南": {
+      "reading": "ふなん",
+      "ruby": {
+        "base": "扶南",
+        "reading": "ふなん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "新羅": {
+      "reading": "しらぎ",
+      "ruby": {
+        "base": "新羅",
+        "reading": "しらぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "高句麗": {
+      "reading": "こうくり",
+      "ruby": {
+        "base": "高句麗",
+        "reading": "こうくり",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "百済": {
+      "reading": "くだら",
+      "ruby": {
+        "base": "百済",
+        "reading": "くだら",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "阮朝": {
+      "reading": "げんちょう",
+      "ruby": {
+        "base": "阮朝",
+        "reading": "げんちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "雑穀": {
+      "reading": "ざっこく",
+      "ruby": {
+        "base": "雑穀",
+        "reading": "ざっこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "牧畜": {
+      "reading": "ぼくちく",
+      "ruby": {
+        "base": "牧畜",
+        "reading": "ぼくちく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "諸侯": {
+      "reading": "しょこう",
+      "ruby": {
+        "base": "諸侯",
+        "reading": "しょこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "抵抗勢力": {
+      "reading": "ていこうせいりょく",
+      "ruby": {
+        "base": "抵抗勢力",
+        "reading": "ていこうせいりょく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "列強": {
+      "reading": "れっきょう",
+      "ruby": {
+        "base": "列強",
+        "reading": "れっきょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "進出期": {
+      "reading": "しんしゅつき",
+      "ruby": {
+        "base": "進出期",
+        "reading": "しんしゅつき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "帝政": {
+      "reading": "ていせい",
+      "ruby": {
+        "base": "帝政",
+        "reading": "ていせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "共和政": {
+      "reading": "きょうわせい",
+      "ruby": {
+        "base": "共和政",
+        "reading": "きょうわせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "儒教": {
+      "reading": "じゅきょう",
+      "ruby": {
+        "base": "儒教",
+        "reading": "じゅきょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "仏教": {
+      "reading": "ぶっきょう",
+      "ruby": {
+        "base": "仏教",
+        "reading": "ぶっきょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "律令": {
+      "reading": "りつりょう",
+      "ruby": {
+        "base": "律令",
+        "reading": "りつりょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "植民地支配": {
+      "reading": "しょくみんちしはい",
+      "ruby": {
+        "base": "植民地支配",
+        "reading": "しょくみんちしはい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "先住民": {
+      "reading": "せんじゅうみん",
+      "ruby": {
+        "base": "先住民",
+        "reading": "せんじゅうみん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "奴隷貿易": {
+      "reading": "どれいぼうえき",
+      "ruby": {
+        "base": "奴隷貿易",
+        "reading": "どれいぼうえき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "奴隷制": {
+      "reading": "どれいせい",
+      "ruby": {
+        "base": "奴隷制",
+        "reading": "どれいせい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "奴隷制廃止運動": {
+      "reading": "どれいせいはいしうんどう",
+      "ruby": {
+        "base": "奴隷制廃止運動",
+        "reading": "どれいせいはいしうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "大西洋奴隷貿易": {
+      "reading": "たいせいようどれいぼうえき",
+      "ruby": {
+        "base": "大西洋奴隷貿易",
+        "reading": "たいせいようどれいぼうえき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "迫害": {
+      "reading": "はくがい",
+      "ruby": {
+        "base": "迫害",
+        "reading": "はくがい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "独裁": {
+      "reading": "どくさい",
+      "ruby": {
+        "base": "独裁",
+        "reading": "どくさい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "枢軸国": {
+      "reading": "すうじくこく",
+      "ruby": {
+        "base": "枢軸国",
+        "reading": "すうじくこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "中央同盟国": {
+      "reading": "ちゅうおうどうめいこく",
+      "ruby": {
+        "base": "中央同盟国",
+        "reading": "ちゅうおうどうめいこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "戦間期": {
+      "reading": "せんかんき",
+      "ruby": {
+        "base": "戦間期",
+        "reading": "せんかんき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "拮抗": {
+      "reading": "きっこう",
+      "ruby": {
+        "base": "拮抗",
+        "reading": "きっこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "均衡": {
+      "reading": "きんこう",
+      "ruby": {
+        "base": "均衡",
+        "reading": "きんこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "帝国主義": {
+      "reading": "ていこくしゅぎ",
+      "ruby": {
+        "base": "帝国主義",
+        "reading": "ていこくしゅぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "大航海時代": {
+      "reading": "だいこうかいじだい",
+      "ruby": {
+        "base": "大航海時代",
+        "reading": "だいこうかいじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "航路開拓": {
+      "reading": "こうろかいたく",
+      "ruby": {
+        "base": "航路開拓",
+        "reading": "こうろかいたく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "征服": {
+      "reading": "せいふく",
+      "ruby": {
+        "base": "征服",
+        "reading": "せいふく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "香辛料": {
+      "reading": "こうしんりょう",
+      "ruby": {
+        "base": "香辛料",
+        "reading": "こうしんりょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "国際連盟": {
+      "reading": "こくさいれんめい",
+      "ruby": {
+        "base": "国際連盟",
+        "reading": "こくさいれんめい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "国際社会主義運動": {
+      "reading": "こくさいしゃかいしゅぎうんどう",
+      "ruby": {
+        "base": "国際社会主義運動",
+        "reading": "こくさいしゃかいしゅぎうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "非同盟運動": {
+      "reading": "ひどうめいうんどう",
+      "ruby": {
+        "base": "非同盟運動",
+        "reading": "ひどうめいうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "公民権運動": {
+      "reading": "こうみんけんうんどう",
+      "ruby": {
+        "base": "公民権運動",
+        "reading": "こうみんけんうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "参政権": {
+      "reading": "さんせいけん",
+      "ruby": {
+        "base": "参政権",
+        "reading": "さんせいけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "女性参政権運動": {
+      "reading": "じょせいさんせいけんうんどう",
+      "ruby": {
+        "base": "女性参政権運動",
+        "reading": "じょせいさんせいけんうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "反植民地運動": {
+      "reading": "はんしょくみんちうんどう",
+      "ruby": {
+        "base": "反植民地運動",
+        "reading": "はんしょくみんちうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "気候変動対策運動": {
+      "reading": "きこうへんどうたいさくうんどう",
+      "ruby": {
+        "base": "気候変動対策運動",
+        "reading": "きこうへんどうたいさくうんどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "世界恐慌": {
+      "reading": "せかいきょうこう",
+      "ruby": {
+        "base": "世界恐慌",
+        "reading": "せかいきょうこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "地球規模": {
+      "reading": "ちきゅうきぼ",
+      "ruby": {
+        "base": "地球規模",
+        "reading": "ちきゅうきぼ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "古王国": {
+      "reading": "こおうこく",
+      "ruby": {
+        "base": "古王国",
+        "reading": "こおうこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "中王国": {
+      "reading": "ちゅうおうこく",
+      "ruby": {
+        "base": "中王国",
+        "reading": "ちゅうおうこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "新王国": {
+      "reading": "しんおうこく",
+      "ruby": {
+        "base": "新王国",
+        "reading": "しんおうこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "大英帝国": {
+      "reading": "だいえいていこく",
+      "ruby": {
+        "base": "大英帝国",
+        "reading": "だいえいていこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "大日本帝国戦時期": {
+      "reading": "だいにほんていこくせんじき",
+      "ruby": {
+        "base": "大日本帝国戦時期",
+        "reading": "だいにほんていこくせんじき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "十六大国": {
+      "reading": "じゅうろくだいこく",
+      "ruby": {
+        "base": "十六大国",
+        "reading": "じゅうろくだいこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "朝鮮三国時代": {
+      "reading": "ちょうせんさんごくじだい",
+      "ruby": {
+        "base": "朝鮮三国時代",
+        "reading": "ちょうせんさんごくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "地中海": {
+      "reading": "ちちゅうかい",
+      "ruby": {
+        "base": "地中海",
+        "reading": "ちちゅうかい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "文化圏": {
+      "reading": "ぶんかけん",
+      "ruby": {
+        "base": "文化圏",
+        "reading": "ぶんかけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "港市": {
+      "reading": "こうし",
+      "ruby": {
+        "base": "港市",
+        "reading": "こうし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "再編": {
+      "reading": "さいへん",
+      "ruby": {
+        "base": "再編",
+        "reading": "さいへん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "国際機関": {
+      "reading": "こくさいきかん",
+      "ruby": {
+        "base": "国際機関",
+        "reading": "こくさいきかん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "共同体": {
+      "reading": "きょうどうたい",
+      "ruby": {
+        "base": "共同体",
+        "reading": "きょうどうたい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "中華人民共和国": {
+      "reading": "ちゅうかじんみんきょうわこく",
+      "ruby": {
+        "base": "中華人民共和国",
+        "reading": "ちゅうかじんみんきょうわこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "蜀": {
+      "reading": "しょく",
+      "ruby": {
+        "base": "蜀",
+        "reading": "しょく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "呉": {
+      "reading": "ご",
+      "ruby": {
+        "base": "呉",
+        "reading": "ご",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "並立": {
+      "reading": "へいりつ",
+      "ruby": {
+        "base": "並立",
+        "reading": "へいりつ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "民族移動": {
+      "reading": "みんぞくいどう",
+      "ruby": {
+        "base": "民族移動",
+        "reading": "みんぞくいどう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "南北朝": {
+      "reading": "なんぼくちょう",
+      "ruby": {
+        "base": "南北朝",
+        "reading": "なんぼくちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "三十年戦争": {
+      "reading": "さんじゅうねんせんそう",
+      "ruby": {
+        "base": "三十年戦争",
+        "reading": "さんじゅうねんせんそう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "宗教改革": {
+      "reading": "しゅうきょうかいかく",
+      "ruby": {
+        "base": "宗教改革",
+        "reading": "しゅうきょうかいかく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "study"
+      ]
+    },
+    "夏王朝": {
+      "reading": "かおうちょう",
+      "ruby": {
+        "base": "夏王朝",
+        "reading": "かおうちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "周王朝": {
+      "reading": "しゅうおうちょう",
+      "ruby": {
+        "base": "周王朝",
+        "reading": "しゅうおうちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "三国時代": {
+      "reading": "さんごくじだい",
+      "ruby": {
+        "base": "三国時代",
+        "reading": "さんごくじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "奈良時代": {
+      "reading": "ならじだい",
+      "ruby": {
+        "base": "奈良時代",
+        "reading": "ならじだい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "南朝": {
+      "reading": "なんちょう",
+      "ruby": {
+        "base": "南朝",
+        "reading": "なんちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "大韓帝国": {
+      "reading": "だいかんていこく",
+      "ruby": {
+        "base": "大韓帝国",
+        "reading": "だいかんていこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "中華民国初期": {
+      "reading": "ちゅうかみんこくしょき",
+      "ruby": {
+        "base": "中華民国初期",
+        "reading": "ちゅうかみんこくしょき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "中国国民政府": {
+      "reading": "ちゅうごくこくみんせいふ",
+      "ruby": {
+        "base": "中国国民政府",
+        "reading": "ちゅうごくこくみんせいふ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "満州国": {
+      "reading": "まんしゅうこく",
+      "ruby": {
+        "base": "満州国",
+        "reading": "まんしゅうこく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "明治日本": {
+      "reading": "めいじにほん",
+      "ruby": {
+        "base": "明治日本",
+        "reading": "めいじにほん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "江戸幕府": {
+      "reading": "えどばくふ",
+      "ruby": {
+        "base": "江戸幕府",
+        "reading": "えどばくふ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "夏": {
+      "reading": "か",
+      "ruby": {
+        "base": "夏",
+        "reading": "か",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "殷": {
+      "reading": "いん",
+      "ruby": {
+        "base": "殷",
+        "reading": "いん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "周": {
+      "reading": "しゅう",
+      "ruby": {
+        "base": "周",
+        "reading": "しゅう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "秦": {
+      "reading": "しん",
+      "ruby": {
+        "base": "秦",
+        "reading": "しん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "漢": {
+      "reading": "かん",
+      "ruby": {
+        "base": "漢",
+        "reading": "かん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "楚": {
+      "reading": "そ",
+      "ruby": {
+        "base": "楚",
+        "reading": "そ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "魏": {
+      "reading": "ぎ",
+      "ruby": {
+        "base": "魏",
+        "reading": "ぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "晋": {
+      "reading": "しん",
+      "ruby": {
+        "base": "晋",
+        "reading": "しん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "隋": {
+      "reading": "ずい",
+      "ruby": {
+        "base": "隋",
+        "reading": "ずい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "唐": {
+      "reading": "とう",
+      "ruby": {
+        "base": "唐",
+        "reading": "とう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "宋": {
+      "reading": "そう",
+      "ruby": {
+        "base": "宋",
+        "reading": "そう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "元": {
+      "reading": "げん",
+      "ruby": {
+        "base": "元",
+        "reading": "げん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "明": {
+      "reading": "みん",
+      "ruby": {
+        "base": "明",
+        "reading": "みん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "清": {
+      "reading": "しん",
+      "ruby": {
+        "base": "清",
+        "reading": "しん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "金": {
+      "reading": "きん",
+      "ruby": {
+        "base": "金",
+        "reading": "きん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "遼": {
+      "reading": "りょう",
+      "ruby": {
+        "base": "遼",
+        "reading": "りょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    "一休宗純": {
+      "reading": "いっきゅうそうじゅん",
+      "ruby": {
+        "base": "一休宗純",
+        "reading": "いっきゅうそうじゅん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "世宗": {
+      "reading": "せじょん",
+      "ruby": {
+        "base": "世宗",
+        "reading": "せじょん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "伊藤博文": {
+      "reading": "いとうひろぶみ",
+      "ruby": {
+        "base": "伊藤博文",
+        "reading": "いとうひろぶみ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "光緒帝": {
+      "reading": "こうしょてい",
+      "ruby": {
+        "base": "光緒帝",
+        "reading": "こうしょてい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "則天武后": {
+      "reading": "そくてんぶこう",
+      "ruby": {
+        "base": "則天武后",
+        "reading": "そくてんぶこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "劉備": {
+      "reading": "りゅうび",
+      "ruby": {
+        "base": "劉備",
+        "reading": "りゅうび",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "劉邦": {
+      "reading": "りゅうほう",
+      "ruby": {
+        "base": "劉邦",
+        "reading": "りゅうほう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "北条時宗": {
+      "reading": "ほうじょうときむね",
+      "ruby": {
+        "base": "北条時宗",
+        "reading": "ほうじょうときむね",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "卑弥呼": {
+      "reading": "ひみこ",
+      "ruby": {
+        "base": "卑弥呼",
+        "reading": "ひみこ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "司馬光": {
+      "reading": "しばこう",
+      "ruby": {
+        "base": "司馬光",
+        "reading": "しばこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "司馬遷": {
+      "reading": "しばせん",
+      "ruby": {
+        "base": "司馬遷",
+        "reading": "しばせん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "呂后": {
+      "reading": "りょこう",
+      "ruby": {
+        "base": "呂后",
+        "reading": "りょこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "周恩来": {
+      "reading": "しゅうおんらい",
+      "ruby": {
+        "base": "周恩来",
+        "reading": "しゅうおんらい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "夏目漱石": {
+      "reading": "なつめそうせき",
+      "ruby": {
+        "base": "夏目漱石",
+        "reading": "なつめそうせき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "大久保利通": {
+      "reading": "おおくぼとしみち",
+      "ruby": {
+        "base": "大久保利通",
+        "reading": "おおくぼとしみち",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "大坂なおみ": {
+      "reading": "おおさかなおみ",
+      "ruby": {
+        "base": "大坂なおみ",
+        "reading": "おおさかなおみ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "大隅良典": {
+      "reading": "おおすみよしのり",
+      "ruby": {
+        "base": "大隅良典",
+        "reading": "おおすみよしのり",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "太宗": {
+      "reading": "たいそう",
+      "ruby": {
+        "base": "太宗",
+        "reading": "たいそう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "孟子": {
+      "reading": "もうし",
+      "ruby": {
+        "base": "孟子",
+        "reading": "もうし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "安禄山": {
+      "reading": "あんろくざん",
+      "ruby": {
+        "base": "安禄山",
+        "reading": "あんろくざん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "宋慶齢": {
+      "reading": "そうけいれい",
+      "ruby": {
+        "base": "宋慶齢",
+        "reading": "そうけいれい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "宮崎駿": {
+      "reading": "みやざきはやお",
+      "ruby": {
+        "base": "宮崎駿",
+        "reading": "みやざきはやお",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "山中伸弥": {
+      "reading": "やまなかしんや",
+      "ruby": {
+        "base": "山中伸弥",
+        "reading": "やまなかしんや",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "山本五十六": {
+      "reading": "やまもといそろく",
+      "ruby": {
+        "base": "山本五十六",
+        "reading": "やまもといそろく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "山田長政": {
+      "reading": "やまだながまさ",
+      "ruby": {
+        "base": "山田長政",
+        "reading": "やまだながまさ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "岳飛": {
+      "reading": "がくひ",
+      "ruby": {
+        "base": "岳飛",
+        "reading": "がくひ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "康有為": {
+      "reading": "こうゆうい",
+      "ruby": {
+        "base": "康有為",
+        "reading": "こうゆうい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "張衡": {
+      "reading": "ちょうこう",
+      "ruby": {
+        "base": "張衡",
+        "reading": "ちょうこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "張騫": {
+      "reading": "ちょうけん",
+      "ruby": {
+        "base": "張騫",
+        "reading": "ちょうけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "徳川家康": {
+      "reading": "とくがわいえやす",
+      "ruby": {
+        "base": "徳川家康",
+        "reading": "とくがわいえやす",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "忽必烈": {
+      "reading": "ふびらい",
+      "ruby": {
+        "base": "忽必烈",
+        "reading": "ふびらい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "慧遠": {
+      "reading": "えおん",
+      "ruby": {
+        "base": "慧遠",
+        "reading": "えおん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "手塚治虫": {
+      "reading": "てづかおさむ",
+      "ruby": {
+        "base": "手塚治虫",
+        "reading": "てづかおさむ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "推古天皇": {
+      "reading": "すいこてんのう",
+      "ruby": {
+        "base": "推古天皇",
+        "reading": "すいこてんのう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "支倉常長": {
+      "reading": "はせくらつねなが",
+      "ruby": {
+        "base": "支倉常長",
+        "reading": "はせくらつねなが",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "新羅の善徳女王": {
+      "reading": "しらぎのそんどくじょおう",
+      "ruby": {
+        "base": "新羅の善徳女王",
+        "reading": "しらぎのそんどくじょおう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "昭和天皇": {
+      "reading": "しょうわてんのう",
+      "ruby": {
+        "base": "昭和天皇",
+        "reading": "しょうわてんのう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "曹操": {
+      "reading": "そうそう",
+      "ruby": {
+        "base": "曹操",
+        "reading": "そうそう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "最澄": {
+      "reading": "さいちょう",
+      "ruby": {
+        "base": "最澄",
+        "reading": "さいちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "朝永振一郎": {
+      "reading": "ともながしんいちろう",
+      "ruby": {
+        "base": "朝永振一郎",
+        "reading": "ともながしんいちろう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "木戸孝允": {
+      "reading": "きどたかよし",
+      "ruby": {
+        "base": "木戸孝允",
+        "reading": "きどたかよし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "本庶佑": {
+      "reading": "ほんじょたすく",
+      "ruby": {
+        "base": "本庶佑",
+        "reading": "ほんじょたすく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "朱熹": {
+      "reading": "しゅき",
+      "ruby": {
+        "base": "朱熹",
+        "reading": "しゅき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "杉原千畝": {
+      "reading": "すぎはらちうね",
+      "ruby": {
+        "base": "杉原千畝",
+        "reading": "すぎはらちうね",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "李成桂": {
+      "reading": "りせいけい",
+      "ruby": {
+        "base": "李成桂",
+        "reading": "りせいけい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "李承晩": {
+      "reading": "いすんまん",
+      "ruby": {
+        "base": "李承晩",
+        "reading": "いすんまん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "李斯": {
+      "reading": "りし",
+      "ruby": {
+        "base": "李斯",
+        "reading": "りし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "李白": {
+      "reading": "りはく",
+      "ruby": {
+        "base": "李白",
+        "reading": "りはく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "杜甫": {
+      "reading": "とほ",
+      "ruby": {
+        "base": "杜甫",
+        "reading": "とほ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "東条英機": {
+      "reading": "とうじょうひでき",
+      "ruby": {
+        "base": "東条英機",
+        "reading": "とうじょうひでき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "林則徐": {
+      "reading": "りんそくじょ",
+      "ruby": {
+        "base": "林則徐",
+        "reading": "りんそくじょ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "柳宗元": {
+      "reading": "りゅうそうげん",
+      "ruby": {
+        "base": "柳宗元",
+        "reading": "りゅうそうげん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "梁啓超": {
+      "reading": "りょうけいちょう",
+      "ruby": {
+        "base": "梁啓超",
+        "reading": "りょうけいちょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "楊貴妃": {
+      "reading": "ようきひ",
+      "ruby": {
+        "base": "楊貴妃",
+        "reading": "ようきひ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "武帝": {
+      "reading": "ぶてい",
+      "ruby": {
+        "base": "武帝",
+        "reading": "ぶてい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "毛沢東": {
+      "reading": "もうたくとう",
+      "ruby": {
+        "base": "毛沢東",
+        "reading": "もうたくとう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "法顕": {
+      "reading": "ほっけん",
+      "ruby": {
+        "base": "法顕",
+        "reading": "ほっけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "渋沢栄一": {
+      "reading": "しぶさわえいいち",
+      "ruby": {
+        "base": "渋沢栄一",
+        "reading": "しぶさわえいいち",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "湯川秀樹": {
+      "reading": "ゆかわひでき",
+      "ruby": {
+        "base": "湯川秀樹",
+        "reading": "ゆかわひでき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "溥儀": {
+      "reading": "ふぎ",
+      "ruby": {
+        "base": "溥儀",
+        "reading": "ふぎ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "玄宗": {
+      "reading": "げんそう",
+      "ruby": {
+        "base": "玄宗",
+        "reading": "げんそう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "王安石": {
+      "reading": "おうあんせき",
+      "ruby": {
+        "base": "王安石",
+        "reading": "おうあんせき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "王建": {
+      "reading": "おうけん",
+      "ruby": {
+        "base": "王建",
+        "reading": "おうけん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "王莽": {
+      "reading": "おうもう",
+      "ruby": {
+        "base": "王莽",
+        "reading": "おうもう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "班固": {
+      "reading": "はんこ",
+      "ruby": {
+        "base": "班固",
+        "reading": "はんこ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "班昭": {
+      "reading": "はんしょう",
+      "ruby": {
+        "base": "班昭",
+        "reading": "はんしょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "白居易": {
+      "reading": "はくきょい",
+      "ruby": {
+        "base": "白居易",
+        "reading": "はくきょい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "石原莞爾": {
+      "reading": "いしわらかんじ",
+      "ruby": {
+        "base": "石原莞爾",
+        "reading": "いしわらかんじ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "福沢諭吉": {
+      "reading": "ふくざわゆきち",
+      "ruby": {
+        "base": "福沢諭吉",
+        "reading": "ふくざわゆきち",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "空海": {
+      "reading": "くうかい",
+      "ruby": {
+        "base": "空海",
+        "reading": "くうかい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "織田信長": {
+      "reading": "おだのぶなが",
+      "ruby": {
+        "base": "織田信長",
+        "reading": "おだのぶなが",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "義浄": {
+      "reading": "ぎじょう",
+      "ruby": {
+        "base": "義浄",
+        "reading": "ぎじょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "老子": {
+      "reading": "ろうし",
+      "ruby": {
+        "base": "老子",
+        "reading": "ろうし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "聖徳太子": {
+      "reading": "しょうとくたいし",
+      "ruby": {
+        "base": "聖徳太子",
+        "reading": "しょうとくたいし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "荀子": {
+      "reading": "じゅんし",
+      "ruby": {
+        "base": "荀子",
+        "reading": "じゅんし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "荘子": {
+      "reading": "そうし",
+      "ruby": {
+        "base": "荘子",
+        "reading": "そうし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "華佗": {
+      "reading": "かだ",
+      "ruby": {
+        "base": "華佗",
+        "reading": "かだ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "蒋介石": {
+      "reading": "しょうかいせき",
+      "ruby": {
+        "base": "蒋介石",
+        "reading": "しょうかいせき",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "蔡倫": {
+      "reading": "さいりん",
+      "ruby": {
+        "base": "蔡倫",
+        "reading": "さいりん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "蘇軾": {
+      "reading": "そしょく",
+      "ruby": {
+        "base": "蘇軾",
+        "reading": "そしょく",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "袁世凱": {
+      "reading": "えんせいがい",
+      "ruby": {
+        "base": "袁世凱",
+        "reading": "えんせいがい",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "西太后": {
+      "reading": "せいたいごう",
+      "ruby": {
+        "base": "西太后",
+        "reading": "せいたいごう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "西郷隆盛": {
+      "reading": "さいごうたかもり",
+      "ruby": {
+        "base": "西郷隆盛",
+        "reading": "さいごうたかもり",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "諸葛亮": {
+      "reading": "しょかつりょう",
+      "ruby": {
+        "base": "諸葛亮",
+        "reading": "しょかつりょう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "豊臣秀吉": {
+      "reading": "とよとみひでよし",
+      "ruby": {
+        "base": "豊臣秀吉",
+        "reading": "とよとみひでよし",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "足利義満": {
+      "reading": "あしかがよしみつ",
+      "ruby": {
+        "base": "足利義満",
+        "reading": "あしかがよしみつ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "近衛文麿": {
+      "reading": "このえふみまろ",
+      "ruby": {
+        "base": "近衛文麿",
+        "reading": "このえふみまろ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "達磨": {
+      "reading": "だるま",
+      "ruby": {
+        "base": "達磨",
+        "reading": "だるま",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "鄭成功": {
+      "reading": "ていせいこう",
+      "ruby": {
+        "base": "鄭成功",
+        "reading": "ていせいこう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "野口英世": {
+      "reading": "のぐちひでよ",
+      "ruby": {
+        "base": "野口英世",
+        "reading": "のぐちひでよ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "金日成": {
+      "reading": "きむいるそん",
+      "ruby": {
+        "base": "金日成",
+        "reading": "きむいるそん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "鑑真": {
+      "reading": "がんじん",
+      "ruby": {
+        "base": "鑑真",
+        "reading": "がんじん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "韓愈": {
+      "reading": "かんゆ",
+      "ruby": {
+        "base": "韓愈",
+        "reading": "かんゆ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "韓非": {
+      "reading": "かんぴ",
+      "ruby": {
+        "base": "韓非",
+        "reading": "かんぴ",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "項羽": {
+      "reading": "こうう",
+      "ruby": {
+        "base": "項羽",
+        "reading": "こうう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "魯迅": {
+      "reading": "ろじん",
+      "ruby": {
+        "base": "魯迅",
+        "reading": "ろじん",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "鳩摩羅什": {
+      "reading": "くまらじゅう",
+      "ruby": {
+        "base": "鳩摩羅什",
+        "reading": "くまらじゅう",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    },
+    "黒澤明": {
+      "reading": "くろさわあきら",
+      "ruby": {
+        "base": "黒澤明",
+        "reading": "くろさわあきら",
+        "mode": "whole-term"
+      },
+      "scopes": [
+        "person"
+      ]
+    }
+  }
+}

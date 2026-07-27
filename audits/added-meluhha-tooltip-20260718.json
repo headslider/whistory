@@ -1,0 +1,11 @@
+{
+  "date": "2026-07-18",
+  "change": "メルッハのツールチップ追加",
+  "files": [
+    "data/learning-terms.json",
+    "data/learning-terms.js"
+  ],
+  "backup": "data-backups/add-meluhha-tooltip-20260718-202500",
+  "verification": "scripts/verify-static.ps1 passed: Static verification passed: 822 learning terms",
+  "note": "カタカナ語のためルビは追加せず、tooltipのみ追加。本文 history-content 内の「メルッハ」がツールチップ対象になる。"
+}

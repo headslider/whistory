@@ -1,0 +1,251 @@
+{
+  "generatedAt": "2026-07-17T05:20:56.676Z",
+  "addedOrUpdatedCount": 49,
+  "entries": [
+    {
+      "term": "孔子",
+      "reading": "こうし",
+      "kind": "person-name"
+    },
+    {
+      "term": "始皇帝",
+      "reading": "しこうてい",
+      "kind": "person-name"
+    },
+    {
+      "term": "玄奘",
+      "reading": "げんじょう",
+      "kind": "person-name"
+    },
+    {
+      "term": "鄭和",
+      "reading": "ていわ",
+      "kind": "person-name"
+    },
+    {
+      "term": "孫文",
+      "reading": "そんぶん",
+      "kind": "person-name"
+    },
+    {
+      "term": "釈迦",
+      "reading": "しゃか",
+      "kind": "person-name"
+    },
+    {
+      "term": "鄧小平",
+      "reading": "とうしょうへい",
+      "kind": "person-name"
+    },
+    {
+      "term": "太宗",
+      "reading": "たいそう",
+      "kind": "person-name"
+    },
+    {
+      "term": "則天武后",
+      "reading": "そくてんぶこう",
+      "kind": "person-name"
+    },
+    {
+      "term": "玄宗",
+      "reading": "げんそう",
+      "kind": "person-name"
+    },
+    {
+      "term": "楊貴妃",
+      "reading": "ようきひ",
+      "kind": "person-name"
+    },
+    {
+      "term": "安禄山",
+      "reading": "あんろくざん",
+      "kind": "person-name"
+    },
+    {
+      "term": "杜甫",
+      "reading": "とほ",
+      "kind": "person-name"
+    },
+    {
+      "term": "李白",
+      "reading": "りはく",
+      "kind": "person-name"
+    },
+    {
+      "term": "白居易",
+      "reading": "はくきょい",
+      "kind": "person-name"
+    },
+    {
+      "term": "韓愈",
+      "reading": "かんゆ",
+      "kind": "person-name"
+    },
+    {
+      "term": "柳宗元",
+      "reading": "りゅうそうげん",
+      "kind": "person-name"
+    },
+    {
+      "term": "王安石",
+      "reading": "おうあんせき",
+      "kind": "person-name"
+    },
+    {
+      "term": "荘子",
+      "reading": "そうし",
+      "kind": "person-name"
+    },
+    {
+      "term": "司馬光",
+      "reading": "しばこう",
+      "kind": "person-name"
+    },
+    {
+      "term": "老子",
+      "reading": "ろうし",
+      "kind": "person-name"
+    },
+    {
+      "term": "蘇軾",
+      "reading": "そしょく",
+      "kind": "person-name"
+    },
+    {
+      "term": "孟子",
+      "reading": "もうし",
+      "kind": "person-name"
+    },
+    {
+      "term": "鳩摩羅什",
+      "reading": "くまらじゅう",
+      "kind": "person-name"
+    },
+    {
+      "term": "朱熹",
+      "reading": "しゅき",
+      "kind": "person-name"
+    },
+    {
+      "term": "荀子",
+      "reading": "じゅんし",
+      "kind": "person-name"
+    },
+    {
+      "term": "達磨",
+      "reading": "だるま",
+      "kind": "person-name"
+    },
+    {
+      "term": "岳飛",
+      "reading": "がくひ",
+      "kind": "person-name"
+    },
+    {
+      "term": "山本五十六",
+      "reading": "やまもといそろく",
+      "kind": "person-name"
+    },
+    {
+      "term": "韓非",
+      "reading": "かんぴ",
+      "kind": "person-name"
+    },
+    {
+      "term": "慧遠",
+      "reading": "えおん",
+      "kind": "person-name"
+    },
+    {
+      "term": "忽必烈",
+      "reading": "ふびらい",
+      "kind": "person-name"
+    },
+    {
+      "term": "東条英機",
+      "reading": "とうじょうひでき",
+      "kind": "person-name"
+    },
+    {
+      "term": "大王",
+      "reading": "だいおう",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "大帝",
+      "reading": "たいてい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "航海王子",
+      "reading": "こうかいおうじ",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "王子",
+      "reading": "おうじ",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "賢公",
+      "reading": "けんこう",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "武后",
+      "reading": "ぶこう",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "貴妃",
+      "reading": "きひ",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "皇帝",
+      "reading": "こうてい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "1世",
+      "reading": "いっせい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "2世",
+      "reading": "にせい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "3世",
+      "reading": "さんせい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "4世",
+      "reading": "よんせい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "5世",
+      "reading": "ごせい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "8世",
+      "reading": "はっせい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "14世",
+      "reading": "じゅうよんせい",
+      "kind": "person-name-part"
+    },
+    {
+      "term": "16世",
+      "reading": "じゅうろくせい",
+      "kind": "person-name-part"
+    }
+  ]
+}

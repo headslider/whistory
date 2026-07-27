@@ -1,0 +1,195 @@
+{
+  "remainingForbidden": [],
+  "tooltipOnly": [
+    {
+      "term": "列強",
+      "hasTooltip": true,
+      "hasRuby": false
+    },
+    {
+      "term": "先住民",
+      "hasTooltip": true,
+      "hasRuby": false
+    },
+    {
+      "term": "戦間期",
+      "hasTooltip": true,
+      "hasRuby": false
+    },
+    {
+      "term": "港市",
+      "hasTooltip": true,
+      "hasRuby": false
+    },
+    {
+      "term": "民族移動",
+      "hasTooltip": true,
+      "hasRuby": false
+    },
+    {
+      "term": "市民政治",
+      "hasTooltip": true,
+      "hasRuby": false
+    },
+    {
+      "term": "不平等条約",
+      "hasTooltip": true,
+      "hasRuby": false
+    },
+    {
+      "term": "北大西洋条約機構",
+      "hasTooltip": true,
+      "hasRuby": false
+    }
+  ],
+  "oneCharManaged": [
+    {
+      "term": "蜀",
+      "reading": "しょく",
+      "scopes": [
+        "study"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "呉",
+      "reading": "ご",
+      "scopes": [
+        "study"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "夏",
+      "reading": "か",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "殷",
+      "reading": "いん",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "周",
+      "reading": "しゅう",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "秦",
+      "reading": "しん",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "漢",
+      "reading": "かん",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "楚",
+      "reading": "そ",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "魏",
+      "reading": "ぎ",
+      "scopes": [
+        "kingdom",
+        "study"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "晋",
+      "reading": "しん",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "隋",
+      "reading": "ずい",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "唐",
+      "reading": "とう",
+      "scopes": [
+        "kingdom",
+        "study"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "宋",
+      "reading": "そう",
+      "scopes": [
+        "kingdom",
+        "study"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "元",
+      "reading": "げん",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "明",
+      "reading": "みん",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "清",
+      "reading": "しん",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "金",
+      "reading": "きん",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    },
+    {
+      "term": "遼",
+      "reading": "りょう",
+      "scopes": [
+        "kingdom"
+      ],
+      "hasTooltip": false
+    }
+  ],
+  "total": 793
+}

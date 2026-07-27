@@ -1,0 +1,167 @@
+{
+  "method": "candidate folder images compared against all assets/people images; 96px RGB MAE <= 4.0 means already saved in assets",
+  "candidateFolder": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ",
+  "assetFolder": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people",
+  "candidateFolderImageCount": 189,
+  "assetImageCount": 393,
+  "alreadyExistsInAssets": 167,
+  "notFoundInAssets": 22,
+  "candidateReadErrors": [],
+  "assetReadErrors": [],
+  "notFoundImages": [
+    {
+      "name": "ChatGPT Image 2026年7月16日 19_39_31.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 19_39_31.png",
+      "bestMae": 31.907,
+      "nearestAsset": "person-9a6aa60aa5.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9a6aa60aa5.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月16日 19_50_02.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 19_50_02.png",
+      "bestMae": 39.888,
+      "nearestAsset": "person-fa993cfb81.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fa993cfb81.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月16日 22_42_34.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月16日 22_42_34.png",
+      "bestMae": 27.924,
+      "nearestAsset": "person-fdc746fddd.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fdc746fddd.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月17日 08_06_36.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月17日 08_06_36.png",
+      "bestMae": 40.595,
+      "nearestAsset": "person-e10c617704.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-e10c617704.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月17日 14_17_25.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月17日 14_17_25.png",
+      "bestMae": 38.916,
+      "nearestAsset": "person-ab1c64034b.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-ab1c64034b.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 02_27_57.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_27_57.png",
+      "bestMae": 31.934,
+      "nearestAsset": "person-b128c0aae5.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-b128c0aae5.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 02_52_25.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_52_25.png",
+      "bestMae": 36.494,
+      "nearestAsset": "person-9f857af814.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9f857af814.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 02_57_18.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 02_57_18.png",
+      "bestMae": 37.562,
+      "nearestAsset": "person-fd6656d191.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-fd6656d191.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 03_01_55.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 03_01_55.png",
+      "bestMae": 35.853,
+      "nearestAsset": "person-9b84e7a0e2.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-9b84e7a0e2.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 08_57_38.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 08_57_38.png",
+      "bestMae": 32.605,
+      "nearestAsset": "person-547e05b8b9.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-547e05b8b9.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_15_14.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_15_14.png",
+      "bestMae": 44.474,
+      "nearestAsset": "person-555618cb1b.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-555618cb1b.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_15_54.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_15_54.png",
+      "bestMae": 37.147,
+      "nearestAsset": "person-50d7071b0b.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-50d7071b0b.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_17_12.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_17_12.png",
+      "bestMae": 40.377,
+      "nearestAsset": "person-2a1b09d78c.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2a1b09d78c.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_34_50.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_34_50.png",
+      "bestMae": 42.165,
+      "nearestAsset": "person-7294fab46e.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7294fab46e.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_38_45.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_38_45.png",
+      "bestMae": 41.114,
+      "nearestAsset": "person-2bdfcc418c.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-2bdfcc418c.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_40_58.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_40_58.png",
+      "bestMae": 34.803,
+      "nearestAsset": "person-6f3b31a3ab.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-6f3b31a3ab.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_44_02.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_44_02.png",
+      "bestMae": 34.699,
+      "nearestAsset": "person-f8d7bd726d.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f8d7bd726d.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 09_45_51.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 09_45_51.png",
+      "bestMae": 37.583,
+      "nearestAsset": "person-f8d7bd726d.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-f8d7bd726d.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 10_05_59.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_05_59.png",
+      "bestMae": 34.587,
+      "nearestAsset": "person-7294fab46e.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7294fab46e.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 10_08_12.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_08_12.png",
+      "bestMae": 40.109,
+      "nearestAsset": "person-50d7071b0b.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-50d7071b0b.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 10_14_41.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 10_14_41.png",
+      "bestMae": 34.434,
+      "nearestAsset": "person-7294fab46e.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-7294fab46e.webp"
+    },
+    {
+      "name": "ChatGPT Image 2026年7月18日 20_14_54.png",
+      "path": "\\\\LS720DD35\\Family\\永人\\歴史学習教材\\世界史\\人物データ\\ChatGPT Image 2026年7月18日 20_14_54.png",
+      "bestMae": 43.992,
+      "nearestAsset": "person-3b825e131f.webp",
+      "nearestAssetPath": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-3b825e131f.webp"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "count": 11,
+  "candidates": [
+    {
+      "term": "列強",
+      "reading": "れっきょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "進出期",
+      "reading": "しんしゅつき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 3
+    },
+    {
+      "term": "先住民",
+      "reading": "せんじゅうみん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 3
+    },
+    {
+      "term": "戦間期",
+      "reading": "せんかんき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 3
+    },
+    {
+      "term": "港市",
+      "reading": "こうし",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "民族移動",
+      "reading": "みんぞくいどう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "文化交流",
+      "reading": "ぶんかこうりゅう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "国際協力",
+      "reading": "こくさいきょうりょく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "市民政治",
+      "reading": "しみんせいじ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "不平等条約",
+      "reading": "ふびょうどうじょうやく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 5
+    },
+    {
+      "term": "北大西洋条約機構",
+      "reading": "きただいせいようじょうやくきこう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 8
+    }
+  ]
+}

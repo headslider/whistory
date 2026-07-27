@@ -1,0 +1,1409 @@
+[
+  {
+    "term": "共和政",
+    "count": 106,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.2.eras.0.cards.event.summary => 民主政、共和政、帝国、仏教の広がり、万里の長城、ローマ法など、後の世界にも残るしくみや考えが生まれました"
+  },
+  {
+    "term": "民主主義",
+    "count": 23,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "peopleByName:ワンガリ・マータイ.modal.profile => を始めた環境活動家です。森を守ることを、土、水、女性の仕事、民主主義と結び付けて考え、ノーベル平和賞を受けました。個人の行動が多くの人を動かし、法律や社会の常"
+  },
+  {
+    "term": "奴隷制",
+    "count": 23,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.detail => 命、アメリカ独立革命、フランス革命、ラテンアメリカ独立運動、奴隷制廃止運動、憲法と議会を求める動きです。"
+  },
+  {
+    "term": "大西洋革命",
+    "count": 20,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:124.region => 大西洋革命"
+  },
+  {
+    "term": "国家・政",
+    "count": 20,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:173.type => 国家・政権"
+  },
+  {
+    "term": "律令制度",
+    "count": 18,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:75.text => 五胡十六国は東アジアで力を持った王朝・国家です。仏教や儒教、律令制度が広がり、東アジアの国々が交流しながら制度を整えました。"
+  },
+  {
+    "term": "民主政",
+    "count": 16,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.cards.event.summary => 民主政、共和政、帝国、仏教の広がり、万里の長城、ローマ法など、後の世界にも残るしくみや考えが生ま"
+  },
+  {
+    "term": "社会主義",
+    "count": 14,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.1.text => た。タンザニアのジュリウス・ニエレレは農村共同体を基礎とする社会主義開発を進めましたが、生産停滞も生じました。独立国は教育、保健、産業育成を進める一方、植民地"
+  },
+  {
+    "term": "王朝政",
+    "count": 14,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フレグ.modal.profile => フレグは東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表し"
+  },
+  {
+    "term": "独裁体制",
+    "count": 10,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:168.text => 第二次大戦は第二次世界大戦の勢力で力を持った同盟・国家です。独裁体制、侵略、抵抗、総力戦が世界に広がり、戦後の国際秩序を大きく変えました。"
+  },
+  {
+    "term": "女性参政",
+    "count": 9,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.cards.event.summary => 帝国主義、アジア・アフリカ分割、明治維新、科学技術の発展、女性参政権運動などが世界各地で進みました。"
+  },
+  {
+    "term": "軍事・経済・思想",
+    "count": 8,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョン・F・ケネディ.modal.profile => 二次世界大戦後にアメリカとソ連が直接の全面戦争を避けながら、軍事・経済・思想で対立した状態です。その活動は、社会の中で見過ごされていた差別や貧困、権利の問題を広く知ら"
+  },
+  {
+    "term": "革命政",
+    "count": 8,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ダントン.modal.profile => フランス革命期の政治家です。外国軍の侵入に対して革命政府をまとめましたが、のちに恐怖政治を弱めようとしてロベスピエールと対立し、処刑されました。"
+  },
+  {
+    "term": "市民政",
+    "count": 7,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.cards.event.detail => たい地域別のできごとは、ペルシャ帝国の多民族支配、ギリシャの市民政治、ローマ帝国の地中海支配、秦と漢の中国統一、アショーカ王と仏教保護です。"
+  },
+  {
+    "term": "辛亥革命",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => ました。清では孫文が王朝打倒と共和国建設を唱え、1911年の辛亥革命後に中華民国成立へ関わりました。両国の違いは文化の優劣ではなく、国内政治、財政、改革勢力、"
+  },
+  {
+    "term": "議会政",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.5.text => 持つ女性にも教育と市民権が必要だと主張しました。しかし初期の議会政治では財産を持つ男性だけに選挙権が限られ、労働者と女性の参政権獲得にはさらに長い運動が必要"
+  },
+  {
+    "term": "中央集権",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.summary => 欧米の軍事圧力に対し、清は部分改革、日本は中央集権化と工業化を進める"
+  },
+  {
+    "term": "政治思想",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カウティリヤ.modal.profile => 古代インドでチャンドラグプタを助けたと伝えられる政治思想家です。『実利論』では、税、外交、情報、王の務めを細かく考えました。著者や成立時期には研究"
+  },
+  {
+    "term": "中国政",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.cards.event.detail => い地域別のできごとは、インド社会の仏教とヒンドゥー教、儒教と中国政治、キリスト教の公認と国教化、イスラム教の成立と広がり、仏教の東アジア伝来です。"
+  },
+  {
+    "term": "恐怖政",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.text => 。ロベスピエール、ダントン、マラーらが革命を主導しましたが、恐怖政治で多数が処刑されました。その後ナポレオンが権力を握り、革命の法制度を広める一方で皇帝とな"
+  },
+  {
+    "term": "文化大革命",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:毛沢東.modal.profile => 戦に勝ち、1949年に中華人民共和国を建国しました。大躍進や文化大革命は社会に大きな混乱と被害をもたらしました。"
+  },
+  {
+    "term": "ロシア革命",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:レーニン.modal.profile => ロシア革命の指導者です。1917年にボリシェヴィキを率いて政権を取り、ソビエト政権を作りました。土地"
+  },
+  {
+    "term": "山田長政",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "peopleByName:山田長政.name => 山田長政"
+  },
+  {
+    "term": "立憲政",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョン・ロック.modal.profile => れを守れなければ変えられると考えました。アメリカ独立や近代の立憲政治に影響しました。考え方の内容とともに、どのような社会状況からその問いが生まれたのかを理解"
+  },
+  {
+    "term": "フランス第一共和政",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:125.name => フランス第一共和政"
+  },
+  {
+    "term": "フランス第三共和政",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:145.name => フランス第三共和政"
+  },
+  {
+    "term": "スペイン第二共和政",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:175.name => スペイン第二共和政"
+  },
+  {
+    "term": "メキシコ第一帝政",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:128.name => メキシコ第一帝政"
+  },
+  {
+    "term": "国際社会主義",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:161.name => 国際社会主義運動"
+  },
+  {
+    "term": "中国国民政",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:180.name => 中国国民政府"
+  },
+  {
+    "term": "軍人・政",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:シャルル・ド・ゴール.modal.profile => フランスの軍人・政治家です。第二次世界大戦中、ロンドンから自由フランスを呼びかけました。戦後は第五共和政を作"
+  },
+  {
+    "term": "駅伝制",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.0.text => 総督を置き、監察官を派遣して反乱と独立を防ぎました。王の道と駅伝制により、スサから小アジアまで命令や情報を運び、金貨ダリクや一定の税制で経済を支えました。ク"
+  },
+  {
+    "term": "官僚制",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.3.text => 春秋・戦国時代には諸国が鉄製農具、騎兵、官僚制を取り入れて競争し、秦は商鞅の改革によって戸籍、軍功、郡県支配を強めました。秦王政は紀元前"
+  },
+  {
+    "term": "身分制",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.summary => 財政危機と身分制への不満から王政が崩れ、人権宣言・共和政・恐怖政治へ進む"
+  },
+  {
+    "term": "各国政",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.0.text => 銃、重砲、毒ガス、戦車、潜水艦、航空機が大量に使われました。各国政府は徴兵、軍需工場、食料配給、検閲を進め、女性や植民地出身者も生産・輸送・戦闘へ動員されま"
+  },
+  {
+    "term": "差別政",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ネルソン・マンデラ.modal.profile => イトは、南アフリカで人種ごとに居住地や教育、政治参加を分けた差別政策です。成果だけでなく、運動が直面した反対や限界も含めて理解する必要があります。"
+  },
+  {
+    "term": "瑜伽行派・唯識思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 」を論じ、アサンガとヴァスバンドゥは心と認識の働きを説明する瑜伽行派・唯識思想を整えました。僧院は修行の場であるだけでなく、経典研究、教育、巡礼者の宿泊、商人との交流を"
+  },
+  {
+    "term": "州・道路・税制",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.0.summary => アケメネス朝が州・道路・税制を整え、多民族帝国を統治する"
+  },
+  {
+    "term": "ファシズム政",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.2.text => ダヤ人約600万人が殺害されました。ベニート・ムッソリーニのファシズム政権も独裁と対外侵略を進め、国家宣伝と差別法が暴力を正当化しました。"
+  },
+  {
+    "term": "世界人権宣言",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.text => 食料、子どもの支援を担う機関も整えられました。1948年には世界人権宣言が採択され、国家が自国民を扱う問題も国際社会の関心事項とされました。一方、拒否権によって大"
+  },
+  {
+    "term": "非常事態宣言",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:インディラ・ガンディー.modal.profile => 増やす政策や、1971年のバングラデシュ独立に関わりました。非常事態宣言で自由を制限したため、強い指導と民主主義の関係が問われました。成果だけでなく、運動が直面し"
+  },
+  {
+    "term": "第一回三頭政",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:クラッスス.modal.profile => 治家です。スパルタクスの反乱を鎮め、ポンペイウス、カエサルと第一回三頭政治を作りました。東方遠征でパルティアに敗れ、戦死しました。共和政は、世襲の王ではなく、国民"
+  },
+  {
+    "term": "ハイチ革命",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.peopleNote => るため、人物名を無理に追加せず、奴隷にされた人々自身の抵抗、ハイチ革命、議会立法、南北戦争という具体的経路を中心に説明しています。"
+  },
+  {
+    "term": "立法・行政",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.5.text => 利を侵す政府を人民が改めることを認めました。モンテスキューは立法・行政・司法を分けて権力の集中を防ぐ考えを示し、ルソーは主権が人民にあると論じました。これらはア"
+  },
+  {
+    "term": "人種隔離政",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ネルソン・マンデラ.modal.profile => 南アフリカで人種隔離政策アパルトヘイトに反対し、長い投獄を経験した政治家です。解放後は交渉を進め、1994年に同"
+  },
+  {
+    "term": "作家・思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ヴォルテール.modal.profile => フランスの作家・思想家です。宗教の違いを認め、言論の自由や不正な裁判への批判を行いました。王や教会を何でも否定"
+  },
+  {
+    "term": "第五共和政",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:シャルル・ド・ゴール.modal.profile => 世界大戦中、ロンドンから自由フランスを呼びかけました。戦後は第五共和政を作り、大統領としてフランスの政治制度を安定させました。共和政は、世襲の王ではなく、国民や"
+  },
+  {
+    "term": "身分制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.3.text => アフリカでは人口流出と戦争の激化、アメリカでは人種にもとづく身分制度が固定されました。バルトロメ・デ・ラス・カサスは先住民虐待を告発しましたが、初期にはアフリ"
+  },
+  {
+    "term": "三民主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:孫文.modal.profile => た中国の革命家です。民族の独立、民権、生活の安定を柱とする「三民主義」を掲げ、1911年の革命後に臨時大総統となりました。三民主義は、民族の独立、国民の政治参"
+  },
+  {
+    "term": "宗教思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ゾロアスター.modal.profile => 古代イランの宗教思想家とされ、善と悪の選択、正しい考えと言葉と行いを重視する教えを伝えました。実在した時期には"
+  },
+  {
+    "term": "国粋主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ラビンドラナート・タゴール.modal.profile => 自然と自由を大切にする学校を作り、植民地支配への批判と、狭い国粋主義への警戒を示しました。植民地は、外国の政治的・経済的支配を受けた地域です。この人物の活動に"
+  },
+  {
+    "term": "政治体制",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:近衛文麿.modal.profile => 前に内閣を率いました。外交で戦争を避ける交渉に失敗し、国内の政治体制を戦時向けにまとめる動きにも関わりました。"
+  },
+  {
+    "term": "全体主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ハンナ・アーレント.modal.profile => ドイツ出身の政治思想家です。ナチスの迫害を逃れ、全体主義や責任について研究しました。アイヒマン裁判の報告で、命令に従うだけの危うさを論じました。"
+  },
+  {
+    "term": "官僚制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:秦と漢の中国統一.modal.whatHappened => は文字や重さの基準をそろえ、中国を統一しました。漢はその後、官僚制度や儒教、交易を発展させ、東アジアに長く影響する大帝国になりました。この動きは、誰が政治に参"
+  },
+  {
+    "term": "郡県制",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.3.text => 貨幣、度量衡、車輪の幅を統一しました。中央から官吏を派遣する郡県制、道路網、長城の整備によって支配を進めましたが、宮殿・陵墓・土木工事、重税、厳しい刑罰が人"
+  },
+  {
+    "term": "旧制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.text => テスキューの権力分立、ヴォルテールの宗教的寛容など啓蒙思想も旧制度批判を強めました。ルイ16世が三部会を招集すると第三身分は国民議会を結成し、1789年のバ"
+  },
+  {
+    "term": "法制度",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.text => で多数が処刑されました。その後ナポレオンが権力を握り、革命の法制度を広める一方で皇帝となりました。"
+  },
+  {
+    "term": "宥和政",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.4.text => リス首相として対独抗戦を続け、ネヴィル・チェンバレンが進めた宥和政策から方針を転換しました。1941年にはドイツがソ連へ侵攻し、日本が真珠湾を攻撃したことで"
+  },
+  {
+    "term": "経済制",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.text => 期投獄されました。デズモンド・ツツは教会指導者として非暴力、経済制裁、国際的圧力を訴えました。国内の大衆運動、経済制裁、冷戦終結を背景に政府は制度撤廃へ進み"
+  },
+  {
+    "term": "評議会",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:クレイステネス.modal.profile => た政治を改めた政治家です。地域ごとの集団を作り、市民が集会や評議会に参加する仕組みを整え、民主政の基礎を作りました。政策の成果だけでなく、反対勢力との対立や"
+  },
+  {
+    "term": "中央政",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:安禄山.modal.profile => 乱を起こした人物です。反乱は長く続き、多くの人が苦しみ、唐の中央政府は弱まりました。唐が各地の軍に頼りすぎた問題も背景にありました。戦場での行動と、その後の"
+  },
+  {
+    "term": "農奴制",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:エカチェリーナ2世.modal.profile => 帝国の女帝です。啓蒙思想に関心を示しながら、貴族の力を強め、農奴制を維持しました。黒海方面へ領土を広げ、ポーランド分割にも関わりました。"
+  },
+  {
+    "term": "長期政",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フランクリン・ルーズベルト.modal.profile => ディール政策を進め、第二次世界大戦では連合国側を支えました。長期政権で現代アメリカ政治に大きな影響を残しました。"
+  },
+  {
+    "term": "都市・ギルド・大学・議会",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.4.summary => 農業生産と遠隔交易の拡大で都市・ギルド・大学・議会が成長する"
+  },
+  {
+    "term": "人権宣言・共和政・恐怖政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.summary => 財政危機と身分制への不満から王政が崩れ、人権宣言・共和政・恐怖政治へ進む"
+  },
+  {
+    "term": "ハリー・トルーマン政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.4.text => 餓、強制移住によって民間人の死者が急増しました。1945年、ハリー・トルーマン政権は広島・長崎への原子爆弾投下を決定し、日本は降伏しました。戦後は戦争犯罪裁判と占領改革が"
+  },
+  {
+    "term": "工業化・住宅・教育政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.2.peopleNote => 鄧小平は中国の改革開放、リー・クアンユーはシンガポールの工業化・住宅・教育政策を進め、東アジアの発展モデルへ影響しました。"
+  },
+  {
+    "term": "反英・反エジプト政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.1.text => を整えてフランスへ抵抗し、スーダンではムハンマド・アフマドが反英・反エジプト政権を築きました。エチオピアのメネリク2世は武器輸入と外交を進め、1896年のアドワの戦いで"
+  },
+  {
+    "term": "リー・クアンユー政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.2.text => 沿海部を中心に工業化と都市化が加速しました。シンガポールではリー・クアンユー政権が港湾、住宅、教育、外資誘致を整えました。成長によって生活水準は上がりましたが、大気・水"
+  },
+  {
+    "term": "奴隷貿易・奴隷制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.summary => 奴隷にされた人々の抵抗と市民運動が奴隷貿易・奴隷制の廃止を進める"
+  },
+  {
+    "term": "フランス人権宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.5.text => ルソーは主権が人民にあると論じました。これらはアメリカ憲法やフランス人権宣言へ影響し、19世紀には各地で憲法制定、出版の自由、普通選挙、民族統一を求める革命が起こりま"
+  },
+  {
+    "term": "軍事・宗教・行政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マクシミリアン1世.modal.profile => が受けつぐ大帝国の土台を築きました。この統治を通して、王権が軍事・宗教・行政とどのように結びついていたかが分かります。神聖ローマ帝国で「結婚で領土を広げた皇帝」とされ"
+  },
+  {
+    "term": "近代イスラム思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャマールッディーン・アフガーニー.modal.profile => パの支配に対抗すべきだと訴えました。各地で政治運動に関わり、近代イスラム思想に影響しました。教えがどのように弟子や信者へ受け継がれ、地域をこえて広がったのかが重要です"
+  },
+  {
+    "term": "アメリカ独立宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:トマス・ジェファーソン.modal.profile => アメリカ独立宣言の主な起草者で、第三代大統領です。自由と平等を掲げましたが、自身は奴隷を所有していました。"
+  },
+  {
+    "term": "フランス第二帝政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ナポレオン3世.modal.profile => フランス第二帝政の皇帝です。鉄道、銀行、パリ改造を進め、産業化を後押ししました。一方で対外戦争を行い、普仏"
+  },
+  {
+    "term": "ニューディール政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フランクリン・ルーズベルト.modal.profile => アメリカ第32代大統領です。世界恐慌に対してニューディール政策を進め、第二次世界大戦では連合国側を支えました。長期政権で現代アメリカ政治に大きな影響を"
+  },
+  {
+    "term": "軍・属州・財政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.2.text => 内戦が起こりました。アウグストゥスは共和政の制度を残しながら軍・属州・財政を掌握して帝政を始め、地中海世界を一つの支配圏へまとめました。"
+  },
+  {
+    "term": "ビルカバンバ政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.2.text => に処刑してクスコを占領しました。トゥパク・アマル1世が率いたビルカバンバ政権も1572年に滅び、土地接収、強制労働、改宗、感染症で先住民社会は大きく変えられました。"
+  },
+  {
+    "term": "検査・医療体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => 回復を結び付けた植林運動を広げました。感染症対策では、各国の検査・医療体制だけでなく、情報共有、ワクチン開発、公平な供給が必要です。AIは医療診断、翻訳、科学研究、"
+  },
+  {
+    "term": "キリスト教思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アウグスティヌス.modal.profile => 北アフリカのヒッポで司教を務めたキリスト教思想家です。『告白』『神の国』で信仰、人の心、国家を考えました。西ヨーロッパの神学と哲学に長く"
+  },
+  {
+    "term": "大日本帝国憲法",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:伊藤博文.modal.profile => 明治日本の政治家です。初代内閣総理大臣となり、大日本帝国憲法の制定に中心的に関わりました。韓国統監も務め、朝鮮半島への支配拡大にも関わりました。"
+  },
+  {
+    "term": "現代アメリカ政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フランクリン・ルーズベルト.modal.profile => 策を進め、第二次世界大戦では連合国側を支えました。長期政権で現代アメリカ政治に大きな影響を残しました。"
+  },
+  {
+    "term": "シューマン宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ロベール・シューマン.modal.profile => フランスの政治家です。1950年にシューマン宣言を出し、フランスと西ドイツの石炭・鉄鋼共同管理を提案しました。ヨーロッパ統合の出発点を作り"
+  },
+  {
+    "term": "スターリン体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:レフ・ランダウ.modal.profile => 低温物理や量子論を発展させ、理論物理学に大きく貢献しました。スターリン体制下で逮捕された経験もあり、科学と政治の関係を示します。"
+  },
+  {
+    "term": "五百人評議会",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.1.text => 参加を認めました。クレイステネスは血縁中心の部族を組み替え、五百人評議会と陶片追放の制度を整えました。ペルシャ戦争後、ペリクレスの時代には民会、陪審、公職手当が発"
+  },
+  {
+    "term": "インカ抵抗政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.2.peopleNote => ンチェは通訳と外交を担いました。トゥパク・アマル1世は最後のインカ抵抗政権を率いました。"
+  },
+  {
+    "term": "アメリカ憲法",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.5.text => ぐ考えを示し、ルソーは主権が人民にあると論じました。これらはアメリカ憲法やフランス人権宣言へ影響し、19世紀には各地で憲法制定、出版の自由、普通選挙、民族統一を求"
+  },
+  {
+    "term": "人種法・強制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.2.summary => ヒトラーの独裁が人種法・強制収容所・大量虐殺を国家制度として進める"
+  },
+  {
+    "term": "多民族民主制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.summary => アフリカの人種隔離制度が国内抵抗と国際圧力によって廃止され、多民族民主制へ移る"
+  },
+  {
+    "term": "イスラム思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャマールッディーン・アフガーニー.modal.profile => 19世紀のイスラム思想家・活動家です。イスラム圏の人々が協力し、ヨーロッパの支配に対抗すべきだと訴えました。各地"
+  },
+  {
+    "term": "新聞記者・政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マラー.modal.profile => フランス革命期の新聞記者・政治家です。新聞で王党派や穏健派を激しく批判し、反革命の疑いがある人々への厳しい処罰を求めま"
+  },
+  {
+    "term": "皇太子・摂政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ベルシャザル.modal.profile => 不在の間、バビロンで軍や政務を任されました。正式な王ではなく皇太子・摂政だったことが、粘土板などの資料から分かっています。"
+  },
+  {
+    "term": "社会保険制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ビスマルク.modal.profile => ストリア、フランスとの戦争を利用してドイツ統一を進めました。社会保険制度も作りましたが、強い国家と軍事を重視する政治家でした。"
+  },
+  {
+    "term": "思想家・革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マッツィーニ.modal.profile => イタリア統一をめざした思想家・革命家です。青年イタリアを作り、共和政と民族統一を訴えました。蜂起は失敗も多かったものの、統一"
+  },
+  {
+    "term": "朝鮮民主主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:金日成.modal.profile => 北朝鮮の建国指導者です。朝鮮民主主義人民共和国を成立させ、朝鮮戦争を始める中心となりました。戦後は個人崇拝と一党支配を強めまし"
+  },
+  {
+    "term": "社会主義思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ディエゴ・リベラ.modal.profile => 者、革命、先住民の歴史を描き、公共の場所に芸術を広げました。社会主義思想とも結びつきました。"
+  },
+  {
+    "term": "反植民地主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ホセ・マルティ.modal.profile => 5年の独立戦争に参加して戦死しました。ラテンアメリカの自由と反植民地主義の象徴です。"
+  },
+  {
+    "term": "イギリス政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 侯、農民、都市住民も参加しました。鎮圧後、会社支配は終わり、イギリス政府が直接統治しました。鉄道、電信、英語教育、法制度は行政と軍事移動を効率化しましたが、同時"
+  },
+  {
+    "term": "植民地行政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.5.text => らの技術は暮らしを便利にしただけでなく、資源採掘、軍隊移動、植民地行政を支える基盤にもなりました。"
+  },
+  {
+    "term": "総動員体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.0.summary => 同盟対立と総動員体制が地域紛争を世界戦争へ変え、塹壕戦と新兵器が被害を拡大する"
+  },
+  {
+    "term": "アメリカ政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.5.peopleNote => ョージ・マーシャルは、戦後の国際秩序とヨーロッパ復興を進めるアメリカ政策に関わりました。"
+  },
+  {
+    "term": "社会主義政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.text => ました。アメリカはマーシャル・プランとNATO、ソ連は東欧の社会主義政権とワルシャワ条約機構を支えました。両国は核兵器と大陸間ミサイルを増やしましたが、直接戦え"
+  },
+  {
+    "term": "ケネディ政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 間接的に争いました。1962年のキューバ危機では、ジョン・F・ケネディ政権とソ連が海上封鎖と交渉を通じて衝突を回避しました。1980年代、ゴルバチョフはペレスト"
+  },
+  {
+    "term": "対ロシア政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.4.text => 通法も整えられました。一方、加盟国は財政、移民、難民、主権、対ロシア政策をめぐって対立し、統合の利益が地域や職業によって異なるという不満も生まれました。ヨーロッ"
+  },
+  {
+    "term": "植民地制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:バルトロメ・デ・ラス・カサス.modal.profile => や強制労働を記録し、王に改善を求めた修道士です。自身も当初は植民地制度に関わったため、その後に考えを改めて訴えました。植民地は、外国の政治的・経済的支配を受けた"
+  },
+  {
+    "term": "実業家・政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:セシル・ローズ.modal.profile => イギリスの実業家・政治家です。南部アフリカでダイヤモンド事業を広げ、イギリスの植民地支配を推進しました。土地や"
+  },
+  {
+    "term": "ベルギー政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:レオポルド2世.modal.profile => 行わせました。多くの人が命を失い、国際的な批判で1908年にベルギー政府へ移管されました。政策の成果だけでなく、反対勢力との対立や残された課題も含めて評価する必"
+  },
+  {
+    "term": "ヴィシー政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フィリップ・ペタン.modal.profile => 一次世界大戦で名を上げたフランス軍人です。第二次世界大戦中はヴィシー政権の首班となり、ナチス・ドイツに協力しました。戦後に裁かれ、評価は大きく変わりました。ナチ"
+  },
+  {
+    "term": "弁論家・政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:キケロ.modal.profile => 共和政ローマの弁論家・政治家です。演説と手紙で、法律、共和国、市民の責任を考えました。カエサル暗殺後の政争で殺され"
+  },
+  {
+    "term": "役人・思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:韓愈.modal.profile => 唐の役人・思想家です。儒教を国の中心に戻すべきだと考え、仏教を強く批判しました。文章の新しい書き方を広め"
+  },
+  {
+    "term": "共産党宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カール・マルクス.modal.profile => 資本を持つ人の関係を分析し、資本主義の矛盾を批判しました。『共産党宣言』『資本論』は労働運動や社会主義に大きな影響を与えました。社会主義は、貧富の差や労働者の苦"
+  },
+  {
+    "term": "女性社会政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:エメリン・パンクハースト.modal.profile => イギリスの女性参政権運動家です。女性社会政治同盟を率い、投票権を求めて集会や抗議行動を行いました。激しい行動は議論を呼びましたが、参"
+  },
+  {
+    "term": "ドイツ革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ローザ・ルクセンブルク.modal.profile => ツで反戦と労働者の権利を訴え、第一次世界大戦に反対しました。ドイツ革命後にスパルタクス団の蜂起に関わり殺害されました。"
+  },
+  {
+    "term": "ソビエト政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:レーニン.modal.profile => の指導者です。1917年にボリシェヴィキを率いて政権を取り、ソビエト政権を作りました。土地と平和を掲げましたが、一党支配と内戦の体制も始まりました。"
+  },
+  {
+    "term": "象徴天皇制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:昭和天皇.modal.profile => りや責任は歴史研究で議論が続いています。1945年の終戦後は象徴天皇制のもとで在位し、戦後日本の歩みと長く重なりました。"
+  },
+  {
+    "term": "憲法・議会",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:憲法と議会を求める動き.summary => 憲法・議会・国民の権利を求める動きが広がる"
+  },
+  {
+    "term": "中観思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.peopleNote => ナーガールジュナは中観思想、アサンガとヴァスバンドゥは瑜伽行派・唯識思想を発展させ、大乗仏教の教理が中国やチベットへ"
+  },
+  {
+    "term": "教会制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.2.summary => 迫害されたキリスト教がローマ帝国で公認され、教義と教会制度が整う"
+  },
+  {
+    "term": "唯識思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => 玄奘は唐からインドへ旅して原典を持ち帰り、精密な翻訳によって唯識思想を伝えました。中国で形成された宗派、寺院制度、漢訳経典は朝鮮半島と日本へ伝わり、各地の王権"
+  },
+  {
+    "term": "寺院制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => 密な翻訳によって唯識思想を伝えました。中国で形成された宗派、寺院制度、漢訳経典は朝鮮半島と日本へ伝わり、各地の王権や在来信仰と結び付きました。"
+  },
+  {
+    "term": "改宗強制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.0.text => を分けようとしましたが、航路開拓は交易だけでなく、要塞建設、改宗強制、土地の占領、先住民の労働動員へつながりました。"
+  },
+  {
+    "term": "帝国財政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.4.peopleNote => び、カール5世の時代にはヨーロッパとアメリカの領土・銀が同じ帝国財政へ組み込まれました。"
+  },
+  {
+    "term": "連邦憲法",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.1.text => とで戦局が変わり、1783年に独立が承認されました。その後、連邦憲法が制定されましたが、奴隷制は残り、先住民の土地はさらに奪われ、女性には参政権がありませんで"
+  },
+  {
+    "term": "憲法改正",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.text => では奴隷制をめぐる対立が南北戦争へ発展し、戦争中の解放政策と憲法改正によって制度上の奴隷制は廃止されました。ただし解放後も人種隔離、投票妨害、暴力、土地を持て"
+  },
+  {
+    "term": "代表議会",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.5.text => 議会を無視して統治することへの反発から、権力を制限する憲法と代表議会を求める動きが広がりました。ジョン・ロックは政府の役割を生命・自由・財産の保護とし、権利を"
+  },
+  {
+    "term": "経済統制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.summary => 東インド会社の支配から英領インドへ移り、経済統制と反植民地運動が拡大する"
+  },
+  {
+    "term": "学校制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => に開国し、明治政府が藩を廃して中央集権国家をつくり、徴兵制、学校制度、地租改正、官営工場、鉄道を整えました。その近代化は条約改正と国家独立を目的としましたが、"
+  },
+  {
+    "term": "銀行規制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.1.text => は借金と土地喪失に苦しみました。アメリカでは政府が公共事業、銀行規制、社会保障を進めましたが、失業と貧困をすぐには解消できませんでした。ドイツでは賠償問題と大"
+  },
+  {
+    "term": "国家制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.8.eras.0.subcategories.2.summary => ヒトラーの独裁が人種法・強制収容所・大量虐殺を国家制度として進める"
+  },
+  {
+    "term": "経済体制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.text => 第二次世界大戦後、アメリカとソ連は政治制度、経済体制、安全保障をめぐって対立し、世界は西側と東側の陣営に分かれました。アメリカはマーシャル・プ"
+  },
+  {
+    "term": "国際制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.summary => 気候変動・感染症・紛争・AIの影響が国境を越え、科学と国際制度の協力を必要とする"
+  },
+  {
+    "term": "東洋思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ショーペンハウアー.modal.profile => の欲望が苦しみを生むと考え、芸術や思いやりに救いを見ました。東洋思想にも関心を持ち、後の文学や哲学に影響しました。この人物が立てた問いは、後の哲学者が賛成や批"
+  },
+  {
+    "term": "将軍・政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マリウス.modal.profile => 共和政ローマの将軍・政治家です。土地を持たない市民も兵士として採用し、軍を強くしました。一方で兵士が国家より将軍"
+  },
+  {
+    "term": "地方行政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:柳宗元.modal.profile => 、人々の生活を文章に描きました。自然を細かく観察する文章と、地方行政への考えで知られます。作品や表現には、その時代の宗教観、社会の価値観、技術の変化が映し出さ"
+  },
+  {
+    "term": "道家思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:荘子.modal.profile => 示しました。『荘子』には本人以外の文章も含まれると考えられ、道家思想を学ぶ大切な書です。教えがどのように弟子や信者へ受け継がれ、地域をこえて広がったのかが重要"
+  },
+  {
+    "term": "司教・政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:リチャード・ド・ベリー.modal.profile => 14世紀イングランドの司教・政治家です。本を集めることを大切にし、『愛書家の書』を書きました。写本が高価だった時代に、知"
+  },
+  {
+    "term": "資本主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カール・マルクス.modal.profile => まれの思想家です。工場で働く人と資本を持つ人の関係を分析し、資本主義の矛盾を批判しました。『共産党宣言』『資本論』は労働運動や社会主義に大きな影響を与えました"
+  },
+  {
+    "term": "役人制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:忽必烈.modal.profile => ハンの孫で、中国に元を建てた皇帝です。大都を都とし、中国式の役人制度を使って広い地域を治めました。日本への遠征は失敗し、支配下の人々には重い負担もありました。"
+  },
+  {
+    "term": "権利宣言",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:オランプ・ド・グージュ.modal.profile => フランス革命期の作家です。『女性と女性市民の権利宣言』で、女性にも政治参加や法の平等が必要だと訴えました。革命政府を批判したため逮捕され、ギロ"
+  },
+  {
+    "term": "啓蒙専制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フリードリヒ2世.modal.profile => 制を整え、オーストリア継承戦争や七年戦争で領土を広げました。啓蒙専制君主と呼ばれますが、国家と軍事を強く重視しました。"
+  },
+  {
+    "term": "改革思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:康有為.modal.profile => 清末の改革思想家です。光緒帝を支えて戊戌の変法を進め、制度改革と立憲政治を訴えました。改革は西太后らによ"
+  },
+  {
+    "term": "権威主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:蒋介石.modal.profile => 争では国民政府を率いました。国共内戦に敗れて台湾へ移り、長く権威主義的な統治を行いました。"
+  },
+  {
+    "term": "十月革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:トロツキー.modal.profile => ロシア革命の指導者です。十月革命と赤軍の組織に大きく関わりました。スターリンとの権力争いに敗れて国外追放され、メキシコで暗"
+  },
+  {
+    "term": "二月革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ニコライ2世.modal.profile => 露戦争、第一次世界大戦、国内の不満に対応できず、1917年の二月革命で退位しました。のちに家族とともに処刑されました。"
+  },
+  {
+    "term": "表現主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ゴッホ.modal.profile => 景に感情をこめて描きました。生前は評価が低かったものの、後の表現主義や近代美術に大きな影響を与えました。"
+  },
+  {
+    "term": "実存主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャン＝ポール・サルトル.modal.profile => フランスの哲学者・作家です。実存主義を代表し、人は自分の選択に責任を持つと論じました。戦後の政治運動や植民地支配への批判にも関"
+  },
+  {
+    "term": "政治革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:市民革命.summary => 身分制と専制を変えた政治革命"
+  },
+  {
+    "term": "ナチス政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:ホロコースト.summary => ナチス政権による組織的大量虐殺"
+  },
+  {
+    "term": "行政制度",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:インドの植民地支配.modal.whatHappened => インドはイギリスの支配下で、鉄道や行政制度が整えられる一方、経済や政治を大きく支配されました。人々の抵抗は、のちの独立運動につながり"
+  },
+  {
+    "term": "三頭政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.2.text => 立は内戦へ発展しました。ポンペイウス、クラッスス、カエサルの三頭政治も崩れ、カエサル暗殺後に再び内戦が起こりました。アウグストゥスは共和政の制度を残しながら"
+  },
+  {
+    "term": "秦王政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.3.text => し、秦は商鞅の改革によって戸籍、軍功、郡県支配を強めました。秦王政は紀元前221年に六国を滅ぼして始皇帝を名乗り、文字、貨幣、度量衡、車輪の幅を統一しました"
+  },
+  {
+    "term": "均田制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.0.text => 7～8世紀の唐は、隋の制度を受け継いで律令、均田制、租庸調、科挙を整え、都の長安を大規模な国際都市として発展させました。太宗は突厥を破って中"
+  },
+  {
+    "term": "代表制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.4.text => カルタを認めました。商業と王権の拡大は、都市自治、課税同意、代表制の発達にもつながりました。"
+  },
+  {
+    "term": "保護政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.5.summary => モンゴル帝国がユーラシアを征服し、駅伝制と保護政策で長距離交流を促す"
+  },
+  {
+    "term": "本国政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.3.text => ランス革命、さらにナポレオンによるスペイン・ポルトガル侵攻で本国政府が混乱すると、各地で自治と独立を求める運動が起こりました。シモン・ボリバルはベネズエラ、"
+  },
+  {
+    "term": "軍人政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.3.text => は分裂しました。独立後も大土地所有、奴隷制、先住民への差別、軍人政治が残りました。"
+  },
+  {
+    "term": "解放政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.text => 。アメリカでは奴隷制をめぐる対立が南北戦争へ発展し、戦争中の解放政策と憲法改正によって制度上の奴隷制は廃止されました。ただし解放後も人種隔離、投票妨害、暴力"
+  },
+  {
+    "term": "憲法制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.5.text => はアメリカ憲法やフランス人権宣言へ影響し、19世紀には各地で憲法制定、出版の自由、普通選挙、民族統一を求める革命が起こりました。メアリ・ウルストンクラフトは"
+  },
+  {
+    "term": "明治政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 政の改革は限定的でした。一方、日本ではペリー来航後に開国し、明治政府が藩を廃して中央集権国家をつくり、徴兵制、学校制度、地租改正、官営工場、鉄道を整えました"
+  },
+  {
+    "term": "徴兵制",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => ー来航後に開国し、明治政府が藩を廃して中央集権国家をつくり、徴兵制、学校制度、地租改正、官営工場、鉄道を整えました。その近代化は条約改正と国家独立を目的とし"
+  },
+  {
+    "term": "国内政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.3.text => 中華民国成立へ関わりました。両国の違いは文化の優劣ではなく、国内政治、財政、改革勢力、対外戦争の結果が重なって生まれました。"
+  },
+  {
+    "term": "独立政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.1.text => 難民と宗教暴力が起こりました。コンゴではパトリス・ルムンバが独立政府を率いましたが、軍の反乱、州分離、旧宗主国と冷戦勢力の介入で政権は崩れました。タンザニア"
+  },
+  {
+    "term": "軍事政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.1.text => 、保健、産業育成を進める一方、植民地期の国境、一次産品依存、軍事政権、民族・宗教対立に直面しました。"
+  },
+  {
+    "term": "産業政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.2.text => 戦後の東アジアでは、国家の産業政策、教育拡充、輸出、海外投資を背景に急速な経済成長が進みました。日本は1950年代後半から"
+  },
+  {
+    "term": "白人政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.text => 南アフリカでは1948年以降、白人政権がアパルトヘイトを制度化し、人種ごとに居住地、学校、職業、移動、参政権を分けました。黒人"
+  },
+  {
+    "term": "環境政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => の急速な利用拡大があります。レイチェル・カーソンの農薬批判は環境政策を見直すきっかけとなり、ワンガリ・マータイはケニアで女性の生活改善と森林回復を結び付けた"
+  },
+  {
+    "term": "拡大政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:太宗.modal.profile => え、都長安を国際的な都市として発展させました。周辺へ軍を送る拡大政策も行い、東アジアの国々に大きな影響を与えました。この人物の歩みから、政治の改革が人々の権"
+  },
+  {
+    "term": "経済政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャワハルラール・ネルー.modal.profile => 科学教育、非同盟外交を重視しました。一方で中国との国境問題や経済政策には難しさも残りました。成果だけでなく、運動が直面した反対や限界も含めて理解する必要があ"
+  },
+  {
+    "term": "宮廷政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:テオドラ.modal.profile => えられます。女性の財産や離婚に関する法律にも影響したとされ、宮廷政治で大きな役割を果たしました。この人物の歩みから、政治の改革が人々の権利や国家の形にどのよ"
+  },
+  {
+    "term": "独裁政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フランシスコ・フランコ.modal.profile => スペイン内戦で反乱軍を率り、1939年から独裁政治を行った人物です。反対派を弾圧し、長く自由な政治を認めませんでした。第二次世界大戦では正"
+  },
+  {
+    "term": "対ソ政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ハリー・トルーマン.modal.profile => 次世界大戦末期に原子爆弾使用を決定し、日本の降伏後は冷戦期の対ソ政策を進めました。マーシャル・プランやNATOにつながる政策を支えました。冷戦は、第二次世界"
+  },
+  {
+    "term": "占領政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ダグラス・マッカーサー.modal.profile => アメリカ軍人です。太平洋戦争で連合国軍を指揮し、戦後は日本の占領政策を主導しました。日本国憲法、土地改革、教育改革などに関わりましたが、占領には限界や議論も"
+  },
+  {
+    "term": "反革命",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マラー.modal.profile => の新聞記者・政治家です。新聞で王党派や穏健派を激しく批判し、反革命の疑いがある人々への厳しい処罰を求めました。彼の文章は、革命期の政治的な対立を強めました。"
+  },
+  {
+    "term": "国民政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:蒋介石.modal.profile => 中国国民党の指導者です。北伐で中国統一を進め、日中戦争では国民政府を率いました。国共内戦に敗れて台湾へ移り、長く権威主義的な統治を行いました。"
+  },
+  {
+    "term": "韓国政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:李承晩.modal.profile => 大韓民国の初代大統領です。反共を掲げて韓国政府を作り、朝鮮戦争期に政権を率いました。長期政権と不正選挙への反発で1960年に退陣しまし"
+  },
+  {
+    "term": "現代政",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョージ・オーウェル.modal.profile => 裁、監視、言葉の支配を批判しました。全体主義への警告として、現代政治を考える作品を残しました。"
+  },
+  {
+    "term": "フランス革命",
+    "count": 44,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.summary => アメリカ独立革命、フランス革命、産業革命、ラテンアメリカ独立運動が起こり、権利や国民という考えが広がりました。"
+  },
+  {
+    "term": "帝国主義",
+    "count": 39,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.focus => 帝国主義、科学、交通、通信"
+  },
+  {
+    "term": "産業革命",
+    "count": 23,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.summary => アメリカ独立革命、フランス革命、産業革命、ラテンアメリカ独立運動が起こり、権利や国民という考えが広がりました。"
+  },
+  {
+    "term": "市民革命",
+    "count": 14,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.focus => 市民革命、工業化、独立"
+  },
+  {
+    "term": "参政権",
+    "count": 9,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.2.eras.0.subcategories.1.text => 治へ参加しやすくなりました。ただし女性、奴隷、在留外国人には参政権がありませんでした。ソクラテスは対話で正義と徳を問い、プラトンは民主政の混乱を批判し、アリ"
+  },
+  {
+    "term": "女性参政権運動",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.cards.event.summary => 帝国主義、アジア・アフリカ分割、明治維新、科学技術の発展、女性参政権運動などが世界各地で進みました。"
+  },
+  {
+    "term": "啓蒙思想",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.2.text => 主権、モンテスキューの権力分立、ヴォルテールの宗教的寛容など啓蒙思想も旧制度批判を強めました。ルイ16世が三部会を招集すると第三身分は国民議会を結成し、178"
+  },
+  {
+    "term": "絶対王政",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ルイ14世.title => 絶対王政の太陽王"
+  },
+  {
+    "term": "アメリカ独立革命",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.summary => アメリカ独立革命、フランス革命、産業革命、ラテンアメリカ独立運動が起こり、権利や国民という考えが広がりまし"
+  },
+  {
+    "term": "人権宣言",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.2.summary => 財政危機と身分制への不満から王政が崩れ、人権宣言・共和政・恐怖政治へ進む"
+  },
+  {
+    "term": "独立宣言",
+    "count": 5,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.1.text => く訴え、トマス・ジェファーソンを中心に起草された1776年の独立宣言は、自然権と人民の同意にもとづく政府を主張しました。ジョージ・ワシントンが大陸軍を率い、ベ"
+  },
+  {
+    "term": "仏教思想",
+    "count": 4,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.3.eras.0.subcategories.0.summary => 仏教思想が多様化し、ヒンドゥー教の信仰と寺院文化がインド社会に広がる"
+  },
+  {
+    "term": "イギリス産業革命",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.cards.event.detail => 残ったのかを見ます。 教科書で押さえたい地域別のできごとは、イギリス産業革命、アメリカ独立革命、フランス革命、ラテンアメリカ独立運動、奴隷制廃止運動、憲法と議会を求め"
+  },
+  {
+    "term": "議会制民主主義",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ジャワハルラール・ネルー.modal.profile => インド独立運動家で、独立後の初代首相です。議会制民主主義、科学教育、非同盟外交を重視しました。一方で中国との国境問題や経済政策には難しさも残りまし"
+  },
+  {
+    "term": "人種隔離制度",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.3.summary => 南アフリカの人種隔離制度が国内抵抗と国際圧力によって廃止され、多民族民主制へ移る"
+  },
+  {
+    "term": "封建的特権",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.2.text => 議会を結成し、1789年のバスティーユ襲撃と農村反乱を背景に封建的特権が廃止され、人権宣言が採択されました。しかし戦争、物価高、王の逃亡未遂で対立が深まり、王政"
+  },
+  {
+    "term": "清教徒革命",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:チャールズ1世.modal.profile => 視して税を集めようとしたため対立が深まり、ピューリタン革命（清教徒革命）が起こりました。戦いに敗れて裁判にかけられ、王でありながら処刑されました。その活動は、政"
+  },
+  {
+    "term": "日本国憲法",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ダグラス・マッカーサー.modal.profile => 戦争で連合国軍を指揮し、戦後は日本の占領政策を主導しました。日本国憲法、土地改革、教育改革などに関わりましたが、占領には限界や議論もあります。この人物を学ぶ際は"
+  },
+  {
+    "term": "国民議会",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.2.text => 度批判を強めました。ルイ16世が三部会を招集すると第三身分は国民議会を結成し、1789年のバスティーユ襲撃と農村反乱を背景に封建的特権が廃止され、人権宣言が採"
+  },
+  {
+    "term": "三圃制",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.4.eras.0.subcategories.4.text => 11世紀以降の西ヨーロッパでは、三圃制や重い犂、水車の利用によって農業生産が増え、人口と市場が拡大しました。地中海ではヴェネツィ"
+  },
+  {
+    "term": "工場制",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.0.text => って綿糸の生産量が増え、家庭内手工業から多数の労働者を集める工場制へ移りました。ジェームズ・ワットは蒸気機関を改良し、鉱山排水だけでなく工場の動力にも利用で"
+  },
+  {
+    "term": "ピューリタン革命",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:チャールズ1世.modal.profile => ド王です。議会を無視して税を集めようとしたため対立が深まり、ピューリタン革命（清教徒革命）が起こりました。戦いに敗れて裁判にかけられ、王でありながら処刑されました。そ"
+  },
+  {
+    "term": "奴隷解放宣言",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:エイブラハム・リンカーン.modal.profile => 第16代大統領です。南北戦争で連邦の分裂を防ぎ、1863年に奴隷解放宣言を出しました。ゲティスバーグ演説で民主政治の意味を示し、奴隷制廃止を進めました。"
+  },
+  {
+    "term": "三部会",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.2.text => 宗教的寛容など啓蒙思想も旧制度批判を強めました。ルイ16世が三部会を招集すると第三身分は国民議会を結成し、1789年のバスティーユ襲撃と農村反乱を背景に封建"
+  },
+  {
+    "term": "選挙権",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.5.text => と主張しました。しかし初期の議会政治では財産を持つ男性だけに選挙権が限られ、労働者と女性の参政権獲得にはさらに長い運動が必要でした。"
+  }
+]

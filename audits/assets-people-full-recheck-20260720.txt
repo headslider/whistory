@@ -1,0 +1,98 @@
+assets/people画像数: 257
+読み取りエラー: 0
+人物データ人数: 300
+画像あり人物: 179
+画像なし人物: 121
+参照先ファイル欠損: 1
+人物データから参照中のassetファイル数: 179
+人物データから未参照のassetファイル数: 78
+完全重複グループ数: 0
+近似重複ペア数(MAE<=1): 74
+確認用フォルダ画像数: 115
+確認用画像がassetsに見た目一致しない数: 0
+未参照かつ確認用フォルダ名とも一致しないassets: 78
+
+【参照先ファイル欠損】
+アウグストゥス -> assets/people/person-91451153e6.webp
+
+【確認用画像がassetsに見た目一致しないもの】
+
+【人物データから未参照のassetファイル】
+person-03ca2051e4.webp
+person-04926774bb.webp
+person-09a9b8e268.webp
+person-0c46b3ceb5.webp
+person-0cd15da63c.webp
+person-12b6aece80.webp
+person-1d0d3cb02a.webp
+person-277170700f.webp
+person-27e4fcd404.webp
+person-289f09b2c1.webp
+person-2a34f269dc.webp
+person-2a7c737236.webp
+person-2b05c47332.webp
+person-2bdfcc418c.webp
+person-2f8083da37.webp
+person-310584639b.webp
+person-34175beaf7.webp
+person-36d85a6245.webp
+person-37f0c076e5.webp
+person-39b9a1d500.webp
+person-472258e19b.webp
+person-478ac60599.webp
+person-47c3008c5d.webp
+person-4e6efc87f3.webp
+person-50d7071b0b.webp
+person-555618cb1b.webp
+person-59ba2c317a.webp
+person-5f21763da9.webp
+person-6b0028f33d.webp
+person-6f3b31a3ab.webp
+person-7359ad9c67.webp
+person-7468017804.webp
+person-785a2ae2f4.webp
+person-840a99a0cf.webp
+person-87055886a8.webp
+person-8740de73ea.webp
+person-874aa62782.webp
+person-879932e7c0.webp
+person-8a4d970f45.webp
+person-8c1b0020dc.webp
+person-8df86bd2a8.webp
+person-90b15201b0.webp
+person-97acc2cc6c.webp
+person-9a20be8088.webp
+person-9b84e7a0e2.webp
+person-9f2e63dfb1.webp
+person-9f857af814.webp
+person-a17abc7079.webp
+person-a2aefb7f2c.webp
+person-a7b8af0f50.webp
+person-ab1c64034b.webp
+person-b057e4e120.webp
+person-b1c029c022.webp
+person-bb38d4f78a.webp
+person-bc35ea24de.webp
+person-be2dfc8c8f.webp
+person-cb7645de73.webp
+person-cf05b51c03.webp
+person-d186cd4e90.webp
+person-d2b1c7651d.webp
+person-d2ea2ab172.webp
+person-d7203de00e.webp
+person-d7cc59fb4a.webp
+person-d9b1a0a91b.webp
+person-df245183a3.webp
+person-e0096d2ed3.webp
+person-e10c617704.webp
+person-e2c09518fa.webp
+person-e963d604cb.webp
+person-ee0d81f4a1.webp
+person-ef17beb844.webp
+person-ef77ce40cf.webp
+person-f1b1a88c09.webp
+person-f8d7bd726d.webp
+person-fa1becdf28.webp
+person-fa993cfb81.webp
+person-fdc746fddd.webp
+person-fe9479e29d.webp

@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "checkedAt": "2026-07-17T16:57:11.698Z",
+  "notes": [
+    "history subcategories=53, textLen=17035, minText=283",
+    "people=300, peopleByName=632, v15Diffs=0",
+    "actions=111",
+    "learning terms=803"
+  ],
+  "failures": []
+}

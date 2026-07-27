@@ -1,0 +1,260 @@
+{
+  "rubyOnlyCount": 31,
+  "keepProper": [
+    "黄河流域",
+    "長江流域",
+    "殷王朝",
+    "前漢",
+    "後漢",
+    "東晋",
+    "五胡十六国",
+    "北魏",
+    "渤海",
+    "扶南",
+    "新羅",
+    "高句麗",
+    "百済",
+    "阮朝",
+    "大英帝国",
+    "大日本帝国戦時期",
+    "中華人民共和国",
+    "蜀",
+    "呉"
+  ],
+  "convertTooltip": [
+    "雑穀",
+    "牧畜",
+    "諸侯",
+    "抵抗勢力",
+    "律令",
+    "拮抗",
+    "均衡",
+    "航路開拓",
+    "香辛料",
+    "十六大国"
+  ],
+  "removeBasic": [
+    "地球規模",
+    "制度改革"
+  ],
+  "unclassified": [],
+  "rubyOnly": [
+    {
+      "term": "黄河流域",
+      "reading": "こうがりゅういき",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "長江流域",
+      "reading": "ちょうこうりゅういき",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "殷王朝",
+      "reading": "いんおうちょう",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "前漢",
+      "reading": "ぜんかん",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "後漢",
+      "reading": "ごかん",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "東晋",
+      "reading": "とうしん",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "五胡十六国",
+      "reading": "ごこじゅうろっこく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "北魏",
+      "reading": "ほくぎ",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "渤海",
+      "reading": "ぼっかい",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "扶南",
+      "reading": "ふなん",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "新羅",
+      "reading": "しらぎ",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "高句麗",
+      "reading": "こうくり",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "百済",
+      "reading": "くだら",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "阮朝",
+      "reading": "げんちょう",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "雑穀",
+      "reading": "ざっこく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "牧畜",
+      "reading": "ぼくちく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "諸侯",
+      "reading": "しょこう",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "抵抗勢力",
+      "reading": "ていこうせいりょく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "律令",
+      "reading": "りつりょう",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "拮抗",
+      "reading": "きっこう",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "均衡",
+      "reading": "きんこう",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "航路開拓",
+      "reading": "こうろかいたく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "香辛料",
+      "reading": "こうしんりょう",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "地球規模",
+      "reading": "ちきゅうきぼ",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "大英帝国",
+      "reading": "だいえいていこく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "大日本帝国戦時期",
+      "reading": "だいにほんていこくせんじき",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "十六大国",
+      "reading": "じゅうろくだいこく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "中華人民共和国",
+      "reading": "ちゅうかじんみんきょうわこく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "蜀",
+      "reading": "しょく",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "呉",
+      "reading": "ご",
+      "scopes": [
+        "study"
+      ]
+    },
+    {
+      "term": "制度改革",
+      "reading": "せいどかいかく",
+      "scopes": [
+        "study"
+      ]
+    }
+  ]
+}

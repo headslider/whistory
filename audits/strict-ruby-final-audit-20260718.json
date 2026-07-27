@@ -1,0 +1,157 @@
+{
+  "total": 809,
+  "forbiddenPresent": [],
+  "oneCharManaged": [
+    {
+      "term": "蜀",
+      "reading": "しょく",
+      "scopes": [
+        "study",
+        "kingdom"
+      ]
+    },
+    {
+      "term": "呉",
+      "reading": "ご",
+      "scopes": [
+        "study",
+        "kingdom"
+      ]
+    },
+    {
+      "term": "夏",
+      "reading": "か",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "殷",
+      "reading": "いん",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "周",
+      "reading": "しゅう",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "秦",
+      "reading": "しん",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "漢",
+      "reading": "かん",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "楚",
+      "reading": "そ",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "魏",
+      "reading": "ぎ",
+      "scopes": [
+        "kingdom",
+        "study"
+      ]
+    },
+    {
+      "term": "晋",
+      "reading": "しん",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "隋",
+      "reading": "ずい",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "唐",
+      "reading": "とう",
+      "scopes": [
+        "kingdom",
+        "study"
+      ]
+    },
+    {
+      "term": "宋",
+      "reading": "そう",
+      "scopes": [
+        "kingdom",
+        "study"
+      ]
+    },
+    {
+      "term": "元",
+      "reading": "げん",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "明",
+      "reading": "みん",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "清",
+      "reading": "しん",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "金",
+      "reading": "きん",
+      "scopes": [
+        "kingdom"
+      ]
+    },
+    {
+      "term": "遼",
+      "reading": "りょう",
+      "scopes": [
+        "kingdom"
+      ]
+    }
+  ],
+  "rubyOnlyStudyNoTooltipCount": 17,
+  "rubyOnlyStudyNoTooltip": [
+    "黄河流域",
+    "長江流域",
+    "殷王朝",
+    "前漢",
+    "後漢",
+    "東晋",
+    "五胡十六国",
+    "北魏",
+    "渤海",
+    "扶南",
+    "新羅",
+    "高句麗",
+    "百済",
+    "阮朝",
+    "大英帝国",
+    "大日本帝国戦時期",
+    "中華人民共和国"
+  ]
+}

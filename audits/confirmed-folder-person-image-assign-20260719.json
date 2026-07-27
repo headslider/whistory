@@ -1,0 +1,503 @@
+{
+  "assigned": [
+    {
+      "file": "アウグスティヌス.png",
+      "target": "アウグスティヌス",
+      "image": "assets/people/person-0dbfd89beb.webp"
+    },
+    {
+      "file": "アウグストゥス.png",
+      "target": "アウグストゥス",
+      "image": "assets/people/person-91451153e6.webp"
+    },
+    {
+      "file": "アクエンアテン.png",
+      "target": "アクエンアテン",
+      "image": "assets/people/person-5282fde232.webp"
+    },
+    {
+      "file": "アサンガ.png",
+      "target": "アサンガ",
+      "image": "assets/people/person-0090ac93db.webp"
+    },
+    {
+      "file": "アショーカ王.png",
+      "target": "アショーカ王",
+      "image": "assets/people/person-3b5126d5ca.webp"
+    },
+    {
+      "file": "アタナシウス.png",
+      "target": "アタナシウス",
+      "image": "assets/people/person-8a96ecd37a.webp"
+    },
+    {
+      "file": "アダム・スミス.png",
+      "target": "アダム・スミス",
+      "image": "assets/people/person-632d4656c3.webp"
+    },
+    {
+      "file": "アッシュルナツィルパル2世.png",
+      "target": "アッシュルナツィルパル2世",
+      "image": "assets/people/person-c3eae4eafa.webp"
+    },
+    {
+      "file": "アッシュルバニパル.png",
+      "target": "アッシュルバニパル",
+      "image": "assets/people/person-ed3d36e598.webp"
+    },
+    {
+      "file": "アビゲイル・アダムズ.png",
+      "target": "アビゲイル・アダムズ",
+      "image": "assets/people/person-a9d2a04956.webp"
+    },
+    {
+      "file": "アベラール.png",
+      "target": "アベラール",
+      "image": "assets/people/person-309ec64c9d.webp"
+    },
+    {
+      "file": "アベル・タスマン.png",
+      "target": "アベル・タスマン",
+      "image": "assets/people/person-1cc2e1acb2.webp"
+    },
+    {
+      "file": "アムンゼン.png",
+      "target": "アムンゼン",
+      "image": "assets/people/person-f2de242edd.webp"
+    },
+    {
+      "file": "アメリゴ・ヴェスプッチ.png",
+      "target": "アメリゴ・ヴェスプッチ",
+      "image": "assets/people/person-8d1e003d26.webp"
+    },
+    {
+      "file": "アメンエムハト1世.png",
+      "target": "アメンエムハト1世",
+      "image": "assets/people/person-7ebbc36049.webp"
+    },
+    {
+      "file": "アメンホテプ3世.png",
+      "target": "アメンホテプ3世",
+      "image": "assets/people/person-3402a471f3.webp"
+    },
+    {
+      "file": "アリウス.png",
+      "target": "アリウス",
+      "image": "assets/people/person-e75a7651c8.webp"
+    },
+    {
+      "file": "アリストテレス.png",
+      "target": "アリストテレス",
+      "image": "assets/people/person-69ee112116.webp"
+    },
+    {
+      "file": "アルキビアデス.png",
+      "target": "アルキビアデス",
+      "image": "assets/people/person-f6ad9aafd6.webp"
+    },
+    {
+      "file": "アルキメデス.png",
+      "target": "アルキメデス",
+      "image": "assets/people/person-490f054f0e.webp"
+    },
+    {
+      "file": "アルタクセルクセス1世.png",
+      "target": "アルタクセルクセス1世",
+      "image": "assets/people/person-3b4f71264c.webp"
+    },
+    {
+      "file": "アレクサンドロス大王.png",
+      "target": "アレクサンドロス大王",
+      "image": "assets/people/person-6f8c27de1c.webp"
+    },
+    {
+      "file": "アレッサンドロ・ボルタ.png",
+      "target": "アレッサンドロ・ボルタ",
+      "image": "assets/people/person-fadfe26fcd.webp"
+    },
+    {
+      "file": "イエス.png",
+      "target": "イエス",
+      "image": "assets/people/person-83bd092dca.webp"
+    },
+    {
+      "file": "イザムバード・キングダム・ブルネル.png",
+      "target": "イザムバード・キングダム・ブルネル",
+      "image": "assets/people/person-e6f9de6616.webp"
+    },
+    {
+      "file": "イブン・バットゥータ.png",
+      "target": "イブン・バットゥータ",
+      "image": "assets/people/person-ad4f3ff7e7.webp"
+    },
+    {
+      "file": "カウティリヤ.png",
+      "target": "カウティリヤ",
+      "image": "assets/people/person-bfba8d3268.webp"
+    },
+    {
+      "file": "カエサル.png",
+      "target": "カエサル",
+      "image": "assets/people/person-de50729232.webp"
+    },
+    {
+      "file": "カント.png",
+      "target": "カント",
+      "image": "assets/people/person-3d930c4d52.webp"
+    },
+    {
+      "file": "カール5世.png",
+      "target": "カール5世",
+      "image": "assets/people/person-32c3a12328.webp"
+    },
+    {
+      "file": "ガリレオ・ガリレイ.png",
+      "target": "ガリレオ・ガリレイ",
+      "image": "assets/people/person-cc3460bb5b.webp"
+    },
+    {
+      "file": "キュロス2世.png",
+      "target": "キュロス2世",
+      "image": "assets/people/person-4ceade843b.webp"
+    },
+    {
+      "file": "クフ王.png",
+      "target": "クフ王",
+      "image": "assets/people/person-5119f42d3b.webp"
+    },
+    {
+      "file": "クラッスス.png",
+      "target": "クラッスス",
+      "image": "assets/people/person-5f4fa51d15.webp"
+    },
+    {
+      "file": "グーテンベルク.png",
+      "target": "グーテンベルク",
+      "image": "assets/people/person-521067b1b1.webp"
+    },
+    {
+      "file": "ゴットフリート・ライプニッツ.png",
+      "target": "ライプニッツ",
+      "image": "assets/people/person-161894fd4d.webp"
+    },
+    {
+      "file": "ゴルバチョフ.png",
+      "target": "ゴルバチョフ",
+      "image": "assets/people/person-5bdbdabb4c.webp"
+    },
+    {
+      "file": "サルゴン.png",
+      "target": "サルゴン",
+      "image": "assets/people/person-1679093f0c.webp"
+    },
+    {
+      "file": "シェイクスピア.png",
+      "target": "シェイクスピア",
+      "image": "assets/people/person-bc57242847.webp"
+    },
+    {
+      "file": "シャムシアダド1世.png",
+      "target": "シャムシアダド1世",
+      "image": "assets/people/person-dd2e481457.webp"
+    },
+    {
+      "file": "シャルル・ド・ゴール.png",
+      "target": "シャルル・ド・ゴール",
+      "image": "assets/people/person-f4a709fcd6.webp"
+    },
+    {
+      "file": "ショーペンハウアー.png",
+      "target": "ショーペンハウアー",
+      "image": "assets/people/person-54ea3251de.webp"
+    },
+    {
+      "file": "シラー.png",
+      "target": "シラー",
+      "image": "assets/people/person-deca27f0a0.webp"
+    },
+    {
+      "file": "ジェームズ・ワット.png",
+      "target": "ジェームズ・ワット",
+      "image": "assets/people/person-8e2dc5e8cf.webp"
+    },
+    {
+      "file": "ジャンヌ・ダルク.png",
+      "target": "ジャンヌ・ダルク",
+      "image": "assets/people/person-f6d272d91c.webp"
+    },
+    {
+      "file": "ジャン・カルヴァン.png",
+      "target": "カルヴァン",
+      "image": "assets/people/person-575516c8d8.webp"
+    },
+    {
+      "file": "ジョン・F・ケネディ.png",
+      "target": "ジョン・F・ケネディ",
+      "image": "assets/people/person-a4b37a4032.webp"
+    },
+    {
+      "file": "ジョージ・ワシントン.png",
+      "target": "ジョージ・ワシントン",
+      "image": "assets/people/person-b128c0aae5.webp"
+    },
+    {
+      "file": "ソクラテス.png",
+      "target": "ソクラテス",
+      "image": "assets/people/person-4e6d38825c.webp"
+    },
+    {
+      "file": "ダライ・ラマ14世.png",
+      "target": "ダライ・ラマ14世",
+      "image": "assets/people/person-144a0ad2f0.webp"
+    },
+    {
+      "file": "チャンドラグプタ・マウリヤ.png",
+      "target": "チャンドラグプタ",
+      "image": "assets/people/person-60e45e3ac2.webp"
+    },
+    {
+      "file": "チャールズ・ダーウィン.png",
+      "target": "チャールズ・ダーウィン",
+      "image": "assets/people/person-50808aa356.webp"
+    },
+    {
+      "file": "チンギス・ハン.png",
+      "target": "チンギス・ハン",
+      "image": "assets/people/person-94822eef6a.webp"
+    },
+    {
+      "file": "テオドロス2世.png",
+      "target": "テオドロス2世",
+      "image": "assets/people/person-db50e4e512.webp"
+    },
+    {
+      "file": "ナルメル.png",
+      "target": "ナルメル",
+      "image": "assets/people/person-f462836a0c.webp"
+    },
+    {
+      "file": "ニコラウス・コペルニクス.png",
+      "target": "コペルニクス",
+      "image": "assets/people/person-e08a16a58c.webp"
+    },
+    {
+      "file": "ニュートン.png",
+      "target": "ニュートン",
+      "image": "assets/people/person-4ae32d11c2.webp"
+    },
+    {
+      "file": "ニーチェ.png",
+      "target": "ニーチェ",
+      "image": "assets/people/person-3dcf243a52.webp"
+    },
+    {
+      "file": "ネルソン・マンデラ.png",
+      "target": "ネルソン・マンデラ",
+      "image": "assets/people/person-1e015e3361.webp"
+    },
+    {
+      "file": "ノーベル.png",
+      "target": "ノーベル",
+      "image": "assets/people/person-f14b621d96.webp"
+    },
+    {
+      "file": "ハンニバル.png",
+      "target": "ハンニバル",
+      "image": "assets/people/person-f420e3f10a.webp"
+    },
+    {
+      "file": "ハンムラビ.png",
+      "target": "ハンムラビ",
+      "image": "assets/people/person-9bb5f948fd.webp"
+    },
+    {
+      "file": "バッハ.png",
+      "target": "バッハ",
+      "image": "assets/people/person-09dac962cb.webp"
+    },
+    {
+      "file": "バールーフ・デ・スピノザ.png",
+      "target": "スピノザ",
+      "image": "assets/people/person-e66d9b1378.webp"
+    },
+    {
+      "file": "パウロ.png",
+      "target": "パウロ",
+      "image": "assets/people/person-7407a9e24f.webp"
+    },
+    {
+      "file": "フローレンス・ナイチンゲール.png",
+      "target": "フローレンス・ナイチンゲール",
+      "image": "assets/people/person-2dab609327.webp"
+    },
+    {
+      "file": "ヘンリ8世.png",
+      "target": "ヘンリー8世",
+      "image": "assets/people/person-f58f3d2792.webp"
+    },
+    {
+      "file": "ヘーゲル.png",
+      "target": "ヘーゲル",
+      "image": "assets/people/person-23a2f61d69.webp"
+    },
+    {
+      "file": "ベートーヴェン.png",
+      "target": "ベートーヴェン",
+      "image": "assets/people/person-4ab47aade7.webp"
+    },
+    {
+      "file": "ペピ2世.png",
+      "target": "ペピ2世",
+      "image": "assets/people/person-71387cd266.webp"
+    },
+    {
+      "file": "ポンペイウス.png",
+      "target": "ポンペイウス",
+      "image": "assets/people/person-ecc998d997.webp"
+    },
+    {
+      "file": "マハトマ・ガンディー.png",
+      "target": "マハトマ・ガンディー",
+      "image": "assets/people/person-ee0e1c6ce3.webp"
+    },
+    {
+      "file": "マリー・アントワネット.png",
+      "target": "マリー・アントワネット",
+      "image": "assets/people/person-11e8ea1d8a.webp"
+    },
+    {
+      "file": "マンサ・ムーサ.png",
+      "target": "マンサ・ムーサ",
+      "image": "assets/people/person-827fa9b9b3.webp"
+    },
+    {
+      "file": "マーティン・ルーサー・キング・ジュニア.png",
+      "target": "マーティン・ルーサー・キング・ジュニア",
+      "image": "assets/people/person-191db0da82.webp"
+    },
+    {
+      "file": "ミケランジェロ.png",
+      "target": "ミケランジェロ",
+      "image": "assets/people/person-1141366ba2.webp"
+    },
+    {
+      "file": "ミルティアデス.png",
+      "target": "ミルティアデス",
+      "image": "assets/people/person-ede741edb8.webp"
+    },
+    {
+      "file": "メアリ・ウルストンクラフト.png",
+      "target": "メアリ・ウルストンクラフト",
+      "image": "assets/people/person-b6d9da0629.webp"
+    },
+    {
+      "file": "メンカウラー.png",
+      "target": "メンカウラー",
+      "image": "assets/people/person-b366e7633a.webp"
+    },
+    {
+      "file": "モーツァルト.png",
+      "target": "モーツァルト",
+      "image": "assets/people/person-a84fa933f1.webp"
+    },
+    {
+      "file": "ヤロスラフ賢公.png",
+      "target": "ヤロスラフ賢公",
+      "image": "assets/people/person-728b094372.webp"
+    },
+    {
+      "file": "ユスティニアヌス1世.png",
+      "target": "ユスティニアヌス",
+      "image": "assets/people/person-eb7674eb9e.webp"
+    },
+    {
+      "file": "ラファエロ.png",
+      "target": "ラファエロ",
+      "image": "assets/people/person-0011a7b938.webp"
+    },
+    {
+      "file": "リー・クアンユー.png",
+      "target": "リー・クアンユー",
+      "image": "assets/people/person-185b55fcd2.webp"
+    },
+    {
+      "file": "ルイ14世.png",
+      "target": "ルイ14世",
+      "image": "assets/people/person-4305b9c03d.webp"
+    },
+    {
+      "file": "ルター.png",
+      "target": "マルティン・ルター",
+      "image": "assets/people/person-b1751a213c.webp"
+    },
+    {
+      "file": "ルネ・デカルト.png",
+      "target": "デカルト",
+      "image": "assets/people/person-638347cdb2.webp"
+    },
+    {
+      "file": "レオナルド・ダ・ヴィンチ.png",
+      "target": "レオナルド・ダ・ヴィンチ",
+      "image": "assets/people/person-ad6e558560.webp"
+    },
+    {
+      "file": "レントゲン.png",
+      "target": "レントゲン",
+      "image": "assets/people/person-95977db14a.webp"
+    },
+    {
+      "file": "ロバート・フルトン.png",
+      "target": "ロバート・フルトン",
+      "image": "assets/people/person-7c916ac45b.webp"
+    },
+    {
+      "file": "ワンガリ・マータイ.png",
+      "target": "ワンガリ・マータイ",
+      "image": "assets/people/person-57040e1942.webp"
+    },
+    {
+      "file": "始皇帝.png",
+      "target": "始皇帝",
+      "image": "assets/people/person-6ce46faf8f.webp"
+    },
+    {
+      "file": "孔子.png",
+      "target": "孔子",
+      "image": "assets/people/person-3c08d403ad.webp"
+    },
+    {
+      "file": "杜甫.png",
+      "target": "杜甫",
+      "image": "assets/people/person-c468737f5e.webp"
+    },
+    {
+      "file": "鄧小平.png",
+      "target": "鄧小平",
+      "image": "assets/people/person-92d4a96fa6.webp"
+    },
+    {
+      "file": "鄭和.png",
+      "target": "鄭和",
+      "image": "assets/people/person-be824ba0ed.webp"
+    },
+    {
+      "file": "釈迦.png",
+      "target": "釈迦",
+      "image": "assets/people/person-5efae04b1c.webp"
+    }
+  ],
+  "unresolved": [
+    {
+      "file": "クローヴィス1世.png",
+      "base": "クローヴィス1世"
+    },
+    {
+      "file": "ナポレオン・ボナパルト.png",
+      "base": "ナポレオン・ボナパルト"
+    },
+    {
+      "file": "リム・シン.png",
+      "base": "リム・シン"
+    }
+  ]
+}

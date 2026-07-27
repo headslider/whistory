@@ -1,0 +1,250 @@
+{
+  "changed": [
+    {
+      "term": "列強",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "れっきょう",
+        "ruby": {
+          "base": "列強",
+          "reading": "れっきょう",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "列強",
+          "body": "強い軍事力や経済力を持ち、国際政治に大きな影響を与えた国々を指します。近代史では欧米諸国や日本などをまとめて呼ぶことがあります。"
+        }
+      }
+    },
+    {
+      "term": "先住民",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "せんじゅうみん",
+        "ruby": {
+          "base": "先住民",
+          "reading": "せんじゅうみん",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "先住民",
+          "body": "ある地域に外から支配者や移住者が来る前から住んでいた人々を指します。植民地支配や土地の権利の問題と関わります。"
+        }
+      }
+    },
+    {
+      "term": "戦間期",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "せんかんき",
+        "ruby": {
+          "base": "戦間期",
+          "reading": "せんかんき",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "戦間期",
+          "body": "第一次世界大戦後から第二次世界大戦前までの時期です。世界恐慌、ファシズム、国際協調のゆらぎを考える時代です。"
+        }
+      }
+    },
+    {
+      "term": "港市",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "こうし",
+        "ruby": {
+          "base": "港市",
+          "reading": "こうし",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "港市",
+          "body": "港を中心に交易や人の移動で栄えた都市です。海上交易や文化交流の拠点になりました。"
+        }
+      }
+    },
+    {
+      "term": "民族移動",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "みんぞくいどう",
+        "ruby": {
+          "base": "民族移動",
+          "reading": "みんぞくいどう",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "民族移動",
+          "body": "民族や集団が別の地域へ大きく移動することです。戦争、気候、政治変化などが原因となり、国家や文化の形を変えました。"
+        }
+      }
+    },
+    {
+      "term": "市民政治",
+      "action": "tooltip-only",
+      "before": {
+        "reading": "しみんせいじ",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "市民政治",
+          "reading": "しみんせいじ",
+          "mode": "whole-term"
+        }
+      },
+      "after": {
+        "scopes": [
+          "study"
+        ],
+        "tooltip": {
+          "title": "市民政治",
+          "body": "王や貴族だけでなく、市民が政治に参加する仕組みや考え方です。古代ギリシャや近代革命の理解に関わります。"
+        }
+      }
+    },
+    {
+      "term": "不平等条約",
+      "action": "tooltip-only",
+      "before": {
+        "tooltip": {
+          "title": "不平等条約",
+          "body": "一方の国に不利な条件を押しつけた条約です。領事裁判権や関税自主権の制限などがあり、近代アジアの国々に大きな負担となりました。"
+        },
+        "reading": "ふびょうどうじょうやく",
+        "ruby": {
+          "base": "不平等条約",
+          "reading": "ふびょうどうじょうやく",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "tooltip": {
+          "title": "不平等条約",
+          "body": "一方の国に不利な条件を押しつけた条約です。領事裁判権や関税自主権の制限などがあり、近代アジアの国々に大きな負担となりました。"
+        },
+        "scopes": [
+          "study"
+        ]
+      }
+    },
+    {
+      "term": "北大西洋条約機構",
+      "action": "tooltip-only",
+      "before": {
+        "tooltip": {
+          "title": "北大西洋条約機構",
+          "body": "NATOの正式名称です。加盟国への攻撃を全体への攻撃とみなし、共同で防衛することをめざした軍事同盟です。"
+        },
+        "reading": "きただいせいようじょうやくきこう",
+        "ruby": {
+          "base": "北大西洋条約機構",
+          "reading": "きただいせいようじょうやくきこう",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      },
+      "after": {
+        "tooltip": {
+          "title": "北大西洋条約機構",
+          "body": "NATOの正式名称です。加盟国への攻撃を全体への攻撃とみなし、共同で防衛することをめざした軍事同盟です。"
+        },
+        "scopes": [
+          "study"
+        ]
+      }
+    },
+    {
+      "term": "進出期",
+      "action": "removed-reading-only",
+      "before": {
+        "reading": "しんしゅつき",
+        "ruby": {
+          "base": "進出期",
+          "reading": "しんしゅつき",
+          "mode": "whole-term"
+        },
+        "scopes": [
+          "study"
+        ]
+      }
+    },
+    {
+      "term": "文化交流",
+      "action": "removed-reading-only",
+      "before": {
+        "reading": "ぶんかこうりゅう",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "文化交流",
+          "reading": "ぶんかこうりゅう",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "国際協力",
+      "action": "removed-reading-only",
+      "before": {
+        "reading": "こくさいきょうりょく",
+        "scopes": [
+          "study"
+        ],
+        "ruby": {
+          "base": "国際協力",
+          "reading": "こくさいきょうりょく",
+          "mode": "whole-term"
+        }
+      }
+    }
+  ],
+  "total": 793
+}

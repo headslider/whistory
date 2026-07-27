@@ -1,0 +1,19 @@
+{
+  "assetCount": 183,
+  "peopleCount": 300,
+  "peopleWithImage": 179,
+  "peopleWithoutImage": 121,
+  "missingRefs": [],
+  "unreferencedAssetCount": 6,
+  "unreferencedAssets": [
+    "person-03ca2051e4.webp",
+    "person-12b6aece80.webp",
+    "person-6b0028f33d.webp",
+    "person-9f857af814.webp",
+    "person-cb7645de73.webp",
+    "person-f8d7bd726d.webp"
+  ],
+  "confirmationImageCount": 115,
+  "confirmationMissingInAssets": [],
+  "exactDuplicateGroups": []
+}

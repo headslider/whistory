@@ -1,0 +1,23 @@
+{
+  "updates": [
+    {
+      "person": "ジャンヌ・ダルク",
+      "oldImage": "assets/people/person-f6d272d91c.webp",
+      "newImage": "assets/people/person-9f857af814.webp"
+    },
+    {
+      "person": "ジル・ド・レエ",
+      "oldImage": null,
+      "newImage": "assets/people/person-f6d272d91c.webp"
+    }
+  ],
+  "backup": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\data-backups\\20260720-205342-fix-jeanne-gilles-image-swap-before",
+  "missingImageReferences": [],
+  "duplicateImageReferences": {},
+  "historyGuard": {
+    "subcategories": 53,
+    "totalChars": 17035,
+    "minChars": 283,
+    "canary": true
+  }
+}

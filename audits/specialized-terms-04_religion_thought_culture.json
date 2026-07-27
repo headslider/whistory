@@ -1,0 +1,933 @@
+[
+  {
+    "term": "初期集落・文化",
+    "count": 80,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:0.type => 初期集落・文化圏"
+  },
+  {
+    "term": "農耕文化",
+    "count": 21,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 東アジアでは、長江流域と黄河流域で異なる農耕文化が発達しました。長江下流域の河姆渡文化では、湿地を利用した稲作、高床式住居、骨や木で作った"
+  },
+  {
+    "term": "ヒンドゥー文化",
+    "count": 20,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:50.text => 力を持った王朝・帝国です。インド亜大陸で王朝が広がり、仏教、ヒンドゥー文化、交易都市が発展しました。"
+  },
+  {
+    "term": "初期文化",
+    "count": 20,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:15.region => アメリカ大陸の初期文化"
+  },
+  {
+    "term": "ヒンドゥー教",
+    "count": 18,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.cards.event.detail => 。 教科書で押さえたい地域別のできごとは、インド社会の仏教とヒンドゥー教、儒教と中国政治、キリスト教の公認と国教化、イスラム教の成立と広がり、仏教の東アジア伝来で"
+  },
+  {
+    "term": "都市文化",
+    "count": 17,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アレクサンドロス大王.modal.profile => ルシャ、インド北西部まで軍を進めました。征服地でギリシャ語や都市文化が広がり、各地の文化が混ざるきっかけになりました。この人物の治世から、王朝を維持するために"
+  },
+  {
+    "term": "イスラム文化",
+    "count": 16,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マンサ・ムーサ.modal.profile => が地中海世界にも知られました。トンブクトゥに学びの場を整え、イスラム文化を支えました。政策の成果だけでなく、反対勢力との対立や残された課題も含めて評価する必要があ"
+  },
+  {
+    "term": "社会主義",
+    "count": 15,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.0.text => ました。アメリカはマーシャル・プランとNATO、ソ連は東欧の社会主義政権とワルシャワ条約機構を支えました。両国は核兵器と大陸間ミサイルを増やしましたが、直接戦"
+  },
+  {
+    "term": "民主主義",
+    "count": 11,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "peopleByName:ワンガリ・マータイ.modal.profile => を始めた環境活動家です。森を守ることを、土、水、女性の仕事、民主主義と結び付けて考え、ノーベル平和賞を受けました。個人の行動が多くの人を動かし、法律や社会の常"
+  },
+  {
+    "term": "政治・社会・文化",
+    "count": 9,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:モンゴル帝国.modal.whyImportant => モンゴル帝国は、その後の政治・社会・文化の形に長く影響し、地域どうしの関係を理解するために欠かせない歴史的な変化です。"
+  },
+  {
+    "term": "軍事・経済・思想",
+    "count": 8,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョン・F・ケネディ.modal.profile => 二次世界大戦後にアメリカとソ連が直接の全面戦争を避けながら、軍事・経済・思想で対立した状態です。その活動は、社会の中で見過ごされていた差別や貧困、権利の問題を広く知ら"
+  },
+  {
+    "term": "政治思想",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カウティリヤ.modal.profile => 古代インドでチャンドラグプタを助けたと伝えられる政治思想家です。『実利論』では、税、外交、情報、王の務めを細かく考えました。著者や成立時期には研究"
+  },
+  {
+    "term": "科学教",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => 損失を負うかにあります。国際条約、法律、企業責任、市民参加、科学教育を組み合わせて管理する必要があります。"
+  },
+  {
+    "term": "ゾロアスター教",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.1.text => はインドから中央アジアを経て中国へ伝わり、キリスト教の一派やゾロアスター教、のちにはイスラム教も東へ広がりました。玄奘は唐からインドへ向かう際にこの交通網を利用し、"
+  },
+  {
+    "term": "河姆渡文化",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 江流域と黄河流域で異なる農耕文化が発達しました。長江下流域の河姆渡文化では、湿地を利用した稲作、高床式住居、骨や木で作った農具が確認されています。黄河流域の仰韶"
+  },
+  {
+    "term": "仰韶文化",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "history:groups.0.eras.0.subcategories.1.text => 高床式住居、骨や木で作った農具が確認されています。黄河流域の仰韶文化では、アワやキビを育て、彩文土器を使う集落が広がりました。長江流域では水を引き入れたり排水"
+  },
+  {
+    "term": "バクトリア・マルギアナ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:11.name => バクトリア・マルギアナ文化"
+  },
+  {
+    "term": "アンドロノヴォ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:12.name => アンドロノヴォ文化"
+  },
+  {
+    "term": "バルディビア文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:19.name => バルディビア文化"
+  },
+  {
+    "term": "初期キリスト教",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:パウロ.modal.profile => を旅してイエスの教えを非ユダヤ人にも伝えた宣教者です。手紙は初期キリスト教の考えを示し、教会が広がる大きな支えになりました。キリスト教は、イエスを救い主と信じ、聖書"
+  },
+  {
+    "term": "ナトゥーフ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:0.name => ナトゥーフ文化"
+  },
+  {
+    "term": "ハッスーナ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:3.name => ハッスーナ文化"
+  },
+  {
+    "term": "オクサス文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:13.name => オクサス文化"
+  },
+  {
+    "term": "チャビン文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:16.name => チャビン文化"
+  },
+  {
+    "term": "オルメカ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:17.name => オルメカ文化"
+  },
+  {
+    "term": "国際社会主義",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:161.name => 国際社会主義運動"
+  },
+  {
+    "term": "ハラフ文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:4.name => ハラフ文化"
+  },
+  {
+    "term": "三星堆文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:38.name => 三星堆文化"
+  },
+  {
+    "term": "国際文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.cards.event.detail => を見ます。 教科書で押さえたい地域別のできごとは、唐と長安の国際文化、シルクロードの交流、イスラム世界の商業と学問、インド洋交易の広がり、ヨーロッパ都市と商人"
+  },
+  {
+    "term": "ローマ教",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:オットー1世.modal.profile => 東フランク（ドイツ）の王で、962年にローマ教皇から皇帝の位を授けられ、神聖ローマ帝国の始まりをつくりました。教会と結びついて諸侯をまと"
+  },
+  {
+    "term": "龍山文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:6.name => 龍山文化"
+  },
+  {
+    "term": "良渚文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:8.name => 良渚文化"
+  },
+  {
+    "term": "紅山文化",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": true,
+    "example": "kingdomCards:9.name => 紅山文化"
+  },
+  {
+    "term": "官僚教",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.3.text => アジアへの交通路を確保しました。孔子の教えを基礎とする儒教は官僚教育と政治倫理に取り入れられましたが、戦争、徴税、労役は農民へ大きな負担を与えました。"
+  },
+  {
+    "term": "英語教",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 社支配は終わり、イギリス政府が直接統治しました。鉄道、電信、英語教育、法制度は行政と軍事移動を効率化しましたが、同時に地域を越える政治運動の基盤にもなりまし"
+  },
+  {
+    "term": "近代教",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.2.text => 盤にもなりました。サイイド・アフマド・ハーンはイスラム教徒へ近代教育を広め、ガンディーは塩の行進や不服従運動を通じて非暴力で独立を求めました。"
+  },
+  {
+    "term": "瑜伽行派・唯識思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 」を論じ、アサンガとヴァスバンドゥは心と認識の働きを説明する瑜伽行派・唯識思想を整えました。僧院は修行の場であるだけでなく、経典研究、教育、巡礼者の宿泊、商人との交流を"
+  },
+  {
+    "term": "ルネサンス文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:イタリア都市国家の競合.modal.whatHappened => ェ、ミラノなどの都市国家が商業、銀行、外交で競い合いました。ルネサンス文化を育てる一方、外部の大国の介入も招きました。争いは軍隊だけでなく、都市や農村、交易路、住民"
+  },
+  {
+    "term": "ギリシャ文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:ヘレニズム諸国の並立.modal.whatHappened => 後、後継者たちの王国が東地中海から西アジアで競い合いました。ギリシャ文化と各地の文化が混ざり、都市と学問が発展しました。この変化は政治や経済だけでなく、人々の仕事"
+  },
+  {
+    "term": "作家・思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ヴォルテール.modal.profile => フランスの作家・思想家です。宗教の違いを認め、言論の自由や不正な裁判への批判を行いました。王や教会を何でも否定"
+  },
+  {
+    "term": "ジャイナ教",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:十六大国の時代.modal.whatHappened => 、多くの王国や共和国が競い合った時代です。都市、商業、仏教やジャイナ教の広がりと結びつき、マガダ国の台頭へつながりました。一つの出来事だけで成立したのではなく、"
+  },
+  {
+    "term": "三民主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:孫文.modal.profile => た中国の革命家です。民族の独立、民権、生活の安定を柱とする「三民主義」を掲げ、1911年の革命後に臨時大総統となりました。三民主義は、民族の独立、国民の政治参"
+  },
+  {
+    "term": "宗教思想",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ゾロアスター.modal.profile => 古代イランの宗教思想家とされ、善と悪の選択、正しい考えと言葉と行いを重視する教えを伝えました。実在した時期には"
+  },
+  {
+    "term": "詩人・教",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ラビンドラナート・タゴール.modal.profile => ベンガルの詩人・教育者です。『ギーターンジャリ』でノーベル文学賞を受けました。自然と自由を大切にする学校を作"
+  },
+  {
+    "term": "国粋主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ラビンドラナート・タゴール.modal.profile => 自然と自由を大切にする学校を作り、植民地支配への批判と、狭い国粋主義への警戒を示しました。植民地は、外国の政治的・経済的支配を受けた地域です。この人物の活動に"
+  },
+  {
+    "term": "文字文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ラムセス3世.modal.profile => ラムセス3世は古代エジプトでナイル川流域の王権、神殿、墓、文字文化に関わりました。巨大な建築や記録から、都市と国家のしくみが見えてきます。"
+  },
+  {
+    "term": "全体主義",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ハンナ・アーレント.modal.profile => ドイツ出身の政治思想家です。ナチスの迫害を逃れ、全体主義や責任について研究しました。アイヒマン裁判の報告で、命令に従うだけの危うさを論じました。"
+  },
+  {
+    "term": "医師・教",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ヤヌシュ・コルチャック.modal.profile => ポーランドの医師・教育者です。孤児院で子どもの権利と自治を重んじました。ナチスにより子どもたちが移送される際、"
+  },
+  {
+    "term": "大衆文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:手塚治虫.modal.profile => 、物語性のある漫画とテレビアニメを発展させました。戦後日本の大衆文化に大きな影響を与えました。"
+  },
+  {
+    "term": "漢字文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:朝鮮三国時代.modal.whatHappened => ・百済・新羅が朝鮮半島と周辺地域で競い合った時代です。仏教、漢字文化、外交が広がり、日本や中国との交流にも影響しました。各勢力は武力だけでなく、外交、婚姻、税"
+  },
+  {
+    "term": "貴族文化",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:中国南北朝時代.modal.whatHappened => った時代です。北方民族の政権と南の漢人王朝が競い合い、仏教や貴族文化が広がりました。各勢力は武力だけでなく、外交、婚姻、税制、宗教、商業も利用して優位を得よう"
+  },
+  {
+    "term": "聖職者",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.2.text => と宮廷支出で財政が悪化し、税負担の多くを第三身分が負う一方、聖職者と貴族は特権を持っていました。ルソーの人民主権、モンテスキューの権力分立、ヴォルテールの宗"
+  },
+  {
+    "term": "初代教",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ペテロ.modal.profile => いた後、ローマで活動したという伝承があり、カトリック教会では初代教皇と位置付けられます。キリスト教は、イエスを救い主と信じ、聖書を聖典とする宗教です。教えが"
+  },
+  {
+    "term": "医療教",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ヒポクラテス.modal.profile => んが、医療倫理の象徴です。病気の治療だけでなく、衛生や予防、医療教育を整える重要性も示しました。古代ギリシャで「政治と学問を広げた人」とされる理由を、行動の"
+  },
+  {
+    "term": "女性教",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ロキア・サカワット・ホセイン.modal.profile => 。小説『スルタナの夢』では女性が科学と政治を担う社会を描き、女性教育の必要を訴えました。作品そのものだけでなく、それを生み出した社会や支援者との関係も重要で"
+  },
+  {
+    "term": "商人・使節・技術者・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.5.text => 数の政権へ分かれましたが、駅伝制、通行証、道路と宿駅を整え、商人・使節・技術者・宗教者の移動を保護しました。忽必烈は中国で元を建て、大都を都として南宋を滅ぼし、中国全土を支配"
+  },
+  {
+    "term": "アレクサンドリア司教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アタナシウス.modal.profile => 4世紀のアレクサンドリア司教です。イエス・キリストの性質をめぐる論争で、ニカイア公会議の立場を守りました。何度も追放さ"
+  },
+  {
+    "term": "サンスクリット文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 院での礼拝を通してヒンドゥー教へ発展しました。グプタ朝期にはサンスクリット文化と寺院建築が栄えましたが、身分秩序や職業の世襲も社会に根強く残りました。"
+  },
+  {
+    "term": "都市・ギルド・大学",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.4.summary => 農業生産と遠隔交易の拡大で都市・ギルド・大学・議会が成長する"
+  },
+  {
+    "term": "労働時間・住宅・教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.0.text => 、煤煙、感染症が都市問題となり、ロバート・オーウェンは工場の労働時間・住宅・教育の改善を試みました。"
+  },
+  {
+    "term": "香辛料・金・布教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.5.eras.0.subcategories.0.summary => ポルトガルとスペインが香辛料・金・布教を求め、アフリカ沿岸と大西洋へ進出する"
+  },
+  {
+    "term": "工業化・住宅・教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.2.peopleNote => 鄧小平は中国の改革開放、リー・クアンユーはシンガポールの工業化・住宅・教育政策を進め、東アジアの発展モデルへ影響しました。"
+  },
+  {
+    "term": "近代イスラム思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャマールッディーン・アフガーニー.modal.profile => パの支配に対抗すべきだと訴えました。各地で政治運動に関わり、近代イスラム思想に影響しました。教えがどのように弟子や信者へ受け継がれ、地域をこえて広がったのかが重要です"
+  },
+  {
+    "term": "土地・所得・教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.3.text => ました。その後、真実和解委員会が過去の暴力を調査しましたが、土地・所得・教育の格差は残りました。"
+  },
+  {
+    "term": "ヨーロッパ文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カール大帝.modal.profile => た。800年にローマ皇帝の位を授けられ、学問や教会を保護してヨーロッパ文化の土台を築きました。その活動は、政治制度を変えるには法律だけでなく、社会の支持や対立への対"
+  },
+  {
+    "term": "キリスト教思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アウグスティヌス.modal.profile => 北アフリカのヒッポで司教を務めたキリスト教思想家です。『告白』『神の国』で信仰、人の心、国家を考えました。西ヨーロッパの神学と哲学に長く"
+  },
+  {
+    "term": "東方キリスト教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ウラジーミル1世.modal.profile => キエフ公国の君主です。988年ごろに東方キリスト教を受け入れ、ドニエプル川で人々に洗礼を受けさせたと伝えられます。ロシアやウクライナの宗教文"
+  },
+  {
+    "term": "人・物・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.0.summary => 唐の都長安が東西の人・物・宗教を集め、東アジアへ制度と文化を広げる"
+  },
+  {
+    "term": "イスラム思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャマールッディーン・アフガーニー.modal.profile => 19世紀のイスラム思想家・活動家です。イスラム圏の人々が協力し、ヨーロッパの支配に対抗すべきだと訴えました。各地"
+  },
+  {
+    "term": "朝鮮民主主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:金日成.modal.profile => 北朝鮮の建国指導者です。朝鮮民主主義人民共和国を成立させ、朝鮮戦争を始める中心となりました。戦後は個人崇拝と一党支配を強めまし"
+  },
+  {
+    "term": "社会主義思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ディエゴ・リベラ.modal.profile => 者、革命、先住民の歴史を描き、公共の場所に芸術を広げました。社会主義思想とも結びつきました。"
+  },
+  {
+    "term": "反植民地主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ホセ・マルティ.modal.profile => 5年の独立戦争に参加して戦死しました。ラテンアメリカの自由と反植民地主義の象徴です。"
+  },
+  {
+    "term": "青銅器文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.0.eras.0.subcategories.1.text => うした農耕集落の人口・技術・祭祀の積み重ねが、後の城壁都市、青銅器文化、王朝社会の形成につながりました。"
+  },
+  {
+    "term": "言語・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.0.text => 1世の時代にもエジプトなどで反乱が続きました。帝国は諸民族の言語・宗教を残す柔軟さを持つ一方、税、兵役、強制移住、軍事鎮圧によって広大な支配を維持しました。"
+  },
+  {
+    "term": "バラモン教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.text => 巡礼者の宿泊、商人との交流を支える施設でもありました。一方、バラモン教は地域の神々や民間信仰を取り込み、ヴィシュヌ、シヴァ、女神への信仰、『マハーバーラタ』『ラ"
+  },
+  {
+    "term": "インド仏教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.peopleNote => 遠は浄土信仰、達磨は禅の伝承、玄奘は唯識経典の翻訳に関わり、インド仏教を東アジアの言語と社会へ適応させました。"
+  },
+  {
+    "term": "商品・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.1.summary => 中央アジアのオアシス都市を結ぶ道で商品・宗教・技術・感染症が移動する"
+  },
+  {
+    "term": "政治・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.3.text => トゥータはキルワ、カリカット、モルディブなどを訪れ、港ごとの政治・宗教・商習慣を記録しています。"
+  },
+  {
+    "term": "市民・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.6.eras.0.subcategories.4.text => 大西洋世界では、奴隷にされた人々の逃亡、反乱、請願、証言と、市民・宗教団体による不買運動が結び付き、奴隷制廃止運動が広がりました。砂糖農園で働かされた人々の反乱"
+  },
+  {
+    "term": "民族・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.1.text => 業育成を進める一方、植民地期の国境、一次産品依存、軍事政権、民族・宗教対立に直面しました。"
+  },
+  {
+    "term": "軍事・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マクシミリアン1世.modal.profile => が受けつぐ大帝国の土台を築きました。この統治を通して、王権が軍事・宗教・行政とどのように結びついていたかが分かります。神聖ローマ帝国で「結婚で領土を広げた皇帝」"
+  },
+  {
+    "term": "イラン文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ゾロアスター.modal.profile => えました。実在した時期には諸説がありますが、ゾロアスター教はイラン文化に深く影響しました。宗教の成立には、教えの内容だけでなく、共同体の形成や政治との関係も深く"
+  },
+  {
+    "term": "役人・思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:韓愈.modal.profile => 唐の役人・思想家です。儒教を国の中心に戻すべきだと考え、仏教を強く批判しました。文章の新しい書き方を広め"
+  },
+  {
+    "term": "図書館文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:リチャード・ド・ベリー.modal.profile => の書』を書きました。写本が高価だった時代に、知識を集めて守る図書館文化を示す人物です。作品そのものだけでなく、それを生み出した社会や支援者との関係も重要です。ヨ"
+  },
+  {
+    "term": "神学者・教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アベラール.modal.profile => 中世フランスの神学者・教師です。信仰に関する教えを、問いと論理を使って考えようとしました。エロイーズとの手紙でも知"
+  },
+  {
+    "term": "思想家・教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:福沢諭吉.modal.profile => 明治時代の思想家・教育者です。『学問のすゝめ』で学びによる自立を説き、慶應義塾を開きました。西洋の制度や考えを"
+  },
+  {
+    "term": "先住民文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フリーダ・カーロ.modal.profile => メキシコの画家です。自画像に身体の痛み、先住民文化、政治的な思いを描きました。女性、民族、障害をめぐる表現として後世に大きな影響を与えました"
+  },
+  {
+    "term": "品物・宗教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:シルクロードの交流.summary => シルクロードで品物・宗教・技術が伝わる"
+  },
+  {
+    "term": "寺院文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.summary => 仏教思想が多様化し、ヒンドゥー教の信仰と寺院文化がインド社会に広がる"
+  },
+  {
+    "term": "中観思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.0.peopleNote => ナーガールジュナは中観思想、アサンガとヴァスバンドゥは瑜伽行派・唯識思想を発展させ、大乗仏教の教理が中国やチベットへ"
+  },
+  {
+    "term": "儒教経典",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.1.text => れ、経典を学ぶ学校が整えられました。のちに科挙が発達すると、儒教経典の理解が官僚登用の中心となり、家族関係、祖先祭祀、教育にも影響しました。朝鮮半島、ベトナム"
+  },
+  {
+    "term": "西方教会",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.2.peopleNote => 通じて教義が整えられました。ヒエロニムスとアウグスティヌスは西方教会の聖書理解と神学へ大きく影響しました。"
+  },
+  {
+    "term": "唯識思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => 玄奘は唐からインドへ旅して原典を持ち帰り、精密な翻訳によって唯識思想を伝えました。中国で形成された宗派、寺院制度、漢訳経典は朝鮮半島と日本へ伝わり、各地の王権"
+  },
+  {
+    "term": "漢訳経典",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.text => よって唯識思想を伝えました。中国で形成された宗派、寺院制度、漢訳経典は朝鮮半島と日本へ伝わり、各地の王権や在来信仰と結び付きました。"
+  },
+  {
+    "term": "大乗経典",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.peopleNote => 鳩摩羅什は大乗経典、慧遠は浄土信仰、達磨は禅の伝承、玄奘は唯識経典の翻訳に関わり、インド仏教を東アジアの言語"
+  },
+  {
+    "term": "唯識経典",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.3.eras.0.subcategories.4.peopleNote => 鳩摩羅什は大乗経典、慧遠は浄土信仰、達磨は禅の伝承、玄奘は唯識経典の翻訳に関わり、インド仏教を東アジアの言語と社会へ適応させました。"
+  },
+  {
+    "term": "東洋思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ショーペンハウアー.modal.profile => の欲望が苦しみを生むと考え、芸術や思いやりに救いを見ました。東洋思想にも関心を持ち、後の文学や哲学に影響しました。この人物が立てた問いは、後の哲学者が賛成や批"
+  },
+  {
+    "term": "宗教文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ウラジーミル1世.modal.profile => で人々に洗礼を受けさせたと伝えられます。ロシアやウクライナの宗教文化に大きな影響を残しました。キリスト教は、イエスを救い主と信じ、聖書を聖典とする宗教です。こ"
+  },
+  {
+    "term": "道家思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:荘子.modal.profile => 示しました。『荘子』には本人以外の文章も含まれると考えられ、道家思想を学ぶ大切な書です。教えがどのように弟子や信者へ受け継がれ、地域をこえて広がったのかが重要"
+  },
+  {
+    "term": "資本主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:カール・マルクス.modal.profile => まれの思想家です。工場で働く人と資本を持つ人の関係を分析し、資本主義の矛盾を批判しました。『共産党宣言』『資本論』は労働運動や社会主義に大きな影響を与えました"
+  },
+  {
+    "term": "作家・教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ロキア・サカワット・ホセイン.modal.profile => ベンガル出身の作家・教育者です。女性が学べない社会を批判し、女子学校を開きました。小説『スルタナの夢』では女性が"
+  },
+  {
+    "term": "改革思想",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:康有為.modal.profile => 清末の改革思想家です。光緒帝を支えて戊戌の変法を進め、制度改革と立憲政治を訴えました。改革は西太后らによ"
+  },
+  {
+    "term": "権威主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:蒋介石.modal.profile => 争では国民政府を率いました。国共内戦に敗れて台湾へ移り、長く権威主義的な統治を行いました。"
+  },
+  {
+    "term": "障害者教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ヘレン・ケラー.modal.profile => カの作家・社会活動家です。視覚と聴覚に障害を持ちながら学び、障害者教育と福祉を訴えました。労働者、女性、平和の問題にも発言しました。"
+  },
+  {
+    "term": "表現主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ゴッホ.modal.profile => 景に感情をこめて描きました。生前は評価が低かったものの、後の表現主義や近代美術に大きな影響を与えました。"
+  },
+  {
+    "term": "生活文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ココ・シャネル.modal.profile => いドレスなどを広め、女性の服装を大きく変えました。20世紀の生活文化とファッションに影響しました。"
+  },
+  {
+    "term": "実存主義",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジャン＝ポール・サルトル.modal.profile => フランスの哲学者・作家です。実存主義を代表し、人は自分の選択に責任を持つと論じました。戦後の政治運動や植民地支配への批判にも関"
+  },
+  {
+    "term": "音楽文化",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョン・レノン.modal.profile => イギリスの音楽家です。ビートルズの一員として世界の音楽文化を変え、解散後は平和運動にも関わりました。『イマジン』などで戦争のない世界を訴えました。"
+  },
+  {
+    "term": "仏教教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.2.eras.0.subcategories.4.text => る宗教を尊重し、節度と慈悲を守るよう命じました。釈迦が始めた仏教教団を保護し、僧侶、商人、使節の移動を通してスリランカなどへ広がる条件を整えました。ただし帝"
+  },
+  {
+    "term": "討論教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.4.eras.0.subcategories.4.peopleNote => アベラールは都市の学校と討論教育、ジョン王は課税をめぐるマグナ・カルタ、エドワード1世は身分代表を集める議会の発展に関わ"
+  },
+  {
+    "term": "看護教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フローレンス・ナイチンゲール.modal.profile => な水、換気、記録を重視して死亡を減らした看護師です。帰国後は看護教育を整え、統計を使って医療の改善を求めました。この取り組みは、経験だけに頼らず、記録や観察"
+  },
+  {
+    "term": "数学教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ユークリッド.modal.profile => 図形の性質を順に証明する方法をまとめました。この考え方は長く数学教育の土台になりました。発見の内容だけでなく、どの証拠から結論を導いたのかという研究方法にも"
+  },
+  {
+    "term": "幼児教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マリア・モンテッソーリ.modal.profile => 力を重視する教育法を作りました。教材や環境を整え、世界各地の幼児教育に影響を与えました。"
+  },
+  {
+    "term": "環境教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:シルビア・アール.modal.profile => 、海の生態系を守る必要を世界に訴えました。海洋保護区づくりや環境教育を進めています。"
+  },
+  {
+    "term": "理科教",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:サリー・ライド.modal.profile => めて宇宙へ行きました。退役後は科学教育を進め、子どもや女性の理科教育を支えました。"
+  },
+  {
+    "term": "キリスト教",
+    "count": 66,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.3.focus => 仏教、キリスト教、イスラム教"
+  },
+  {
+    "term": "イスラム教",
+    "count": 52,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.3.focus => 仏教、キリスト教、イスラム教"
+  },
+  {
+    "term": "帝国主義",
+    "count": 39,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.focus => 帝国主義、科学、交通、通信"
+  },
+  {
+    "term": "カトリック教会",
+    "count": 20,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:マルティン・ルター.modal.profile => 始まり、プロテスタントが生まれました。宗教改革は、16世紀にカトリック教会のあり方を批判し、新しいキリスト教の教会が生まれた運動です。教えがどのように弟子や信者へ受"
+  },
+  {
+    "term": "ルネサンス",
+    "count": 18,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:レオナルド・ダ・ヴィンチ.title => ルネサンスの天才"
+  },
+  {
+    "term": "宗教改革",
+    "count": 18,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.5.eras.0.cards.event.summary => テカやインカの征服、銀や作物の移動が世界を大きく変えました。宗教改革ではマルティン・ルターが教会を批判しました。"
+  },
+  {
+    "term": "仏教思想",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.3.eras.0.subcategories.0.summary => 仏教思想が多様化し、ヒンドゥー教の信仰と寺院文化がインド社会に広がる"
+  },
+  {
+    "term": "活版印刷",
+    "count": 8,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:グーテンベルク.title => 活版印刷を広めた人"
+  },
+  {
+    "term": "イギリス国教会",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ヘンリー8世.title => イギリス国教会をつくった王"
+  },
+  {
+    "term": "仏教文化",
+    "count": 6,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:空海.modal.profile => 高野山を拠点にしました。文字、書、土木にも関心を持ち、日本の仏教文化に大きな影響を残しました。"
+  },
+  {
+    "term": "チベット仏教",
+    "count": 4,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ダライ・ラマ14世.modal.profile => チベット仏教の指導者です。1959年にインドへ亡命し、チベットの自治と非暴力による対話を訴えてきました"
+  },
+  {
+    "term": "大乗仏教",
+    "count": 4,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.3.eras.0.subcategories.0.peopleNote => 想、アサンガとヴァスバンドゥは瑜伽行派・唯識思想を発展させ、大乗仏教の教理が中国やチベットへ伝わる基礎を築きました。"
+  },
+  {
+    "term": "啓蒙思想",
+    "count": 4,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.2.text => 主権、モンテスキューの権力分立、ヴォルテールの宗教的寛容など啓蒙思想も旧制度批判を強めました。ルイ16世が三部会を招集すると第三身分は国民議会を結成し、178"
+  },
+  {
+    "term": "プロテスタント",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:アンリ4世.modal.profile => 16世紀末のフランス王です。カトリックとプロテスタントが争う宗教戦争のなかで即位し、1598年のナント勅令で信仰の自由をある程度認めて、国の混乱"
+  },
+  {
+    "term": "メッカ巡礼",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:マンサ・ムーサ.modal.profile => 西アフリカのマリ帝国の王です。メッカ巡礼で大勢を連れ、金を使ったことが地中海世界にも知られました。トンブクトゥに学びの場を整え、イ"
+  },
+  {
+    "term": "議会制民主主義",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ジャワハルラール・ネルー.modal.profile => インド独立運動家で、独立後の初代首相です。議会制民主主義、科学教育、非同盟外交を重視しました。一方で中国との国境問題や経済政策には難しさも残りまし"
+  },
+  {
+    "term": "東アジア仏教",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:鳩摩羅什.modal.profile => を読みやすい中国語に訳し、『法華経』などの理解を広げました。東アジア仏教の土台の一人です。仏教は、釈迦の教えをもとに、苦しみの原因を見つめ、迷いから解放されること"
+  },
+  {
+    "term": "日本仏教",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:最澄.modal.profile => です。唐で学んだ教えをもとに、僧が学ぶ場を作りました。のちの日本仏教の多くの僧が比叡山で学びました。"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "terms": 818,
+  "learningVersion": "20260718-buddhist-text-ruby",
+  "readings": {
+    "法華経": {
+      "reading": "ほけきょう",
+      "hasTooltip": true
+    },
+    "阿弥陀経": {
+      "reading": "あみだきょう",
+      "hasTooltip": true
+    },
+    "中論": {
+      "reading": "ちゅうろん",
+      "hasTooltip": true
+    }
+  }
+}

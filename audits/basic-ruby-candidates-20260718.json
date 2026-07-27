@@ -1,0 +1,644 @@
+{
+  "count": 71,
+  "candidates": [
+    {
+      "term": "黄河流域",
+      "reading": "こうがりゅういき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "長江流域",
+      "reading": "ちょうこうりゅういき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "高句麗",
+      "reading": "こうくり",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 3
+    },
+    {
+      "term": "百済",
+      "reading": "くだら",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "雑穀",
+      "reading": "ざっこく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "牧畜",
+      "reading": "ぼくちく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "諸侯",
+      "reading": "しょこう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "抵抗勢力",
+      "reading": "ていこうせいりょく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "列強",
+      "reading": "れっきょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "進出期",
+      "reading": "しんしゅつき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 3
+    },
+    {
+      "term": "律令",
+      "reading": "りつりょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "先住民",
+      "reading": "せんじゅうみん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 3
+    },
+    {
+      "term": "戦間期",
+      "reading": "せんかんき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 3
+    },
+    {
+      "term": "拮抗",
+      "reading": "きっこう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "均衡",
+      "reading": "きんこう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "航路開拓",
+      "reading": "こうろかいたく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "香辛料",
+      "reading": "こうしんりょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 3
+    },
+    {
+      "term": "参政権",
+      "reading": "さんせいけん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "地球規模",
+      "reading": "ちきゅうきぼ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "十六大国",
+      "reading": "じゅうろくだいこく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "港市",
+      "reading": "こうし",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 2
+    },
+    {
+      "term": "蜀",
+      "reading": "しょく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 1
+    },
+    {
+      "term": "呉",
+      "reading": "ご",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 1
+    },
+    {
+      "term": "民族移動",
+      "reading": "みんぞくいどう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "宗教改革",
+      "reading": "しゅうきょうかいかく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "文化交流",
+      "reading": "ぶんかこうりゅう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "国際協力",
+      "reading": "こくさいきょうりょく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "制度改革",
+      "reading": "せいどかいかく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "市民政治",
+      "reading": "しみんせいじ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": false,
+      "length": 4
+    },
+    {
+      "term": "大乗仏教",
+      "reading": "だいじょうぶっきょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "灌漑農業",
+      "reading": "かんがいのうぎょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "都市文明",
+      "reading": "としぶんめい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "甲骨文字",
+      "reading": "こうこつもじ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "仏教思想",
+      "reading": "ぶっきょうしそう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "仏教文化",
+      "reading": "ぶっきょうぶんか",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "日本仏教",
+      "reading": "にほんぶっきょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "冷戦期",
+      "reading": "れいせんき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "冷戦終結",
+      "reading": "れいせんしゅうけつ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "冷戦下",
+      "reading": "れいせんか",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "冷戦時代",
+      "reading": "れいせんじだい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "連合国軍",
+      "reading": "れんごうこくぐん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "連合国側",
+      "reading": "れんごうこくがわ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "冷戦勢力",
+      "reading": "れいせんせいりょく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "蒸気機関",
+      "reading": "じょうききかん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "力織機",
+      "reading": "りきしょっき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "紡績機械",
+      "reading": "ぼうせききかい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "綿工業",
+      "reading": "めんこうぎょう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "工場制",
+      "reading": "こうじょうせい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "鉱山排水",
+      "reading": "こうざんはいすい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "工場労働",
+      "reading": "こうじょうろうどう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "活版印刷",
+      "reading": "かっぱんいんさつ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "三部会",
+      "reading": "さんぶかい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "国民議会",
+      "reading": "こくみんぎかい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "人権宣言",
+      "reading": "じんけんせんげん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "絶対王政",
+      "reading": "ぜったいおうせい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "独立宣言",
+      "reading": "どくりつせんげん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "不買運動",
+      "reading": "ふばいうんどう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "民族運動",
+      "reading": "みんぞくうんどう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "独立運動",
+      "reading": "どくりつうんどう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "国民国家",
+      "reading": "こくみんこっか",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "非暴力",
+      "reading": "ひぼうりょく",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "核兵器",
+      "reading": "かくへいき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "世界大戦",
+      "reading": "せかいたいせん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "楔形文字",
+      "reading": "くさびがたもじ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "太陽暦",
+      "reading": "たいようれき",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "三圃制",
+      "reading": "さんぽせい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "荘園制",
+      "reading": "しょうえんせい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "封建制",
+      "reading": "ほうけんせい",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    },
+    {
+      "term": "重商主義",
+      "reading": "じゅうしょうしゅぎ",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "啓蒙思想",
+      "reading": "けいもうしそう",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 4
+    },
+    {
+      "term": "選挙権",
+      "reading": "せんきょけん",
+      "scopes": [
+        "study"
+      ],
+      "tooltip": true,
+      "length": 3
+    }
+  ]
+}

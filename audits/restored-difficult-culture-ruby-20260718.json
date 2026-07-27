@@ -1,0 +1,288 @@
+{
+  "changed": [
+    {
+      "term": "仰韶文化",
+      "reading": "ぎょうしょうぶんか",
+      "existed": true,
+      "before": {
+        "scopes": [],
+        "tooltip": {
+          "title": "仰韶文化",
+          "body": "黄河流域で発達した新石器時代の文化です。アワやキビの栽培、彩文土器、集落生活が特徴です。"
+        }
+      },
+      "after": {
+        "scopes": [],
+        "tooltip": {
+          "title": "仰韶文化",
+          "body": "黄河流域で発達した新石器時代の文化です。アワやキビの栽培、彩文土器、集落生活が特徴です。"
+        },
+        "reading": "ぎょうしょうぶんか",
+        "ruby": {
+          "base": "仰韶文化",
+          "reading": "ぎょうしょうぶんか",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "河姆渡文化",
+      "reading": "かぼとぶんか",
+      "existed": true,
+      "before": {
+        "scopes": [],
+        "tooltip": {
+          "title": "河姆渡文化",
+          "body": "長江下流域で発達した新石器時代の文化です。稲作、高床式住居、木や骨の道具などが特徴です。"
+        }
+      },
+      "after": {
+        "scopes": [],
+        "tooltip": {
+          "title": "河姆渡文化",
+          "body": "長江下流域で発達した新石器時代の文化です。稲作、高床式住居、木や骨の道具などが特徴です。"
+        },
+        "reading": "かぼとぶんか",
+        "ruby": {
+          "base": "河姆渡文化",
+          "reading": "かぼとぶんか",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "龍山文化",
+      "reading": "りゅうざんぶんか",
+      "existed": true,
+      "before": {
+        "scopes": [],
+        "tooltip": {
+          "title": "龍山文化",
+          "body": "黄河流域を中心に広がった新石器時代後期の文化です。黒陶や城壁をもつ集落などが見られ、王朝形成の前段階と関わります。"
+        }
+      },
+      "after": {
+        "scopes": [],
+        "tooltip": {
+          "title": "龍山文化",
+          "body": "黄河流域を中心に広がった新石器時代後期の文化です。黒陶や城壁をもつ集落などが見られ、王朝形成の前段階と関わります。"
+        },
+        "reading": "りゅうざんぶんか",
+        "ruby": {
+          "base": "龍山文化",
+          "reading": "りゅうざんぶんか",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "良渚文化",
+      "reading": "りょうしょぶんか",
+      "existed": true,
+      "before": {
+        "scopes": [],
+        "tooltip": {
+          "title": "良渚文化",
+          "body": "長江下流域で発達した新石器時代の文化です。玉器、祭祀、階層差が見られ、複雑な社会の発展を示します。"
+        }
+      },
+      "after": {
+        "scopes": [],
+        "tooltip": {
+          "title": "良渚文化",
+          "body": "長江下流域で発達した新石器時代の文化です。玉器、祭祀、階層差が見られ、複雑な社会の発展を示します。"
+        },
+        "reading": "りょうしょぶんか",
+        "ruby": {
+          "base": "良渚文化",
+          "reading": "りょうしょぶんか",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "紅山文化",
+      "reading": "こうさんぶんか",
+      "existed": true,
+      "before": {
+        "scopes": [],
+        "tooltip": {
+          "title": "紅山文化",
+          "body": "中国東北部で発達した新石器時代の文化です。玉器や祭祀遺跡が知られ、北方地域の社会発展を考える手がかりです。"
+        }
+      },
+      "after": {
+        "scopes": [],
+        "tooltip": {
+          "title": "紅山文化",
+          "body": "中国東北部で発達した新石器時代の文化です。玉器や祭祀遺跡が知られ、北方地域の社会発展を考える手がかりです。"
+        },
+        "reading": "こうさんぶんか",
+        "ruby": {
+          "base": "紅山文化",
+          "reading": "こうさんぶんか",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "三星堆文化",
+      "reading": "さんせいたいぶんか",
+      "existed": true,
+      "before": {
+        "scopes": [],
+        "tooltip": {
+          "title": "三星堆文化",
+          "body": "中国四川盆地で栄えた青銅器文化です。大型の青銅仮面や神樹で知られ、黄河流域とは異なる文化の発展を示します。"
+        }
+      },
+      "after": {
+        "scopes": [],
+        "tooltip": {
+          "title": "三星堆文化",
+          "body": "中国四川盆地で栄えた青銅器文化です。大型の青銅仮面や神樹で知られ、黄河流域とは異なる文化の発展を示します。"
+        },
+        "reading": "さんせいたいぶんか",
+        "ruby": {
+          "base": "三星堆文化",
+          "reading": "さんせいたいぶんか",
+          "mode": "whole-term"
+        }
+      }
+    },
+    {
+      "term": "馬家窯文化",
+      "reading": "ばかようぶんか",
+      "existed": false,
+      "before": null,
+      "after": {
+        "scopes": [],
+        "reading": "ばかようぶんか",
+        "ruby": {
+          "base": "馬家窯文化",
+          "reading": "ばかようぶんか",
+          "mode": "whole-term"
+        },
+        "tooltip": {
+          "title": "馬家窯文化",
+          "body": "黄河上流域で発達した新石器時代の文化です。彩文土器で知られ、中国西北部の農耕社会を考える手がかりです。"
+        }
+      }
+    },
+    {
+      "term": "大汶口文化",
+      "reading": "だいぶんこうぶんか",
+      "existed": false,
+      "before": null,
+      "after": {
+        "scopes": [],
+        "reading": "だいぶんこうぶんか",
+        "ruby": {
+          "base": "大汶口文化",
+          "reading": "だいぶんこうぶんか",
+          "mode": "whole-term"
+        },
+        "tooltip": {
+          "title": "大汶口文化",
+          "body": "山東地域を中心に発達した新石器時代の文化です。墓の副葬品などから社会の差が広がったことが分かります。"
+        }
+      }
+    },
+    {
+      "term": "二里頭文化",
+      "reading": "にりとうぶんか",
+      "existed": false,
+      "before": null,
+      "after": {
+        "scopes": [],
+        "reading": "にりとうぶんか",
+        "ruby": {
+          "base": "二里頭文化",
+          "reading": "にりとうぶんか",
+          "mode": "whole-term"
+        },
+        "tooltip": {
+          "title": "二里頭文化",
+          "body": "黄河中流域で発達した青銅器時代初期の文化です。宮殿跡や青銅器が見つかり、夏王朝との関係が議論されています。"
+        }
+      }
+    },
+    {
+      "term": "裴李崗文化",
+      "reading": "はいりこうぶんか",
+      "existed": false,
+      "before": null,
+      "after": {
+        "scopes": [],
+        "reading": "はいりこうぶんか",
+        "ruby": {
+          "base": "裴李崗文化",
+          "reading": "はいりこうぶんか",
+          "mode": "whole-term"
+        },
+        "tooltip": {
+          "title": "裴李崗文化",
+          "body": "黄河流域で発達した新石器時代の初期文化です。農耕、磨製石器、土器などが見られます。"
+        }
+      }
+    },
+    {
+      "term": "老官台文化",
+      "reading": "ろうかんだいぶんか",
+      "existed": false,
+      "before": null,
+      "after": {
+        "scopes": [],
+        "reading": "ろうかんだいぶんか",
+        "ruby": {
+          "base": "老官台文化",
+          "reading": "ろうかんだいぶんか",
+          "mode": "whole-term"
+        },
+        "tooltip": {
+          "title": "老官台文化",
+          "body": "黄河中流域で発達した新石器時代の文化です。初期農耕や集落生活を考える手がかりです。"
+        }
+      }
+    },
+    {
+      "term": "興隆窪文化",
+      "reading": "こうりゅうわぶんか",
+      "existed": false,
+      "before": null,
+      "after": {
+        "scopes": [],
+        "reading": "こうりゅうわぶんか",
+        "ruby": {
+          "base": "興隆窪文化",
+          "reading": "こうりゅうわぶんか",
+          "mode": "whole-term"
+        },
+        "tooltip": {
+          "title": "興隆窪文化",
+          "body": "中国東北部で発達した新石器時代の文化です。集落、玉器、狩猟と農耕の組み合わせが特徴です。"
+        }
+      }
+    },
+    {
+      "term": "石家河文化",
+      "reading": "せっかかぶんか",
+      "existed": false,
+      "before": null,
+      "after": {
+        "scopes": [],
+        "reading": "せっかかぶんか",
+        "ruby": {
+          "base": "石家河文化",
+          "reading": "せっかかぶんか",
+          "mode": "whole-term"
+        },
+        "tooltip": {
+          "title": "石家河文化",
+          "body": "長江中流域で発達した新石器時代後期の文化です。城壁集落や玉器が知られ、複雑な社会の発展を示します。"
+        }
+      }
+    }
+  ],
+  "total": 816
+}

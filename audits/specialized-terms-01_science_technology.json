@@ -1,0 +1,240 @@
+[
+  {
+    "term": "エックス線",
+    "count": 12,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.5.text => ・鉄道工事を進めましたが、戦争にも使われました。レントゲンのエックス線は体内を手術せず観察する医療を可能にし、ナイチンゲールは統計と衛生管理で病院改革を進めまし"
+  },
+  {
+    "term": "宇宙開発",
+    "count": 8,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.cards.event.summary => 冷戦、植民地の独立、EUの成立、宇宙開発、公民権運動、環境運動、AIの発展などが今の社会につながっています。"
+  },
+  {
+    "term": "オンライン百科事典",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:Wikipedia.summary => 共同編集で作るオンライン百科事典"
+  },
+  {
+    "term": "気候変動",
+    "count": 6,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.summary => 気候変動・感染症・紛争・AIの影響が国境を越え、科学と国際制度の協力を必要とする"
+  },
+  {
+    "term": "情報技術",
+    "count": 5,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "kingdomCards:199.text => は現代の社会勢力で力を持った社会勢力・運動です。環境、人権、情報技術、市民活動が国境を越え、未来を考える力になっています。"
+  },
+  {
+    "term": "DNA",
+    "count": 4,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ロザリンド・フランクリン.modal.profile => イギリスの科学者です。X線写真でDNAの二重らせん構造解明に重要な証拠を示しました。生前は十分な評価を受けにくく、科学史で再評価"
+  },
+  {
+    "term": "二重らせん",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ロザリンド・フランクリン.modal.profile => イギリスの科学者です。X線写真でDNAの二重らせん構造解明に重要な証拠を示しました。生前は十分な評価を受けにくく、科学史で再評価されています"
+  },
+  {
+    "term": "飛行機",
+    "count": 3,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.cards.life.summary => テレビ、飛行機、インターネット、スマートフォンが広がり、遠くの人ともすぐにつながれるようになりました。環"
+  },
+  {
+    "term": "相対性理論",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:アルベルト・アインシュタイン.modal.profile => ドイツ生まれの物理学者で、時間と空間、重力の見方を変えた相対性理論を示しました。ナチスの迫害を逃れてアメリカへ移り、戦争後は核兵器の危険にも声を上げました。"
+  },
+  {
+    "term": "ウェブ情報",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:セルゲイ・ブリン.modal.profile => 共同創業者です。ラリー・ペイジと検索エンジンを開発し、膨大なウェブ情報を順位づけて探しやすくしました。インターネット利用の形を大きく変えました。"
+  },
+  {
+    "term": "予防接種",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:トーマス・サンカラ.modal.profile => ブルキナファソの大統領です。女性の権利、予防接種、植林、汚職の削減を進めました。急進的な改革は支持と反発を生み、1987年のクーデターで殺"
+  },
+  {
+    "term": "放射能",
+    "count": 2,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:マリー・キュリー.modal.profile => ポーランド出身の科学者です。夫ピエールと放射能を研究し、ポロニウムとラジウムを発見しました。物理学賞と化学賞を受け、女性科学者の道を開き"
+  },
+  {
+    "term": "オープンソース開発",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:リーナス・トーバルズ.modal.profile => Linuxカーネルを公開し、世界中の開発者が協力して改良するオープンソース開発を広げました。サーバーやスマートフォンにも影響しました。"
+  },
+  {
+    "term": "温室効果ガス",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => 現代の地球規模課題には、温室効果ガスによる気候変動、生物多様性の減少、感染症、難民、核兵器、貧困、AIの急速な利用拡大がありま"
+  },
+  {
+    "term": "ワクチン開発",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.9.eras.0.subcategories.6.text => 。感染症対策では、各国の検査・医療体制だけでなく、情報共有、ワクチン開発、公平な供給が必要です。AIは医療診断、翻訳、科学研究、災害予測を助ける一方、誤情報、自動"
+  },
+  {
+    "term": "検索エンジン",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:セルゲイ・ブリン.modal.profile => Googleの共同創業者です。ラリー・ペイジと検索エンジンを開発し、膨大なウェブ情報を順位づけて探しやすくしました。インターネット利用の形を大きく変"
+  },
+  {
+    "term": "ゲーム理論",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョン・フォン・ノイマン.modal.profile => ハンガリー出身の数学者です。ゲーム理論、量子力学、コンピューター設計に貢献しました。戦時中は原爆開発にも関わり、科学と軍事の結び"
+  },
+  {
+    "term": "ペニシリン",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ドロシー・ホジキン.modal.profile => イギリスの化学者です。X線結晶解析でペニシリン、ビタミンB12、インスリンの構造を解明しました。薬や生命科学の発展に大きく貢献しました。"
+  },
+  {
+    "term": "爆薬技術",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "history:groups.7.eras.0.subcategories.5.peopleNote => ノーベルは爆薬技術、レントゲンはエックス線、フローレンス・ナイチンゲールは統計と衛生改革を通して、工業技術と"
+  },
+  {
+    "term": "量子力学",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ジョン・フォン・ノイマン.modal.profile => ハンガリー出身の数学者です。ゲーム理論、量子力学、コンピューター設計に貢献しました。戦時中は原爆開発にも関わり、科学と軍事の結びつきを示し"
+  },
+  {
+    "term": "遺伝情報",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:フランシス・クリック.modal.profile => スの生物学者です。ワトソンとDNAの二重らせん構造を提案し、遺伝情報の仕組みを理解する道を開きました。分子生物学の発展に大きく関わりました。"
+  },
+  {
+    "term": "人工知能",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "actionCards:AI.summary => 学習・推論を行う人工知能技術"
+  },
+  {
+    "term": "微生物",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:ルイ・パスツール.modal.profile => フランスの科学者です。微生物が発酵や病気に関わることを示し、加熱で食品を守る低温殺菌を広めました。狂犬病ワクチンの研究"
+  },
+  {
+    "term": "周期表",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:メンデレーエフ.modal.profile => ロシアの化学者です。元素を性質と重さで並べ、周期表を作りました。まだ見つかっていない元素の存在や性質を予測し、化学の整理に大きく貢献しました"
+  },
+  {
+    "term": "原子核",
+    "count": 1,
+    "hasTooltip": false,
+    "hasEntry": false,
+    "example": "peopleByName:エンリコ・フェルミ.modal.profile => イタリア出身の物理学者です。原子核と中性子の研究を進め、世界初の原子炉の実験に成功しました。原爆開発にも関わり、核時代の始ま"
+  },
+  {
+    "term": "インターネット",
+    "count": 80,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.cards.life.summary => テレビ、飛行機、インターネット、スマートフォンが広がり、遠くの人ともすぐにつながれるようになりました。環境、貧困、感染症"
+  },
+  {
+    "term": "SNS",
+    "count": 24,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.5.text => 、銀行、学習、仕事、娯楽、行政手続きがオンライン化しました。SNSは個人が情報を発信し、災害時の連絡や社会運動に使える一方、誤情報、詐欺、監視、個人情報流出"
+  },
+  {
+    "term": "蒸気機関",
+    "count": 14,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.0.summary => 綿工業・蒸気機関・石炭・鉄道が生産と交通を変え、工場都市と労働問題を生む"
+  },
+  {
+    "term": "ダイナマイト",
+    "count": 5,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.7.eras.0.subcategories.5.text => 隊、新聞、商社は価格や戦況をすぐに共有できました。ノーベルのダイナマイトはトンネル・鉱山・鉄道工事を進めましたが、戦争にも使われました。レントゲンのエックス線は体"
+  },
+  {
+    "term": "ミュール紡績機",
+    "count": 4,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.0.text => ャード・アークライトの水力紡績機、サミュエル・クロムプトンのミュール紡績機によって綿糸の生産量が増え、家庭内手工業から多数の労働者を集める工場制へ移りました。ジェー"
+  },
+  {
+    "term": "ワクチン",
+    "count": 3,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.9.eras.0.subcategories.6.text => 。感染症対策では、各国の検査・医療体制だけでなく、情報共有、ワクチン開発、公平な供給が必要です。AIは医療診断、翻訳、科学研究、災害予測を助ける一方、誤情報、"
+  },
+  {
+    "term": "ジェニー紡績機",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "peopleByName:ジェームズ・ハーグリーブス.modal.profile => イギリスの織物職人です。複数の糸を同時に紡げるジェニー紡績機を考案しました。糸の生産が増える一方、手仕事の職人は仕事を失う不安を抱き、機械を壊す事件も"
+  },
+  {
+    "term": "水力紡績機",
+    "count": 2,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.0.text => ムズ・ハーグリーブスの多軸紡績機、リチャード・アークライトの水力紡績機、サミュエル・クロムプトンのミュール紡績機によって綿糸の生産量が増え、家庭内手工業から多数"
+  },
+  {
+    "term": "紡績機械",
+    "count": 1,
+    "hasTooltip": true,
+    "hasEntry": true,
+    "example": "history:groups.6.eras.0.subcategories.0.peopleNote => ーブス、リチャード・アークライト、サミュエル・クロムプトンは紡績機械、ジェームズ・ワットは蒸気機関、ジョージ・スティーブンソンは鉄道、ロバート・オーウェンは労"
+  }
+]

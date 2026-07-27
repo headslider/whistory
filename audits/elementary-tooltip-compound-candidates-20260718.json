@@ -1,0 +1,553 @@
+{
+  "count": 12,
+  "grouped": [
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.history.groups[5].eras[0].subcategories[2].text",
+      "snippet": "持つトラスカラなどの先住民勢力と同盟しました。マリ"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.history.groups[5].eras[0].subcategories[2].text",
+      "snippet": "労働、改宗、感染症で先住民社会は大きく変えられまし"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民女性",
+      "label": "data.people.peopleByName.マリンチェ.modal.profile",
+      "snippet": "に奴隷として売られた先住民女性です。1519年にス"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民諸勢力",
+      "label": "data.people.peopleByName.マリンチェ.modal.whatDid",
+      "snippet": "として、スペイン人と先住民諸勢力の意思疎通と同盟形成"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民文化",
+      "label": "data.people.peopleByName.フリーダ・カーロ.modal.profile",
+      "snippet": "自画像に身体の痛み、先住民文化、政治的な思いを描き"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民同盟",
+      "label": "data.history.groups[5].eras[0].subcategories[2].summary",
+      "snippet": "スペイン勢力が先住民同盟・内戦・感染症を利用"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民虐待",
+      "label": "data.history.groups[5].eras[0].subcategories[3].text",
+      "snippet": "・デ・ラス・カサスは先住民虐待を告発しましたが、初"
+    },
+    {
+      "term": "列強",
+      "compound": "列強競合",
+      "label": "data.modal.kingdomCards[224].displayName",
+      "snippet": "アフリカ分割の列強競合(アフリカ)"
+    },
+    {
+      "term": "列強",
+      "compound": "欧米列強",
+      "label": "data.modal.kingdomCards[225].text",
+      "snippet": "日本、朝鮮、ロシア、欧米列強が東アジアで影響力を"
+    },
+    {
+      "term": "列強",
+      "compound": "列強進出期",
+      "label": "data.modal.kingdomCards[225].displayName",
+      "snippet": "東アジア列強進出期(中国・朝鮮半島・日"
+    },
+    {
+      "term": "港市",
+      "compound": "港市国家",
+      "label": "data.modal.kingdomCards[74].text",
+      "snippet": "結びつき、寺院都市や港市国家が栄えました。"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[123].tags[2]",
+      "snippet": "王朝・港市勢力"
+    }
+  ],
+  "all": [
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.people.people[252].modal.profile",
+      "snippet": "するトラスカラなどの先住民勢力と同盟し、通訳マリン"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.people.people[252].modal.whatDid",
+      "snippet": "先住民勢力との同盟と軍事力を用"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.people.people[252].modal.whyImportant",
+      "snippet": "決定的に進める一方、先住民社会へ大規模な破壊をもた"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民女性",
+      "label": "data.people.people[280].modal.profile",
+      "snippet": "に奴隷として売られた先住民女性です。1519年にス"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.people.people[280].modal.profile",
+      "snippet": "理解し、スペイン人と先住民勢力の同盟形成に重要な役"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民諸勢力",
+      "label": "data.people.people[280].modal.whatDid",
+      "snippet": "として、スペイン人と先住民諸勢力の意思疎通と同盟形成"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.people.peopleByName.エルナン・コルテス.modal.profile",
+      "snippet": "するトラスカラなどの先住民勢力と同盟し、通訳マリン"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.people.peopleByName.エルナン・コルテス.modal.whatDid",
+      "snippet": "先住民勢力との同盟と軍事力を用"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.people.peopleByName.エルナン・コルテス.modal.whyImportant",
+      "snippet": "決定的に進める一方、先住民社会へ大規模な破壊をもた"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民女性",
+      "label": "data.people.peopleByName.マリンチェ.modal.profile",
+      "snippet": "に奴隷として売られた先住民女性です。1519年にス"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.people.peopleByName.マリンチェ.modal.profile",
+      "snippet": "理解し、スペイン人と先住民勢力の同盟形成に重要な役"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民諸勢力",
+      "label": "data.people.peopleByName.マリンチェ.modal.whatDid",
+      "snippet": "として、スペイン人と先住民諸勢力の意思疎通と同盟形成"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.people.peopleByName.クアウテモック.modal.profile",
+      "snippet": "スペイン軍と同盟した先住民勢力に包囲されたテノチテ"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民文化",
+      "label": "data.people.peopleByName.フリーダ・カーロ.modal.profile",
+      "snippet": "自画像に身体の痛み、先住民文化、政治的な思いを描き"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.actions.actionCards.アステカ・インカの征服.modal.whatHappened",
+      "snippet": "配への不満が重なり、先住民社会に大きな被害を与えま"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.actions.actionCards.北米植民地と先住民勢力の競合.modal.whatHappened",
+      "snippet": "北アメリカで先住民社会、フランス、イギリス"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.actions.actionCards.北米植民地と先住民勢力の競合.modal.whyImportant",
+      "snippet": "北米植民地と先住民勢力の競合は、支配と差別"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[109].region",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[109].summary",
+      "snippet": "・王国 / アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[109].text",
+      "snippet": "カ帝国後期はアメリカ先住民社会で力を持った帝国・王"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[109].tags[1]",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[110].region",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[110].summary",
+      "snippet": "・王国 / アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[110].text",
+      "snippet": "カ帝国後期はアメリカ先住民社会で力を持った帝国・王"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[110].tags[1]",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[111].region",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[111].summary",
+      "snippet": "・王国 / アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[111].text",
+      "snippet": "ラスコ王国はアメリカ先住民社会で力を持った帝国・王"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[111].tags[1]",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[112].region",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[112].summary",
+      "snippet": "・王国 / アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[112].text",
+      "snippet": "ロコイ連邦はアメリカ先住民社会で力を持った帝国・王"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[112].tags[1]",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[113].region",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[113].summary",
+      "snippet": "・王国 / アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[113].text",
+      "snippet": "ハタン連合はアメリカ先住民社会で力を持った帝国・王"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[113].tags[1]",
+      "snippet": "アメリカ先住民社会"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.modal.kingdomCards[222].name",
+      "snippet": "北米植民地と先住民勢力の競合"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.modal.kingdomCards[222].displayName",
+      "snippet": "北米植民地と先住民勢力の競合(アメリカ・カ"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.modal.kingdomCards[222].text",
+      "snippet": "北アメリカで先住民社会、フランス、イギリス"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.history.groups[5].eras[0].cards.power.summary",
+      "snippet": "ガル、商人、宣教師、先住民社会、アフリカの人々が複"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.history.groups[5].eras[0].cards.power.detail",
+      "snippet": "ガル、商人、宣教師、先住民社会、アフリカの人々が複"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民同盟",
+      "label": "data.history.groups[5].eras[0].subcategories[2].summary",
+      "snippet": "スペイン勢力が先住民同盟・内戦・感染症を利用"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民勢力",
+      "label": "data.history.groups[5].eras[0].subcategories[2].text",
+      "snippet": "持つトラスカラなどの先住民勢力と同盟しました。マリ"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民社会",
+      "label": "data.history.groups[5].eras[0].subcategories[2].text",
+      "snippet": "労働、改宗、感染症で先住民社会は大きく変えられまし"
+    },
+    {
+      "term": "先住民",
+      "compound": "先住民虐待",
+      "label": "data.history.groups[5].eras[0].subcategories[3].text",
+      "snippet": "・デ・ラス・カサスは先住民虐待を告発しましたが、初"
+    },
+    {
+      "term": "列強",
+      "compound": "列強競合",
+      "label": "data.actions.actionCards.アフリカ分割の列強競合.modal.whyImportant",
+      "snippet": "アフリカ分割の列強競合は、支配と差別が社会"
+    },
+    {
+      "term": "列強",
+      "compound": "欧米列強",
+      "label": "data.actions.actionCards.東アジア列強進出期.modal.whatHappened",
+      "snippet": "日本、朝鮮、ロシア、欧米列強が東アジアで影響力を"
+    },
+    {
+      "term": "列強",
+      "compound": "列強進出期",
+      "label": "data.actions.actionCards.東アジア列強進出期.modal.whyImportant",
+      "snippet": "東アジア列強進出期は、勢力関係、国境、"
+    },
+    {
+      "term": "列強",
+      "compound": "列強競合",
+      "label": "data.modal.kingdomCards[224].name",
+      "snippet": "アフリカ分割の列強競合"
+    },
+    {
+      "term": "列強",
+      "compound": "列強競合",
+      "label": "data.modal.kingdomCards[224].displayName",
+      "snippet": "アフリカ分割の列強競合(アフリカ)"
+    },
+    {
+      "term": "列強",
+      "compound": "列強進出期",
+      "label": "data.modal.kingdomCards[225].name",
+      "snippet": "東アジア列強進出期"
+    },
+    {
+      "term": "列強",
+      "compound": "列強進出期",
+      "label": "data.modal.kingdomCards[225].displayName",
+      "snippet": "東アジア列強進出期(中国・朝鮮半島・日"
+    },
+    {
+      "term": "列強",
+      "compound": "欧米列強",
+      "label": "data.modal.kingdomCards[225].text",
+      "snippet": "日本、朝鮮、ロシア、欧米列強が東アジアで影響力を"
+    },
+    {
+      "term": "港市",
+      "compound": "港市国家",
+      "label": "data.modal.kingdomCards[70].text",
+      "snippet": "結びつき、寺院都市や港市国家が栄えました。"
+    },
+    {
+      "term": "港市",
+      "compound": "港市国家",
+      "label": "data.modal.kingdomCards[71].text",
+      "snippet": "結びつき、寺院都市や港市国家が栄えました。"
+    },
+    {
+      "term": "港市",
+      "compound": "港市国家",
+      "label": "data.modal.kingdomCards[72].text",
+      "snippet": "結びつき、寺院都市や港市国家が栄えました。"
+    },
+    {
+      "term": "港市",
+      "compound": "港市国家",
+      "label": "data.modal.kingdomCards[73].text",
+      "snippet": "結びつき、寺院都市や港市国家が栄えました。"
+    },
+    {
+      "term": "港市",
+      "compound": "港市国家",
+      "label": "data.modal.kingdomCards[74].text",
+      "snippet": "結びつき、寺院都市や港市国家が栄えました。"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[119].type",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[119].summary",
+      "snippet": "王朝・港市勢力 / アジアの帝国と"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[119].text",
+      "snippet": "市で力を持った王朝・港市勢力です。ヨーロッパ勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[119].tags[2]",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[120].type",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[120].summary",
+      "snippet": "王朝・港市勢力 / アジアの帝国と"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[120].text",
+      "snippet": "市で力を持った王朝・港市勢力です。ヨーロッパ勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[120].tags[2]",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[121].type",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[121].summary",
+      "snippet": "王朝・港市勢力 / アジアの帝国と"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[121].text",
+      "snippet": "市で力を持った王朝・港市勢力です。ヨーロッパ勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[121].tags[2]",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[122].type",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[122].summary",
+      "snippet": "王朝・港市勢力 / アジアの帝国と"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[122].text",
+      "snippet": "市で力を持った王朝・港市勢力です。ヨーロッパ勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[122].tags[2]",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[123].type",
+      "snippet": "王朝・港市勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[123].summary",
+      "snippet": "王朝・港市勢力 / アジアの帝国と"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[123].text",
+      "snippet": "市で力を持った王朝・港市勢力です。ヨーロッパ勢力"
+    },
+    {
+      "term": "港市",
+      "compound": "港市勢力",
+      "label": "data.modal.kingdomCards[123].tags[2]",
+      "snippet": "王朝・港市勢力"
+    }
+  ]
+}

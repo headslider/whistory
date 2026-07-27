@@ -1,0 +1,18 @@
+{
+  "updates": [
+    {
+      "person": "ソロン",
+      "oldImage": "assets/people/person-4e6d38825c.webp",
+      "newImage": "assets/people/person-0c00fa8a54.webp",
+      "restoredFile": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-0c00fa8a54.webp"
+    },
+    {
+      "person": "ジル・ド・レエ",
+      "oldImage": "assets/people/person-f6d272d91c.webp",
+      "newImage": "assets/people/person-809fb0c62e.webp",
+      "restoredFile": "\\\\LS720DD35\\Family\\永人\\世界の歴史\\assets\\people\\person-809fb0c62e.webp"
+    }
+  ],
+  "duplicateImageReferences": {},
+  "missingImageReferences": []
+}

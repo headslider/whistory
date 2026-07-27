@@ -1,0 +1,24 @@
+{
+  "ok": false,
+  "comparisons": [
+    {
+      "label": "people core vs research_complete_v15",
+      "same": false,
+      "currentSize": 121849,
+      "sourceSize": 126463
+    },
+    {
+      "label": "history-content vs complete_v1",
+      "same": true,
+      "currentSize": 45520,
+      "sourceSize": 45520
+    },
+    {
+      "label": "action core vs rewritten_v1",
+      "skipped": "ENOENT: no such file or directory, open 'C:\\Users\\tamak\\OneDrive\\Desktop\\action-cards_world-history_rewritten_v1.json'"
+    }
+  ],
+  "failures": [
+    "people core vs research_complete_v15 differs from source"
+  ]
+}
