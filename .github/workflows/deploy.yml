@@ -59,7 +59,7 @@ jobs:
           protocol: ftp
           port: 21
           local-dir: ./dist/
-          server-dir: ${{ secrets.CORESERVER_FTP_SERVER_DIR }}/
+          server-dir: public_html/www.realemotionfactory.com/whistory/
           dangerous-clean-slate: false
           exclude: |
             **/.git*
@@ -73,4 +73,5 @@ jobs:
         run: |
           curl -fsSL 'https://www.realemotionfactory.com/whistory/index.html?verify=${{ github.run_id }}' | grep -q '20260727-heading-tooltip-link-removal'
           curl -fsSL 'https://www.realemotionfactory.com/whistory/data/learning-terms.js?verify=${{ github.run_id }}' | grep -q '電子商取引'
+
 
