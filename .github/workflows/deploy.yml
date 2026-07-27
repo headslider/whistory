@@ -1,0 +1,52 @@
+name: Verify and Package whistory
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  verify-and-package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify JavaScript syntax
+        run: |
+          node --check script.js
+          node --check data/action-cards.js
+          node --check data/history-content.js
+          node --check data/people-data.js
+          node --check data/modal-data.js
+          node --check data/learning-terms.js
+          node --check data/timeline-region-data.js
+
+      - name: Run static data verification
+        run: node scripts/verify-static.js
+
+      - name: Prepare deployment artifact
+        run: |
+          mkdir -p dist
+          cp -R assets dist/assets
+          cp -R data dist/data
+          cp index.html dist/index.html
+          cp styles.css dist/styles.css
+          cp script.js dist/script.js
+          cp image-workbench.html dist/image-workbench.html
+          cp image-workbench.css dist/image-workbench.css
+          cp image-workbench.js dist/image-workbench.js
+          cp .cpanel.yml dist/.cpanel.yml
+
+      - name: Upload deployment artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: whistory-deploy
+          path: dist/
