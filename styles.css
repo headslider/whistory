@@ -3934,3 +3934,39 @@ dialog[open] .term-tooltip-layer {
     max-width: 100% !important;
   }
 }
+
+/* 2026-07-27 mobile wider cards with further-left timeline line */
+@media (max-width: 760px) {
+  :root {
+    --mobile-line-x: 40px;
+    --mobile-card-left: 60px;
+  }
+
+  .timeline::before {
+    left: var(--mobile-line-x) !important;
+  }
+
+  .era-group {
+    margin-left: var(--mobile-card-left) !important;
+  }
+
+  .era-group::before,
+  .era::before {
+    left: calc(-1 * var(--mobile-card-left) + var(--mobile-line-x) - 16px) !important;
+  }
+
+  .era-group > summary,
+  .era-card,
+  .era-kingdoms,
+  .action-subcategory-section,
+  .event-subcategory-card {
+    max-width: 100% !important;
+  }
+
+  .era-card .era-body > .action-subcategory-section,
+  .era-card .era-body > .era-kingdoms {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-inline: 0 !important;
+  }
+}
