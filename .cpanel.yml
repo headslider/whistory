@@ -1,0 +1,13 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=$HOME/public_html/whistory/
+    - /bin/mkdir -p "$DEPLOYPATH"
+    - /bin/cp -R assets "$DEPLOYPATH"
+    - /bin/cp -R data "$DEPLOYPATH"
+    - /bin/cp index.html "$DEPLOYPATH"
+    - /bin/cp styles.css "$DEPLOYPATH"
+    - /bin/cp script.js "$DEPLOYPATH"
+    - /bin/cp image-workbench.html "$DEPLOYPATH"
+    - /bin/cp image-workbench.css "$DEPLOYPATH"
+    - /bin/cp image-workbench.js "$DEPLOYPATH"
