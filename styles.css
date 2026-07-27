@@ -3862,7 +3862,7 @@ dialog[open] .term-tooltip-layer {
 @media (max-width: 760px) {
   :root {
     --mobile-line-x: 40px;
-    --mobile-card-left: 66px;
+    --mobile-card-left: 58px;
   }
 
   .timeline {
@@ -3888,6 +3888,11 @@ dialog[open] .term-tooltip-layer {
   .era-card {
     width: 100% !important;
     max-width: 100% !important;
+  }
+
+  .era-group > summary .group-copy strong {
+    font-size: 1.06rem !important;
+    line-height: 1.22 !important;
   }
 
   .era-card .era-body > .action-subcategory-section,
