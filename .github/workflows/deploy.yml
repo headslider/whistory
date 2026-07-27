@@ -51,21 +51,31 @@ jobs:
 
       - name: Configure SSH
         env:
-          CORESERVER_SSH_KEY: ${{ secrets.CORESERVER_SSH_KEY }}
+          DEPLOY_KEY: ${{ secrets.CORESERVER_SSH_KEY || secrets.OFFICIALSITE_ACTIONS_ED25519 || secrets.SSH_PRIVATE_KEY || secrets.DEPLOY_KEY }}
+          CORESERVER_HOST: ${{ secrets.CORESERVER_HOST }}
+          CORESERVER_USER: ${{ secrets.CORESERVER_USER }}
+          CORESERVER_PORT: ${{ secrets.CORESERVER_PORT }}
+          CORESERVER_DEPLOY_PATH: ${{ secrets.CORESERVER_DEPLOY_PATH }}
         run: |
-          test -n "$CORESERVER_SSH_KEY"
+          set -euo pipefail
+          test -n "$DEPLOY_KEY"
+          echo "CORESERVER_HOST=${CORESERVER_HOST:-s59.coreserver.jp}" >> "$GITHUB_ENV"
+          echo "CORESERVER_USER=${CORESERVER_USER:-ref}" >> "$GITHUB_ENV"
+          echo "CORESERVER_PORT=${CORESERVER_PORT:-22}" >> "$GITHUB_ENV"
+          echo "CORESERVER_DEPLOY_PATH=${CORESERVER_DEPLOY_PATH:-/virtual/ref/public_html/www.realemotionfactory.com/whistory/}" >> "$GITHUB_ENV"
           mkdir -p ~/.ssh
-          printf '%s\n' "$CORESERVER_SSH_KEY" > ~/.ssh/coreserver_deploy_key
+          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/coreserver_deploy_key
           chmod 600 ~/.ssh/coreserver_deploy_key
-          ssh-keyscan -H s59.coreserver.jp >> ~/.ssh/known_hosts
+          ssh-keyscan -p "${CORESERVER_PORT:-22}" -H "${CORESERVER_HOST:-s59.coreserver.jp}" >> ~/.ssh/known_hosts
 
       - name: Deploy to whistory folder
         run: |
-          ssh -i ~/.ssh/coreserver_deploy_key ref@s59.coreserver.jp 'mkdir -p /virtual/ref/public_html/www.realemotionfactory.com/whistory'
+          set -euo pipefail
+          ssh -p "$CORESERVER_PORT" -i ~/.ssh/coreserver_deploy_key "$CORESERVER_USER@$CORESERVER_HOST" "mkdir -p '$CORESERVER_DEPLOY_PATH'"
           rsync -az --delete \
-            -e "ssh -i ~/.ssh/coreserver_deploy_key" \
+            -e "ssh -p $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key" \
             dist/ \
-            ref@s59.coreserver.jp:/virtual/ref/public_html/www.realemotionfactory.com/whistory/
+            "$CORESERVER_USER@$CORESERVER_HOST:$CORESERVER_DEPLOY_PATH"
 
       - name: Verify published files
         run: |
