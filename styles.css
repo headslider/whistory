@@ -3856,3 +3856,52 @@ dialog[open] .term-tooltip-layer {
     padding: 3px 8px !important;
   }
 }
+
+/* 2026-07-27 mobile card width tune: widen main and subcategory cards only on phones */
+@media (max-width: 760px) {
+  :root {
+    --mobile-card-left: 72px;
+  }
+
+  .timeline {
+    padding-right: 6px !important;
+  }
+
+  .era-group {
+    margin-left: var(--mobile-card-left) !important;
+  }
+
+  .era-group > summary,
+  .era-card,
+  .action-subcategory-section,
+  .event-subcategory-card {
+    max-width: 100% !important;
+  }
+}
+
+/* 2026-07-27 mobile subcategory width tune: reclaim era-body side padding only for subcategory blocks */
+@media (max-width: 760px) {
+  .era-card .era-body > .action-subcategory-section {
+    margin-inline: -12px !important;
+  }
+
+  .era-card .era-body > .action-subcategory-section .subcategory-list,
+  .era-card .era-body > .action-subcategory-section .event-subcategory-card {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+/* 2026-07-27 mobile subcategory block actual width expansion */
+@media (max-width: 760px) {
+  .era-card .era-body > .action-subcategory-section {
+    width: calc(100% + 24px) !important;
+  }
+}
+
+/* 2026-07-27 mobile subcategory max-width cap release */
+@media (max-width: 760px) {
+  .era-card .era-body > .action-subcategory-section {
+    max-width: calc(100% + 24px) !important;
+  }
+}
