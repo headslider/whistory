@@ -13,6 +13,7 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
@@ -49,51 +50,26 @@ jobs:
           cp image-workbench.css dist/image-workbench.css
           cp image-workbench.js dist/image-workbench.js
 
-      - name: Configure SSH
-        env:
-          DEPLOY_KEY: ${{ secrets.CORESERVER_SSH_KEY || secrets.OFFICIALSITE_ACTIONS_ED25519 || secrets.SSH_PRIVATE_KEY || secrets.DEPLOY_KEY }}
-          CORESERVER_HOST_SECRET: ${{ secrets.CORESERVER_HOST }}
-          CORESERVER_USER_SECRET: ${{ secrets.CORESERVER_USER }}
-          CORESERVER_PORT_SECRET: ${{ secrets.CORESERVER_PORT }}
-          CORESERVER_DEPLOY_PATH_SECRET: ${{ secrets.CORESERVER_DEPLOY_PATH }}
-        run: |
-          set -euo pipefail
-          if [ -z "$DEPLOY_KEY" ]; then
-            echo "CORESERVER_SSH_KEY is not set. Add the private key to this repository's Actions secrets." >&2
-            exit 1
-          fi
-          echo "CORESERVER_HOST=${CORESERVER_HOST_SECRET:-s59.coreserver.jp}" >> "$GITHUB_ENV"
-          echo "CORESERVER_USER=${CORESERVER_USER_SECRET:-ref}" >> "$GITHUB_ENV"
-          echo "CORESERVER_PORT=${CORESERVER_PORT_SECRET:-22}" >> "$GITHUB_ENV"
-          echo "CORESERVER_DEPLOY_PATH=${CORESERVER_DEPLOY_PATH_SECRET:-/virtual/ref/public_html/www.realemotionfactory.com/whistory/}" >> "$GITHUB_ENV"
-          mkdir -p ~/.ssh
-          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/coreserver_deploy_key
-          chmod 600 ~/.ssh/coreserver_deploy_key
-          touch ~/.ssh/known_hosts
-
-      - name: Test CORESERVER SSH connection
-        run: |
-          set -euo pipefail
-          SSH_CMD="ssh -p $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30 -o PreferredAuthentications=publickey -o IdentitiesOnly=yes"
-          $SSH_CMD "$CORESERVER_USER@$CORESERVER_HOST" "echo connected; whoami; pwd; ls -ld /virtual/ref/public_html/www.realemotionfactory.com"
-
-      - name: Create deployment package
-        run: tar -czf whistory-deploy.tar.gz -C dist .
-
-      - name: Upload deployment package
-        run: |
-          set -euo pipefail
-          SCP_CMD="scp -P $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30 -o PreferredAuthentications=publickey -o IdentitiesOnly=yes"
-          $SCP_CMD whistory-deploy.tar.gz "$CORESERVER_USER@$CORESERVER_HOST:/virtual/ref/whistory-deploy-${{ github.run_id }}.tar.gz"
-
-      - name: Extract deployment package
-        run: |
-          set -euo pipefail
-          SSH_CMD="ssh -p $CORESERVER_PORT -i ~/.ssh/coreserver_deploy_key -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30 -o PreferredAuthentications=publickey -o IdentitiesOnly=yes"
-          $SSH_CMD "$CORESERVER_USER@$CORESERVER_HOST" "set -e; test '$CORESERVER_DEPLOY_PATH' = '/virtual/ref/public_html/www.realemotionfactory.com/whistory/'; mkdir -p '$CORESERVER_DEPLOY_PATH'; find '$CORESERVER_DEPLOY_PATH' -mindepth 1 -maxdepth 1 -exec rm -rf {} +; tar -xzf '/virtual/ref/whistory-deploy-${{ github.run_id }}.tar.gz' -C '$CORESERVER_DEPLOY_PATH'; rm -f '/virtual/ref/whistory-deploy-${{ github.run_id }}.tar.gz'"
+      - name: Deploy to whistory by FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: ${{ secrets.CORESERVER_FTP_SERVER }}
+          username: ${{ secrets.CORESERVER_FTP_USERNAME }}
+          password: ${{ secrets.CORESERVER_FTP_PASSWORD }}
+          protocol: ftp
+          port: 21
+          local-dir: ./dist/
+          server-dir: ${{ secrets.CORESERVER_FTP_SERVER_DIR }}
+          dangerous-clean-slate: false
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
+            **/*.bak
+            **/*.tmp
+            desktop.ini
 
       - name: Verify published files
         run: |
           curl -fsSL 'https://www.realemotionfactory.com/whistory/index.html?verify=${{ github.run_id }}' | grep -q '20260727-heading-tooltip-link-removal'
           curl -fsSL 'https://www.realemotionfactory.com/whistory/data/learning-terms.js?verify=${{ github.run_id }}' | grep -q '電子商取引'
-
