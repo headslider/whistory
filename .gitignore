@@ -10,6 +10,9 @@
 # Large local historical backups not needed for public site
 backups/
 
+# Loose working style backups (safety copies made before edits; not for the public site)
+design-baseline/restore-backups/styles-before-*.css
+
 # OS files
 Thumbs.db
 .DS_Store
