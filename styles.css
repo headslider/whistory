@@ -1698,13 +1698,17 @@ input[type="search"] {
     font-size: .62rem;
   }
   .era-group > summary {
-    grid-template-columns: auto 1fr;
+    grid-template-columns: auto minmax(0, 1fr) auto;
     align-items: start;
     min-height: 88px;
   }
-  .group-focus, .group-action {
+  .group-focus {
     grid-column: 1 / -1;
     max-width: none;
+  }
+  .group-action {
+    align-self: start;
+    justify-self: end;
   }
   .era { margin-left: 20px; padding-left: 14px; }
   .era::after {
@@ -3818,7 +3822,7 @@ dialog[open] .term-tooltip-layer {
   }
 
   .era > .era-year-chip {
-    top: -20px !important;
+    top: -28px !important;
     left: calc(-1 * var(--mobile-card-left) + 8px) !important;
     transform: none !important;
     width: auto !important;
@@ -3902,5 +3906,21 @@ dialog[open] .term-tooltip-layer {
     width: 100% !important;
     max-width: 100% !important;
     margin-inline: 0 !important;
+  }
+}
+
+/* 2026-07-28 mobile: uniform 2-column people chips in "時代を動かした人たち"
+   (fix ragged rows caused by very different name lengths, e.g. long katakana names) */
+@media (max-width: 760px) {
+  .era-people .mini-people {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    align-items: stretch;
+  }
+  .era-people .mini-people .mini-person-button {
+    width: 100%;
+    min-width: 0;
+    overflow-wrap: anywhere;
   }
 }
