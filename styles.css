@@ -1010,6 +1010,9 @@ body.reduce-motion .era-group[open] > .group-eras {
 }
 input[type="search"] {
   min-height: 48px;
+  min-width: 0;
+  width: 100%;
+  box-sizing: border-box;
   border: 1px solid rgba(34, 48, 58, .2);
   border-radius: 8px;
   padding: 15px;
@@ -3922,5 +3925,54 @@ dialog[open] .term-tooltip-layer {
     width: 100%;
     min-width: 0;
     overflow-wrap: anywhere;
+  }
+}
+
+/* 2026-07-28 mobile: subcategory title must always wrap and never overlap the toggle.
+   A whole-term ruby (base + one long furigana) refuses to wrap and overflows the chevron,
+   so hide the furigana on the title only; the body text keeps its ruby. */
+@media (max-width: 760px) {
+  .event-subcategory-card .subcategory-card-body h4 rt {
+    display: none;
+  }
+  .event-subcategory-card .subcategory-card-body h4,
+  .event-subcategory-card .subcategory-card-body h4 strong,
+  .event-subcategory-card .subcategory-card-body h4 ruby {
+    max-inline-size: 100%;
+    overflow-wrap: anywhere;
+    line-break: normal;
+  }
+}
+
+/* 2026-07-28 mobile: keep the top guide cards (くらし / 国とつながり / 人物) on one row,
+   matching the Japanese-history layout. Compact vertical cards, 3 per row. */
+@media (max-width: 760px) {
+  .guide-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .guide-grid div {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    justify-items: center;
+    text-align: center;
+    min-height: 0;
+    padding: 12px 6px;
+    column-gap: 0;
+    row-gap: 4px;
+  }
+  .guide-grid span {
+    grid-row: auto;
+    width: 34px;
+    height: 34px;
+    font-size: 1.15rem;
+  }
+  .guide-grid strong {
+    font-size: .78rem;
+    line-height: 1.25;
+  }
+  .guide-grid p {
+    font-size: .64rem;
+    line-height: 1.35;
   }
 }
