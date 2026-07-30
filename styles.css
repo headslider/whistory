@@ -3928,16 +3928,22 @@ dialog[open] .term-tooltip-layer {
   }
 }
 
-/* 2026-07-28 mobile: subcategory title must always wrap and never overlap the toggle.
-   A whole-term ruby (base + one long furigana) refuses to wrap and overflows the chevron,
-   so hide the furigana on the title only; the body text keeps its ruby. */
+/* 2026-07-28 mobile: subcategory heading + subtitle must wrap/clamp cleanly.
+   A whole-term ruby (base + one long furigana) breaks wrapping in the title (overflows
+   the toggle) and breaks -webkit-line-clamp in the subtitle (iOS Safari shows only a
+   truncated furigana like "どれいぼうえ·"). Drop the furigana and treat the ruby as plain
+   inline text in the heading + subtitle only; the body text keeps its ruby. */
 @media (max-width: 760px) {
-  .event-subcategory-card .subcategory-card-body h4 rt {
+  .event-subcategory-card .subcategory-card-body h4 rt,
+  .event-subcategory-card .subcategory-card-body header p rt {
     display: none;
   }
+  .event-subcategory-card .subcategory-card-body h4 ruby,
+  .event-subcategory-card .subcategory-card-body header p ruby {
+    display: inline;
+  }
   .event-subcategory-card .subcategory-card-body h4,
-  .event-subcategory-card .subcategory-card-body h4 strong,
-  .event-subcategory-card .subcategory-card-body h4 ruby {
+  .event-subcategory-card .subcategory-card-body h4 strong {
     max-inline-size: 100%;
     overflow-wrap: anywhere;
     line-break: normal;
