@@ -2,6 +2,16 @@
 
 > 注記: 以下の 2026-07-20〜2026-07-23 の項目は、当時 CHANGELOG への記録が漏れていたため、`data-backups/` の変更前バックアップ履歴をもとに後から整理・追記したものです。各作業の詳細な変更前状態は該当バックアップを参照してください。
 
+## 2026-10-01
+
+### 人物カードに生没年(lifespan)を表示
+
+- 生没年付きの新しい人物データ(`data/people-data.json` / `.js`、`people` 271件・`peopleByName` 602件)へ差し替え。各人物に `lifespan`(例 `紀元前551～紀元前479`、不明は `?～?`)を追加。lifespan以外の内容は変更前と完全一致(件数・画像参照・ジャンル・別名すべて同一、画像重複参照0件)。
+- 日本史同様、人物の名前の直後に生没年を**名前の1/2サイズ**で表示。`script.js` に `personLifespanByName` Map と `personLifespanHtml()` を追加し、人物カード(`h3`)・名前リスト(`.person-name-text strong`)・人物モーダル(`h2`)へ挿入。`styles.css` に `.person-lifespan { font-size: .5em; ... }` を追加。
+- `lifespan` は表示専用で内部配列(`legacyPerson`)には追加せず、`cardVisualMeta` の固定インデックス(画像メタ末尾)を崩していない。
+- 検証: `scripts/verify-static.js` パス、JSON/JS同期 `true`、JS構文OK、CSS括弧675/675。ブラウザ実測で全271人に表示・フォント比0.50(正確に半分)・名前リストは `overflow:hidden` でクリップ・ページ横スクロールなし・モーダル表示を確認。
+- 変更前バックアップ: `data-backups/20260730-231823-import-people-lifespan-before/`(データ)、`design-baseline/restore-backups/styles-before-person-lifespan-*.css`(CSS)。
+
 ## 2026-07-23(続き)
 
 ### 子カテゴリー地域名チップの配置(PC=ヘッダー内タグ / モバイル=写真左上角バッジ)

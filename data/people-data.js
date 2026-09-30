@@ -18,7 +18,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古代社会の法律、身分、家族、商業の仕組みを具体的に知ることができる代表的な法典を残したためです。"
       },
       "image": "assets/people/person-bd338fe558.webp",
-      "imageAlt": "ハンムラビの画像"
+      "imageAlt": "ハンムラビの画像",
+      "lifespan": "紀元前1810ごろ～紀元前1750ごろ"
     },
     {
       "name": "クフ王",
@@ -36,7 +37,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "大ピラミッドが、古代エジプトの王権、宗教観、測量・建築技術を示す世界的遺産となったためです。"
       },
       "image": "assets/people/person-5119f42d3b.webp",
-      "imageAlt": "クフ王の画像"
+      "imageAlt": "クフ王の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "孔子",
@@ -56,7 +58,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "孔子の教えから儒教が発達し、中国・朝鮮・日本の政治、教育、道徳の基本となったためです。"
       },
       "image": "assets/people/person-3c08d403ad.webp",
-      "imageAlt": "孔子の画像"
+      "imageAlt": "孔子の画像",
+      "lifespan": "紀元前551～紀元前479"
     },
     {
       "name": "始皇帝",
@@ -75,7 +78,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中国を一つの皇帝国家として治める制度と標準を整え、後の歴代王朝の統治モデルを築いたためです。"
       },
       "image": "assets/people/person-6ce46faf8f.webp",
-      "imageAlt": "始皇帝の画像"
+      "imageAlt": "始皇帝の画像",
+      "lifespan": "紀元前259～紀元前210"
     },
     {
       "name": "アレクサンドロス大王",
@@ -93,7 +97,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "征服地で東西の文化が交流し、地中海から西アジアに広がるヘレニズム世界が成立したためです。"
       },
       "image": "assets/people/person-6f8c27de1c.webp",
-      "imageAlt": "アレクサンドロス大王の画像"
+      "imageAlt": "アレクサンドロス大王の画像",
+      "lifespan": "紀元前356～紀元前323"
     },
     {
       "name": "アショーカ王",
@@ -112,7 +117,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王の政治に生命尊重と宗教的寛容を取り入れ、仏教がインド内外へ広がる契機をつくったためです。"
       },
       "image": "assets/people/person-3b5126d5ca.webp",
-      "imageAlt": "アショーカ王の画像"
+      "imageAlt": "アショーカ王の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "イエス",
@@ -130,7 +136,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "死後、弟子たちが教えと復活への信仰を広め、世界宗教の一つであるキリスト教が成立したためです。"
       },
       "image": "assets/people/person-83bd092dca.webp",
-      "imageAlt": "イエスの画像"
+      "imageAlt": "イエスの画像",
+      "lifespan": "紀元前4ごろ～30ごろ"
     },
     {
       "name": "ムハンマド",
@@ -148,7 +155,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "『コーラン』に基づくイスラム教と共同体の基礎を築き、その後の西アジア世界を大きく形づくったためです。"
       },
       "image": "assets/people/person-920c89b7aa.webp",
-      "imageAlt": "ムハンマドの画像"
+      "imageAlt": "ムハンマドの画像",
+      "lifespan": "570ごろ～632"
     },
     {
       "name": "玄奘",
@@ -168,7 +176,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中国仏教の理解を深め、『大唐西域記』によって7世紀の中央アジアとインドの姿も伝えたためです。"
       },
       "image": "assets/people/person-077a351fc3.webp",
-      "imageAlt": "玄奘の画像"
+      "imageAlt": "玄奘の画像",
+      "lifespan": "602～664"
     },
     {
       "name": "クローヴィス",
@@ -187,7 +196,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "フランク王国とカトリック教会の協力関係を築き、中世西ヨーロッパの政治秩序の出発点となったためです。"
       },
       "image": "assets/people/person-547e05b8b9.webp",
-      "imageAlt": "クローヴィスの画像"
+      "imageAlt": "クローヴィスの画像",
+      "lifespan": "466ごろ～511"
     },
     {
       "name": "カール大帝",
@@ -206,7 +216,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王権・ローマ教会・古典文化を結びつけ、中世西ヨーロッパの政治と文化の基礎を築いたためです。"
       },
       "image": "assets/people/person-5ba86ccd42.webp",
-      "imageAlt": "カール大帝の画像"
+      "imageAlt": "カール大帝の画像",
+      "lifespan": "742ごろ～814"
     },
     {
       "name": "オットー1世",
@@ -224,7 +235,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ドイツ王とローマ皇帝を結びつけ、神聖ローマ帝国へ続く中世ヨーロッパの政治秩序を築いたためです。"
       },
       "image": "assets/people/person-516f25fdf3.webp",
-      "imageAlt": "オットー1世の画像"
+      "imageAlt": "オットー1世の画像",
+      "lifespan": "912～973"
     },
     {
       "name": "フリードリヒ・バルバロッサ",
@@ -242,7 +254,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "皇帝・教皇・自治都市が競い合った中世ヨーロッパの複雑な権力関係を示す代表的な皇帝だからです。"
       },
       "image": "assets/people/person-dfb6ed9cfb.webp",
-      "imageAlt": "フリードリヒ・バルバロッサの画像"
+      "imageAlt": "フリードリヒ・バルバロッサの画像",
+      "lifespan": "1122～1190"
     },
     {
       "name": "エドワード1世",
@@ -261,7 +274,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王の課税に各身分の代表が関わる議会の形を整え、後のイギリス議会政治の発達につながったためです。"
       },
       "image": "assets/people/person-2108b78bda.webp",
-      "imageAlt": "エドワード1世の画像"
+      "imageAlt": "エドワード1世の画像",
+      "lifespan": "1239～1307"
     },
     {
       "name": "ヘンリー5世",
@@ -279,7 +293,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イングランドが百年戦争で最も優位に立った時期を築き、その後のフランス側の反撃を招いたためです。"
       },
       "image": "assets/people/person-9e2923c493.webp",
-      "imageAlt": "ヘンリー5世の画像"
+      "imageAlt": "ヘンリー5世の画像",
+      "lifespan": "1386～1422"
     },
     {
       "name": "ジャンヌ・ダルク",
@@ -297,7 +312,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "百年戦争で劣勢だったフランスの士気と王権を立て直し、国民的結束の象徴となったためです。"
       },
       "image": "assets/people/person-9f857af814.webp",
-      "imageAlt": "ジャンヌ・ダルクの画像"
+      "imageAlt": "ジャンヌ・ダルクの画像",
+      "lifespan": "1412ごろ～1431"
     },
     {
       "name": "ジル・ド・レエ",
@@ -315,7 +331,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "英雄的な軍歴と犯罪者としての裁判記録が併存し、中世貴族社会と司法の暗部を示す人物だからです。"
       },
       "imageAlt": "ジル・ド・レエの画像",
-      "image": "assets/people/person-f6d272d91c.webp"
+      "image": "assets/people/person-f6d272d91c.webp",
+      "lifespan": "1405ごろ～1440"
     },
     {
       "name": "マクシミリアン1世",
@@ -333,7 +350,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "戦争だけでなく婚姻によって領土を拡大するハプスブルク家の国際戦略を確立したためです。"
       },
       "image": "assets/people/person-6686946bab.webp",
-      "imageAlt": "マクシミリアン1世の画像"
+      "imageAlt": "マクシミリアン1世の画像",
+      "lifespan": "1459～1519"
     },
     {
       "name": "カール5世",
@@ -351,7 +369,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ヨーロッパとアメリカにまたがるハプスブルク帝国を治め、16世紀国際政治の中心となったためです。"
       },
       "image": "assets/people/person-32c3a12328.webp",
-      "imageAlt": "カール5世の画像"
+      "imageAlt": "カール5世の画像",
+      "lifespan": "1500～1558"
     },
     {
       "name": "ヘンリー8世",
@@ -370,7 +389,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教と政治の中心を教皇から国王へ移し、イングランド宗教改革と近代国家形成を進めたためです。"
       },
       "image": "assets/people/person-f58f3d2792.webp",
-      "imageAlt": "ヘンリー8世の画像"
+      "imageAlt": "ヘンリー8世の画像",
+      "lifespan": "1491～1547"
     },
     {
       "name": "アンリ4世",
@@ -389,7 +409,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教内戦を収めてフランスの統一と復興を進め、ブルボン朝による王権強化の基礎を築いたためです。"
       },
       "image": "assets/people/person-1ac2f10bef.webp",
-      "imageAlt": "アンリ4世の画像"
+      "imageAlt": "アンリ4世の画像",
+      "lifespan": "1553～1610"
     },
     {
       "name": "ルイ14世",
@@ -407,7 +428,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "フランス絶対王政の最盛期を築く一方、戦争と宗教迫害で後の財政危機も深めたためです。"
       },
       "image": "assets/people/person-4305b9c03d.webp",
-      "imageAlt": "ルイ14世の画像"
+      "imageAlt": "ルイ14世の画像",
+      "lifespan": "1638～1715"
     },
     {
       "name": "チャールズ1世",
@@ -426,7 +448,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "国王も法と議会に制約されることを示し、イギリス立憲政治の発展につながったためです。"
       },
       "image": "assets/people/person-d3cc59b102.webp",
-      "imageAlt": "チャールズ1世の画像"
+      "imageAlt": "チャールズ1世の画像",
+      "lifespan": "1600～1649"
     },
     {
       "name": "ルイ16世",
@@ -444,7 +467,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "絶対王政の崩壊と国民主権への転換を象徴し、フランス革命の進展に大きく関わったためです。"
       },
       "image": "assets/people/person-4fd5b57d17.webp",
-      "imageAlt": "ルイ16世の画像"
+      "imageAlt": "ルイ16世の画像",
+      "lifespan": "1754～1793"
     },
     {
       "name": "マリー・アントワネット",
@@ -462,7 +486,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "旧体制の特権と浪費の象徴として革命宣伝に利用され、王政崩壊の過程を示す人物となったためです。"
       },
       "image": "assets/people/person-11e8ea1d8a.webp",
-      "imageAlt": "マリー・アントワネットの画像"
+      "imageAlt": "マリー・アントワネットの画像",
+      "lifespan": "1755～1793"
     },
     {
       "name": "マンサ・ムーサ",
@@ -481,7 +506,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "サハラ交易で栄えた西アフリカの富と学問を地中海・イスラム世界へ広く知らせたためです。"
       },
       "image": "assets/people/person-827fa9b9b3.webp",
-      "imageAlt": "マンサ・ムーサの画像"
+      "imageAlt": "マンサ・ムーサの画像",
+      "lifespan": "?～1337ごろ"
     },
     {
       "name": "チンギス・ハン",
@@ -500,7 +526,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "征服の大被害を伴いながらも、ユーラシアを一つの広域支配圏へ結ぶモンゴル帝国の基礎を築いたためです。"
       },
       "image": "assets/people/person-94822eef6a.webp",
-      "imageAlt": "チンギス・ハンの画像"
+      "imageAlt": "チンギス・ハンの画像",
+      "lifespan": "1162ごろ～1227"
     },
     {
       "name": "イブン・バットゥータ",
@@ -520,7 +547,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "14世紀のイスラム世界とインド洋交易圏の広さ、多様な社会と人々の交流を具体的に伝えたためです。"
       },
       "image": "assets/people/person-ad4f3ff7e7.webp",
-      "imageAlt": "イブン・バットゥータの画像"
+      "imageAlt": "イブン・バットゥータの画像",
+      "lifespan": "1304～1368ごろ"
     },
     {
       "name": "鄭和",
@@ -538,7 +566,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ヨーロッパの大航海に先立ち、中国とインド洋沿岸諸国を結ぶ大規模な海上交流を実現したためです。"
       },
       "image": "assets/people/person-be824ba0ed.webp",
-      "imageAlt": "鄭和の画像"
+      "imageAlt": "鄭和の画像",
+      "lifespan": "1371～1433ごろ"
     },
     {
       "name": "クリストファー・コロンブス",
@@ -556,7 +585,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "旧大陸とアメリカ大陸の恒常的接触を始め、世界規模の交流と植民地支配の時代を開いたためです。"
       },
       "image": "assets/people/person-ad25b28545.webp",
-      "imageAlt": "クリストファー・コロンブスの画像"
+      "imageAlt": "クリストファー・コロンブスの画像",
+      "lifespan": "1451～1506"
     },
     {
       "name": "バルトロメ・デ・ラス・カサス",
@@ -574,7 +604,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ヨーロッパの征服を内部から批判し、植民地支配と先住民の権利をめぐる議論を早くから起こしたためです。"
       },
       "image": "assets/people/person-96f97c1af2.webp",
-      "imageAlt": "バルトロメ・デ・ラス・カサスの画像"
+      "imageAlt": "バルトロメ・デ・ラス・カサスの画像",
+      "lifespan": "1484～1566"
     },
     {
       "name": "ジョージ・ワシントン",
@@ -593,7 +624,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アメリカ独立と共和政国家の出発を導き、大統領制の実際の運用に先例を残したためです。"
       },
       "image": "assets/people/person-b128c0aae5.webp",
-      "imageAlt": "ジョージ・ワシントンの画像"
+      "imageAlt": "ジョージ・ワシントンの画像",
+      "lifespan": "1732～1799"
     },
     {
       "name": "ナポレオン",
@@ -612,7 +644,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "革命の法と制度を欧州へ広げる一方、征服戦争が民族主義と国際秩序の再編を促したためです。"
       },
       "image": "assets/people/person-aecb5fefb9.webp",
-      "imageAlt": "ナポレオンの画像"
+      "imageAlt": "ナポレオンの画像",
+      "lifespan": "1769～1821"
     },
     {
       "name": "シモン・ボリバル",
@@ -630,7 +663,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ラテンアメリカ諸国の独立を実現した中心人物で、現在も「解放者」として国家形成の象徴だからです。"
       },
       "image": "assets/people/person-04de7d8241.webp",
-      "imageAlt": "シモン・ボリバルの画像"
+      "imageAlt": "シモン・ボリバルの画像",
+      "lifespan": "1783～1830"
     },
     {
       "name": "ジェームズ・ワット",
@@ -649,7 +683,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "蒸気機関を多くの工場で使える実用的な動力にし、産業革命の機械化を大きく進めたためです。"
       },
       "image": "assets/people/person-8e2dc5e8cf.webp",
-      "imageAlt": "ジェームズ・ワットの画像"
+      "imageAlt": "ジェームズ・ワットの画像",
+      "lifespan": "1736～1819"
     },
     {
       "name": "フローレンス・ナイチンゲール",
@@ -669,7 +704,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "近代看護の教育制度と専門性を確立し、統計を政策改善に用いる公衆衛生の発展にも貢献したためです。"
       },
       "image": "assets/people/person-2dab609327.webp",
-      "imageAlt": "フローレンス・ナイチンゲールの画像"
+      "imageAlt": "フローレンス・ナイチンゲールの画像",
+      "lifespan": "1820～1910"
     },
     {
       "name": "チャールズ・ダーウィン",
@@ -687,7 +723,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "生物の多様性を自然の仕組みで説明し、現代生物学の基本となる進化論を確立したためです。"
       },
       "image": "assets/people/person-50808aa356.webp",
-      "imageAlt": "チャールズ・ダーウィンの画像"
+      "imageAlt": "チャールズ・ダーウィンの画像",
+      "lifespan": "1809～1882"
     },
     {
       "name": "マハトマ・ガンディー",
@@ -705,7 +742,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "武力に頼らない抵抗で植民地支配へ対抗し、世界各地の公民権運動や人権運動に影響したためです。"
       },
       "image": "assets/people/person-ee0e1c6ce3.webp",
-      "imageAlt": "マハトマ・ガンディーの画像"
+      "imageAlt": "マハトマ・ガンディーの画像",
+      "lifespan": "1869～1948"
     },
     {
       "name": "孫文",
@@ -723,7 +761,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "皇帝政治から共和政へ移る中国革命の理念と組織を築き、近代中国の国家構想に影響したためです。"
       },
       "image": "assets/people/person-5afa942243.webp",
-      "imageAlt": "孫文の画像"
+      "imageAlt": "孫文の画像",
+      "lifespan": "1866～1925"
     },
     {
       "name": "アルベルト・アインシュタイン",
@@ -742,7 +781,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "現代物理学の理論的基礎を築き、宇宙研究、原子力、精密測定など広い分野に影響したためです。"
       },
       "image": "assets/people/person-48f6387587.webp",
-      "imageAlt": "アルベルト・アインシュタインの画像"
+      "imageAlt": "アルベルト・アインシュタインの画像",
+      "lifespan": "1879～1955"
     },
     {
       "name": "ネルソン・マンデラ",
@@ -762,7 +802,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人種隔離体制を終わらせ、内戦を避けながら民主的な南アフリカへ移行する中心的役割を果たしたためです。"
       },
       "image": "assets/people/person-1e015e3361.webp",
-      "imageAlt": "ネルソン・マンデラの画像"
+      "imageAlt": "ネルソン・マンデラの画像",
+      "lifespan": "1918～2013"
     },
     {
       "name": "マーティン・ルーサー・キング・ジュニア",
@@ -781,7 +822,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "法制度として残っていた人種差別を撤廃する運動を全国化し、世界の人権運動へ影響したためです。"
       },
       "image": "assets/people/person-191db0da82.webp",
-      "imageAlt": "マーティン・ルーサー・キング・ジュニアの画像"
+      "imageAlt": "マーティン・ルーサー・キング・ジュニアの画像",
+      "lifespan": "1929～1968"
     },
     {
       "name": "ワンガリ・マータイ",
@@ -800,7 +842,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "環境問題を女性の権利・貧困・民主主義・平和と結びつけ、持続可能な開発の実践を示したためです。"
       },
       "image": "assets/people/person-57040e1942.webp",
-      "imageAlt": "ワンガリ・マータイの画像"
+      "imageAlt": "ワンガリ・マータイの画像",
+      "lifespan": "1940～2011"
     },
     {
       "name": "マララ・ユスフザイ",
@@ -818,7 +861,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "女子が学ぶ権利への弾圧を世界へ知らせ、教育を基本的人権として守る国際運動を強めたためです。"
       },
       "image": "assets/people/person-7ca7f530e8.webp",
-      "imageAlt": "マララ・ユスフザイの画像"
+      "imageAlt": "マララ・ユスフザイの画像",
+      "lifespan": "1997～?"
     },
     {
       "name": "釈迦",
@@ -836,7 +880,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "仏教の出発点となる教えを示し、アジアの宗教、思想、芸術、社会に長く影響したためです。"
       },
       "image": "assets/people/person-5efae04b1c.webp",
-      "imageAlt": "釈迦の画像"
+      "imageAlt": "釈迦の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ハンニバル",
@@ -854,7 +899,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "強大なローマを滅亡寸前まで追い込み、包囲戦術の代表例を残した古代屈指の将軍だからです。"
       },
       "image": "assets/people/person-f420e3f10a.webp",
-      "imageAlt": "ハンニバルの画像"
+      "imageAlt": "ハンニバルの画像",
+      "lifespan": "紀元前247～紀元前183ごろ"
     },
     {
       "name": "カエサル",
@@ -874,7 +920,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "共和政の政治均衡を崩し、ローマが皇帝による支配へ移る決定的な転換を引き起こしたためです。"
       },
       "image": "assets/people/person-de50729232.webp",
-      "imageAlt": "カエサルの画像"
+      "imageAlt": "カエサルの画像",
+      "lifespan": "紀元前100～紀元前44"
     },
     {
       "name": "クレオパトラ",
@@ -892,7 +939,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ヘレニズム王国エジプトの終焉と、ローマが地中海世界を統一する過程を象徴する女王だからです。"
       },
       "image": "assets/people/person-c35825710f.webp",
-      "imageAlt": "クレオパトラの画像"
+      "imageAlt": "クレオパトラの画像",
+      "lifespan": "紀元前69～紀元前30"
     },
     {
       "name": "グーテンベルク",
@@ -910,7 +958,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "同じ情報を速く正確に大量配布できるようにし、宗教改革、科学、教育、出版文化を発展させたためです。"
       },
       "image": "assets/people/person-521067b1b1.webp",
-      "imageAlt": "グーテンベルクの画像"
+      "imageAlt": "グーテンベルクの画像",
+      "lifespan": "1400ごろ～1468"
     },
     {
       "name": "レオナルド・ダ・ヴィンチ",
@@ -929,7 +978,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "芸術と科学を分けず、観察と実験的発想によって人間と自然を探究したルネサンスの象徴だからです。"
       },
       "image": "assets/people/person-ad6e558560.webp",
-      "imageAlt": "レオナルド・ダ・ヴィンチの画像"
+      "imageAlt": "レオナルド・ダ・ヴィンチの画像",
+      "lifespan": "1452～1519"
     },
     {
       "name": "ミケランジェロ",
@@ -947,7 +997,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人体と感情を壮大に表した作品が、西洋美術の表現と芸術家の地位を大きく高めたためです。"
       },
       "image": "assets/people/person-1141366ba2.webp",
-      "imageAlt": "ミケランジェロの画像"
+      "imageAlt": "ミケランジェロの画像",
+      "lifespan": "1475～1564"
     },
     {
       "name": "ラファエロ",
@@ -965,7 +1016,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古典文化とキリスト教文化を結ぶ構成が、ルネサンス美術の理想的な形として受け継がれたためです。"
       },
       "image": "assets/people/person-0011a7b938.webp",
-      "imageAlt": "ラファエロの画像"
+      "imageAlt": "ラファエロの画像",
+      "lifespan": "1483～1520"
     },
     {
       "name": "マルティン・ルター",
@@ -983,7 +1035,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "カトリック教会の権威を揺るがし、プロテスタント諸派の成立と近代ヨーロッパの形成を促したためです。"
       },
       "image": "assets/people/person-b1751a213c.webp",
-      "imageAlt": "マルティン・ルターの画像"
+      "imageAlt": "マルティン・ルターの画像",
+      "lifespan": "1483～1546"
     },
     {
       "name": "カルヴァン",
@@ -1001,7 +1054,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "カルヴァン派が各国へ広がり、宗教対立だけでなく市民社会や政治の形成にも影響したためです。"
       },
       "image": "assets/people/person-575516c8d8.webp",
-      "imageAlt": "カルヴァンの画像"
+      "imageAlt": "カルヴァンの画像",
+      "lifespan": "1509～1564"
     },
     {
       "name": "コペルニクス",
@@ -1020,7 +1074,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宇宙の中心を地球とする従来の常識を問い直し、観測と計算にもとづく近代天文学を開いたためです。"
       },
       "image": "assets/people/person-e08a16a58c.webp",
-      "imageAlt": "コペルニクスの画像"
+      "imageAlt": "コペルニクスの画像",
+      "lifespan": "1473～1543"
     },
     {
       "name": "ガリレオ・ガリレイ",
@@ -1038,7 +1093,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "権威ある学説より観測と実験を重視する姿勢を示し、近代科学の研究方法を形づくったためです。"
       },
       "image": "assets/people/person-ee0d81f4a1.webp",
-      "imageAlt": "ガリレオ・ガリレイの画像"
+      "imageAlt": "ガリレオ・ガリレイの画像",
+      "lifespan": "1564～1642"
     },
     {
       "name": "ニュートン",
@@ -1056,7 +1112,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "自然現象を数式で予測する近代物理学の体系を築き、科学と技術の発展の土台を作ったためです。"
       },
       "image": "assets/people/person-4ae32d11c2.webp",
-      "imageAlt": "ニュートンの画像"
+      "imageAlt": "ニュートンの画像",
+      "lifespan": "1643～1727"
     },
     {
       "name": "デカルト",
@@ -1075,7 +1132,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "伝統や権威ではなく、自分の理性から確実な知識を築く近代的な思考法を示したためです。"
       },
       "image": "assets/people/person-638347cdb2.webp",
-      "imageAlt": "デカルトの画像"
+      "imageAlt": "デカルトの画像",
+      "lifespan": "1596～1650"
     },
     {
       "name": "スピノザ",
@@ -1093,7 +1151,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教的権威から独立して考える自由と寛容を説き、近代の民主的思想へ道を開いたためです。"
       },
       "image": "assets/people/person-e66d9b1378.webp",
-      "imageAlt": "スピノザの画像"
+      "imageAlt": "スピノザの画像",
+      "lifespan": "1632～1677"
     },
     {
       "name": "ライプニッツ",
@@ -1112,7 +1171,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "記号によって計算と思考を扱う発想が、近代数学だけでなくコンピューター科学にもつながったためです。"
       },
       "image": "assets/people/person-161894fd4d.webp",
-      "imageAlt": "ライプニッツの画像"
+      "imageAlt": "ライプニッツの画像",
+      "lifespan": "1646～1716"
     },
     {
       "name": "カント",
@@ -1131,7 +1191,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "知識・道徳・自由を理性から考え直し、その後の哲学や政治思想の出発点となったためです。"
       },
       "image": "assets/people/person-3d930c4d52.webp",
-      "imageAlt": "カントの画像"
+      "imageAlt": "カントの画像",
+      "lifespan": "1724～1804"
     },
     {
       "name": "シラー",
@@ -1150,7 +1211,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "文学と美を通して人間の自由を問い、ドイツ古典主義と近代の市民意識を形づくったためです。"
       },
       "image": "assets/people/person-deca27f0a0.webp",
-      "imageAlt": "シラーの画像"
+      "imageAlt": "シラーの画像",
+      "lifespan": "1759～1805"
     },
     {
       "name": "ヘーゲル",
@@ -1169,7 +1231,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "社会の矛盾と変化を歴史の動きとして捉える考えが、後の哲学・政治思想・歴史学に影響したためです。"
       },
       "image": "assets/people/person-23a2f61d69.webp",
-      "imageAlt": "ヘーゲルの画像"
+      "imageAlt": "ヘーゲルの画像",
+      "lifespan": "1770～1831"
     },
     {
       "name": "ショーペンハウアー",
@@ -1187,7 +1250,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "理性中心の哲学に異議を唱え、人間の欲望・苦悩・無意識を考える後代の思想へ影響したためです。"
       },
       "image": "assets/people/person-54ea3251de.webp",
-      "imageAlt": "ショーペンハウアーの画像"
+      "imageAlt": "ショーペンハウアーの画像",
+      "lifespan": "1788～1860"
     },
     {
       "name": "ニーチェ",
@@ -1206,7 +1270,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "近代社会で価値の基準が揺らぐ問題を示し、哲学・文学・心理学に大きな論争を起こしたためです。"
       },
       "image": "assets/people/person-3dcf243a52.webp",
-      "imageAlt": "ニーチェの画像"
+      "imageAlt": "ニーチェの画像",
+      "lifespan": "1844～1900"
     },
     {
       "name": "シェイクスピア",
@@ -1224,7 +1289,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人間心理を深く描いた作品が言語や文化を越えて読まれ、近代演劇と英文学の基準となったためです。"
       },
       "image": "assets/people/person-bc57242847.webp",
-      "imageAlt": "シェイクスピアの画像"
+      "imageAlt": "シェイクスピアの画像",
+      "lifespan": "1564～1616"
     },
     {
       "name": "バッハ",
@@ -1242,7 +1308,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "旋律と和声を組み立てる技法が、西洋音楽の作曲教育と後代の作品の基礎になったためです。"
       },
       "image": "assets/people/person-09dac962cb.webp",
-      "imageAlt": "バッハの画像"
+      "imageAlt": "バッハの画像",
+      "lifespan": "1685～1750"
     },
     {
       "name": "モーツァルト",
@@ -1260,7 +1327,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人間の感情と劇を音楽で巧みに表し、古典派の形式を後世の作曲家が学ぶ模範にしたためです。"
       },
       "image": "assets/people/person-a84fa933f1.webp",
-      "imageAlt": "モーツァルトの画像"
+      "imageAlt": "モーツァルトの画像",
+      "lifespan": "1756～1791"
     },
     {
       "name": "ベートーヴェン",
@@ -1278,7 +1346,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "作曲家を宮廷の職人から自立した芸術家へ近づけ、ロマン派音楽への道を開いたためです。"
       },
       "image": "assets/people/person-4ab47aade7.webp",
-      "imageAlt": "ベートーヴェンの画像"
+      "imageAlt": "ベートーヴェンの画像",
+      "lifespan": "1770～1827"
     },
     {
       "name": "ノーベル",
@@ -1296,7 +1365,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "発明がもたらす利益と危険の両面を示し、科学・文化・平和への貢献を顕彰する制度を残したためです。"
       },
       "image": "assets/people/person-f14b621d96.webp",
-      "imageAlt": "ノーベルの画像"
+      "imageAlt": "ノーベルの画像",
+      "lifespan": "1833～1896"
     },
     {
       "name": "レントゲン",
@@ -1314,7 +1384,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "手術をせず体内を画像で確認できるようにし、診断医学と物理学の利用を大きく変えたためです。"
       },
       "image": "assets/people/person-95977db14a.webp",
-      "imageAlt": "レントゲンの画像"
+      "imageAlt": "レントゲンの画像",
+      "lifespan": "1845～1923"
     },
     {
       "name": "アムンゼン",
@@ -1332,7 +1403,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "極地の環境に適した技術と計画の重要性を示し、地理的探検の歴史に大きな記録を残したためです。"
       },
       "image": "assets/people/person-f2de242edd.webp",
-      "imageAlt": "アムンゼンの画像"
+      "imageAlt": "アムンゼンの画像",
+      "lifespan": "1872～1928"
     },
     {
       "name": "ペリー",
@@ -1350,7 +1422,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "日本の鎖国体制を揺るがし、幕末の政治対立と明治維新へ向かう変化を引き起こしたためです。"
       },
       "image": "assets/people/person-f3d03b470d.webp",
-      "imageAlt": "ペリーの画像"
+      "imageAlt": "ペリーの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ジョン・F・ケネディ",
@@ -1370,7 +1443,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "冷戦の最危機を交渉で収める一方、宇宙開発と人種差別撤廃を国家課題として示したためです。"
       },
       "image": "assets/people/person-a4b37a4032.webp",
-      "imageAlt": "ジョン・F・ケネディの画像"
+      "imageAlt": "ジョン・F・ケネディの画像",
+      "lifespan": "1917～1963"
     },
     {
       "name": "ゴルバチョフ",
@@ -1389,7 +1463,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "大国間対立を緩和して冷戦を終わらせた一方、改革がソ連解体へつながる転機にもなったためです。"
       },
       "image": "assets/people/person-5bdbdabb4c.webp",
-      "imageAlt": "ゴルバチョフの画像"
+      "imageAlt": "ゴルバチョフの画像",
+      "lifespan": "1931～2022"
     },
     {
       "name": "鄧小平",
@@ -1408,7 +1483,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "社会主義体制を保ちながら市場経済を取り入れ、現在の中国の経済発展の方向を決めたためです。"
       },
       "image": "assets/people/person-92d4a96fa6.webp",
-      "imageAlt": "鄧小平の画像"
+      "imageAlt": "鄧小平の画像",
+      "lifespan": "1904～1997"
     },
     {
       "name": "ナルメル",
@@ -1427,7 +1503,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "エジプト統一王国とファラオの支配が成立する過程を示す最古級の資料と結び付くためです。"
       },
       "image": "assets/people/person-f462836a0c.webp",
-      "imageAlt": "ナルメルの画像"
+      "imageAlt": "ナルメルの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "サルゴン",
@@ -1446,7 +1523,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "一つの都市を越えてメソポタミアを広域支配する帝国の先例をつくったためです。"
       },
       "image": "assets/people/person-1679093f0c.webp",
-      "imageAlt": "サルゴンの画像"
+      "imageAlt": "サルゴンの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ソロン",
@@ -1464,7 +1542,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "債務奴隷を廃止し、財産に応じた政治参加の制度を整えて貴族の独占を弱めました。",
         "whyImportant": "アテネで身分より財産を基準とする政治参加を広げ、民主政への道を開いたためです。"
       },
-      "image": "assets/people/person-0c00fa8a54.webp"
+      "image": "assets/people/person-0c00fa8a54.webp",
+      "lifespan": "紀元前640ごろ～紀元前560ごろ"
     },
     {
       "name": "スキピオ・アフリカヌス",
@@ -1482,7 +1561,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "イベリア半島を攻略してカルタゴの基盤を崩し、ザマの戦いでハンニバルを破りました。",
         "whyImportant": "ローマがカルタゴを退け、西地中海の覇権を握る決定的な勝利をもたらしたためです。"
       },
-      "image": "assets/people/person-cfb119e804.webp"
+      "image": "assets/people/person-cfb119e804.webp",
+      "lifespan": "紀元前236～紀元前183"
     },
     {
       "name": "キュロス2世",
@@ -1501,7 +1581,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アケメネス朝の基礎を築き、多民族・多宗教の広大な帝国を統治する先例を示したためです。"
       },
       "image": "assets/people/person-4ceade843b.webp",
-      "imageAlt": "キュロス2世の画像"
+      "imageAlt": "キュロス2世の画像",
+      "lifespan": "紀元前600ごろ～紀元前530"
     },
     {
       "name": "パウロ",
@@ -1519,7 +1600,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "キリスト教をユダヤ社会の外へ広げ、世界宗教へ発展する方向を強く形づくったためです。"
       },
       "image": "assets/people/person-7407a9e24f.webp",
-      "imageAlt": "パウロの画像"
+      "imageAlt": "パウロの画像",
+      "lifespan": "5ごろ～64ごろ"
     },
     {
       "name": "太宗",
@@ -1537,7 +1619,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "律令・科挙を整え、臣下の意見を取り入れながら唐の支配を安定させ、領域を広げました。",
         "whyImportant": "唐を東アジアと中央アジアに影響を及ぼす国際帝国へ成長させたためです。"
       },
-      "image": "assets/people/person-64ef03b0e4.webp"
+      "image": "assets/people/person-64ef03b0e4.webp",
+      "lifespan": "598～649"
     },
     {
       "name": "ユスティニアヌス",
@@ -1556,7 +1639,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマ法を体系化して後世の法学に残し、東ローマ帝国の文化と皇帝権を象徴したためです。"
       },
       "image": "assets/people/person-eb7674eb9e.webp",
-      "imageAlt": "ユスティニアヌスの画像"
+      "imageAlt": "ユスティニアヌスの画像",
+      "lifespan": "482ごろ～565"
     },
     {
       "name": "エンリケ航海王子",
@@ -1574,7 +1658,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "西アフリカ沿岸への航海を資金面で支援し、ポルトガルの大西洋進出を進めました。",
         "whyImportant": "大航海時代の海路開拓を促すと同時に、大西洋奴隷貿易の拡大にも道を開いたためです。"
       },
-      "image": "assets/people/person-17ac22d8f8.webp"
+      "image": "assets/people/person-17ac22d8f8.webp",
+      "lifespan": "1394～1460"
     },
     {
       "name": "ジョン・ロック",
@@ -1593,7 +1678,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "自然権と社会契約を説き、政府は人民の同意に基づき、権利を守るべきだと論じました。",
         "whyImportant": "近代の自由主義、立憲政治、アメリカ独立の思想的な土台を与えたためです。"
       },
-      "image": "assets/people/person-3f43fd47bb.webp"
+      "image": "assets/people/person-3f43fd47bb.webp",
+      "lifespan": "1632～1704"
     },
     {
       "name": "リチャード・アークライト",
@@ -1611,7 +1697,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "水力紡績機を用いた大規模工場を経営し、綿糸を大量生産する工場制度を広めました。",
         "whyImportant": "家庭内手工業から機械制工場へ生産を移し、産業革命の働き方と生産方式を変えたためです。"
       },
-      "image": "assets/people/person-620e13ee9b.webp"
+      "image": "assets/people/person-620e13ee9b.webp",
+      "lifespan": "1732～1792"
     },
     {
       "name": "セシル・ローズ",
@@ -1629,7 +1716,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "鉱山会社と植民地会社を通じて南部アフリカの資源と土地を支配し、英国領を拡大しました。",
         "whyImportant": "企業・政治・軍事が結び付いた帝国主義と、植民地支配が残した不平等を示すためです。"
       },
-      "image": "assets/people/person-d7452f90ef.webp"
+      "image": "assets/people/person-d7452f90ef.webp",
+      "lifespan": "1853～1902"
     },
     {
       "name": "ウィンストン・チャーチル",
@@ -1648,7 +1736,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "第二次世界大戦でイギリスを率い、アメリカ・ソ連との連携によってナチス・ドイツと戦いました。",
         "whyImportant": "対独戦の継続と連合国の協力を支えた一方、帝国主義の限界も示す政治家だからです。"
       },
-      "image": "assets/people/person-ad26ae571c.webp"
+      "image": "assets/people/person-ad26ae571c.webp",
+      "lifespan": "1874～1965"
     },
     {
       "name": "ジャワハルラール・ネルー",
@@ -1667,7 +1756,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "独立運動を率い、初代首相として議会制民主主義・計画経済・非同盟外交を進めました。",
         "whyImportant": "植民地から独立したインドの国家像を形づくり、アジア・アフリカの非同盟運動を導いたためです。"
       },
-      "image": "assets/people/person-d1557caa09.webp"
+      "image": "assets/people/person-d1557caa09.webp",
+      "lifespan": "1889～1964"
     },
     {
       "name": "メネス",
@@ -1685,7 +1775,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "後世の記録で上下エジプトを統一し、最初の王朝を開いた王として伝えられました。",
         "whyImportant": "伝承上の建国者であり、ナルメルなどの考古資料と王名表の関係を考える鍵となるためです。"
       },
-      "image": "assets/people/person-019b1d8d30.webp"
+      "image": "assets/people/person-019b1d8d30.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "エンヘドゥアンナ",
@@ -1703,7 +1794,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ウルの最高祭司として王権と宗教を結び、自らの名を記した女神への賛歌を残しました。",
         "whyImportant": "作者名が知られる最古級の文学者で、古代の女性・宗教・政治を伝えるためです。"
       },
-      "image": "assets/people/person-bae8508d5f.webp"
+      "image": "assets/people/person-bae8508d5f.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "クレイステネス",
@@ -1721,7 +1813,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "血縁中心の部族制を地域別の十部族へ改め、五百人評議会など市民参加の制度を整えました。",
         "whyImportant": "アテネ民主政の制度的な土台をつくり、市民が政治に参加する範囲を広げたためです。"
       },
-      "image": "assets/people/person-d5e93608d0.webp"
+      "image": "assets/people/person-d5e93608d0.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "カトー",
@@ -1739,7 +1832,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "監察官として風紀を引き締め、著書『農業論』を残し、カルタゴへの強硬策を訴えました。",
         "whyImportant": "共和政ローマの伝統的価値観と、カルタゴを滅ぼして地中海へ拡大する動きを象徴するためです。"
       },
-      "image": "assets/people/person-e6cb8aba55.webp"
+      "image": "assets/people/person-e6cb8aba55.webp",
+      "lifespan": "紀元前234～紀元前149"
     },
     {
       "name": "ダレイオス1世",
@@ -1757,7 +1851,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "帝国を州に分け、王の道・駅伝制・貨幣・税制を整えて広大な領土を統治しました。",
         "whyImportant": "多民族から成る大帝国を行政と交通で結び、後世の帝国統治の模範を示したためです。"
       },
-      "image": "assets/people/person-91f786f396.webp"
+      "image": "assets/people/person-91f786f396.webp",
+      "lifespan": "紀元前550ごろ～紀元前486"
     },
     {
       "name": "ペテロ",
@@ -1774,7 +1869,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "イエスの弟子集団を率い、死後の信者共同体を指導して初期教会の形成に関わりました。",
         "whyImportant": "初期キリスト教共同体の中心となり、後のローマ教皇の権威の起源とされたためです。"
       },
-      "image": "assets/people/person-597700fe67.webp"
+      "image": "assets/people/person-597700fe67.webp",
+      "lifespan": "?～64ごろ"
     },
     {
       "name": "則天武后",
@@ -1792,7 +1888,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "皇后・皇太后から実権を握り、周を建てて皇帝となり、科挙官僚と仏教を支配に用いました。",
         "whyImportant": "中国史上唯一の女性皇帝として、唐代の官僚制・宗教・女性の政治権力を示すためです。"
       },
-      "image": "assets/people/person-634820150e.webp"
+      "image": "assets/people/person-634820150e.webp",
+      "lifespan": "624～705"
     },
     {
       "name": "テオドラ",
@@ -1810,7 +1907,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ニカの反乱で政権を支え、皇帝とともに政治・宗教政策や女性保護の法整備に関わりました。",
         "whyImportant": "東ローマ宮廷で大きな政治権力を持った女性であり、史料の偏見を考える例でもあるためです。"
       },
-      "image": "assets/people/person-7294fab46e.webp"
+      "image": "assets/people/person-7294fab46e.webp",
+      "lifespan": "500ごろ～548"
     },
     {
       "name": "バルトロメウ・ディアス",
@@ -1827,7 +1925,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "1488年にアフリカ南端を回ってインド洋へ入り、ヨーロッパからアジアへ向かう海路を示しました。",
         "whyImportant": "喜望峰経由のインド航路を開く決定的な一歩となり、ポルトガルの海上進出を進めたためです。"
       },
-      "image": "assets/people/person-4800aabf28.webp"
+      "image": "assets/people/person-4800aabf28.webp",
+      "lifespan": "1450ごろ～1500"
     },
     {
       "name": "モンテスキュー",
@@ -1845,7 +1944,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "『法の精神』で立法・行政・司法を分け、互いに抑制させる三権分立を説きました。",
         "whyImportant": "権力の集中を防ぐ制度原理を示し、近代の憲法と民主政治の設計に影響したためです。"
       },
-      "image": "assets/people/person-2562164bcc.webp"
+      "image": "assets/people/person-2562164bcc.webp",
+      "lifespan": "1689～1755"
     },
     {
       "name": "ジェームズ・ハーグリーブス",
@@ -1862,7 +1962,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "一人で複数の糸を同時に紡げるジェニー紡績機を考案し、綿糸生産を効率化しました。",
         "whyImportant": "紡績の機械化を進め、綿工業を産業革命の中心産業へ成長させる一歩となったためです。"
       },
-      "image": "assets/people/person-94098b32d7.webp"
+      "image": "assets/people/person-94098b32d7.webp",
+      "lifespan": "1720ごろ～1778"
     },
     {
       "name": "デイヴィッド・リヴィングストン",
@@ -1879,7 +1980,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "南部・中部アフリカを探検して河川や地形を記録し、奴隷貿易の廃止を訴えました。",
         "whyImportant": "アフリカ内陸の地理を欧州へ伝える一方、その記録が植民地進出にも利用されたためです。"
       },
-      "image": "assets/people/person-90abd8cf8f.webp"
+      "image": "assets/people/person-90abd8cf8f.webp",
+      "lifespan": "1813～1873"
     },
     {
       "name": "ネヴィル・チェンバレン",
@@ -1898,7 +2000,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ミュンヘン会談でドイツへの譲歩を選び、戦争回避を目指す宥和政策を進めました。",
         "whyImportant": "独裁国への譲歩が侵略を止められなかった事例として、第二次世界大戦前史の中心となるためです。"
       },
-      "image": "assets/people/person-fd6656d191.webp"
+      "image": "assets/people/person-fd6656d191.webp",
+      "lifespan": "1869～1940"
     },
     {
       "name": "インディラ・ガンディー",
@@ -1917,7 +2020,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "銀行国有化や農業増産を進め、バングラデシュ独立を支援する一方、非常事態で反対派を抑えました。",
         "whyImportant": "インドの国家統合と地域秩序を動かす一方、民主政治と強権統治の緊張を示したためです。"
       },
-      "image": "assets/people/person-83952b1af6.webp"
+      "image": "assets/people/person-83952b1af6.webp",
+      "lifespan": "1917～1984"
     },
     {
       "name": "ジェセル",
@@ -1935,7 +2039,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "イムホテプに命じてサッカラの階段ピラミッドと大規模な葬祭施設を建設しました。",
         "whyImportant": "大規模石造建築とピラミッド建設の出発点をつくり、古代エジプト王権を形で示したためです。"
       },
-      "image": "assets/people/person-af40024a79.webp"
+      "image": "assets/people/person-af40024a79.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "ウルナンム",
@@ -1953,7 +2058,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ウル第3王朝を開いてシュメールを再統一し、ジッグラト建設と法の整備を進めました。",
         "whyImportant": "都市国家を再統合し、現存最古級の法典と大規模神殿建築を残したためです。"
       },
-      "image": "assets/people/person-6ef4c2baf1.webp"
+      "image": "assets/people/person-6ef4c2baf1.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "ペリクレス",
@@ -1971,7 +2077,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "公職手当で市民参加を広げ、パルテノン神殿を建設する一方、デロス同盟への支配を強めました。",
         "whyImportant": "アテネ民主政と古典文化の最盛期を築く一方、同盟を帝国化した矛盾も示すためです。"
       },
-      "image": "assets/people/person-b9aecbca6c.webp"
+      "image": "assets/people/person-b9aecbca6c.webp",
+      "lifespan": "紀元前495ごろ～紀元前429"
     },
     {
       "name": "ティベリウス・グラックス",
@@ -1989,7 +2096,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "国有地の占有を制限し、土地を失った市民へ農地を再分配する改革を進めました。",
         "whyImportant": "貧富の差と自作農の衰退を政治課題にし、共和政ローマの激しい党派対立の始まりを示したためです。"
       },
-      "image": "assets/people/person-4e2e5a3bee.webp"
+      "image": "assets/people/person-4e2e5a3bee.webp",
+      "lifespan": "紀元前163ごろ～紀元前133"
     },
     {
       "name": "クセルクセス1世",
@@ -2007,7 +2115,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "大軍でギリシャへ遠征し、テルモピュライを突破してアテネを占領しましたが、海戦で敗れました。",
         "whyImportant": "ペルシャ戦争の最大規模の遠征を行い、ギリシャ諸都市の結束とその後の歴史を左右したためです。"
       },
-      "image": "assets/people/person-653eee17f8.webp"
+      "image": "assets/people/person-653eee17f8.webp",
+      "lifespan": "紀元前519ごろ～紀元前465"
     },
     {
       "name": "アウグスティヌス",
@@ -2026,7 +2135,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古代哲学とキリスト教を結び、中世西ヨーロッパの神学と人間観の基礎を築いたためです。"
       },
       "image": "assets/people/person-0dbfd89beb.webp",
-      "imageAlt": "アウグスティヌスの画像"
+      "imageAlt": "アウグスティヌスの画像",
+      "lifespan": "354～430"
     },
     {
       "name": "玄宗",
@@ -2044,7 +2154,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "開元の治で唐を繁栄させましたが、節度使の勢力拡大を招き、安史の乱の途中で退位しました。",
         "whyImportant": "唐の最盛期と、地方軍人が強まって王朝が衰退へ向かう転換点の双方を体現するためです。"
       },
-      "image": "assets/people/person-0cc7ff9461.webp"
+      "image": "assets/people/person-0cc7ff9461.webp",
+      "lifespan": "685～762"
     },
     {
       "name": "ヘラクレイオス",
@@ -2062,7 +2173,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ササン朝に反攻して失地を回復しましたが、その後イスラム勢力にシリアとエジプトを奪われました。",
         "whyImportant": "東ローマ帝国を一度は再建しつつ、イスラム進出とビザンツ化という大転換に直面したためです。"
       },
-      "image": "assets/people/person-9a6aa60aa5.webp"
+      "image": "assets/people/person-9a6aa60aa5.webp",
+      "lifespan": "575ごろ～641"
     },
     {
       "name": "ヴァスコ・ダ・ガマ",
@@ -2079,7 +2191,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "喜望峰を回ってインドへ到達し、ヨーロッパとアジアを結ぶ直接の海上航路を開きました。",
         "whyImportant": "香辛料貿易の経路を変え、ポルトガルのインド洋支配と欧州の海外進出を加速させたためです。"
       },
-      "image": "assets/people/person-3b613a629f.webp"
+      "image": "assets/people/person-3b613a629f.webp",
+      "lifespan": "1460ごろ～1524"
     },
     {
       "name": "ヴォルテール",
@@ -2098,7 +2211,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "風刺作品と論説で教会・専制政治・不正な裁判を批判し、信仰と言論の自由を訴えました。",
         "whyImportant": "理性と寛容を重んじる啓蒙思想を広め、フランス革命前の社会批判を強めたためです。"
       },
-      "image": "assets/people/person-90ebf84bd9.webp"
+      "image": "assets/people/person-90ebf84bd9.webp",
+      "lifespan": "1694～1778"
     },
     {
       "name": "サミュエル・クロムプトン",
@@ -2115,7 +2229,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ジェニー紡績機と水力紡績機を組み合わせ、細く丈夫な糸を紡ぐミュール紡績機を発明しました。",
         "whyImportant": "上質な綿糸の大量生産を可能にし、イギリス綿工業の国際的な成長を支えたためです。"
       },
-      "image": "assets/people/person-51af8aee07.webp"
+      "image": "assets/people/person-51af8aee07.webp",
+      "lifespan": "1753～1827"
     },
     {
       "name": "ヘンリー・モートン・スタンリー",
@@ -2132,7 +2247,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "リヴィングストンを発見し、コンゴ川流域を調査して、ベルギー王の植民地建設に協力しました。",
         "whyImportant": "アフリカ探検が欧州の領土獲得と暴力的な植民地支配へ直結した過程を示すためです。"
       },
-      "image": "assets/people/person-b08f4fcadd.webp"
+      "image": "assets/people/person-b08f4fcadd.webp",
+      "lifespan": "1841～1904"
     },
     {
       "name": "アドルフ・ヒトラー",
@@ -2151,7 +2267,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ナチ党独裁を築き、侵略戦争とホロコーストを進め、第二次世界大戦と大量虐殺を引き起こしました。",
         "whyImportant": "独裁・人種差別・侵略が社会と国家を破壊し、世界規模の戦争と大量虐殺へ至る危険を示すためです。"
       },
-      "image": "assets/people/person-860e88f804.webp"
+      "image": "assets/people/person-860e88f804.webp",
+      "lifespan": "1889～1945"
     },
     {
       "name": "ベナジル・ブット",
@@ -2170,7 +2287,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "軍事政権に対する民主化運動を率い、イスラム教徒多数国で初の女性首相となりました。",
         "whyImportant": "女性の政治参加を切り開く一方、軍・政党・汚職が絡むパキスタン政治の困難を示したためです。"
       },
-      "image": "assets/people/person-1f3e28397d.webp"
+      "image": "assets/people/person-1f3e28397d.webp",
+      "lifespan": "1953～2007"
     },
     {
       "name": "スネフェル",
@@ -2188,7 +2306,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "複数のピラミッド建設を通して真正ピラミッドの技術を確立し、第4王朝の基盤を築きました。",
         "whyImportant": "ギザの大ピラミッドへつながる建築技術と、古王国の強い王権を完成へ導いたためです。"
       },
-      "image": "assets/people/person-62e4a669a6.webp"
+      "image": "assets/people/person-62e4a669a6.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "グデア",
@@ -2207,7 +2326,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ラガシュで神殿と運河を建設し、遠隔地交易で資材を集め、多数の奉納像と碑文を残しました。",
         "whyImportant": "王の宗教的役割、都市建設、交易を像と碑文から具体的に知ることができるためです。"
       },
-      "image": "assets/people/person-d69e810d52.webp"
+      "image": "assets/people/person-d69e810d52.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "レオニダス",
@@ -2225,7 +2345,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "テルモピュライの狭路でギリシャ連合軍を指揮し、ペルシャ大軍を食い止めて戦死しました。",
         "whyImportant": "ギリシャ側の抵抗を象徴する一方、後世の英雄伝説と実際の連合軍の違いを考えられるためです。"
       },
-      "image": "assets/people/person-ceda1bc256.webp"
+      "image": "assets/people/person-ceda1bc256.webp",
+      "lifespan": "?～紀元前480"
     },
     {
       "name": "マリウス",
@@ -2243,7 +2364,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "無産市民を軍へ採用してローマ軍を強化し、外敵を破りましたが、スッラとの内戦を招きました。",
         "whyImportant": "軍隊の性格を変え、将軍同士の私兵化と内戦が共和政を崩す流れを強めたためです。"
       },
-      "image": "assets/people/person-3b825e131f.webp"
+      "image": "assets/people/person-3b825e131f.webp",
+      "lifespan": "紀元前157～紀元前86"
     },
     {
       "name": "アルタクセルクセス1世",
@@ -2262,7 +2384,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "反乱とギリシャ勢力の介入に対応し、多民族帝国の安定を維持した統治を示すためです。"
       },
       "image": "assets/people/person-3b4f71264c.webp",
-      "imageAlt": "アルタクセルクセス1世の画像"
+      "imageAlt": "アルタクセルクセス1世の画像",
+      "lifespan": "?～紀元前424"
     },
     {
       "name": "ヒエロニムス",
@@ -2280,7 +2403,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ヘブライ語とギリシャ語の聖書をラテン語へ翻訳・校訂し、ウルガタ聖書の基礎を築きました。",
         "whyImportant": "西ヨーロッパで長く標準となる聖書本文を整え、宗教・教育・文学へ影響したためです。"
       },
-      "image": "assets/people/person-e2200bc7bb.webp"
+      "image": "assets/people/person-e2200bc7bb.webp",
+      "lifespan": "347ごろ～420"
     },
     {
       "name": "楊貴妃",
@@ -2299,7 +2423,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "玄宗の貴妃として宮廷で大きな影響力を持ち、安史の乱の逃避行中に兵士の要求で殺されました。",
         "whyImportant": "唐の繁栄と崩壊を語る象徴となり、女性へ政治責任を負わせる歴史叙述も考えられるためです。"
       },
-      "image": "assets/people/person-7226500134.webp"
+      "image": "assets/people/person-7226500134.webp",
+      "lifespan": "719～756"
     },
     {
       "name": "バシレイオス2世",
@@ -2317,7 +2442,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "有力貴族の反乱を抑えて皇帝権を強め、ブルガリアを征服して東ローマ帝国を最盛期へ導きました。",
         "whyImportant": "東ローマ帝国の軍事・財政・領土を立て直し、中世ビザンツの最盛期を築いたためです。"
       },
-      "image": "assets/people/person-8ef1cb23d8.webp"
+      "image": "assets/people/person-8ef1cb23d8.webp",
+      "lifespan": "958～1025"
     },
     {
       "name": "フェルディナンド・マゼラン",
@@ -2335,7 +2461,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "船団の航海が初の世界一周を実現し、地球の大きさと海洋のつながりを具体的に示したためです。"
       },
       "image": "assets/people/person-c04ca7626f.webp",
-      "imageAlt": "フェルディナンド・マゼランの画像"
+      "imageAlt": "フェルディナンド・マゼランの画像",
+      "lifespan": "1480ごろ～1521"
     },
     {
       "name": "ルソー",
@@ -2354,7 +2481,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "『社会契約論』で人民主権と一般意志を説き、『エミール』で子どもの自主性を重んじる教育を論じました。",
         "whyImportant": "人民が政治の主権者であるという考えを広め、革命・民主政治・近代教育へ影響したためです。"
       },
-      "image": "assets/people/person-59efcfe648.webp"
+      "image": "assets/people/person-59efcfe648.webp",
+      "lifespan": "1712～1778"
     },
     {
       "name": "ジョージ・スティーブンソン",
@@ -2372,7 +2500,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "蒸気機関車を改良し、営業鉄道の建設と運行を進めて、人や物を大量に運ぶ鉄道輸送を普及させました。",
         "whyImportant": "鉄道で炭鉱・工場・港・都市を結び、産業革命期の生産・流通・人の移動を大きく変えたためです。"
       },
-      "image": "assets/people/person-19fc20ba52.webp"
+      "image": "assets/people/person-19fc20ba52.webp",
+      "lifespan": "1781～1848"
     },
     {
       "name": "レオポルド2世",
@@ -2390,7 +2519,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "コンゴ自由国を私領として支配し、象牙とゴムを強制徴収する過程で住民へ大規模な暴力を加えました。",
         "whyImportant": "欧州帝国主義が企業利益と王権のもとで大量の強制労働と人命被害を生んだことを示すためです。"
       },
-      "image": "assets/people/person-ff61fbc0c9.webp"
+      "image": "assets/people/person-ff61fbc0c9.webp",
+      "lifespan": "1835～1909"
     },
     {
       "name": "ベニート・ムッソリーニ",
@@ -2409,7 +2539,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ファシスト党独裁を築き、エチオピア侵略とナチス・ドイツとの同盟を進めて第二次世界大戦へ参戦しました。",
         "whyImportant": "ファシズムが民主政治を破壊し、民族主義と軍事侵略を正当化した過程を示すためです。"
       },
-      "image": "assets/people/person-af4451019a.webp"
+      "image": "assets/people/person-af4451019a.webp",
+      "lifespan": "1883～1945"
     },
     {
       "name": "アウンサンスーチー",
@@ -2428,7 +2559,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "民主化運動の象徴となる一方、ロヒンギャ迫害への対応で人権と政治責任の問題を残したためです。"
       },
       "image": "assets/people/person-2a1b09d78c.webp",
-      "imageAlt": "アウンサンスーチーの画像"
+      "imageAlt": "アウンサンスーチーの画像",
+      "lifespan": "1945～?"
     },
     {
       "name": "カフラー",
@@ -2446,7 +2578,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ギザにピラミッドと葬祭施設を建設し、神に守られた王権を壮大な石造建築と像で示しました。",
         "whyImportant": "ピラミッド複合体と王の神聖性を通して、古王国の強大な王権と死後信仰を伝えるためです。"
       },
-      "image": "assets/people/person-404d9369ab.webp"
+      "image": "assets/people/person-404d9369ab.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "シュルギ",
@@ -2464,7 +2597,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "道路・宿駅・税制・記録制度を整え、王を神格化してウル第3王朝の中央集権的支配を完成させました。",
         "whyImportant": "粘土板記録を用いた官僚国家と、神格化された王権の具体的な姿を示すためです。"
       },
-      "image": "assets/people/person-939d90be9c.webp"
+      "image": "assets/people/person-939d90be9c.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "テミストクレス",
@@ -2482,7 +2616,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "アテネ海軍を強化し、サラミスの海戦で地形を利用してペルシャ艦隊を破る作戦を指揮しました。",
         "whyImportant": "ペルシャのギリシャ征服を防ぎ、アテネが海上勢力として発展する基礎を築いたためです。"
       },
-      "image": "assets/people/person-9d2f5f6c9d.webp"
+      "image": "assets/people/person-9d2f5f6c9d.webp",
+      "lifespan": "紀元前524ごろ～紀元前459ごろ"
     },
     {
       "name": "スラ",
@@ -2501,7 +2636,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "軍を率いてローマを占領し、独裁官として政敵を粛清し、元老院中心の政治制度を再編しました。",
         "whyImportant": "将軍が私兵化した軍で政権を奪う先例をつくり、共和政崩壊への流れを決定的に強めたためです。"
       },
-      "image": "assets/people/person-0894103d82.webp"
+      "image": "assets/people/person-0894103d82.webp",
+      "lifespan": "紀元前138～紀元前78"
     },
     {
       "name": "ゾロアスター",
@@ -2518,7 +2654,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "アフラ・マズダーへの信仰と、善悪の間で人が自ら正しい行いを選ぶ責任を説きました。",
         "whyImportant": "古代イランの宗教を形づくり、善悪・審判・復活をめぐる後世の宗教思想にも影響したためです。"
       },
-      "image": "assets/people/person-0d919524fb.webp"
+      "image": "assets/people/person-0d919524fb.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "アタナシウス",
@@ -2537,7 +2674,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "キリスト教の三位一体教義と、正統・異端を定める教会の枠組みの形成に影響したためです。"
       },
       "image": "assets/people/person-8a96ecd37a.webp",
-      "imageAlt": "アタナシウスの画像"
+      "imageAlt": "アタナシウスの画像",
+      "lifespan": "296ごろ～373"
     },
     {
       "name": "安禄山",
@@ -2554,7 +2692,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "辺境軍を率いて唐へ反乱を起こし、洛陽と長安を占領して燕の皇帝を名乗りました。",
         "whyImportant": "安史の乱によって唐の人口・財政・中央集権を打撃し、王朝衰退の転換点をつくったためです。"
       },
-      "image": "assets/people/person-1da973da9b.webp"
+      "image": "assets/people/person-1da973da9b.webp",
+      "lifespan": "703～757"
     },
     {
       "name": "ウラジーミル1世",
@@ -2572,7 +2711,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "東方正教会へ改宗し、キエフ・ルーシに洗礼と教会制度を広め、ビザンツ世界との結び付きを強めました。",
         "whyImportant": "ロシア・ウクライナ・ベラルーシへ続く東スラヴ世界の宗教と文化の方向を定めたためです。"
       },
-      "image": "assets/people/person-0d144a0281.webp"
+      "image": "assets/people/person-0d144a0281.webp",
+      "lifespan": "958ごろ～1015"
     },
     {
       "name": "フアン・セバスティアン・エルカーノ",
@@ -2589,7 +2729,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "マゼラン死後にビクトリア号を率い、香辛料諸島から喜望峰を回って史上初の世界一周を完成させました。",
         "whyImportant": "地球を船で一周できることを実証し、大西洋・太平洋・インド洋がつながる世界像を示したためです。"
       },
-      "image": "assets/people/person-3e59131edb.webp"
+      "image": "assets/people/person-3e59131edb.webp",
+      "lifespan": "1476ごろ～1526"
     },
     {
       "name": "ディドロ",
@@ -2607,7 +2748,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "『百科全書』を編集し、科学・技術・産業・思想の知識を集めて、検閲下でも刊行を続けました。",
         "whyImportant": "知識を体系化して広く共有し、権威を理性で批判する啓蒙思想を社会へ広めたためです。"
       },
-      "image": "assets/people/person-55a6d1017e.webp"
+      "image": "assets/people/person-55a6d1017e.webp",
+      "lifespan": "1713～1784"
     },
     {
       "name": "イザムバード・キングダム・ブルネル",
@@ -2625,7 +2767,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "産業革命の土木・造船技術を大型交通網へ結び付け、人と物の移動範囲を世界規模に広げたためです。"
       },
       "image": "assets/people/person-e6f9de6616.webp",
-      "imageAlt": "イザムバード・キングダム・ブルネルの画像"
+      "imageAlt": "イザムバード・キングダム・ブルネルの画像",
+      "lifespan": "1806～1859"
     },
     {
       "name": "メネリク2世",
@@ -2643,7 +2786,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "軍を近代化してアドワの戦いでイタリアを破り、エチオピアの独立を守りながら領土を拡大しました。",
         "whyImportant": "アフリカ分割期に欧州軍を破って独立を守り、反植民地主義の象徴となったためです。"
       },
-      "image": "assets/people/person-4353807e5f.webp"
+      "image": "assets/people/person-4353807e5f.webp",
+      "lifespan": "1844～1913"
     },
     {
       "name": "フランシスコ・フランコ",
@@ -2662,7 +2806,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "内戦で共和国政府を倒し、反対派を弾圧する権威主義的独裁を死去まで続けました。",
         "whyImportant": "20世紀ヨーロッパで長期独裁を維持し、その死後の民主化と歴史記憶の問題を残したためです。"
       },
-      "image": "assets/people/person-c77ab10d24.webp"
+      "image": "assets/people/person-c77ab10d24.webp",
+      "lifespan": "1892～1975"
     },
     {
       "name": "リー・クアンユー",
@@ -2682,7 +2827,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "資源の乏しい小国を急成長させた一方、経済発展と政治的自由の両立をめぐる論点を残したためです。"
       },
       "image": "assets/people/person-185b55fcd2.webp",
-      "imageAlt": "リー・クアンユーの画像"
+      "imageAlt": "リー・クアンユーの画像",
+      "lifespan": "1923～2015"
     },
     {
       "name": "メンカウラー",
@@ -2701,7 +2847,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "建築と彫刻によって、古王国の王が神々や地方社会と結び付く仕組みを伝えるためです。"
       },
       "image": "assets/people/person-b366e7633a.webp",
-      "imageAlt": "メンカウラーの画像"
+      "imageAlt": "メンカウラーの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "リムシン",
@@ -2719,7 +2866,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ラルサを拠点にイシンを征服し、運河・神殿・農地を整備して南メソポタミアを広く支配しました。",
         "whyImportant": "ハンムラビによる統一直前の都市国家間競争と、灌漑農業を支える王権の姿を示すためです。"
       },
-      "image": "assets/people/person-724f1ef951.webp"
+      "image": "assets/people/person-724f1ef951.webp",
+      "lifespan": "?～?"
     },
     {
       "name": "ミルティアデス",
@@ -2738,7 +2886,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ペルシャの第一次侵攻を退け、アテネ市民と重装歩兵の政治的自信を高めたためです。"
       },
       "image": "assets/people/person-ede741edb8.webp",
-      "imageAlt": "ミルティアデスの画像"
+      "imageAlt": "ミルティアデスの画像",
+      "lifespan": "紀元前550ごろ～紀元前489"
     },
     {
       "name": "ポンペイウス",
@@ -2758,7 +2907,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマの地中海支配を広げる一方、将軍同士の権力争いで共和政崩壊を加速させたためです。"
       },
       "image": "assets/people/person-ecc998d997.webp",
-      "imageAlt": "ポンペイウスの画像"
+      "imageAlt": "ポンペイウスの画像",
+      "lifespan": "紀元前106～紀元前48"
     },
     {
       "name": "チャンドラグプタ",
@@ -2777,7 +2927,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "インド最初の大規模な統一帝国を築き、アショーカ王による広域支配の土台をつくったためです。"
       },
       "image": "assets/people/person-60e45e3ac2.webp",
-      "imageAlt": "チャンドラグプタの画像"
+      "imageAlt": "チャンドラグプタの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "アリウス",
@@ -2796,7 +2947,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "キリスト教が正統教義と異端を定め、三位一体の考えを形成するきっかけとなったためです。"
       },
       "image": "assets/people/person-e75a7651c8.webp",
-      "imageAlt": "アリウスの画像"
+      "imageAlt": "アリウスの画像",
+      "lifespan": "256ごろ～336"
     },
     {
       "name": "杜甫",
@@ -2814,7 +2966,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "唐代社会の現実を詩で伝え、中国文学における社会詩と律詩の最高峰を築いたためです。"
       },
       "image": "assets/people/person-c468737f5e.webp",
-      "imageAlt": "杜甫の画像"
+      "imageAlt": "杜甫の画像",
+      "lifespan": "712～770"
     },
     {
       "name": "ヤロスラフ賢公",
@@ -2833,7 +2986,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "キエフ・ルーシの法・宗教・文化・外交を発展させ、国家の最盛期を築いたためです。"
       },
       "image": "assets/people/person-728b094372.webp",
-      "imageAlt": "ヤロスラフ賢公の画像"
+      "imageAlt": "ヤロスラフ賢公の画像",
+      "lifespan": "978ごろ～1054"
     },
     {
       "name": "アメリゴ・ヴェスプッチ",
@@ -2851,7 +3005,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新大陸を独立した大陸として認識する動きを促し、「アメリカ」という地名の由来となったためです。"
       },
       "image": "assets/people/person-8d1e003d26.webp",
-      "imageAlt": "アメリゴ・ヴェスプッチの画像"
+      "imageAlt": "アメリゴ・ヴェスプッチの画像",
+      "lifespan": "1454～1512"
     },
     {
       "name": "メアリ・ウルストンクラフト",
@@ -2871,7 +3026,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "男女の理性的平等を主張し、近代の女性解放運動とフェミニズムの思想的基礎を築いたためです。"
       },
       "image": "assets/people/person-b6d9da0629.webp",
-      "imageAlt": "メアリ・ウルストンクラフトの画像"
+      "imageAlt": "メアリ・ウルストンクラフトの画像",
+      "lifespan": "1759～1797"
     },
     {
       "name": "ロバート・フルトン",
@@ -2889,7 +3045,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "風に頼らない定期水運を実用化し、産業革命期の物流と地域間交流を速めたためです。"
       },
       "image": "assets/people/person-7c916ac45b.webp",
-      "imageAlt": "ロバート・フルトンの画像"
+      "imageAlt": "ロバート・フルトンの画像",
+      "lifespan": "1765～1815"
     },
     {
       "name": "テオドロス2世",
@@ -2908,7 +3065,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "分裂したエチオピアの中央集権化と近代化を試み、後の国家再建の出発点となったためです。"
       },
       "image": "assets/people/person-db50e4e512.webp",
-      "imageAlt": "テオドロス2世の画像"
+      "imageAlt": "テオドロス2世の画像",
+      "lifespan": "1818～1868"
     },
     {
       "name": "シャルル・ド・ゴール",
@@ -2928,7 +3086,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "第二次世界大戦後のフランス再建と、現在まで続く第五共和政の政治制度を築いたためです。"
       },
       "image": "assets/people/person-f4a709fcd6.webp",
-      "imageAlt": "シャルル・ド・ゴールの画像"
+      "imageAlt": "シャルル・ド・ゴールの画像",
+      "lifespan": "1890～1970"
     },
     {
       "name": "ダライ・ラマ14世",
@@ -2948,7 +3107,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "民族・宗教・自治をめぐる問題を国際社会へ伝え、非暴力運動の象徴となったためです。"
       },
       "image": "assets/people/person-144a0ad2f0.webp",
-      "imageAlt": "ダライ・ラマ14世の画像"
+      "imageAlt": "ダライ・ラマ14世の画像",
+      "lifespan": "1935～?"
     },
     {
       "name": "ペピ2世",
@@ -2967,7 +3127,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古王国末期の地方分権と中央政府の衰退を考える中心人物であり、崩壊原因の複雑さを示すためです。"
       },
       "image": "assets/people/person-71387cd266.webp",
-      "imageAlt": "ペピ2世の画像"
+      "imageAlt": "ペピ2世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "シャムシアダド1世",
@@ -2986,7 +3147,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "マリ文書を通して、古代国家の軍事・外交・行政と初期アッシリア支配の実態を知ることができるためです。"
       },
       "image": "assets/people/person-dd2e481457.webp",
-      "imageAlt": "シャムシアダド1世の画像"
+      "imageAlt": "シャムシアダド1世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "アルキビアデス",
@@ -3005,7 +3167,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "民主政下の人気政治家の野心と変節が、アテネの戦争政策と敗北を左右したためです。"
       },
       "image": "assets/people/person-f6ad9aafd6.webp",
-      "imageAlt": "アルキビアデスの画像"
+      "imageAlt": "アルキビアデスの画像",
+      "lifespan": "紀元前450ごろ～紀元前404"
     },
     {
       "name": "クラッスス",
@@ -3025,7 +3188,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "莫大な富と軍事力が共和政政治を動かし、その死がカエサルとポンペイウスの内戦を促したためです。"
       },
       "image": "assets/people/person-5f4fa51d15.webp",
-      "imageAlt": "クラッススの画像"
+      "imageAlt": "クラッススの画像",
+      "lifespan": "紀元前115ごろ～紀元前53"
     },
     {
       "name": "カウティリヤ",
@@ -3044,7 +3208,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古代インドの政治思想と行政制度を詳しく伝え、国家運営を現実的に論じた代表的著作を残したためです。"
       },
       "image": "assets/people/person-bfba8d3268.webp",
-      "imageAlt": "カウティリヤの画像"
+      "imageAlt": "カウティリヤの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ベネディクトゥス",
@@ -3062,7 +3227,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "西ヨーロッパの修道院制度を形づくり、学問・農業・写本・救貧を支える共同体を広めたためです。"
       },
       "image": "assets/people/person-fd893ccc0c.webp",
-      "imageAlt": "ベネディクトゥスの画像"
+      "imageAlt": "ベネディクトゥスの画像",
+      "lifespan": "480ごろ～547ごろ"
     },
     {
       "name": "李白",
@@ -3080,7 +3246,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "自由で壮大な詩風を完成させ、中国と東アジアの文学表現に長く影響したためです。"
       },
       "image": "assets/people/person-10331154cc.webp",
-      "imageAlt": "李白の画像"
+      "imageAlt": "李白の画像",
+      "lifespan": "701～762"
     },
     {
       "name": "ウィリアム1世",
@@ -3099,7 +3266,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ノルマン征服によってイングランドの王権・貴族・言語・土地制度を大きく変えたためです。"
       },
       "image": "assets/people/person-2f3074da59.webp",
-      "imageAlt": "ウィリアム1世の画像"
+      "imageAlt": "ウィリアム1世の画像",
+      "lifespan": "1028ごろ～1087"
     },
     {
       "name": "ジョン・カボット",
@@ -3117,7 +3285,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イングランドによる北アメリカ進出と、後の植民地領有主張の出発点となったためです。"
       },
       "image": "assets/people/person-13c548e36d.webp",
-      "imageAlt": "ジョン・カボットの画像"
+      "imageAlt": "ジョン・カボットの画像",
+      "lifespan": "1450ごろ～1498ごろ"
     },
     {
       "name": "アダム・スミス",
@@ -3135,7 +3304,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "市場経済を体系的に分析し、近代経済学と自由主義的経済政策の基礎を築いたためです。"
       },
       "image": "assets/people/person-632d4656c3.webp",
-      "imageAlt": "アダム・スミスの画像"
+      "imageAlt": "アダム・スミスの画像",
+      "lifespan": "1723～1790"
     },
     {
       "name": "アレッサンドロ・ボルタ",
@@ -3153,7 +3323,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "安定した電流源をつくり、電気化学・電磁気学・電池技術の発展を可能にしたためです。"
       },
       "image": "assets/people/person-fadfe26fcd.webp",
-      "imageAlt": "アレッサンドロ・ボルタの画像"
+      "imageAlt": "アレッサンドロ・ボルタの画像",
+      "lifespan": "1745～1827"
     },
     {
       "name": "サモリ・トゥーレ",
@@ -3172,7 +3343,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカ分割に対する大規模な武力抵抗を指導し、植民地征服の過程を示すためです。"
       },
       "image": "assets/people/person-06bdb26b39.webp",
-      "imageAlt": "サモリ・トゥーレの画像"
+      "imageAlt": "サモリ・トゥーレの画像",
+      "lifespan": "1830ごろ～1900"
     },
     {
       "name": "フィリップ・ペタン",
@@ -3192,7 +3364,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "占領下の協力政治と、国家指導者が人権侵害へ加担する責任を考える中心人物だからです。"
       },
       "image": "assets/people/person-110c05dd70.webp",
-      "imageAlt": "フィリップ・ペタンの画像"
+      "imageAlt": "フィリップ・ペタンの画像",
+      "lifespan": "1856～1951"
     },
     {
       "name": "デズモンド・ツツ",
@@ -3211,7 +3384,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "差別撤廃と、独裁後の社会で真相究明・赦し・責任を結ぶ和解の方法を示したためです。"
       },
       "image": "assets/people/person-3a9c424ead.webp",
-      "imageAlt": "デズモンド・ツツの画像"
+      "imageAlt": "デズモンド・ツツの画像",
+      "lifespan": "1931～2021"
     },
     {
       "name": "メントゥホテプ2世",
@@ -3230,7 +3404,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "第一中間期の分裂を終わらせ、中王国という新しい安定と繁栄の時代を開いたためです。"
       },
       "image": "assets/people/person-2bba3388e0.webp",
-      "imageAlt": "メントゥホテプ2世の画像"
+      "imageAlt": "メントゥホテプ2世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ジムリリム",
@@ -3249,7 +3424,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "マリ文書を通して、古代オリエントの外交・行政・交易・宮廷生活を具体的に知ることができるためです。"
       },
       "image": "assets/people/person-9392e4eca4.webp",
-      "imageAlt": "ジムリリムの画像"
+      "imageAlt": "ジムリリムの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ソクラテス",
@@ -3269,7 +3445,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "答えを教えるより問いを深める哲学的方法を示し、西洋哲学と倫理思想の出発点となったためです。"
       },
       "image": "assets/people/person-4e6d38825c.webp",
-      "imageAlt": "ソクラテスの画像"
+      "imageAlt": "ソクラテスの画像",
+      "lifespan": "紀元前470ごろ～紀元前399"
     },
     {
       "name": "キケロ",
@@ -3288,7 +3465,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "共和政理念と自然法思想を後世へ伝え、ヨーロッパの政治思想・法・ラテン文学へ影響したためです。"
       },
       "image": "assets/people/person-0ee4733742.webp",
-      "imageAlt": "キケロの画像"
+      "imageAlt": "キケロの画像",
+      "lifespan": "紀元前106～紀元前43"
     },
     {
       "name": "カニシカ王",
@@ -3307,7 +3485,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "東西交易を結ぶ多民族帝国を築き、大乗仏教と仏像文化の広がりを支えたためです。"
       },
       "image": "assets/people/person-9bc6eb495f.webp",
-      "imageAlt": "カニシカ王の画像"
+      "imageAlt": "カニシカ王の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "グレゴリウス1世",
@@ -3325,7 +3504,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマ教皇の宗教的・社会的・政治的役割を強め、中世西ヨーロッパ教会の形を整えたためです。"
       },
       "image": "assets/people/person-0f47b6e160.webp",
-      "imageAlt": "グレゴリウス1世の画像"
+      "imageAlt": "グレゴリウス1世の画像",
+      "lifespan": "540ごろ～604"
     },
     {
       "name": "白居易",
@@ -3343,7 +3523,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "文学で政治と民衆生活を結び、中国と日本の詩文・物語文学へ長く影響したためです。"
       },
       "image": "assets/people/person-97745cc5b2.webp",
-      "imageAlt": "白居易の画像"
+      "imageAlt": "白居易の画像",
+      "lifespan": "772～846"
     },
     {
       "name": "エレノア・オブ・アキテーヌ",
@@ -3361,7 +3542,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中世ヨーロッパで女性領主が広大な領地と王家の婚姻を通じて国際政治を動かしたためです。"
       },
       "image": "assets/people/person-467fb1f1dd.webp",
-      "imageAlt": "エレノア・オブ・アキテーヌの画像"
+      "imageAlt": "エレノア・オブ・アキテーヌの画像",
+      "lifespan": "1122ごろ～1204"
     },
     {
       "name": "ジャック・カルティエ",
@@ -3379,7 +3561,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "後のカナダ植民地形成へつながる航路と地域情報をフランスへもたらしたためです。"
       },
       "image": "assets/people/person-0a7750b30b.webp",
-      "imageAlt": "ジャック・カルティエの画像"
+      "imageAlt": "ジャック・カルティエの画像",
+      "lifespan": "1491～1557"
     },
     {
       "name": "トマス・ペイン",
@@ -3397,7 +3580,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "革命思想を知識人だけでなく一般市民へ広げ、アメリカ独立と近代民主主義を後押ししたためです。"
       },
       "image": "assets/people/person-cf92a1d76a.webp",
-      "imageAlt": "トマス・ペインの画像"
+      "imageAlt": "トマス・ペインの画像",
+      "lifespan": "1737～1809"
     },
     {
       "name": "マイケル・ファラデー",
@@ -3415,7 +3599,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "電気を連続的に生み出して利用する原理を明らかにし、電力社会の成立を可能にしたためです。"
       },
       "image": "assets/people/person-2b988d0d7b.webp",
-      "imageAlt": "マイケル・ファラデーの画像"
+      "imageAlt": "マイケル・ファラデーの画像",
+      "lifespan": "1791～1867"
     },
     {
       "name": "ムハンマド・アフマド",
@@ -3434,7 +3619,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教運動と反植民地抵抗を結び付け、アフリカで欧州支配へ大きな打撃を与えたためです。"
       },
       "image": "assets/people/person-643753188b.webp",
-      "imageAlt": "ムハンマド・アフマドの画像"
+      "imageAlt": "ムハンマド・アフマドの画像",
+      "lifespan": "1844～1885"
     },
     {
       "name": "ヨシップ・ブロズ・チトー",
@@ -3454,7 +3640,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "冷戦下で米ソどちらにも従わない路線を示し、多民族国家統合の成功と限界を残したためです。"
       },
       "image": "assets/people/person-534caeb458.webp",
-      "imageAlt": "ヨシップ・ブロズ・チトーの画像"
+      "imageAlt": "ヨシップ・ブロズ・チトーの画像",
+      "lifespan": "1892～1980"
     },
     {
       "name": "パトリス・ルムンバ",
@@ -3474,7 +3661,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカ独立が旧宗主国の利害と冷戦介入によって妨げられた過程を象徴するためです。"
       },
       "image": "assets/people/person-e7e80e4d08.webp",
-      "imageAlt": "パトリス・ルムンバの画像"
+      "imageAlt": "パトリス・ルムンバの画像",
+      "lifespan": "1925～1961"
     },
     {
       "name": "アメンエムハト1世",
@@ -3493,7 +3681,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中王国エジプトの安定した官僚国家と王位継承制度の基礎を築いたためです。"
       },
       "image": "assets/people/person-7ebbc36049.webp",
-      "imageAlt": "アメンエムハト1世の画像"
+      "imageAlt": "アメンエムハト1世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ティグラトピレセル1世",
@@ -3512,7 +3701,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "後の新アッシリア帝国へつながる軍事遠征・貢納・王権宣伝の型を示したためです。"
       },
       "image": "assets/people/person-1ea4d9c270.webp",
-      "imageAlt": "ティグラトピレセル1世の画像"
+      "imageAlt": "ティグラトピレセル1世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "プラトン",
@@ -3532,7 +3722,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "哲学を体系的な学問へ発展させ、西洋の形而上学・倫理・政治思想の基礎を築いたためです。"
       },
       "image": "assets/people/person-9f131c1d44.webp",
-      "imageAlt": "プラトンの画像"
+      "imageAlt": "プラトンの画像",
+      "lifespan": "紀元前427ごろ～紀元前347"
     },
     {
       "name": "ブルートゥス",
@@ -3551,7 +3742,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "独裁への抵抗が共和政回復ではなく新たな内戦と帝政成立へつながった矛盾を示すためです。"
       },
       "image": "assets/people/person-82b0cb9417.webp",
-      "imageAlt": "ブルートゥスの画像"
+      "imageAlt": "ブルートゥスの画像",
+      "lifespan": "紀元前85ごろ～紀元前42"
     },
     {
       "name": "チャンドラグプタ2世",
@@ -3570,7 +3762,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古典インド文化とサンスクリット文学・科学・美術が発展した時代を代表するためです。"
       },
       "image": "assets/people/person-c22cd8b635.webp",
-      "imageAlt": "チャンドラグプタ2世の画像"
+      "imageAlt": "チャンドラグプタ2世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "キュリロス",
@@ -3589,7 +3782,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "スラヴ諸民族のキリスト教化と文字・文学の発達を促し、東欧文化の基礎を築いたためです。"
       },
       "image": "assets/people/person-eb75bd0e4d.webp",
-      "imageAlt": "キュリロスの画像"
+      "imageAlt": "キュリロスの画像",
+      "lifespan": "826ごろ～869"
     },
     {
       "name": "韓愈",
@@ -3607,7 +3801,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "唐宋の散文と儒教復興を結び付け、後の宋学・科挙文体・東アジア漢文へ影響したためです。"
       },
       "image": "assets/people/person-e00f0d5a5a.webp",
-      "imageAlt": "韓愈の画像"
+      "imageAlt": "韓愈の画像",
+      "lifespan": "768～824"
     },
     {
       "name": "リチャード1世",
@@ -3625,7 +3820,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "十字軍時代の騎士王を象徴する一方、遠征費と長期不在が王国へ与えた負担も示すためです。"
       },
       "image": "assets/people/person-2ef0566623.webp",
-      "imageAlt": "リチャード1世の画像"
+      "imageAlt": "リチャード1世の画像",
+      "lifespan": "1157～1199"
     },
     {
       "name": "フランシス・ドレーク",
@@ -3643,7 +3839,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イングランドの海洋進出を進める一方、私掠・植民地略奪・奴隷貿易の暴力を示すためです。"
       },
       "image": "assets/people/person-2ad64ec7f9.webp",
-      "imageAlt": "フランシス・ドレークの画像"
+      "imageAlt": "フランシス・ドレークの画像",
+      "lifespan": "1540ごろ～1596"
     },
     {
       "name": "ベンジャミン・フランクリン",
@@ -3661,7 +3858,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "科学・市民活動・外交を結び、アメリカ独立と近代的な公共社会の形成に貢献したためです。"
       },
       "image": "assets/people/person-7f04eb839b.webp",
-      "imageAlt": "ベンジャミン・フランクリンの画像"
+      "imageAlt": "ベンジャミン・フランクリンの画像",
+      "lifespan": "1706～1790"
     },
     {
       "name": "チャールズ・バベッジ",
@@ -3679,7 +3877,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "現代コンピューターに通じる基本構成とプログラム制御の考えを早くから示したためです。"
       },
       "image": "assets/people/person-4358cf3b38.webp",
-      "imageAlt": "チャールズ・バベッジの画像"
+      "imageAlt": "チャールズ・バベッジの画像",
+      "lifespan": "1791～1871"
     },
     {
       "name": "ジャマールッディーン・アフガーニー",
@@ -3698,7 +3897,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "西欧支配へ対抗しながらイスラム社会を近代化する思想を広め、民族運動と改革思想の源流となったためです。"
       },
       "image": "assets/people/person-b309fce24a.webp",
-      "imageAlt": "ジャマールッディーン・アフガーニーの画像"
+      "imageAlt": "ジャマールッディーン・アフガーニーの画像",
+      "lifespan": "1838ごろ～1897"
     },
     {
       "name": "ハリー・トルーマン",
@@ -3718,7 +3918,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "第二次世界大戦の終結と冷戦秩序の形成を主導し、核兵器時代の政治的責任を残したためです。"
       },
       "image": "assets/people/person-b5ea16b9f6.webp",
-      "imageAlt": "ハリー・トルーマンの画像"
+      "imageAlt": "ハリー・トルーマンの画像",
+      "lifespan": "1884～1972"
     },
     {
       "name": "ジュリウス・ニエレレ",
@@ -3738,7 +3939,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカ独立後の国家統合と自立的発展を模索し、その理想と経済的限界を示したためです。"
       },
       "image": "assets/people/person-e54e9c2266.webp",
-      "imageAlt": "ジュリウス・ニエレレの画像"
+      "imageAlt": "ジュリウス・ニエレレの画像",
+      "lifespan": "1922～1999"
     },
     {
       "name": "センウセレト3世",
@@ -3757,7 +3959,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中王国エジプトの領土・交易・行政を安定させ、強い王権を完成へ導いたためです。"
       },
       "image": "assets/people/person-6f7c0ec1f3.webp",
-      "imageAlt": "センウセレト3世の画像"
+      "imageAlt": "センウセレト3世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "アッシュルナツィルパル2世",
@@ -3776,7 +3979,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新アッシリア帝国の軍事支配・恐怖政治・宮殿美術による権力表現を確立したためです。"
       },
       "image": "assets/people/person-c3eae4eafa.webp",
-      "imageAlt": "アッシュルナツィルパル2世の画像"
+      "imageAlt": "アッシュルナツィルパル2世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "アリストテレス",
@@ -3797,7 +4001,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "多くの学問分野の基礎概念と研究方法を整え、古代から中世の知識体系を形づくったためです。"
       },
       "image": "assets/people/person-69ee112116.webp",
-      "imageAlt": "アリストテレスの画像"
+      "imageAlt": "アリストテレスの画像",
+      "lifespan": "紀元前384～紀元前322"
     },
     {
       "name": "アウグストゥス",
@@ -3816,7 +4021,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマの政治を共和政から帝政へ転換し、約二百年続く地中海世界の安定の基礎を築いたためです。"
       },
       "image": "assets/people/person-fa1becdf28.webp",
-      "imageAlt": "アウグストゥスの画像"
+      "imageAlt": "アウグストゥスの画像",
+      "lifespan": "紀元前63～14"
     },
     {
       "name": "コンスタンティヌス帝",
@@ -3839,7 +4045,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマ帝国とキリスト教の関係を大きく変え、ヨーロッパの宗教・政治・都市の歴史に長く影響したためです。"
       },
       "image": "assets/people/person-8efd9d5df5.webp",
-      "imageAlt": "コンスタンティヌス帝の画像"
+      "imageAlt": "コンスタンティヌス帝の画像",
+      "lifespan": "272ごろ～337"
     },
     {
       "name": "カーリダーサ",
@@ -3857,7 +4064,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古典インド文学の表現を最高水準へ高め、インドと世界の演劇・詩へ長く影響したためです。"
       },
       "image": "assets/people/person-7823662b3a.webp",
-      "imageAlt": "カーリダーサの画像"
+      "imageAlt": "カーリダーサの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "メトディオス",
@@ -3876,7 +4084,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "スラヴ語によるキリスト教文化を定着させ、東欧の文字・文学・教会制度の発展を支えたためです。"
       },
       "image": "assets/people/person-b40b93d232.webp",
-      "imageAlt": "メトディオスの画像"
+      "imageAlt": "メトディオスの画像",
+      "lifespan": "815ごろ～885"
     },
     {
       "name": "柳宗元",
@@ -3894,7 +4103,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "政治的挫折と地方経験を新しい散文表現へ変え、中国の紀行文・寓話・論説文を発展させたためです。"
       },
       "image": "assets/people/person-1c4d5725fe.webp",
-      "imageAlt": "柳宗元の画像"
+      "imageAlt": "柳宗元の画像",
+      "lifespan": "773～819"
     },
     {
       "name": "ジョン王",
@@ -3913,7 +4123,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王権も法の制約を受けるという原則につながる文書を成立させ、立憲政治の象徴となったためです。"
       },
       "image": "assets/people/person-be42dd692c.webp",
-      "imageAlt": "ジョン王の画像"
+      "imageAlt": "ジョン王の画像",
+      "lifespan": "1166～1216"
     },
     {
       "name": "ウォルター・ローリー",
@@ -3931,7 +4142,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "後のイギリス北米植民地建設の先駆けとなり、探検・宮廷政治・植民地主義の結び付きを示すためです。"
       },
       "image": "assets/people/person-aff3615f9f.webp",
-      "imageAlt": "ウォルター・ローリーの画像"
+      "imageAlt": "ウォルター・ローリーの画像",
+      "lifespan": "1552ごろ～1618"
     },
     {
       "name": "トマス・ジェファーソン",
@@ -3950,7 +4162,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "近代的な自由・平等の理念を示す一方、自ら奴隷を所有したアメリカ建国の矛盾を体現するためです。"
       },
       "image": "assets/people/person-a38e1e2af3.webp",
-      "imageAlt": "トマス・ジェファーソンの画像"
+      "imageAlt": "トマス・ジェファーソンの画像",
+      "lifespan": "1743～1826"
     },
     {
       "name": "エイダ・ラブレス",
@@ -3968,7 +4181,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "コンピューターを単なる計算器ではなく、手順に従って多様な情報を処理する機械として捉えたためです。"
       },
       "image": "assets/people/person-87cf8f01a8.webp",
-      "imageAlt": "エイダ・ラブレスの画像"
+      "imageAlt": "エイダ・ラブレスの画像",
+      "lifespan": "1815～1852"
     },
     {
       "name": "ムハンマド・アブドゥフ",
@@ -3987,7 +4201,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イスラム信仰と近代科学・教育・法改革を両立させる近代イスラム改革思想を形づくったためです。"
       },
       "image": "assets/people/person-8d5aaf0810.webp",
-      "imageAlt": "ムハンマド・アブドゥフの画像"
+      "imageAlt": "ムハンマド・アブドゥフの画像",
+      "lifespan": "1849～1905"
     },
     {
       "name": "ドワイト・アイゼンハワー",
@@ -4007,7 +4222,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "第二次世界大戦の勝利と冷戦期の米国戦略を担い、軍産複合体の危険も警告したためです。"
       },
       "image": "assets/people/person-0d77053913.webp",
-      "imageAlt": "ドワイト・アイゼンハワーの画像"
+      "imageAlt": "ドワイト・アイゼンハワーの画像",
+      "lifespan": "1890～1969"
     },
     {
       "name": "トーマス・サンカラ",
@@ -4027,7 +4243,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカの自立と社会改革を急速に進め、反帝国主義と清廉な統治の象徴となったためです。"
       },
       "image": "assets/people/person-606de7d4d2.webp",
-      "imageAlt": "トーマス・サンカラの画像"
+      "imageAlt": "トーマス・サンカラの画像",
+      "lifespan": "1949～1987"
     },
     {
       "name": "ハトシェプスト",
@@ -4046,7 +4263,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王権が男性に限られた社会で長期統治を実現し、新王国の交易・建築・王権表現を発展させたためです。"
       },
       "image": "assets/people/person-c2b318a3aa.webp",
-      "imageAlt": "ハトシェプストの画像"
+      "imageAlt": "ハトシェプストの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "シャルマネセル3世",
@@ -4065,7 +4283,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "遠征記録と黒色オベリスクによって、アッシリア帝国の軍事・外交・貢納支配を具体的に伝えるためです。"
       },
       "image": "assets/people/person-b4c0e8c892.webp",
-      "imageAlt": "シャルマネセル3世の画像"
+      "imageAlt": "シャルマネセル3世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ピタゴラス",
@@ -4084,7 +4303,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "数学を実用計算だけでなく、自然と宇宙を理解する原理として考える伝統を広めたためです。"
       },
       "image": "assets/people/person-71f920164b.webp",
-      "imageAlt": "ピタゴラスの画像"
+      "imageAlt": "ピタゴラスの画像",
+      "lifespan": "紀元前570ごろ～紀元前495ごろ"
     },
     {
       "name": "リウィア",
@@ -4103,7 +4323,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "公式の役職を持たない皇帝家の女性が、婚姻と家族関係を通じて政治力を持った例だからです。"
       },
       "image": "assets/people/person-ed179a7e57.webp",
-      "imageAlt": "リウィアの画像"
+      "imageAlt": "リウィアの画像",
+      "lifespan": "紀元前58～29"
     },
     {
       "name": "パーニニ",
@@ -4121,7 +4342,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "世界最古級の精密な文法体系を築き、インドの聖典伝承・言語学・論理的分析へ影響したためです。"
       },
       "image": "assets/people/person-e7bd6b387b.webp",
-      "imageAlt": "パーニニの画像"
+      "imageAlt": "パーニニの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ナーガールジュナ",
@@ -4140,7 +4362,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "大乗仏教の中観思想を体系化し、東アジアとチベットの仏教哲学の基礎を築いたためです。"
       },
       "image": "assets/people/person-df73badf15.webp",
-      "imageAlt": "ナーガールジュナの画像"
+      "imageAlt": "ナーガールジュナの画像",
+      "lifespan": "150ごろ～250ごろ"
     },
     {
       "name": "王安石",
@@ -4159,7 +4382,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "国家が金融・流通・社会保障へ介入する大規模改革を行い、中国政治史の代表的論争を生んだためです。"
       },
       "image": "assets/people/person-5a0f7044b8.webp",
-      "imageAlt": "王安石の画像"
+      "imageAlt": "王安石の画像",
+      "lifespan": "1021～1086"
     },
     {
       "name": "サラディン",
@@ -4178,7 +4402,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イスラム勢力を再統合して十字軍国家へ反撃し、宗教戦争下の統治と外交の象徴となったためです。"
       },
       "image": "assets/people/person-fdca958aaf.webp",
-      "imageAlt": "サラディンの画像"
+      "imageAlt": "サラディンの画像",
+      "lifespan": "1137ごろ～1193"
     },
     {
       "name": "アベル・タスマン",
@@ -4196,7 +4421,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "南太平洋の地理認識を広げ、後のオーストラリア・ニュージーランド探検の基礎をつくったためです。"
       },
       "image": "assets/people/person-1cc2e1acb2.webp",
-      "imageAlt": "アベル・タスマンの画像"
+      "imageAlt": "アベル・タスマンの画像",
+      "lifespan": "1603～1659"
     },
     {
       "name": "ジョン・アダムズ",
@@ -4215,7 +4441,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "独立国家の外交と大統領制を形づくる一方、国家安全と表現の自由の対立を残したためです。"
       },
       "image": "assets/people/person-a15bda296f.webp",
-      "imageAlt": "ジョン・アダムズの画像"
+      "imageAlt": "ジョン・アダムズの画像",
+      "lifespan": "1735～1826"
     },
     {
       "name": "ルイ・パスツール",
@@ -4234,7 +4461,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "微生物学と予防医学の基礎を築き、食品衛生・感染症対策・ワクチン研究を大きく進めたためです。"
       },
       "image": "assets/people/person-5a8e297376.webp",
-      "imageAlt": "ルイ・パスツールの画像"
+      "imageAlt": "ルイ・パスツールの画像",
+      "lifespan": "1822～1895"
     },
     {
       "name": "サイイド・アフマド・ハーン",
@@ -4253,7 +4481,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "インドのムスリム教育改革を進め、近代化と宗教共同体の政治意識の形成へ影響したためです。"
       },
       "image": "assets/people/person-7e57baa118.webp",
-      "imageAlt": "サイイド・アフマド・ハーンの画像"
+      "imageAlt": "サイイド・アフマド・ハーンの画像",
+      "lifespan": "1817～1898"
     },
     {
       "name": "ダグラス・マッカーサー",
@@ -4271,7 +4500,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "戦後日本の制度改革に大きく関わり、軍人も文民政府に従う原則を示す事件の中心となったためです。"
       },
       "image": "assets/people/person-7215bb0731.webp",
-      "imageAlt": "ダグラス・マッカーサーの画像"
+      "imageAlt": "ダグラス・マッカーサーの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "エレン・ジョンソン・サーリーフ",
@@ -4291,7 +4521,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカ初の選挙による女性国家元首として、内戦後復興と女性の政治参加を象徴したためです。"
       },
       "image": "assets/people/person-d76f4801e9.webp",
-      "imageAlt": "エレン・ジョンソン・サーリーフの画像"
+      "imageAlt": "エレン・ジョンソン・サーリーフの画像",
+      "lifespan": "1938～?"
     },
     {
       "name": "トトメス3世",
@@ -4310,7 +4541,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "エジプトを広域帝国へ成長させ、遠征記録から新王国の軍事・外交・貢納支配を知ることができるためです。"
       },
       "image": "assets/people/person-6279b7538a.webp",
-      "imageAlt": "トトメス3世の画像"
+      "imageAlt": "トトメス3世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "サルゴン2世",
@@ -4329,7 +4561,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新アッシリア帝国の領土拡大と住民移住政策、巨大宮殿による王権表現を代表するためです。"
       },
       "image": "assets/people/person-fe80e980ec.webp",
-      "imageAlt": "サルゴン2世の画像"
+      "imageAlt": "サルゴン2世の画像",
+      "lifespan": "?～紀元前705"
     },
     {
       "name": "ヘロドトス",
@@ -4347,7 +4580,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "出来事の原因を調査し、異文化を比較して記録する歴史叙述の基礎をつくったためです。"
       },
       "image": "assets/people/person-53e377756e.webp",
-      "imageAlt": "ヘロドトスの画像"
+      "imageAlt": "ヘロドトスの画像",
+      "lifespan": "紀元前484ごろ～紀元前425ごろ"
     },
     {
       "name": "ティベリウス",
@@ -4366,7 +4600,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アウグストゥス後の帝政継承を定着させる一方、皇帝と元老院の緊張を深めたためです。"
       },
       "image": "assets/people/person-6a7d9d902d.webp",
-      "imageAlt": "ティベリウスの画像"
+      "imageAlt": "ティベリウスの画像",
+      "lifespan": "紀元前42～37"
     },
     {
       "name": "荘子",
@@ -4385,7 +4620,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "道家思想を豊かな文学表現へ発展させ、中国の哲学・詩文・絵画・人生観へ影響したためです。"
       },
       "image": "assets/people/person-906371073c.webp",
-      "imageAlt": "荘子の画像"
+      "imageAlt": "荘子の画像",
+      "lifespan": "紀元前369ごろ～紀元前286ごろ"
     },
     {
       "name": "アサンガ",
@@ -4404,7 +4640,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "大乗仏教の心と認識の理論を体系化し、中国・日本・チベットの仏教思想へ影響したためです。"
       },
       "image": "assets/people/person-0090ac93db.webp",
-      "imageAlt": "アサンガの画像"
+      "imageAlt": "アサンガの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "司馬光",
@@ -4423,7 +4660,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "歴史を政治の教訓として体系化し、東アジアの歴史叙述と統治思想へ長く影響したためです。"
       },
       "image": "assets/people/person-846b68113b.webp",
-      "imageAlt": "司馬光の画像"
+      "imageAlt": "司馬光の画像",
+      "lifespan": "1019～1086"
     },
     {
       "name": "リチャード・ド・ベリー",
@@ -4441,7 +4679,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "印刷以前の中世社会で、書物と図書館が知識を保存し教育へ伝える価値を明確に説いたためです。"
       },
       "image": "assets/people/person-22dedfd93d.webp",
-      "imageAlt": "リチャード・ド・ベリーの画像"
+      "imageAlt": "リチャード・ド・ベリーの画像",
+      "lifespan": "1287～1345"
     },
     {
       "name": "ジェームズ・クック",
@@ -4459,7 +4698,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "太平洋地図と長距離航海を発展させる一方、その成果が先住民の土地の植民地化へ利用されたためです。"
       },
       "image": "assets/people/person-80df1afa33.webp",
-      "imageAlt": "ジェームズ・クックの画像"
+      "imageAlt": "ジェームズ・クックの画像",
+      "lifespan": "1728～1779"
     },
     {
       "name": "アビゲイル・アダムズ",
@@ -4479,7 +4719,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "公的政治から女性が排除された時代に、その権利要求と生活経験を具体的な書簡として残したためです。"
       },
       "image": "assets/people/person-a9d2a04956.webp",
-      "imageAlt": "アビゲイル・アダムズの画像"
+      "imageAlt": "アビゲイル・アダムズの画像",
+      "lifespan": "1744～1818"
     },
     {
       "name": "エドワード・ジェンナー",
@@ -4498,7 +4739,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人類初の本格的なワクチンを実用化し、感染症を予防し最終的に根絶する道を開いたためです。"
       },
       "image": "assets/people/person-187e9cbe5e.webp",
-      "imageAlt": "エドワード・ジェンナーの画像"
+      "imageAlt": "エドワード・ジェンナーの画像",
+      "lifespan": "1749～1823"
     },
     {
       "name": "ラーマクリシュナ",
@@ -4517,7 +4759,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教間の共通性を強調し、近代ヒンドゥー教の改革と世界的な宗教対話へ影響したためです。"
       },
       "image": "assets/people/person-b9fe782cb4.webp",
-      "imageAlt": "ラーマクリシュナの画像"
+      "imageAlt": "ラーマクリシュナの画像",
+      "lifespan": "1836～1886"
     },
     {
       "name": "ジョージ・マーシャル",
@@ -4535,7 +4778,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "連合国の戦争遂行と戦後欧州復興を支え、冷戦初期の西側秩序を安定させたためです。"
       },
       "image": "assets/people/person-19bc08aafd.webp",
-      "imageAlt": "ジョージ・マーシャルの画像"
+      "imageAlt": "ジョージ・マーシャルの画像",
+      "lifespan": "1880～1959"
     },
     {
       "name": "ルース・ベイダー・ギンズバーグ",
@@ -4554,7 +4798,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "性別に基づく法的差別を段階的に崩し、司法による平等と少数意見の役割を示したためです。"
       },
       "image": "assets/people/person-99609838d7.webp",
-      "imageAlt": "ルース・ベイダー・ギンズバーグの画像"
+      "imageAlt": "ルース・ベイダー・ギンズバーグの画像",
+      "lifespan": "1933～2020"
     },
     {
       "name": "アメンホテプ3世",
@@ -4573,7 +4818,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新王国エジプトの国際外交・富・建築・王妃の地位が最盛期に達した時代を代表するためです。"
       },
       "image": "assets/people/person-3402a471f3.webp",
-      "imageAlt": "アメンホテプ3世の画像"
+      "imageAlt": "アメンホテプ3世の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "トゥキディデス",
@@ -4591,7 +4837,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "神話ではなく人間の行動と政治構造から戦争原因を分析する批判的歴史学の基礎を示したためです。"
       },
       "image": "assets/people/person-66b848de50.webp",
-      "imageAlt": "トゥキディデスの画像"
+      "imageAlt": "トゥキディデスの画像",
+      "lifespan": "紀元前460ごろ～紀元前400ごろ"
     },
     {
       "name": "老子",
@@ -4610,7 +4857,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "道家思想の基礎をつくり、中国の政治観・自然観・宗教・文学・芸術へ長く影響したためです。"
       },
       "image": "assets/people/person-99a3a0b6f0.webp",
-      "imageAlt": "老子の画像"
+      "imageAlt": "老子の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "エルナン・コルテス",
@@ -4628,7 +4876,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "スペインのアメリカ大陸支配を決定的に進める一方、先住民社会へ大規模な破壊をもたらしたためです。"
       },
       "image": "assets/people/person-0abcdd8016.webp",
-      "imageAlt": "エルナン・コルテスの画像"
+      "imageAlt": "エルナン・コルテスの画像",
+      "lifespan": "1485～1547"
     },
     {
       "name": "ローザ・パークス",
@@ -4646,7 +4895,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "日常生活の差別へ抵抗し、公民権運動を全国的な非暴力運動へ発展させる象徴となったためです。"
       },
       "image": "assets/people/person-6fc044a210.webp",
-      "imageAlt": "ローザ・パークスの画像"
+      "imageAlt": "ローザ・パークスの画像",
+      "lifespan": "1913～2005"
     },
     {
       "name": "アクエンアテン",
@@ -4665,7 +4915,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古代エジプトで王権主導の大規模宗教改革を行い、宗教・美術・政治の関係を大きく変えたためです。"
       },
       "image": "assets/people/person-5282fde232.webp",
-      "imageAlt": "アクエンアテンの画像"
+      "imageAlt": "アクエンアテンの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ヒポクラテス",
@@ -4683,7 +4934,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "病気を超自然的説明から切り離し、観察と倫理に基づく西洋医学の伝統を築いたためです。"
       },
       "image": "assets/people/person-fcd6694e3d.webp",
-      "imageAlt": "ヒポクラテスの画像"
+      "imageAlt": "ヒポクラテスの画像",
+      "lifespan": "紀元前460ごろ～紀元前370ごろ"
     },
     {
       "name": "ネロ",
@@ -4702,7 +4954,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "皇帝独裁の不安定さと、後世の暴君像が史実・宣伝・伝承から形成される過程を示すためです。"
       },
       "image": "assets/people/person-b5cbace420.webp",
-      "imageAlt": "ネロの画像"
+      "imageAlt": "ネロの画像",
+      "lifespan": "37～68"
     },
     {
       "name": "孟子",
@@ -4722,7 +4975,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "儒教を人間観と政治論の両面で発展させ、東アジアの道徳・教育・統治思想へ影響したためです。"
       },
       "image": "assets/people/person-e106018db8.webp",
-      "imageAlt": "孟子の画像"
+      "imageAlt": "孟子の画像",
+      "lifespan": "紀元前372ごろ～紀元前289ごろ"
     },
     {
       "name": "フランシスコ・ピサロ",
@@ -4740,7 +4994,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "スペインの南米支配を確立する一方、インカ社会へ略奪・強制労働・人口減少をもたらしたためです。"
       },
       "image": "assets/people/person-1f806de4af.webp",
-      "imageAlt": "フランシスコ・ピサロの画像"
+      "imageAlt": "フランシスコ・ピサロの画像",
+      "lifespan": "1478ごろ～1541"
     },
     {
       "name": "ロベスピエール",
@@ -4759,7 +5014,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "革命を守る非常措置が権利侵害と政治的暴力へ転じる危険を示す中心人物だからです。"
       },
       "image": "assets/people/person-5fd87cbb63.webp",
-      "imageAlt": "ロベスピエールの画像"
+      "imageAlt": "ロベスピエールの画像",
+      "lifespan": "1758～1794"
     },
     {
       "name": "カール・マルクス",
@@ -4779,7 +5035,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "資本主義批判と社会主義思想を体系化し、世界の労働運動・革命・政治体制へ大きく影響したためです。"
       },
       "image": "assets/people/person-b83304a316.webp",
-      "imageAlt": "カール・マルクスの画像"
+      "imageAlt": "カール・マルクスの画像",
+      "lifespan": "1818～1883"
     },
     {
       "name": "マルコムX",
@@ -4798,7 +5055,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "公民権運動に急進的な視点を加え、黒人解放・自己決定・国際的人権の議論を広げたためです。"
       },
       "image": "assets/people/person-99c89b30cf.webp",
-      "imageAlt": "マルコムXの画像"
+      "imageAlt": "マルコムXの画像",
+      "lifespan": "1925～1965"
     },
     {
       "name": "ネフェルティティ",
@@ -4816,7 +5074,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アマルナ時代の女性王権・宗教改革・美術を示す中心人物であり、王妃の政治的地位を考えられるためです。"
       },
       "image": "assets/people/person-84e02673e2.webp",
-      "imageAlt": "ネフェルティティの画像"
+      "imageAlt": "ネフェルティティの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "アッシュルバニパル",
@@ -4835,7 +5094,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新アッシリアの最盛期を支え、古代メソポタミアの文学・科学・宗教文書を後世へ残したためです。"
       },
       "image": "assets/people/person-ed3d36e598.webp",
-      "imageAlt": "アッシュルバニパルの画像"
+      "imageAlt": "アッシュルバニパルの画像",
+      "lifespan": "?～紀元前627ごろ"
     },
     {
       "name": "ユークリッド",
@@ -4853,7 +5113,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "数学を論理的証明の体系として整え、二千年以上にわたり科学と数学教育の基礎となったためです。"
       },
       "image": "assets/people/person-838a2f0c28.webp",
-      "imageAlt": "ユークリッドの画像"
+      "imageAlt": "ユークリッドの画像",
+      "lifespan": "紀元前325ごろ～紀元前265ごろ"
     },
     {
       "name": "荀子",
@@ -4873,7 +5134,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "儒教に教育と制度を重視する現実的な人間観を加え、法家思想の形成にも影響したためです。"
       },
       "image": "assets/people/person-4a209266db.webp",
-      "imageAlt": "荀子の画像"
+      "imageAlt": "荀子の画像",
+      "lifespan": "紀元前313ごろ～紀元前238ごろ"
     },
     {
       "name": "ダントン",
@@ -4892,7 +5154,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "革命を守る暴力に関わった指導者が、その暴力の拡大によって排除される革命政治の矛盾を示すためです。"
       },
       "image": "assets/people/person-c4428b21b4.webp",
-      "imageAlt": "ダントンの画像"
+      "imageAlt": "ダントンの画像",
+      "lifespan": "1759～1794"
     },
     {
       "name": "山本五十六",
@@ -4910,7 +5173,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "対米戦の危険を理解しながら開戦作戦を実行し、日本海軍の初期勝利と戦局転換の双方を担ったためです。"
       },
       "image": "assets/people/person-42eae66dde.webp",
-      "imageAlt": "山本五十六の画像"
+      "imageAlt": "山本五十六の画像",
+      "lifespan": "?～?"
     },
     {
       "name": "ツタンカーメン",
@@ -4929,7 +5193,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ほぼ未盗掘の王墓と膨大な副葬品が発見され、新王国エジプトの葬祭と生活を詳しく伝えるためです。"
       },
       "image": "assets/people/person-0d6bdcc9e3.webp",
-      "imageAlt": "ツタンカーメンの画像"
+      "imageAlt": "ツタンカーメンの画像",
+      "lifespan": "?～?"
     },
     {
       "name": "アルキメデス",
@@ -4947,7 +5212,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "数学的証明を力学・流体・工学へ結び付け、近代科学へ続く数理的な自然研究の模範となったためです。"
       },
       "image": "assets/people/person-490f054f0e.webp",
-      "imageAlt": "アルキメデスの画像"
+      "imageAlt": "アルキメデスの画像",
+      "lifespan": "紀元前287ごろ～紀元前212"
     },
     {
       "name": "韓非",
@@ -4967,7 +5233,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "法家思想を完成させ、秦の中央集権国家と後世の中国統治論へ大きな影響を与えたためです。"
       },
       "image": "assets/people/person-a053e7d49e.webp",
-      "imageAlt": "韓非の画像"
+      "imageAlt": "韓非の画像",
+      "lifespan": "紀元前280ごろ～紀元前233"
     },
     {
       "name": "忽必烈",
@@ -4986,7 +5253,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "モンゴル帝国と中国王朝を結び、ユーラシア交流を活発化させる一方、遠征と支配の負担も残したためです。"
       },
       "image": "assets/people/person-148ecd3c87.webp",
-      "imageAlt": "忽必烈の画像"
+      "imageAlt": "忽必烈の画像",
+      "lifespan": "1215～1294"
     },
     {
       "name": "アベラール",
@@ -5005,7 +5273,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "信仰内容を理性と論理で研究するスコラ学を発展させ、中世大学の討論教育へ影響したためです。"
       },
       "image": "assets/people/person-309ec64c9d.webp",
-      "imageAlt": "アベラールの画像"
+      "imageAlt": "アベラールの画像",
+      "lifespan": "1079～1142"
     },
     {
       "name": "ホセ・リサール",
@@ -5024,7 +5293,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "言論による改革運動と処刑がフィリピン人の民族意識を高め、独立革命の象徴となったためです。"
       },
       "image": "assets/people/person-4f62e94133.webp",
-      "imageAlt": "ホセ・リサールの画像"
+      "imageAlt": "ホセ・リサールの画像",
+      "lifespan": "1861～1896"
     },
     {
       "name": "東条英機",
@@ -5044,7 +5314,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "日本の対米英開戦と侵略戦争を最高指導部で進め、戦争指導責任を裁かれた中心人物だからです。"
       },
       "image": "assets/people/person-6a7901b7d1.webp",
-      "imageAlt": "東条英機の画像"
+      "imageAlt": "東条英機の画像",
+      "lifespan": "?～?"
     }
   ],
   "peopleByName": {
@@ -5065,7 +5336,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古代社会の法律、身分、家族、商業の仕組みを具体的に知ることができる代表的な法典を残したためです。"
       },
       "image": "assets/people/person-bd338fe558.webp",
-      "imageAlt": "ハンムラビの画像"
+      "imageAlt": "ハンムラビの画像",
+      "lifespan": "紀元前1810ごろ～紀元前1750ごろ"
     },
     "クフ王": {
       "name": "クフ王",
@@ -5083,7 +5355,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "大ピラミッドが、古代エジプトの王権、宗教観、測量・建築技術を示す世界的遺産となったためです。"
       },
       "image": "assets/people/person-5119f42d3b.webp",
-      "imageAlt": "クフ王の画像"
+      "imageAlt": "クフ王の画像",
+      "lifespan": "?～?"
     },
     "孔子": {
       "name": "孔子",
@@ -5103,7 +5376,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "孔子の教えから儒教が発達し、中国・朝鮮・日本の政治、教育、道徳の基本となったためです。"
       },
       "image": "assets/people/person-3c08d403ad.webp",
-      "imageAlt": "孔子の画像"
+      "imageAlt": "孔子の画像",
+      "lifespan": "紀元前551～紀元前479"
     },
     "始皇帝": {
       "name": "始皇帝",
@@ -5122,7 +5396,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中国を一つの皇帝国家として治める制度と標準を整え、後の歴代王朝の統治モデルを築いたためです。"
       },
       "image": "assets/people/person-6ce46faf8f.webp",
-      "imageAlt": "始皇帝の画像"
+      "imageAlt": "始皇帝の画像",
+      "lifespan": "紀元前259～紀元前210"
     },
     "アレクサンドロス大王": {
       "name": "アレクサンドロス大王",
@@ -5140,7 +5415,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "征服地で東西の文化が交流し、地中海から西アジアに広がるヘレニズム世界が成立したためです。"
       },
       "image": "assets/people/person-6f8c27de1c.webp",
-      "imageAlt": "アレクサンドロス大王の画像"
+      "imageAlt": "アレクサンドロス大王の画像",
+      "lifespan": "紀元前356～紀元前323"
     },
     "アショーカ王": {
       "name": "アショーカ王",
@@ -5159,7 +5435,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王の政治に生命尊重と宗教的寛容を取り入れ、仏教がインド内外へ広がる契機をつくったためです。"
       },
       "image": "assets/people/person-3b5126d5ca.webp",
-      "imageAlt": "アショーカ王の画像"
+      "imageAlt": "アショーカ王の画像",
+      "lifespan": "?～?"
     },
     "イエス": {
       "name": "イエス",
@@ -5177,7 +5454,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "死後、弟子たちが教えと復活への信仰を広め、世界宗教の一つであるキリスト教が成立したためです。"
       },
       "image": "assets/people/person-83bd092dca.webp",
-      "imageAlt": "イエスの画像"
+      "imageAlt": "イエスの画像",
+      "lifespan": "紀元前4ごろ～30ごろ"
     },
     "ムハンマド": {
       "name": "ムハンマド",
@@ -5195,7 +5473,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "『コーラン』に基づくイスラム教と共同体の基礎を築き、その後の西アジア世界を大きく形づくったためです。"
       },
       "image": "assets/people/person-920c89b7aa.webp",
-      "imageAlt": "ムハンマドの画像"
+      "imageAlt": "ムハンマドの画像",
+      "lifespan": "570ごろ～632"
     },
     "玄奘": {
       "name": "玄奘",
@@ -5215,7 +5494,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中国仏教の理解を深め、『大唐西域記』によって7世紀の中央アジアとインドの姿も伝えたためです。"
       },
       "image": "assets/people/person-077a351fc3.webp",
-      "imageAlt": "玄奘の画像"
+      "imageAlt": "玄奘の画像",
+      "lifespan": "602～664"
     },
     "クローヴィス": {
       "name": "クローヴィス",
@@ -5234,7 +5514,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "フランク王国とカトリック教会の協力関係を築き、中世西ヨーロッパの政治秩序の出発点となったためです。"
       },
       "image": "assets/people/person-547e05b8b9.webp",
-      "imageAlt": "クローヴィスの画像"
+      "imageAlt": "クローヴィスの画像",
+      "lifespan": "466ごろ～511"
     },
     "カール大帝": {
       "name": "カール大帝",
@@ -5253,7 +5534,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王権・ローマ教会・古典文化を結びつけ、中世西ヨーロッパの政治と文化の基礎を築いたためです。"
       },
       "image": "assets/people/person-5ba86ccd42.webp",
-      "imageAlt": "カール大帝の画像"
+      "imageAlt": "カール大帝の画像",
+      "lifespan": "742ごろ～814"
     },
     "オットー1世": {
       "name": "オットー1世",
@@ -5271,7 +5553,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ドイツ王とローマ皇帝を結びつけ、神聖ローマ帝国へ続く中世ヨーロッパの政治秩序を築いたためです。"
       },
       "image": "assets/people/person-516f25fdf3.webp",
-      "imageAlt": "オットー1世の画像"
+      "imageAlt": "オットー1世の画像",
+      "lifespan": "912～973"
     },
     "フリードリヒ・バルバロッサ": {
       "name": "フリードリヒ・バルバロッサ",
@@ -5289,7 +5572,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "皇帝・教皇・自治都市が競い合った中世ヨーロッパの複雑な権力関係を示す代表的な皇帝だからです。"
       },
       "image": "assets/people/person-dfb6ed9cfb.webp",
-      "imageAlt": "フリードリヒ・バルバロッサの画像"
+      "imageAlt": "フリードリヒ・バルバロッサの画像",
+      "lifespan": "1122～1190"
     },
     "エドワード1世": {
       "name": "エドワード1世",
@@ -5308,7 +5592,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王の課税に各身分の代表が関わる議会の形を整え、後のイギリス議会政治の発達につながったためです。"
       },
       "image": "assets/people/person-2108b78bda.webp",
-      "imageAlt": "エドワード1世の画像"
+      "imageAlt": "エドワード1世の画像",
+      "lifespan": "1239～1307"
     },
     "ヘンリー5世": {
       "name": "ヘンリー5世",
@@ -5326,7 +5611,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イングランドが百年戦争で最も優位に立った時期を築き、その後のフランス側の反撃を招いたためです。"
       },
       "image": "assets/people/person-9e2923c493.webp",
-      "imageAlt": "ヘンリー5世の画像"
+      "imageAlt": "ヘンリー5世の画像",
+      "lifespan": "1386～1422"
     },
     "ジャンヌ・ダルク": {
       "name": "ジャンヌ・ダルク",
@@ -5344,7 +5630,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "百年戦争で劣勢だったフランスの士気と王権を立て直し、国民的結束の象徴となったためです。"
       },
       "image": "assets/people/person-9f857af814.webp",
-      "imageAlt": "ジャンヌ・ダルクの画像"
+      "imageAlt": "ジャンヌ・ダルクの画像",
+      "lifespan": "1412ごろ～1431"
     },
     "ジル・ド・レエ": {
       "name": "ジル・ド・レエ",
@@ -5362,7 +5649,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "英雄的な軍歴と犯罪者としての裁判記録が併存し、中世貴族社会と司法の暗部を示す人物だからです。"
       },
       "imageAlt": "ジル・ド・レエの画像",
-      "image": "assets/people/person-f6d272d91c.webp"
+      "image": "assets/people/person-f6d272d91c.webp",
+      "lifespan": "1405ごろ～1440"
     },
     "マクシミリアン1世": {
       "name": "マクシミリアン1世",
@@ -5380,7 +5668,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "戦争だけでなく婚姻によって領土を拡大するハプスブルク家の国際戦略を確立したためです。"
       },
       "image": "assets/people/person-6686946bab.webp",
-      "imageAlt": "マクシミリアン1世の画像"
+      "imageAlt": "マクシミリアン1世の画像",
+      "lifespan": "1459～1519"
     },
     "カール5世": {
       "name": "カール5世",
@@ -5398,7 +5687,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ヨーロッパとアメリカにまたがるハプスブルク帝国を治め、16世紀国際政治の中心となったためです。"
       },
       "image": "assets/people/person-32c3a12328.webp",
-      "imageAlt": "カール5世の画像"
+      "imageAlt": "カール5世の画像",
+      "lifespan": "1500～1558"
     },
     "ヘンリー8世": {
       "name": "ヘンリー8世",
@@ -5417,7 +5707,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教と政治の中心を教皇から国王へ移し、イングランド宗教改革と近代国家形成を進めたためです。"
       },
       "image": "assets/people/person-f58f3d2792.webp",
-      "imageAlt": "ヘンリー8世の画像"
+      "imageAlt": "ヘンリー8世の画像",
+      "lifespan": "1491～1547"
     },
     "アンリ4世": {
       "name": "アンリ4世",
@@ -5436,7 +5727,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教内戦を収めてフランスの統一と復興を進め、ブルボン朝による王権強化の基礎を築いたためです。"
       },
       "image": "assets/people/person-1ac2f10bef.webp",
-      "imageAlt": "アンリ4世の画像"
+      "imageAlt": "アンリ4世の画像",
+      "lifespan": "1553～1610"
     },
     "ルイ14世": {
       "name": "ルイ14世",
@@ -5454,7 +5746,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "フランス絶対王政の最盛期を築く一方、戦争と宗教迫害で後の財政危機も深めたためです。"
       },
       "image": "assets/people/person-4305b9c03d.webp",
-      "imageAlt": "ルイ14世の画像"
+      "imageAlt": "ルイ14世の画像",
+      "lifespan": "1638～1715"
     },
     "チャールズ1世": {
       "name": "チャールズ1世",
@@ -5473,7 +5766,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "国王も法と議会に制約されることを示し、イギリス立憲政治の発展につながったためです。"
       },
       "image": "assets/people/person-d3cc59b102.webp",
-      "imageAlt": "チャールズ1世の画像"
+      "imageAlt": "チャールズ1世の画像",
+      "lifespan": "1600～1649"
     },
     "ルイ16世": {
       "name": "ルイ16世",
@@ -5491,7 +5785,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "絶対王政の崩壊と国民主権への転換を象徴し、フランス革命の進展に大きく関わったためです。"
       },
       "image": "assets/people/person-4fd5b57d17.webp",
-      "imageAlt": "ルイ16世の画像"
+      "imageAlt": "ルイ16世の画像",
+      "lifespan": "1754～1793"
     },
     "マリー・アントワネット": {
       "name": "マリー・アントワネット",
@@ -5509,7 +5804,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "旧体制の特権と浪費の象徴として革命宣伝に利用され、王政崩壊の過程を示す人物となったためです。"
       },
       "image": "assets/people/person-11e8ea1d8a.webp",
-      "imageAlt": "マリー・アントワネットの画像"
+      "imageAlt": "マリー・アントワネットの画像",
+      "lifespan": "1755～1793"
     },
     "マンサ・ムーサ": {
       "name": "マンサ・ムーサ",
@@ -5528,7 +5824,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "サハラ交易で栄えた西アフリカの富と学問を地中海・イスラム世界へ広く知らせたためです。"
       },
       "image": "assets/people/person-827fa9b9b3.webp",
-      "imageAlt": "マンサ・ムーサの画像"
+      "imageAlt": "マンサ・ムーサの画像",
+      "lifespan": "?～1337ごろ"
     },
     "チンギス・ハン": {
       "name": "チンギス・ハン",
@@ -5547,7 +5844,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "征服の大被害を伴いながらも、ユーラシアを一つの広域支配圏へ結ぶモンゴル帝国の基礎を築いたためです。"
       },
       "image": "assets/people/person-94822eef6a.webp",
-      "imageAlt": "チンギス・ハンの画像"
+      "imageAlt": "チンギス・ハンの画像",
+      "lifespan": "1162ごろ～1227"
     },
     "イブン・バットゥータ": {
       "name": "イブン・バットゥータ",
@@ -5567,7 +5865,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "14世紀のイスラム世界とインド洋交易圏の広さ、多様な社会と人々の交流を具体的に伝えたためです。"
       },
       "image": "assets/people/person-ad4f3ff7e7.webp",
-      "imageAlt": "イブン・バットゥータの画像"
+      "imageAlt": "イブン・バットゥータの画像",
+      "lifespan": "1304～1368ごろ"
     },
     "鄭和": {
       "name": "鄭和",
@@ -5585,7 +5884,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ヨーロッパの大航海に先立ち、中国とインド洋沿岸諸国を結ぶ大規模な海上交流を実現したためです。"
       },
       "image": "assets/people/person-be824ba0ed.webp",
-      "imageAlt": "鄭和の画像"
+      "imageAlt": "鄭和の画像",
+      "lifespan": "1371～1433ごろ"
     },
     "クリストファー・コロンブス": {
       "name": "クリストファー・コロンブス",
@@ -5603,7 +5903,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "旧大陸とアメリカ大陸の恒常的接触を始め、世界規模の交流と植民地支配の時代を開いたためです。"
       },
       "image": "assets/people/person-ad25b28545.webp",
-      "imageAlt": "クリストファー・コロンブスの画像"
+      "imageAlt": "クリストファー・コロンブスの画像",
+      "lifespan": "1451～1506"
     },
     "バルトロメ・デ・ラス・カサス": {
       "name": "バルトロメ・デ・ラス・カサス",
@@ -5621,7 +5922,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ヨーロッパの征服を内部から批判し、植民地支配と先住民の権利をめぐる議論を早くから起こしたためです。"
       },
       "image": "assets/people/person-96f97c1af2.webp",
-      "imageAlt": "バルトロメ・デ・ラス・カサスの画像"
+      "imageAlt": "バルトロメ・デ・ラス・カサスの画像",
+      "lifespan": "1484～1566"
     },
     "ジョージ・ワシントン": {
       "name": "ジョージ・ワシントン",
@@ -5640,7 +5942,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アメリカ独立と共和政国家の出発を導き、大統領制の実際の運用に先例を残したためです。"
       },
       "image": "assets/people/person-b128c0aae5.webp",
-      "imageAlt": "ジョージ・ワシントンの画像"
+      "imageAlt": "ジョージ・ワシントンの画像",
+      "lifespan": "1732～1799"
     },
     "ナポレオン": {
       "name": "ナポレオン",
@@ -5659,7 +5962,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "革命の法と制度を欧州へ広げる一方、征服戦争が民族主義と国際秩序の再編を促したためです。"
       },
       "image": "assets/people/person-aecb5fefb9.webp",
-      "imageAlt": "ナポレオンの画像"
+      "imageAlt": "ナポレオンの画像",
+      "lifespan": "1769～1821"
     },
     "シモン・ボリバル": {
       "name": "シモン・ボリバル",
@@ -5677,7 +5981,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ラテンアメリカ諸国の独立を実現した中心人物で、現在も「解放者」として国家形成の象徴だからです。"
       },
       "image": "assets/people/person-04de7d8241.webp",
-      "imageAlt": "シモン・ボリバルの画像"
+      "imageAlt": "シモン・ボリバルの画像",
+      "lifespan": "1783～1830"
     },
     "ジェームズ・ワット": {
       "name": "ジェームズ・ワット",
@@ -5696,7 +6001,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "蒸気機関を多くの工場で使える実用的な動力にし、産業革命の機械化を大きく進めたためです。"
       },
       "image": "assets/people/person-8e2dc5e8cf.webp",
-      "imageAlt": "ジェームズ・ワットの画像"
+      "imageAlt": "ジェームズ・ワットの画像",
+      "lifespan": "1736～1819"
     },
     "フローレンス・ナイチンゲール": {
       "name": "フローレンス・ナイチンゲール",
@@ -5716,7 +6022,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "近代看護の教育制度と専門性を確立し、統計を政策改善に用いる公衆衛生の発展にも貢献したためです。"
       },
       "image": "assets/people/person-2dab609327.webp",
-      "imageAlt": "フローレンス・ナイチンゲールの画像"
+      "imageAlt": "フローレンス・ナイチンゲールの画像",
+      "lifespan": "1820～1910"
     },
     "チャールズ・ダーウィン": {
       "name": "チャールズ・ダーウィン",
@@ -5734,7 +6041,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "生物の多様性を自然の仕組みで説明し、現代生物学の基本となる進化論を確立したためです。"
       },
       "image": "assets/people/person-50808aa356.webp",
-      "imageAlt": "チャールズ・ダーウィンの画像"
+      "imageAlt": "チャールズ・ダーウィンの画像",
+      "lifespan": "1809～1882"
     },
     "マハトマ・ガンディー": {
       "name": "マハトマ・ガンディー",
@@ -5752,7 +6060,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "武力に頼らない抵抗で植民地支配へ対抗し、世界各地の公民権運動や人権運動に影響したためです。"
       },
       "image": "assets/people/person-ee0e1c6ce3.webp",
-      "imageAlt": "マハトマ・ガンディーの画像"
+      "imageAlt": "マハトマ・ガンディーの画像",
+      "lifespan": "1869～1948"
     },
     "孫文": {
       "name": "孫文",
@@ -5770,7 +6079,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "皇帝政治から共和政へ移る中国革命の理念と組織を築き、近代中国の国家構想に影響したためです。"
       },
       "image": "assets/people/person-5afa942243.webp",
-      "imageAlt": "孫文の画像"
+      "imageAlt": "孫文の画像",
+      "lifespan": "1866～1925"
     },
     "アルベルト・アインシュタイン": {
       "name": "アルベルト・アインシュタイン",
@@ -5789,7 +6099,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "現代物理学の理論的基礎を築き、宇宙研究、原子力、精密測定など広い分野に影響したためです。"
       },
       "image": "assets/people/person-48f6387587.webp",
-      "imageAlt": "アルベルト・アインシュタインの画像"
+      "imageAlt": "アルベルト・アインシュタインの画像",
+      "lifespan": "1879～1955"
     },
     "ネルソン・マンデラ": {
       "name": "ネルソン・マンデラ",
@@ -5809,7 +6120,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人種隔離体制を終わらせ、内戦を避けながら民主的な南アフリカへ移行する中心的役割を果たしたためです。"
       },
       "image": "assets/people/person-1e015e3361.webp",
-      "imageAlt": "ネルソン・マンデラの画像"
+      "imageAlt": "ネルソン・マンデラの画像",
+      "lifespan": "1918～2013"
     },
     "マーティン・ルーサー・キング・ジュニア": {
       "name": "マーティン・ルーサー・キング・ジュニア",
@@ -5828,7 +6140,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "法制度として残っていた人種差別を撤廃する運動を全国化し、世界の人権運動へ影響したためです。"
       },
       "image": "assets/people/person-191db0da82.webp",
-      "imageAlt": "マーティン・ルーサー・キング・ジュニアの画像"
+      "imageAlt": "マーティン・ルーサー・キング・ジュニアの画像",
+      "lifespan": "1929～1968"
     },
     "ワンガリ・マータイ": {
       "name": "ワンガリ・マータイ",
@@ -5847,7 +6160,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "環境問題を女性の権利・貧困・民主主義・平和と結びつけ、持続可能な開発の実践を示したためです。"
       },
       "image": "assets/people/person-57040e1942.webp",
-      "imageAlt": "ワンガリ・マータイの画像"
+      "imageAlt": "ワンガリ・マータイの画像",
+      "lifespan": "1940～2011"
     },
     "マララ・ユスフザイ": {
       "name": "マララ・ユスフザイ",
@@ -5865,7 +6179,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "女子が学ぶ権利への弾圧を世界へ知らせ、教育を基本的人権として守る国際運動を強めたためです。"
       },
       "image": "assets/people/person-7ca7f530e8.webp",
-      "imageAlt": "マララ・ユスフザイの画像"
+      "imageAlt": "マララ・ユスフザイの画像",
+      "lifespan": "1997～?"
     },
     "釈迦": {
       "name": "釈迦",
@@ -5883,7 +6198,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "仏教の出発点となる教えを示し、アジアの宗教、思想、芸術、社会に長く影響したためです。"
       },
       "image": "assets/people/person-5efae04b1c.webp",
-      "imageAlt": "釈迦の画像"
+      "imageAlt": "釈迦の画像",
+      "lifespan": "?～?"
     },
     "ハンニバル": {
       "name": "ハンニバル",
@@ -5901,7 +6217,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "強大なローマを滅亡寸前まで追い込み、包囲戦術の代表例を残した古代屈指の将軍だからです。"
       },
       "image": "assets/people/person-f420e3f10a.webp",
-      "imageAlt": "ハンニバルの画像"
+      "imageAlt": "ハンニバルの画像",
+      "lifespan": "紀元前247～紀元前183ごろ"
     },
     "カエサル": {
       "name": "カエサル",
@@ -5921,7 +6238,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "共和政の政治均衡を崩し、ローマが皇帝による支配へ移る決定的な転換を引き起こしたためです。"
       },
       "image": "assets/people/person-de50729232.webp",
-      "imageAlt": "カエサルの画像"
+      "imageAlt": "カエサルの画像",
+      "lifespan": "紀元前100～紀元前44"
     },
     "クレオパトラ": {
       "name": "クレオパトラ",
@@ -5939,7 +6257,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ヘレニズム王国エジプトの終焉と、ローマが地中海世界を統一する過程を象徴する女王だからです。"
       },
       "image": "assets/people/person-c35825710f.webp",
-      "imageAlt": "クレオパトラの画像"
+      "imageAlt": "クレオパトラの画像",
+      "lifespan": "紀元前69～紀元前30"
     },
     "グーテンベルク": {
       "name": "グーテンベルク",
@@ -5957,7 +6276,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "同じ情報を速く正確に大量配布できるようにし、宗教改革、科学、教育、出版文化を発展させたためです。"
       },
       "image": "assets/people/person-521067b1b1.webp",
-      "imageAlt": "グーテンベルクの画像"
+      "imageAlt": "グーテンベルクの画像",
+      "lifespan": "1400ごろ～1468"
     },
     "レオナルド・ダ・ヴィンチ": {
       "name": "レオナルド・ダ・ヴィンチ",
@@ -5976,7 +6296,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "芸術と科学を分けず、観察と実験的発想によって人間と自然を探究したルネサンスの象徴だからです。"
       },
       "image": "assets/people/person-ad6e558560.webp",
-      "imageAlt": "レオナルド・ダ・ヴィンチの画像"
+      "imageAlt": "レオナルド・ダ・ヴィンチの画像",
+      "lifespan": "1452～1519"
     },
     "ミケランジェロ": {
       "name": "ミケランジェロ",
@@ -5994,7 +6315,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人体と感情を壮大に表した作品が、西洋美術の表現と芸術家の地位を大きく高めたためです。"
       },
       "image": "assets/people/person-1141366ba2.webp",
-      "imageAlt": "ミケランジェロの画像"
+      "imageAlt": "ミケランジェロの画像",
+      "lifespan": "1475～1564"
     },
     "ラファエロ": {
       "name": "ラファエロ",
@@ -6012,7 +6334,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古典文化とキリスト教文化を結ぶ構成が、ルネサンス美術の理想的な形として受け継がれたためです。"
       },
       "image": "assets/people/person-0011a7b938.webp",
-      "imageAlt": "ラファエロの画像"
+      "imageAlt": "ラファエロの画像",
+      "lifespan": "1483～1520"
     },
     "マルティン・ルター": {
       "name": "マルティン・ルター",
@@ -6030,7 +6353,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "カトリック教会の権威を揺るがし、プロテスタント諸派の成立と近代ヨーロッパの形成を促したためです。"
       },
       "image": "assets/people/person-b1751a213c.webp",
-      "imageAlt": "マルティン・ルターの画像"
+      "imageAlt": "マルティン・ルターの画像",
+      "lifespan": "1483～1546"
     },
     "カルヴァン": {
       "name": "カルヴァン",
@@ -6048,7 +6372,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "カルヴァン派が各国へ広がり、宗教対立だけでなく市民社会や政治の形成にも影響したためです。"
       },
       "image": "assets/people/person-575516c8d8.webp",
-      "imageAlt": "カルヴァンの画像"
+      "imageAlt": "カルヴァンの画像",
+      "lifespan": "1509～1564"
     },
     "コペルニクス": {
       "name": "コペルニクス",
@@ -6067,7 +6392,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宇宙の中心を地球とする従来の常識を問い直し、観測と計算にもとづく近代天文学を開いたためです。"
       },
       "image": "assets/people/person-e08a16a58c.webp",
-      "imageAlt": "コペルニクスの画像"
+      "imageAlt": "コペルニクスの画像",
+      "lifespan": "1473～1543"
     },
     "ガリレオ・ガリレイ": {
       "name": "ガリレオ・ガリレイ",
@@ -6085,7 +6411,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "権威ある学説より観測と実験を重視する姿勢を示し、近代科学の研究方法を形づくったためです。"
       },
       "image": "assets/people/person-ee0d81f4a1.webp",
-      "imageAlt": "ガリレオ・ガリレイの画像"
+      "imageAlt": "ガリレオ・ガリレイの画像",
+      "lifespan": "1564～1642"
     },
     "ニュートン": {
       "name": "ニュートン",
@@ -6103,7 +6430,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "自然現象を数式で予測する近代物理学の体系を築き、科学と技術の発展の土台を作ったためです。"
       },
       "image": "assets/people/person-4ae32d11c2.webp",
-      "imageAlt": "ニュートンの画像"
+      "imageAlt": "ニュートンの画像",
+      "lifespan": "1643～1727"
     },
     "デカルト": {
       "name": "デカルト",
@@ -6122,7 +6450,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "伝統や権威ではなく、自分の理性から確実な知識を築く近代的な思考法を示したためです。"
       },
       "image": "assets/people/person-638347cdb2.webp",
-      "imageAlt": "デカルトの画像"
+      "imageAlt": "デカルトの画像",
+      "lifespan": "1596～1650"
     },
     "スピノザ": {
       "name": "スピノザ",
@@ -6140,7 +6469,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教的権威から独立して考える自由と寛容を説き、近代の民主的思想へ道を開いたためです。"
       },
       "image": "assets/people/person-e66d9b1378.webp",
-      "imageAlt": "スピノザの画像"
+      "imageAlt": "スピノザの画像",
+      "lifespan": "1632～1677"
     },
     "ライプニッツ": {
       "name": "ライプニッツ",
@@ -6159,7 +6489,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "記号によって計算と思考を扱う発想が、近代数学だけでなくコンピューター科学にもつながったためです。"
       },
       "image": "assets/people/person-161894fd4d.webp",
-      "imageAlt": "ライプニッツの画像"
+      "imageAlt": "ライプニッツの画像",
+      "lifespan": "1646～1716"
     },
     "カント": {
       "name": "カント",
@@ -6178,7 +6509,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "知識・道徳・自由を理性から考え直し、その後の哲学や政治思想の出発点となったためです。"
       },
       "image": "assets/people/person-3d930c4d52.webp",
-      "imageAlt": "カントの画像"
+      "imageAlt": "カントの画像",
+      "lifespan": "1724～1804"
     },
     "シラー": {
       "name": "シラー",
@@ -6197,7 +6529,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "文学と美を通して人間の自由を問い、ドイツ古典主義と近代の市民意識を形づくったためです。"
       },
       "image": "assets/people/person-deca27f0a0.webp",
-      "imageAlt": "シラーの画像"
+      "imageAlt": "シラーの画像",
+      "lifespan": "1759～1805"
     },
     "ヘーゲル": {
       "name": "ヘーゲル",
@@ -6216,7 +6549,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "社会の矛盾と変化を歴史の動きとして捉える考えが、後の哲学・政治思想・歴史学に影響したためです。"
       },
       "image": "assets/people/person-23a2f61d69.webp",
-      "imageAlt": "ヘーゲルの画像"
+      "imageAlt": "ヘーゲルの画像",
+      "lifespan": "1770～1831"
     },
     "ショーペンハウアー": {
       "name": "ショーペンハウアー",
@@ -6234,7 +6568,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "理性中心の哲学に異議を唱え、人間の欲望・苦悩・無意識を考える後代の思想へ影響したためです。"
       },
       "image": "assets/people/person-54ea3251de.webp",
-      "imageAlt": "ショーペンハウアーの画像"
+      "imageAlt": "ショーペンハウアーの画像",
+      "lifespan": "1788～1860"
     },
     "ニーチェ": {
       "name": "ニーチェ",
@@ -6253,7 +6588,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "近代社会で価値の基準が揺らぐ問題を示し、哲学・文学・心理学に大きな論争を起こしたためです。"
       },
       "image": "assets/people/person-3dcf243a52.webp",
-      "imageAlt": "ニーチェの画像"
+      "imageAlt": "ニーチェの画像",
+      "lifespan": "1844～1900"
     },
     "シェイクスピア": {
       "name": "シェイクスピア",
@@ -6271,7 +6607,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人間心理を深く描いた作品が言語や文化を越えて読まれ、近代演劇と英文学の基準となったためです。"
       },
       "image": "assets/people/person-bc57242847.webp",
-      "imageAlt": "シェイクスピアの画像"
+      "imageAlt": "シェイクスピアの画像",
+      "lifespan": "1564～1616"
     },
     "バッハ": {
       "name": "バッハ",
@@ -6289,7 +6626,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "旋律と和声を組み立てる技法が、西洋音楽の作曲教育と後代の作品の基礎になったためです。"
       },
       "image": "assets/people/person-09dac962cb.webp",
-      "imageAlt": "バッハの画像"
+      "imageAlt": "バッハの画像",
+      "lifespan": "1685～1750"
     },
     "モーツァルト": {
       "name": "モーツァルト",
@@ -6307,7 +6645,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人間の感情と劇を音楽で巧みに表し、古典派の形式を後世の作曲家が学ぶ模範にしたためです。"
       },
       "image": "assets/people/person-a84fa933f1.webp",
-      "imageAlt": "モーツァルトの画像"
+      "imageAlt": "モーツァルトの画像",
+      "lifespan": "1756～1791"
     },
     "ベートーヴェン": {
       "name": "ベートーヴェン",
@@ -6325,7 +6664,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "作曲家を宮廷の職人から自立した芸術家へ近づけ、ロマン派音楽への道を開いたためです。"
       },
       "image": "assets/people/person-4ab47aade7.webp",
-      "imageAlt": "ベートーヴェンの画像"
+      "imageAlt": "ベートーヴェンの画像",
+      "lifespan": "1770～1827"
     },
     "ノーベル": {
       "name": "ノーベル",
@@ -6343,7 +6683,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "発明がもたらす利益と危険の両面を示し、科学・文化・平和への貢献を顕彰する制度を残したためです。"
       },
       "image": "assets/people/person-f14b621d96.webp",
-      "imageAlt": "ノーベルの画像"
+      "imageAlt": "ノーベルの画像",
+      "lifespan": "1833～1896"
     },
     "レントゲン": {
       "name": "レントゲン",
@@ -6361,7 +6702,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "手術をせず体内を画像で確認できるようにし、診断医学と物理学の利用を大きく変えたためです。"
       },
       "image": "assets/people/person-95977db14a.webp",
-      "imageAlt": "レントゲンの画像"
+      "imageAlt": "レントゲンの画像",
+      "lifespan": "1845～1923"
     },
     "アムンゼン": {
       "name": "アムンゼン",
@@ -6379,7 +6721,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "極地の環境に適した技術と計画の重要性を示し、地理的探検の歴史に大きな記録を残したためです。"
       },
       "image": "assets/people/person-f2de242edd.webp",
-      "imageAlt": "アムンゼンの画像"
+      "imageAlt": "アムンゼンの画像",
+      "lifespan": "1872～1928"
     },
     "ペリー": {
       "name": "ペリー",
@@ -6397,7 +6740,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "日本の鎖国体制を揺るがし、幕末の政治対立と明治維新へ向かう変化を引き起こしたためです。"
       },
       "image": "assets/people/person-f3d03b470d.webp",
-      "imageAlt": "ペリーの画像"
+      "imageAlt": "ペリーの画像",
+      "lifespan": "?～?"
     },
     "ジョン・F・ケネディ": {
       "name": "ジョン・F・ケネディ",
@@ -6417,7 +6761,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "冷戦の最危機を交渉で収める一方、宇宙開発と人種差別撤廃を国家課題として示したためです。"
       },
       "image": "assets/people/person-a4b37a4032.webp",
-      "imageAlt": "ジョン・F・ケネディの画像"
+      "imageAlt": "ジョン・F・ケネディの画像",
+      "lifespan": "1917～1963"
     },
     "ゴルバチョフ": {
       "name": "ゴルバチョフ",
@@ -6436,7 +6781,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "大国間対立を緩和して冷戦を終わらせた一方、改革がソ連解体へつながる転機にもなったためです。"
       },
       "image": "assets/people/person-5bdbdabb4c.webp",
-      "imageAlt": "ゴルバチョフの画像"
+      "imageAlt": "ゴルバチョフの画像",
+      "lifespan": "1931～2022"
     },
     "鄧小平": {
       "name": "鄧小平",
@@ -6455,7 +6801,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "社会主義体制を保ちながら市場経済を取り入れ、現在の中国の経済発展の方向を決めたためです。"
       },
       "image": "assets/people/person-92d4a96fa6.webp",
-      "imageAlt": "鄧小平の画像"
+      "imageAlt": "鄧小平の画像",
+      "lifespan": "1904～1997"
     },
     "ナルメル": {
       "name": "ナルメル",
@@ -6474,7 +6821,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "エジプト統一王国とファラオの支配が成立する過程を示す最古級の資料と結び付くためです。"
       },
       "image": "assets/people/person-f462836a0c.webp",
-      "imageAlt": "ナルメルの画像"
+      "imageAlt": "ナルメルの画像",
+      "lifespan": "?～?"
     },
     "サルゴン": {
       "name": "サルゴン",
@@ -6493,7 +6841,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "一つの都市を越えてメソポタミアを広域支配する帝国の先例をつくったためです。"
       },
       "image": "assets/people/person-1679093f0c.webp",
-      "imageAlt": "サルゴンの画像"
+      "imageAlt": "サルゴンの画像",
+      "lifespan": "?～?"
     },
     "ソロン": {
       "name": "ソロン",
@@ -6511,7 +6860,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "債務奴隷を廃止し、財産に応じた政治参加の制度を整えて貴族の独占を弱めました。",
         "whyImportant": "アテネで身分より財産を基準とする政治参加を広げ、民主政への道を開いたためです。"
       },
-      "image": "assets/people/person-0c00fa8a54.webp"
+      "image": "assets/people/person-0c00fa8a54.webp",
+      "lifespan": "紀元前640ごろ～紀元前560ごろ"
     },
     "スキピオ・アフリカヌス": {
       "name": "スキピオ・アフリカヌス",
@@ -6529,7 +6879,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "イベリア半島を攻略してカルタゴの基盤を崩し、ザマの戦いでハンニバルを破りました。",
         "whyImportant": "ローマがカルタゴを退け、西地中海の覇権を握る決定的な勝利をもたらしたためです。"
       },
-      "image": "assets/people/person-cfb119e804.webp"
+      "image": "assets/people/person-cfb119e804.webp",
+      "lifespan": "紀元前236～紀元前183"
     },
     "キュロス2世": {
       "name": "キュロス2世",
@@ -6548,7 +6899,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アケメネス朝の基礎を築き、多民族・多宗教の広大な帝国を統治する先例を示したためです。"
       },
       "image": "assets/people/person-4ceade843b.webp",
-      "imageAlt": "キュロス2世の画像"
+      "imageAlt": "キュロス2世の画像",
+      "lifespan": "紀元前600ごろ～紀元前530"
     },
     "パウロ": {
       "name": "パウロ",
@@ -6566,7 +6918,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "キリスト教をユダヤ社会の外へ広げ、世界宗教へ発展する方向を強く形づくったためです。"
       },
       "image": "assets/people/person-7407a9e24f.webp",
-      "imageAlt": "パウロの画像"
+      "imageAlt": "パウロの画像",
+      "lifespan": "5ごろ～64ごろ"
     },
     "太宗": {
       "name": "太宗",
@@ -6584,7 +6937,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "律令・科挙を整え、臣下の意見を取り入れながら唐の支配を安定させ、領域を広げました。",
         "whyImportant": "唐を東アジアと中央アジアに影響を及ぼす国際帝国へ成長させたためです。"
       },
-      "image": "assets/people/person-64ef03b0e4.webp"
+      "image": "assets/people/person-64ef03b0e4.webp",
+      "lifespan": "598～649"
     },
     "ユスティニアヌス": {
       "name": "ユスティニアヌス",
@@ -6603,7 +6957,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマ法を体系化して後世の法学に残し、東ローマ帝国の文化と皇帝権を象徴したためです。"
       },
       "image": "assets/people/person-eb7674eb9e.webp",
-      "imageAlt": "ユスティニアヌスの画像"
+      "imageAlt": "ユスティニアヌスの画像",
+      "lifespan": "482ごろ～565"
     },
     "エンリケ航海王子": {
       "name": "エンリケ航海王子",
@@ -6621,7 +6976,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "西アフリカ沿岸への航海を資金面で支援し、ポルトガルの大西洋進出を進めました。",
         "whyImportant": "大航海時代の海路開拓を促すと同時に、大西洋奴隷貿易の拡大にも道を開いたためです。"
       },
-      "image": "assets/people/person-17ac22d8f8.webp"
+      "image": "assets/people/person-17ac22d8f8.webp",
+      "lifespan": "1394～1460"
     },
     "ジョン・ロック": {
       "name": "ジョン・ロック",
@@ -6640,7 +6996,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "自然権と社会契約を説き、政府は人民の同意に基づき、権利を守るべきだと論じました。",
         "whyImportant": "近代の自由主義、立憲政治、アメリカ独立の思想的な土台を与えたためです。"
       },
-      "image": "assets/people/person-3f43fd47bb.webp"
+      "image": "assets/people/person-3f43fd47bb.webp",
+      "lifespan": "1632～1704"
     },
     "リチャード・アークライト": {
       "name": "リチャード・アークライト",
@@ -6658,7 +7015,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "水力紡績機を用いた大規模工場を経営し、綿糸を大量生産する工場制度を広めました。",
         "whyImportant": "家庭内手工業から機械制工場へ生産を移し、産業革命の働き方と生産方式を変えたためです。"
       },
-      "image": "assets/people/person-620e13ee9b.webp"
+      "image": "assets/people/person-620e13ee9b.webp",
+      "lifespan": "1732～1792"
     },
     "セシル・ローズ": {
       "name": "セシル・ローズ",
@@ -6676,7 +7034,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "鉱山会社と植民地会社を通じて南部アフリカの資源と土地を支配し、英国領を拡大しました。",
         "whyImportant": "企業・政治・軍事が結び付いた帝国主義と、植民地支配が残した不平等を示すためです。"
       },
-      "image": "assets/people/person-d7452f90ef.webp"
+      "image": "assets/people/person-d7452f90ef.webp",
+      "lifespan": "1853～1902"
     },
     "ウィンストン・チャーチル": {
       "name": "ウィンストン・チャーチル",
@@ -6695,7 +7054,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "第二次世界大戦でイギリスを率い、アメリカ・ソ連との連携によってナチス・ドイツと戦いました。",
         "whyImportant": "対独戦の継続と連合国の協力を支えた一方、帝国主義の限界も示す政治家だからです。"
       },
-      "image": "assets/people/person-ad26ae571c.webp"
+      "image": "assets/people/person-ad26ae571c.webp",
+      "lifespan": "1874～1965"
     },
     "ジャワハルラール・ネルー": {
       "name": "ジャワハルラール・ネルー",
@@ -6714,7 +7074,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "独立運動を率い、初代首相として議会制民主主義・計画経済・非同盟外交を進めました。",
         "whyImportant": "植民地から独立したインドの国家像を形づくり、アジア・アフリカの非同盟運動を導いたためです。"
       },
-      "image": "assets/people/person-d1557caa09.webp"
+      "image": "assets/people/person-d1557caa09.webp",
+      "lifespan": "1889～1964"
     },
     "メネス": {
       "name": "メネス",
@@ -6732,7 +7093,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "後世の記録で上下エジプトを統一し、最初の王朝を開いた王として伝えられました。",
         "whyImportant": "伝承上の建国者であり、ナルメルなどの考古資料と王名表の関係を考える鍵となるためです。"
       },
-      "image": "assets/people/person-019b1d8d30.webp"
+      "image": "assets/people/person-019b1d8d30.webp",
+      "lifespan": "?～?"
     },
     "エンヘドゥアンナ": {
       "name": "エンヘドゥアンナ",
@@ -6750,7 +7112,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ウルの最高祭司として王権と宗教を結び、自らの名を記した女神への賛歌を残しました。",
         "whyImportant": "作者名が知られる最古級の文学者で、古代の女性・宗教・政治を伝えるためです。"
       },
-      "image": "assets/people/person-bae8508d5f.webp"
+      "image": "assets/people/person-bae8508d5f.webp",
+      "lifespan": "?～?"
     },
     "クレイステネス": {
       "name": "クレイステネス",
@@ -6768,7 +7131,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "血縁中心の部族制を地域別の十部族へ改め、五百人評議会など市民参加の制度を整えました。",
         "whyImportant": "アテネ民主政の制度的な土台をつくり、市民が政治に参加する範囲を広げたためです。"
       },
-      "image": "assets/people/person-d5e93608d0.webp"
+      "image": "assets/people/person-d5e93608d0.webp",
+      "lifespan": "?～?"
     },
     "カトー": {
       "name": "カトー",
@@ -6786,7 +7150,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "監察官として風紀を引き締め、著書『農業論』を残し、カルタゴへの強硬策を訴えました。",
         "whyImportant": "共和政ローマの伝統的価値観と、カルタゴを滅ぼして地中海へ拡大する動きを象徴するためです。"
       },
-      "image": "assets/people/person-e6cb8aba55.webp"
+      "image": "assets/people/person-e6cb8aba55.webp",
+      "lifespan": "紀元前234～紀元前149"
     },
     "ダレイオス1世": {
       "name": "ダレイオス1世",
@@ -6804,7 +7169,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "帝国を州に分け、王の道・駅伝制・貨幣・税制を整えて広大な領土を統治しました。",
         "whyImportant": "多民族から成る大帝国を行政と交通で結び、後世の帝国統治の模範を示したためです。"
       },
-      "image": "assets/people/person-91f786f396.webp"
+      "image": "assets/people/person-91f786f396.webp",
+      "lifespan": "紀元前550ごろ～紀元前486"
     },
     "ペテロ": {
       "name": "ペテロ",
@@ -6821,7 +7187,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "イエスの弟子集団を率い、死後の信者共同体を指導して初期教会の形成に関わりました。",
         "whyImportant": "初期キリスト教共同体の中心となり、後のローマ教皇の権威の起源とされたためです。"
       },
-      "image": "assets/people/person-597700fe67.webp"
+      "image": "assets/people/person-597700fe67.webp",
+      "lifespan": "?～64ごろ"
     },
     "則天武后": {
       "name": "則天武后",
@@ -6839,7 +7206,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "皇后・皇太后から実権を握り、周を建てて皇帝となり、科挙官僚と仏教を支配に用いました。",
         "whyImportant": "中国史上唯一の女性皇帝として、唐代の官僚制・宗教・女性の政治権力を示すためです。"
       },
-      "image": "assets/people/person-634820150e.webp"
+      "image": "assets/people/person-634820150e.webp",
+      "lifespan": "624～705"
     },
     "テオドラ": {
       "name": "テオドラ",
@@ -6857,7 +7225,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ニカの反乱で政権を支え、皇帝とともに政治・宗教政策や女性保護の法整備に関わりました。",
         "whyImportant": "東ローマ宮廷で大きな政治権力を持った女性であり、史料の偏見を考える例でもあるためです。"
       },
-      "image": "assets/people/person-7294fab46e.webp"
+      "image": "assets/people/person-7294fab46e.webp",
+      "lifespan": "500ごろ～548"
     },
     "バルトロメウ・ディアス": {
       "name": "バルトロメウ・ディアス",
@@ -6874,7 +7243,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "1488年にアフリカ南端を回ってインド洋へ入り、ヨーロッパからアジアへ向かう海路を示しました。",
         "whyImportant": "喜望峰経由のインド航路を開く決定的な一歩となり、ポルトガルの海上進出を進めたためです。"
       },
-      "image": "assets/people/person-4800aabf28.webp"
+      "image": "assets/people/person-4800aabf28.webp",
+      "lifespan": "1450ごろ～1500"
     },
     "モンテスキュー": {
       "name": "モンテスキュー",
@@ -6892,7 +7262,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "『法の精神』で立法・行政・司法を分け、互いに抑制させる三権分立を説きました。",
         "whyImportant": "権力の集中を防ぐ制度原理を示し、近代の憲法と民主政治の設計に影響したためです。"
       },
-      "image": "assets/people/person-2562164bcc.webp"
+      "image": "assets/people/person-2562164bcc.webp",
+      "lifespan": "1689～1755"
     },
     "ジェームズ・ハーグリーブス": {
       "name": "ジェームズ・ハーグリーブス",
@@ -6909,7 +7280,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "一人で複数の糸を同時に紡げるジェニー紡績機を考案し、綿糸生産を効率化しました。",
         "whyImportant": "紡績の機械化を進め、綿工業を産業革命の中心産業へ成長させる一歩となったためです。"
       },
-      "image": "assets/people/person-94098b32d7.webp"
+      "image": "assets/people/person-94098b32d7.webp",
+      "lifespan": "1720ごろ～1778"
     },
     "デイヴィッド・リヴィングストン": {
       "name": "デイヴィッド・リヴィングストン",
@@ -6926,7 +7298,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "南部・中部アフリカを探検して河川や地形を記録し、奴隷貿易の廃止を訴えました。",
         "whyImportant": "アフリカ内陸の地理を欧州へ伝える一方、その記録が植民地進出にも利用されたためです。"
       },
-      "image": "assets/people/person-90abd8cf8f.webp"
+      "image": "assets/people/person-90abd8cf8f.webp",
+      "lifespan": "1813～1873"
     },
     "ネヴィル・チェンバレン": {
       "name": "ネヴィル・チェンバレン",
@@ -6945,7 +7318,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ミュンヘン会談でドイツへの譲歩を選び、戦争回避を目指す宥和政策を進めました。",
         "whyImportant": "独裁国への譲歩が侵略を止められなかった事例として、第二次世界大戦前史の中心となるためです。"
       },
-      "image": "assets/people/person-fd6656d191.webp"
+      "image": "assets/people/person-fd6656d191.webp",
+      "lifespan": "1869～1940"
     },
     "インディラ・ガンディー": {
       "name": "インディラ・ガンディー",
@@ -6964,7 +7338,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "銀行国有化や農業増産を進め、バングラデシュ独立を支援する一方、非常事態で反対派を抑えました。",
         "whyImportant": "インドの国家統合と地域秩序を動かす一方、民主政治と強権統治の緊張を示したためです。"
       },
-      "image": "assets/people/person-83952b1af6.webp"
+      "image": "assets/people/person-83952b1af6.webp",
+      "lifespan": "1917～1984"
     },
     "ジェセル": {
       "name": "ジェセル",
@@ -6982,7 +7357,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "イムホテプに命じてサッカラの階段ピラミッドと大規模な葬祭施設を建設しました。",
         "whyImportant": "大規模石造建築とピラミッド建設の出発点をつくり、古代エジプト王権を形で示したためです。"
       },
-      "image": "assets/people/person-af40024a79.webp"
+      "image": "assets/people/person-af40024a79.webp",
+      "lifespan": "?～?"
     },
     "ウルナンム": {
       "name": "ウルナンム",
@@ -7000,7 +7376,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ウル第3王朝を開いてシュメールを再統一し、ジッグラト建設と法の整備を進めました。",
         "whyImportant": "都市国家を再統合し、現存最古級の法典と大規模神殿建築を残したためです。"
       },
-      "image": "assets/people/person-6ef4c2baf1.webp"
+      "image": "assets/people/person-6ef4c2baf1.webp",
+      "lifespan": "?～?"
     },
     "ペリクレス": {
       "name": "ペリクレス",
@@ -7018,7 +7395,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "公職手当で市民参加を広げ、パルテノン神殿を建設する一方、デロス同盟への支配を強めました。",
         "whyImportant": "アテネ民主政と古典文化の最盛期を築く一方、同盟を帝国化した矛盾も示すためです。"
       },
-      "image": "assets/people/person-b9aecbca6c.webp"
+      "image": "assets/people/person-b9aecbca6c.webp",
+      "lifespan": "紀元前495ごろ～紀元前429"
     },
     "ティベリウス・グラックス": {
       "name": "ティベリウス・グラックス",
@@ -7036,7 +7414,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "国有地の占有を制限し、土地を失った市民へ農地を再分配する改革を進めました。",
         "whyImportant": "貧富の差と自作農の衰退を政治課題にし、共和政ローマの激しい党派対立の始まりを示したためです。"
       },
-      "image": "assets/people/person-4e2e5a3bee.webp"
+      "image": "assets/people/person-4e2e5a3bee.webp",
+      "lifespan": "紀元前163ごろ～紀元前133"
     },
     "クセルクセス1世": {
       "name": "クセルクセス1世",
@@ -7054,7 +7433,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "大軍でギリシャへ遠征し、テルモピュライを突破してアテネを占領しましたが、海戦で敗れました。",
         "whyImportant": "ペルシャ戦争の最大規模の遠征を行い、ギリシャ諸都市の結束とその後の歴史を左右したためです。"
       },
-      "image": "assets/people/person-653eee17f8.webp"
+      "image": "assets/people/person-653eee17f8.webp",
+      "lifespan": "紀元前519ごろ～紀元前465"
     },
     "アウグスティヌス": {
       "name": "アウグスティヌス",
@@ -7073,7 +7453,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古代哲学とキリスト教を結び、中世西ヨーロッパの神学と人間観の基礎を築いたためです。"
       },
       "image": "assets/people/person-0dbfd89beb.webp",
-      "imageAlt": "アウグスティヌスの画像"
+      "imageAlt": "アウグスティヌスの画像",
+      "lifespan": "354～430"
     },
     "玄宗": {
       "name": "玄宗",
@@ -7091,7 +7472,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "開元の治で唐を繁栄させましたが、節度使の勢力拡大を招き、安史の乱の途中で退位しました。",
         "whyImportant": "唐の最盛期と、地方軍人が強まって王朝が衰退へ向かう転換点の双方を体現するためです。"
       },
-      "image": "assets/people/person-0cc7ff9461.webp"
+      "image": "assets/people/person-0cc7ff9461.webp",
+      "lifespan": "685～762"
     },
     "ヘラクレイオス": {
       "name": "ヘラクレイオス",
@@ -7109,7 +7491,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ササン朝に反攻して失地を回復しましたが、その後イスラム勢力にシリアとエジプトを奪われました。",
         "whyImportant": "東ローマ帝国を一度は再建しつつ、イスラム進出とビザンツ化という大転換に直面したためです。"
       },
-      "image": "assets/people/person-9a6aa60aa5.webp"
+      "image": "assets/people/person-9a6aa60aa5.webp",
+      "lifespan": "575ごろ～641"
     },
     "ヴァスコ・ダ・ガマ": {
       "name": "ヴァスコ・ダ・ガマ",
@@ -7126,7 +7509,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "喜望峰を回ってインドへ到達し、ヨーロッパとアジアを結ぶ直接の海上航路を開きました。",
         "whyImportant": "香辛料貿易の経路を変え、ポルトガルのインド洋支配と欧州の海外進出を加速させたためです。"
       },
-      "image": "assets/people/person-3b613a629f.webp"
+      "image": "assets/people/person-3b613a629f.webp",
+      "lifespan": "1460ごろ～1524"
     },
     "ヴォルテール": {
       "name": "ヴォルテール",
@@ -7145,7 +7529,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "風刺作品と論説で教会・専制政治・不正な裁判を批判し、信仰と言論の自由を訴えました。",
         "whyImportant": "理性と寛容を重んじる啓蒙思想を広め、フランス革命前の社会批判を強めたためです。"
       },
-      "image": "assets/people/person-90ebf84bd9.webp"
+      "image": "assets/people/person-90ebf84bd9.webp",
+      "lifespan": "1694～1778"
     },
     "サミュエル・クロムプトン": {
       "name": "サミュエル・クロムプトン",
@@ -7162,7 +7547,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ジェニー紡績機と水力紡績機を組み合わせ、細く丈夫な糸を紡ぐミュール紡績機を発明しました。",
         "whyImportant": "上質な綿糸の大量生産を可能にし、イギリス綿工業の国際的な成長を支えたためです。"
       },
-      "image": "assets/people/person-51af8aee07.webp"
+      "image": "assets/people/person-51af8aee07.webp",
+      "lifespan": "1753～1827"
     },
     "ヘンリー・モートン・スタンリー": {
       "name": "ヘンリー・モートン・スタンリー",
@@ -7179,7 +7565,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "リヴィングストンを発見し、コンゴ川流域を調査して、ベルギー王の植民地建設に協力しました。",
         "whyImportant": "アフリカ探検が欧州の領土獲得と暴力的な植民地支配へ直結した過程を示すためです。"
       },
-      "image": "assets/people/person-b08f4fcadd.webp"
+      "image": "assets/people/person-b08f4fcadd.webp",
+      "lifespan": "1841～1904"
     },
     "アドルフ・ヒトラー": {
       "name": "アドルフ・ヒトラー",
@@ -7198,7 +7585,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ナチ党独裁を築き、侵略戦争とホロコーストを進め、第二次世界大戦と大量虐殺を引き起こしました。",
         "whyImportant": "独裁・人種差別・侵略が社会と国家を破壊し、世界規模の戦争と大量虐殺へ至る危険を示すためです。"
       },
-      "image": "assets/people/person-860e88f804.webp"
+      "image": "assets/people/person-860e88f804.webp",
+      "lifespan": "1889～1945"
     },
     "ベナジル・ブット": {
       "name": "ベナジル・ブット",
@@ -7217,7 +7605,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "軍事政権に対する民主化運動を率い、イスラム教徒多数国で初の女性首相となりました。",
         "whyImportant": "女性の政治参加を切り開く一方、軍・政党・汚職が絡むパキスタン政治の困難を示したためです。"
       },
-      "image": "assets/people/person-1f3e28397d.webp"
+      "image": "assets/people/person-1f3e28397d.webp",
+      "lifespan": "1953～2007"
     },
     "スネフェル": {
       "name": "スネフェル",
@@ -7235,7 +7624,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "複数のピラミッド建設を通して真正ピラミッドの技術を確立し、第4王朝の基盤を築きました。",
         "whyImportant": "ギザの大ピラミッドへつながる建築技術と、古王国の強い王権を完成へ導いたためです。"
       },
-      "image": "assets/people/person-62e4a669a6.webp"
+      "image": "assets/people/person-62e4a669a6.webp",
+      "lifespan": "?～?"
     },
     "グデア": {
       "name": "グデア",
@@ -7254,7 +7644,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ラガシュで神殿と運河を建設し、遠隔地交易で資材を集め、多数の奉納像と碑文を残しました。",
         "whyImportant": "王の宗教的役割、都市建設、交易を像と碑文から具体的に知ることができるためです。"
       },
-      "image": "assets/people/person-d69e810d52.webp"
+      "image": "assets/people/person-d69e810d52.webp",
+      "lifespan": "?～?"
     },
     "レオニダス": {
       "name": "レオニダス",
@@ -7272,7 +7663,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "テルモピュライの狭路でギリシャ連合軍を指揮し、ペルシャ大軍を食い止めて戦死しました。",
         "whyImportant": "ギリシャ側の抵抗を象徴する一方、後世の英雄伝説と実際の連合軍の違いを考えられるためです。"
       },
-      "image": "assets/people/person-ceda1bc256.webp"
+      "image": "assets/people/person-ceda1bc256.webp",
+      "lifespan": "?～紀元前480"
     },
     "マリウス": {
       "name": "マリウス",
@@ -7290,7 +7682,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "無産市民を軍へ採用してローマ軍を強化し、外敵を破りましたが、スッラとの内戦を招きました。",
         "whyImportant": "軍隊の性格を変え、将軍同士の私兵化と内戦が共和政を崩す流れを強めたためです。"
       },
-      "image": "assets/people/person-3b825e131f.webp"
+      "image": "assets/people/person-3b825e131f.webp",
+      "lifespan": "紀元前157～紀元前86"
     },
     "アルタクセルクセス1世": {
       "name": "アルタクセルクセス1世",
@@ -7309,7 +7702,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "反乱とギリシャ勢力の介入に対応し、多民族帝国の安定を維持した統治を示すためです。"
       },
       "image": "assets/people/person-3b4f71264c.webp",
-      "imageAlt": "アルタクセルクセス1世の画像"
+      "imageAlt": "アルタクセルクセス1世の画像",
+      "lifespan": "?～紀元前424"
     },
     "ヒエロニムス": {
       "name": "ヒエロニムス",
@@ -7327,7 +7721,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ヘブライ語とギリシャ語の聖書をラテン語へ翻訳・校訂し、ウルガタ聖書の基礎を築きました。",
         "whyImportant": "西ヨーロッパで長く標準となる聖書本文を整え、宗教・教育・文学へ影響したためです。"
       },
-      "image": "assets/people/person-e2200bc7bb.webp"
+      "image": "assets/people/person-e2200bc7bb.webp",
+      "lifespan": "347ごろ～420"
     },
     "楊貴妃": {
       "name": "楊貴妃",
@@ -7346,7 +7741,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "玄宗の貴妃として宮廷で大きな影響力を持ち、安史の乱の逃避行中に兵士の要求で殺されました。",
         "whyImportant": "唐の繁栄と崩壊を語る象徴となり、女性へ政治責任を負わせる歴史叙述も考えられるためです。"
       },
-      "image": "assets/people/person-7226500134.webp"
+      "image": "assets/people/person-7226500134.webp",
+      "lifespan": "719～756"
     },
     "バシレイオス2世": {
       "name": "バシレイオス2世",
@@ -7364,7 +7760,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "有力貴族の反乱を抑えて皇帝権を強め、ブルガリアを征服して東ローマ帝国を最盛期へ導きました。",
         "whyImportant": "東ローマ帝国の軍事・財政・領土を立て直し、中世ビザンツの最盛期を築いたためです。"
       },
-      "image": "assets/people/person-8ef1cb23d8.webp"
+      "image": "assets/people/person-8ef1cb23d8.webp",
+      "lifespan": "958～1025"
     },
     "フェルディナンド・マゼラン": {
       "name": "フェルディナンド・マゼラン",
@@ -7382,7 +7779,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "船団の航海が初の世界一周を実現し、地球の大きさと海洋のつながりを具体的に示したためです。"
       },
       "image": "assets/people/person-c04ca7626f.webp",
-      "imageAlt": "フェルディナンド・マゼランの画像"
+      "imageAlt": "フェルディナンド・マゼランの画像",
+      "lifespan": "1480ごろ～1521"
     },
     "ルソー": {
       "name": "ルソー",
@@ -7401,7 +7799,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "『社会契約論』で人民主権と一般意志を説き、『エミール』で子どもの自主性を重んじる教育を論じました。",
         "whyImportant": "人民が政治の主権者であるという考えを広め、革命・民主政治・近代教育へ影響したためです。"
       },
-      "image": "assets/people/person-59efcfe648.webp"
+      "image": "assets/people/person-59efcfe648.webp",
+      "lifespan": "1712～1778"
     },
     "ジョージ・スティーブンソン": {
       "name": "ジョージ・スティーブンソン",
@@ -7419,7 +7818,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "蒸気機関車を改良し、営業鉄道の建設と運行を進めて、人や物を大量に運ぶ鉄道輸送を普及させました。",
         "whyImportant": "鉄道で炭鉱・工場・港・都市を結び、産業革命期の生産・流通・人の移動を大きく変えたためです。"
       },
-      "image": "assets/people/person-19fc20ba52.webp"
+      "image": "assets/people/person-19fc20ba52.webp",
+      "lifespan": "1781～1848"
     },
     "レオポルド2世": {
       "name": "レオポルド2世",
@@ -7437,7 +7837,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "コンゴ自由国を私領として支配し、象牙とゴムを強制徴収する過程で住民へ大規模な暴力を加えました。",
         "whyImportant": "欧州帝国主義が企業利益と王権のもとで大量の強制労働と人命被害を生んだことを示すためです。"
       },
-      "image": "assets/people/person-ff61fbc0c9.webp"
+      "image": "assets/people/person-ff61fbc0c9.webp",
+      "lifespan": "1835～1909"
     },
     "ベニート・ムッソリーニ": {
       "name": "ベニート・ムッソリーニ",
@@ -7456,7 +7857,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ファシスト党独裁を築き、エチオピア侵略とナチス・ドイツとの同盟を進めて第二次世界大戦へ参戦しました。",
         "whyImportant": "ファシズムが民主政治を破壊し、民族主義と軍事侵略を正当化した過程を示すためです。"
       },
-      "image": "assets/people/person-af4451019a.webp"
+      "image": "assets/people/person-af4451019a.webp",
+      "lifespan": "1883～1945"
     },
     "アウンサンスーチー": {
       "name": "アウンサンスーチー",
@@ -7475,7 +7877,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "民主化運動の象徴となる一方、ロヒンギャ迫害への対応で人権と政治責任の問題を残したためです。"
       },
       "image": "assets/people/person-2a1b09d78c.webp",
-      "imageAlt": "アウンサンスーチーの画像"
+      "imageAlt": "アウンサンスーチーの画像",
+      "lifespan": "1945～?"
     },
     "カフラー": {
       "name": "カフラー",
@@ -7493,7 +7896,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ギザにピラミッドと葬祭施設を建設し、神に守られた王権を壮大な石造建築と像で示しました。",
         "whyImportant": "ピラミッド複合体と王の神聖性を通して、古王国の強大な王権と死後信仰を伝えるためです。"
       },
-      "image": "assets/people/person-404d9369ab.webp"
+      "image": "assets/people/person-404d9369ab.webp",
+      "lifespan": "?～?"
     },
     "シュルギ": {
       "name": "シュルギ",
@@ -7511,7 +7915,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "道路・宿駅・税制・記録制度を整え、王を神格化してウル第3王朝の中央集権的支配を完成させました。",
         "whyImportant": "粘土板記録を用いた官僚国家と、神格化された王権の具体的な姿を示すためです。"
       },
-      "image": "assets/people/person-939d90be9c.webp"
+      "image": "assets/people/person-939d90be9c.webp",
+      "lifespan": "?～?"
     },
     "テミストクレス": {
       "name": "テミストクレス",
@@ -7529,7 +7934,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "アテネ海軍を強化し、サラミスの海戦で地形を利用してペルシャ艦隊を破る作戦を指揮しました。",
         "whyImportant": "ペルシャのギリシャ征服を防ぎ、アテネが海上勢力として発展する基礎を築いたためです。"
       },
-      "image": "assets/people/person-9d2f5f6c9d.webp"
+      "image": "assets/people/person-9d2f5f6c9d.webp",
+      "lifespan": "紀元前524ごろ～紀元前459ごろ"
     },
     "スラ": {
       "name": "スラ",
@@ -7548,7 +7954,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "軍を率いてローマを占領し、独裁官として政敵を粛清し、元老院中心の政治制度を再編しました。",
         "whyImportant": "将軍が私兵化した軍で政権を奪う先例をつくり、共和政崩壊への流れを決定的に強めたためです。"
       },
-      "image": "assets/people/person-0894103d82.webp"
+      "image": "assets/people/person-0894103d82.webp",
+      "lifespan": "紀元前138～紀元前78"
     },
     "ゾロアスター": {
       "name": "ゾロアスター",
@@ -7565,7 +7972,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "アフラ・マズダーへの信仰と、善悪の間で人が自ら正しい行いを選ぶ責任を説きました。",
         "whyImportant": "古代イランの宗教を形づくり、善悪・審判・復活をめぐる後世の宗教思想にも影響したためです。"
       },
-      "image": "assets/people/person-0d919524fb.webp"
+      "image": "assets/people/person-0d919524fb.webp",
+      "lifespan": "?～?"
     },
     "アタナシウス": {
       "name": "アタナシウス",
@@ -7584,7 +7992,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "キリスト教の三位一体教義と、正統・異端を定める教会の枠組みの形成に影響したためです。"
       },
       "image": "assets/people/person-8a96ecd37a.webp",
-      "imageAlt": "アタナシウスの画像"
+      "imageAlt": "アタナシウスの画像",
+      "lifespan": "296ごろ～373"
     },
     "安禄山": {
       "name": "安禄山",
@@ -7601,7 +8010,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "辺境軍を率いて唐へ反乱を起こし、洛陽と長安を占領して燕の皇帝を名乗りました。",
         "whyImportant": "安史の乱によって唐の人口・財政・中央集権を打撃し、王朝衰退の転換点をつくったためです。"
       },
-      "image": "assets/people/person-1da973da9b.webp"
+      "image": "assets/people/person-1da973da9b.webp",
+      "lifespan": "703～757"
     },
     "ウラジーミル1世": {
       "name": "ウラジーミル1世",
@@ -7619,7 +8029,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "東方正教会へ改宗し、キエフ・ルーシに洗礼と教会制度を広め、ビザンツ世界との結び付きを強めました。",
         "whyImportant": "ロシア・ウクライナ・ベラルーシへ続く東スラヴ世界の宗教と文化の方向を定めたためです。"
       },
-      "image": "assets/people/person-0d144a0281.webp"
+      "image": "assets/people/person-0d144a0281.webp",
+      "lifespan": "958ごろ～1015"
     },
     "フアン・セバスティアン・エルカーノ": {
       "name": "フアン・セバスティアン・エルカーノ",
@@ -7636,7 +8047,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "マゼラン死後にビクトリア号を率い、香辛料諸島から喜望峰を回って史上初の世界一周を完成させました。",
         "whyImportant": "地球を船で一周できることを実証し、大西洋・太平洋・インド洋がつながる世界像を示したためです。"
       },
-      "image": "assets/people/person-3e59131edb.webp"
+      "image": "assets/people/person-3e59131edb.webp",
+      "lifespan": "1476ごろ～1526"
     },
     "ディドロ": {
       "name": "ディドロ",
@@ -7654,7 +8066,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "『百科全書』を編集し、科学・技術・産業・思想の知識を集めて、検閲下でも刊行を続けました。",
         "whyImportant": "知識を体系化して広く共有し、権威を理性で批判する啓蒙思想を社会へ広めたためです。"
       },
-      "image": "assets/people/person-55a6d1017e.webp"
+      "image": "assets/people/person-55a6d1017e.webp",
+      "lifespan": "1713～1784"
     },
     "イザムバード・キングダム・ブルネル": {
       "name": "イザムバード・キングダム・ブルネル",
@@ -7672,7 +8085,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "産業革命の土木・造船技術を大型交通網へ結び付け、人と物の移動範囲を世界規模に広げたためです。"
       },
       "image": "assets/people/person-e6f9de6616.webp",
-      "imageAlt": "イザムバード・キングダム・ブルネルの画像"
+      "imageAlt": "イザムバード・キングダム・ブルネルの画像",
+      "lifespan": "1806～1859"
     },
     "メネリク2世": {
       "name": "メネリク2世",
@@ -7690,7 +8104,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "軍を近代化してアドワの戦いでイタリアを破り、エチオピアの独立を守りながら領土を拡大しました。",
         "whyImportant": "アフリカ分割期に欧州軍を破って独立を守り、反植民地主義の象徴となったためです。"
       },
-      "image": "assets/people/person-4353807e5f.webp"
+      "image": "assets/people/person-4353807e5f.webp",
+      "lifespan": "1844～1913"
     },
     "フランシスコ・フランコ": {
       "name": "フランシスコ・フランコ",
@@ -7709,7 +8124,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "内戦で共和国政府を倒し、反対派を弾圧する権威主義的独裁を死去まで続けました。",
         "whyImportant": "20世紀ヨーロッパで長期独裁を維持し、その死後の民主化と歴史記憶の問題を残したためです。"
       },
-      "image": "assets/people/person-c77ab10d24.webp"
+      "image": "assets/people/person-c77ab10d24.webp",
+      "lifespan": "1892～1975"
     },
     "リー・クアンユー": {
       "name": "リー・クアンユー",
@@ -7729,7 +8145,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "資源の乏しい小国を急成長させた一方、経済発展と政治的自由の両立をめぐる論点を残したためです。"
       },
       "image": "assets/people/person-185b55fcd2.webp",
-      "imageAlt": "リー・クアンユーの画像"
+      "imageAlt": "リー・クアンユーの画像",
+      "lifespan": "1923～2015"
     },
     "メンカウラー": {
       "name": "メンカウラー",
@@ -7748,7 +8165,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "建築と彫刻によって、古王国の王が神々や地方社会と結び付く仕組みを伝えるためです。"
       },
       "image": "assets/people/person-b366e7633a.webp",
-      "imageAlt": "メンカウラーの画像"
+      "imageAlt": "メンカウラーの画像",
+      "lifespan": "?～?"
     },
     "リムシン": {
       "name": "リムシン",
@@ -7766,7 +8184,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whatDid": "ラルサを拠点にイシンを征服し、運河・神殿・農地を整備して南メソポタミアを広く支配しました。",
         "whyImportant": "ハンムラビによる統一直前の都市国家間競争と、灌漑農業を支える王権の姿を示すためです。"
       },
-      "image": "assets/people/person-724f1ef951.webp"
+      "image": "assets/people/person-724f1ef951.webp",
+      "lifespan": "?～?"
     },
     "ミルティアデス": {
       "name": "ミルティアデス",
@@ -7785,7 +8204,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ペルシャの第一次侵攻を退け、アテネ市民と重装歩兵の政治的自信を高めたためです。"
       },
       "image": "assets/people/person-ede741edb8.webp",
-      "imageAlt": "ミルティアデスの画像"
+      "imageAlt": "ミルティアデスの画像",
+      "lifespan": "紀元前550ごろ～紀元前489"
     },
     "ポンペイウス": {
       "name": "ポンペイウス",
@@ -7805,7 +8225,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマの地中海支配を広げる一方、将軍同士の権力争いで共和政崩壊を加速させたためです。"
       },
       "image": "assets/people/person-ecc998d997.webp",
-      "imageAlt": "ポンペイウスの画像"
+      "imageAlt": "ポンペイウスの画像",
+      "lifespan": "紀元前106～紀元前48"
     },
     "チャンドラグプタ": {
       "name": "チャンドラグプタ",
@@ -7824,7 +8245,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "インド最初の大規模な統一帝国を築き、アショーカ王による広域支配の土台をつくったためです。"
       },
       "image": "assets/people/person-60e45e3ac2.webp",
-      "imageAlt": "チャンドラグプタの画像"
+      "imageAlt": "チャンドラグプタの画像",
+      "lifespan": "?～?"
     },
     "アリウス": {
       "name": "アリウス",
@@ -7843,7 +8265,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "キリスト教が正統教義と異端を定め、三位一体の考えを形成するきっかけとなったためです。"
       },
       "image": "assets/people/person-e75a7651c8.webp",
-      "imageAlt": "アリウスの画像"
+      "imageAlt": "アリウスの画像",
+      "lifespan": "256ごろ～336"
     },
     "杜甫": {
       "name": "杜甫",
@@ -7861,7 +8284,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "唐代社会の現実を詩で伝え、中国文学における社会詩と律詩の最高峰を築いたためです。"
       },
       "image": "assets/people/person-c468737f5e.webp",
-      "imageAlt": "杜甫の画像"
+      "imageAlt": "杜甫の画像",
+      "lifespan": "712～770"
     },
     "ヤロスラフ賢公": {
       "name": "ヤロスラフ賢公",
@@ -7880,7 +8304,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "キエフ・ルーシの法・宗教・文化・外交を発展させ、国家の最盛期を築いたためです。"
       },
       "image": "assets/people/person-728b094372.webp",
-      "imageAlt": "ヤロスラフ賢公の画像"
+      "imageAlt": "ヤロスラフ賢公の画像",
+      "lifespan": "978ごろ～1054"
     },
     "アメリゴ・ヴェスプッチ": {
       "name": "アメリゴ・ヴェスプッチ",
@@ -7898,7 +8323,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新大陸を独立した大陸として認識する動きを促し、「アメリカ」という地名の由来となったためです。"
       },
       "image": "assets/people/person-8d1e003d26.webp",
-      "imageAlt": "アメリゴ・ヴェスプッチの画像"
+      "imageAlt": "アメリゴ・ヴェスプッチの画像",
+      "lifespan": "1454～1512"
     },
     "メアリ・ウルストンクラフト": {
       "name": "メアリ・ウルストンクラフト",
@@ -7918,7 +8344,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "男女の理性的平等を主張し、近代の女性解放運動とフェミニズムの思想的基礎を築いたためです。"
       },
       "image": "assets/people/person-b6d9da0629.webp",
-      "imageAlt": "メアリ・ウルストンクラフトの画像"
+      "imageAlt": "メアリ・ウルストンクラフトの画像",
+      "lifespan": "1759～1797"
     },
     "ロバート・フルトン": {
       "name": "ロバート・フルトン",
@@ -7936,7 +8363,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "風に頼らない定期水運を実用化し、産業革命期の物流と地域間交流を速めたためです。"
       },
       "image": "assets/people/person-7c916ac45b.webp",
-      "imageAlt": "ロバート・フルトンの画像"
+      "imageAlt": "ロバート・フルトンの画像",
+      "lifespan": "1765～1815"
     },
     "テオドロス2世": {
       "name": "テオドロス2世",
@@ -7955,7 +8383,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "分裂したエチオピアの中央集権化と近代化を試み、後の国家再建の出発点となったためです。"
       },
       "image": "assets/people/person-db50e4e512.webp",
-      "imageAlt": "テオドロス2世の画像"
+      "imageAlt": "テオドロス2世の画像",
+      "lifespan": "1818～1868"
     },
     "シャルル・ド・ゴール": {
       "name": "シャルル・ド・ゴール",
@@ -7975,7 +8404,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "第二次世界大戦後のフランス再建と、現在まで続く第五共和政の政治制度を築いたためです。"
       },
       "image": "assets/people/person-f4a709fcd6.webp",
-      "imageAlt": "シャルル・ド・ゴールの画像"
+      "imageAlt": "シャルル・ド・ゴールの画像",
+      "lifespan": "1890～1970"
     },
     "ダライ・ラマ14世": {
       "name": "ダライ・ラマ14世",
@@ -7995,7 +8425,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "民族・宗教・自治をめぐる問題を国際社会へ伝え、非暴力運動の象徴となったためです。"
       },
       "image": "assets/people/person-144a0ad2f0.webp",
-      "imageAlt": "ダライ・ラマ14世の画像"
+      "imageAlt": "ダライ・ラマ14世の画像",
+      "lifespan": "1935～?"
     },
     "ペピ2世": {
       "name": "ペピ2世",
@@ -8014,7 +8445,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古王国末期の地方分権と中央政府の衰退を考える中心人物であり、崩壊原因の複雑さを示すためです。"
       },
       "image": "assets/people/person-71387cd266.webp",
-      "imageAlt": "ペピ2世の画像"
+      "imageAlt": "ペピ2世の画像",
+      "lifespan": "?～?"
     },
     "シャムシアダド1世": {
       "name": "シャムシアダド1世",
@@ -8033,7 +8465,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "マリ文書を通して、古代国家の軍事・外交・行政と初期アッシリア支配の実態を知ることができるためです。"
       },
       "image": "assets/people/person-dd2e481457.webp",
-      "imageAlt": "シャムシアダド1世の画像"
+      "imageAlt": "シャムシアダド1世の画像",
+      "lifespan": "?～?"
     },
     "アルキビアデス": {
       "name": "アルキビアデス",
@@ -8052,7 +8485,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "民主政下の人気政治家の野心と変節が、アテネの戦争政策と敗北を左右したためです。"
       },
       "image": "assets/people/person-f6ad9aafd6.webp",
-      "imageAlt": "アルキビアデスの画像"
+      "imageAlt": "アルキビアデスの画像",
+      "lifespan": "紀元前450ごろ～紀元前404"
     },
     "クラッスス": {
       "name": "クラッスス",
@@ -8072,7 +8506,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "莫大な富と軍事力が共和政政治を動かし、その死がカエサルとポンペイウスの内戦を促したためです。"
       },
       "image": "assets/people/person-5f4fa51d15.webp",
-      "imageAlt": "クラッススの画像"
+      "imageAlt": "クラッススの画像",
+      "lifespan": "紀元前115ごろ～紀元前53"
     },
     "カウティリヤ": {
       "name": "カウティリヤ",
@@ -8091,7 +8526,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古代インドの政治思想と行政制度を詳しく伝え、国家運営を現実的に論じた代表的著作を残したためです。"
       },
       "image": "assets/people/person-bfba8d3268.webp",
-      "imageAlt": "カウティリヤの画像"
+      "imageAlt": "カウティリヤの画像",
+      "lifespan": "?～?"
     },
     "ベネディクトゥス": {
       "name": "ベネディクトゥス",
@@ -8109,7 +8545,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "西ヨーロッパの修道院制度を形づくり、学問・農業・写本・救貧を支える共同体を広めたためです。"
       },
       "image": "assets/people/person-fd893ccc0c.webp",
-      "imageAlt": "ベネディクトゥスの画像"
+      "imageAlt": "ベネディクトゥスの画像",
+      "lifespan": "480ごろ～547ごろ"
     },
     "李白": {
       "name": "李白",
@@ -8127,7 +8564,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "自由で壮大な詩風を完成させ、中国と東アジアの文学表現に長く影響したためです。"
       },
       "image": "assets/people/person-10331154cc.webp",
-      "imageAlt": "李白の画像"
+      "imageAlt": "李白の画像",
+      "lifespan": "701～762"
     },
     "ウィリアム1世": {
       "name": "ウィリアム1世",
@@ -8146,7 +8584,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ノルマン征服によってイングランドの王権・貴族・言語・土地制度を大きく変えたためです。"
       },
       "image": "assets/people/person-2f3074da59.webp",
-      "imageAlt": "ウィリアム1世の画像"
+      "imageAlt": "ウィリアム1世の画像",
+      "lifespan": "1028ごろ～1087"
     },
     "ジョン・カボット": {
       "name": "ジョン・カボット",
@@ -8164,7 +8603,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イングランドによる北アメリカ進出と、後の植民地領有主張の出発点となったためです。"
       },
       "image": "assets/people/person-13c548e36d.webp",
-      "imageAlt": "ジョン・カボットの画像"
+      "imageAlt": "ジョン・カボットの画像",
+      "lifespan": "1450ごろ～1498ごろ"
     },
     "アダム・スミス": {
       "name": "アダム・スミス",
@@ -8182,7 +8622,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "市場経済を体系的に分析し、近代経済学と自由主義的経済政策の基礎を築いたためです。"
       },
       "image": "assets/people/person-632d4656c3.webp",
-      "imageAlt": "アダム・スミスの画像"
+      "imageAlt": "アダム・スミスの画像",
+      "lifespan": "1723～1790"
     },
     "アレッサンドロ・ボルタ": {
       "name": "アレッサンドロ・ボルタ",
@@ -8200,7 +8641,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "安定した電流源をつくり、電気化学・電磁気学・電池技術の発展を可能にしたためです。"
       },
       "image": "assets/people/person-fadfe26fcd.webp",
-      "imageAlt": "アレッサンドロ・ボルタの画像"
+      "imageAlt": "アレッサンドロ・ボルタの画像",
+      "lifespan": "1745～1827"
     },
     "サモリ・トゥーレ": {
       "name": "サモリ・トゥーレ",
@@ -8219,7 +8661,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカ分割に対する大規模な武力抵抗を指導し、植民地征服の過程を示すためです。"
       },
       "image": "assets/people/person-06bdb26b39.webp",
-      "imageAlt": "サモリ・トゥーレの画像"
+      "imageAlt": "サモリ・トゥーレの画像",
+      "lifespan": "1830ごろ～1900"
     },
     "フィリップ・ペタン": {
       "name": "フィリップ・ペタン",
@@ -8239,7 +8682,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "占領下の協力政治と、国家指導者が人権侵害へ加担する責任を考える中心人物だからです。"
       },
       "image": "assets/people/person-110c05dd70.webp",
-      "imageAlt": "フィリップ・ペタンの画像"
+      "imageAlt": "フィリップ・ペタンの画像",
+      "lifespan": "1856～1951"
     },
     "デズモンド・ツツ": {
       "name": "デズモンド・ツツ",
@@ -8258,7 +8702,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "差別撤廃と、独裁後の社会で真相究明・赦し・責任を結ぶ和解の方法を示したためです。"
       },
       "image": "assets/people/person-3a9c424ead.webp",
-      "imageAlt": "デズモンド・ツツの画像"
+      "imageAlt": "デズモンド・ツツの画像",
+      "lifespan": "1931～2021"
     },
     "メントゥホテプ2世": {
       "name": "メントゥホテプ2世",
@@ -8277,7 +8722,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "第一中間期の分裂を終わらせ、中王国という新しい安定と繁栄の時代を開いたためです。"
       },
       "image": "assets/people/person-2bba3388e0.webp",
-      "imageAlt": "メントゥホテプ2世の画像"
+      "imageAlt": "メントゥホテプ2世の画像",
+      "lifespan": "?～?"
     },
     "ジムリリム": {
       "name": "ジムリリム",
@@ -8296,7 +8742,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "マリ文書を通して、古代オリエントの外交・行政・交易・宮廷生活を具体的に知ることができるためです。"
       },
       "image": "assets/people/person-9392e4eca4.webp",
-      "imageAlt": "ジムリリムの画像"
+      "imageAlt": "ジムリリムの画像",
+      "lifespan": "?～?"
     },
     "ソクラテス": {
       "name": "ソクラテス",
@@ -8316,7 +8763,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "答えを教えるより問いを深める哲学的方法を示し、西洋哲学と倫理思想の出発点となったためです。"
       },
       "image": "assets/people/person-4e6d38825c.webp",
-      "imageAlt": "ソクラテスの画像"
+      "imageAlt": "ソクラテスの画像",
+      "lifespan": "紀元前470ごろ～紀元前399"
     },
     "キケロ": {
       "name": "キケロ",
@@ -8335,7 +8783,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "共和政理念と自然法思想を後世へ伝え、ヨーロッパの政治思想・法・ラテン文学へ影響したためです。"
       },
       "image": "assets/people/person-0ee4733742.webp",
-      "imageAlt": "キケロの画像"
+      "imageAlt": "キケロの画像",
+      "lifespan": "紀元前106～紀元前43"
     },
     "カニシカ王": {
       "name": "カニシカ王",
@@ -8354,7 +8803,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "東西交易を結ぶ多民族帝国を築き、大乗仏教と仏像文化の広がりを支えたためです。"
       },
       "image": "assets/people/person-9bc6eb495f.webp",
-      "imageAlt": "カニシカ王の画像"
+      "imageAlt": "カニシカ王の画像",
+      "lifespan": "?～?"
     },
     "グレゴリウス1世": {
       "name": "グレゴリウス1世",
@@ -8372,7 +8822,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマ教皇の宗教的・社会的・政治的役割を強め、中世西ヨーロッパ教会の形を整えたためです。"
       },
       "image": "assets/people/person-0f47b6e160.webp",
-      "imageAlt": "グレゴリウス1世の画像"
+      "imageAlt": "グレゴリウス1世の画像",
+      "lifespan": "540ごろ～604"
     },
     "白居易": {
       "name": "白居易",
@@ -8390,7 +8841,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "文学で政治と民衆生活を結び、中国と日本の詩文・物語文学へ長く影響したためです。"
       },
       "image": "assets/people/person-97745cc5b2.webp",
-      "imageAlt": "白居易の画像"
+      "imageAlt": "白居易の画像",
+      "lifespan": "772～846"
     },
     "エレノア・オブ・アキテーヌ": {
       "name": "エレノア・オブ・アキテーヌ",
@@ -8408,7 +8860,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中世ヨーロッパで女性領主が広大な領地と王家の婚姻を通じて国際政治を動かしたためです。"
       },
       "image": "assets/people/person-467fb1f1dd.webp",
-      "imageAlt": "エレノア・オブ・アキテーヌの画像"
+      "imageAlt": "エレノア・オブ・アキテーヌの画像",
+      "lifespan": "1122ごろ～1204"
     },
     "ジャック・カルティエ": {
       "name": "ジャック・カルティエ",
@@ -8426,7 +8879,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "後のカナダ植民地形成へつながる航路と地域情報をフランスへもたらしたためです。"
       },
       "image": "assets/people/person-0a7750b30b.webp",
-      "imageAlt": "ジャック・カルティエの画像"
+      "imageAlt": "ジャック・カルティエの画像",
+      "lifespan": "1491～1557"
     },
     "トマス・ペイン": {
       "name": "トマス・ペイン",
@@ -8444,7 +8898,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "革命思想を知識人だけでなく一般市民へ広げ、アメリカ独立と近代民主主義を後押ししたためです。"
       },
       "image": "assets/people/person-cf92a1d76a.webp",
-      "imageAlt": "トマス・ペインの画像"
+      "imageAlt": "トマス・ペインの画像",
+      "lifespan": "1737～1809"
     },
     "マイケル・ファラデー": {
       "name": "マイケル・ファラデー",
@@ -8462,7 +8917,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "電気を連続的に生み出して利用する原理を明らかにし、電力社会の成立を可能にしたためです。"
       },
       "image": "assets/people/person-2b988d0d7b.webp",
-      "imageAlt": "マイケル・ファラデーの画像"
+      "imageAlt": "マイケル・ファラデーの画像",
+      "lifespan": "1791～1867"
     },
     "ムハンマド・アフマド": {
       "name": "ムハンマド・アフマド",
@@ -8481,7 +8937,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教運動と反植民地抵抗を結び付け、アフリカで欧州支配へ大きな打撃を与えたためです。"
       },
       "image": "assets/people/person-643753188b.webp",
-      "imageAlt": "ムハンマド・アフマドの画像"
+      "imageAlt": "ムハンマド・アフマドの画像",
+      "lifespan": "1844～1885"
     },
     "ヨシップ・ブロズ・チトー": {
       "name": "ヨシップ・ブロズ・チトー",
@@ -8501,7 +8958,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "冷戦下で米ソどちらにも従わない路線を示し、多民族国家統合の成功と限界を残したためです。"
       },
       "image": "assets/people/person-534caeb458.webp",
-      "imageAlt": "ヨシップ・ブロズ・チトーの画像"
+      "imageAlt": "ヨシップ・ブロズ・チトーの画像",
+      "lifespan": "1892～1980"
     },
     "パトリス・ルムンバ": {
       "name": "パトリス・ルムンバ",
@@ -8521,7 +8979,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカ独立が旧宗主国の利害と冷戦介入によって妨げられた過程を象徴するためです。"
       },
       "image": "assets/people/person-e7e80e4d08.webp",
-      "imageAlt": "パトリス・ルムンバの画像"
+      "imageAlt": "パトリス・ルムンバの画像",
+      "lifespan": "1925～1961"
     },
     "アメンエムハト1世": {
       "name": "アメンエムハト1世",
@@ -8540,7 +8999,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中王国エジプトの安定した官僚国家と王位継承制度の基礎を築いたためです。"
       },
       "image": "assets/people/person-7ebbc36049.webp",
-      "imageAlt": "アメンエムハト1世の画像"
+      "imageAlt": "アメンエムハト1世の画像",
+      "lifespan": "?～?"
     },
     "ティグラトピレセル1世": {
       "name": "ティグラトピレセル1世",
@@ -8559,7 +9019,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "後の新アッシリア帝国へつながる軍事遠征・貢納・王権宣伝の型を示したためです。"
       },
       "image": "assets/people/person-1ea4d9c270.webp",
-      "imageAlt": "ティグラトピレセル1世の画像"
+      "imageAlt": "ティグラトピレセル1世の画像",
+      "lifespan": "?～?"
     },
     "プラトン": {
       "name": "プラトン",
@@ -8579,7 +9040,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "哲学を体系的な学問へ発展させ、西洋の形而上学・倫理・政治思想の基礎を築いたためです。"
       },
       "image": "assets/people/person-9f131c1d44.webp",
-      "imageAlt": "プラトンの画像"
+      "imageAlt": "プラトンの画像",
+      "lifespan": "紀元前427ごろ～紀元前347"
     },
     "ブルートゥス": {
       "name": "ブルートゥス",
@@ -8598,7 +9060,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "独裁への抵抗が共和政回復ではなく新たな内戦と帝政成立へつながった矛盾を示すためです。"
       },
       "image": "assets/people/person-82b0cb9417.webp",
-      "imageAlt": "ブルートゥスの画像"
+      "imageAlt": "ブルートゥスの画像",
+      "lifespan": "紀元前85ごろ～紀元前42"
     },
     "チャンドラグプタ2世": {
       "name": "チャンドラグプタ2世",
@@ -8617,7 +9080,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古典インド文化とサンスクリット文学・科学・美術が発展した時代を代表するためです。"
       },
       "image": "assets/people/person-c22cd8b635.webp",
-      "imageAlt": "チャンドラグプタ2世の画像"
+      "imageAlt": "チャンドラグプタ2世の画像",
+      "lifespan": "?～?"
     },
     "キュリロス": {
       "name": "キュリロス",
@@ -8636,7 +9100,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "スラヴ諸民族のキリスト教化と文字・文学の発達を促し、東欧文化の基礎を築いたためです。"
       },
       "image": "assets/people/person-eb75bd0e4d.webp",
-      "imageAlt": "キュリロスの画像"
+      "imageAlt": "キュリロスの画像",
+      "lifespan": "826ごろ～869"
     },
     "韓愈": {
       "name": "韓愈",
@@ -8654,7 +9119,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "唐宋の散文と儒教復興を結び付け、後の宋学・科挙文体・東アジア漢文へ影響したためです。"
       },
       "image": "assets/people/person-e00f0d5a5a.webp",
-      "imageAlt": "韓愈の画像"
+      "imageAlt": "韓愈の画像",
+      "lifespan": "768～824"
     },
     "リチャード1世": {
       "name": "リチャード1世",
@@ -8672,7 +9138,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "十字軍時代の騎士王を象徴する一方、遠征費と長期不在が王国へ与えた負担も示すためです。"
       },
       "image": "assets/people/person-2ef0566623.webp",
-      "imageAlt": "リチャード1世の画像"
+      "imageAlt": "リチャード1世の画像",
+      "lifespan": "1157～1199"
     },
     "フランシス・ドレーク": {
       "name": "フランシス・ドレーク",
@@ -8690,7 +9157,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イングランドの海洋進出を進める一方、私掠・植民地略奪・奴隷貿易の暴力を示すためです。"
       },
       "image": "assets/people/person-2ad64ec7f9.webp",
-      "imageAlt": "フランシス・ドレークの画像"
+      "imageAlt": "フランシス・ドレークの画像",
+      "lifespan": "1540ごろ～1596"
     },
     "ベンジャミン・フランクリン": {
       "name": "ベンジャミン・フランクリン",
@@ -8708,7 +9176,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "科学・市民活動・外交を結び、アメリカ独立と近代的な公共社会の形成に貢献したためです。"
       },
       "image": "assets/people/person-7f04eb839b.webp",
-      "imageAlt": "ベンジャミン・フランクリンの画像"
+      "imageAlt": "ベンジャミン・フランクリンの画像",
+      "lifespan": "1706～1790"
     },
     "チャールズ・バベッジ": {
       "name": "チャールズ・バベッジ",
@@ -8726,7 +9195,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "現代コンピューターに通じる基本構成とプログラム制御の考えを早くから示したためです。"
       },
       "image": "assets/people/person-4358cf3b38.webp",
-      "imageAlt": "チャールズ・バベッジの画像"
+      "imageAlt": "チャールズ・バベッジの画像",
+      "lifespan": "1791～1871"
     },
     "ジャマールッディーン・アフガーニー": {
       "name": "ジャマールッディーン・アフガーニー",
@@ -8745,7 +9215,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "西欧支配へ対抗しながらイスラム社会を近代化する思想を広め、民族運動と改革思想の源流となったためです。"
       },
       "image": "assets/people/person-b309fce24a.webp",
-      "imageAlt": "ジャマールッディーン・アフガーニーの画像"
+      "imageAlt": "ジャマールッディーン・アフガーニーの画像",
+      "lifespan": "1838ごろ～1897"
     },
     "ハリー・トルーマン": {
       "name": "ハリー・トルーマン",
@@ -8765,7 +9236,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "第二次世界大戦の終結と冷戦秩序の形成を主導し、核兵器時代の政治的責任を残したためです。"
       },
       "image": "assets/people/person-b5ea16b9f6.webp",
-      "imageAlt": "ハリー・トルーマンの画像"
+      "imageAlt": "ハリー・トルーマンの画像",
+      "lifespan": "1884～1972"
     },
     "ジュリウス・ニエレレ": {
       "name": "ジュリウス・ニエレレ",
@@ -8785,7 +9257,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカ独立後の国家統合と自立的発展を模索し、その理想と経済的限界を示したためです。"
       },
       "image": "assets/people/person-e54e9c2266.webp",
-      "imageAlt": "ジュリウス・ニエレレの画像"
+      "imageAlt": "ジュリウス・ニエレレの画像",
+      "lifespan": "1922～1999"
     },
     "センウセレト3世": {
       "name": "センウセレト3世",
@@ -8804,7 +9277,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "中王国エジプトの領土・交易・行政を安定させ、強い王権を完成へ導いたためです。"
       },
       "image": "assets/people/person-6f7c0ec1f3.webp",
-      "imageAlt": "センウセレト3世の画像"
+      "imageAlt": "センウセレト3世の画像",
+      "lifespan": "?～?"
     },
     "アッシュルナツィルパル2世": {
       "name": "アッシュルナツィルパル2世",
@@ -8823,7 +9297,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新アッシリア帝国の軍事支配・恐怖政治・宮殿美術による権力表現を確立したためです。"
       },
       "image": "assets/people/person-c3eae4eafa.webp",
-      "imageAlt": "アッシュルナツィルパル2世の画像"
+      "imageAlt": "アッシュルナツィルパル2世の画像",
+      "lifespan": "?～?"
     },
     "アリストテレス": {
       "name": "アリストテレス",
@@ -8844,7 +9319,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "多くの学問分野の基礎概念と研究方法を整え、古代から中世の知識体系を形づくったためです。"
       },
       "image": "assets/people/person-69ee112116.webp",
-      "imageAlt": "アリストテレスの画像"
+      "imageAlt": "アリストテレスの画像",
+      "lifespan": "紀元前384～紀元前322"
     },
     "アウグストゥス": {
       "name": "アウグストゥス",
@@ -8863,7 +9339,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマの政治を共和政から帝政へ転換し、約二百年続く地中海世界の安定の基礎を築いたためです。"
       },
       "image": "assets/people/person-fa1becdf28.webp",
-      "imageAlt": "アウグストゥスの画像"
+      "imageAlt": "アウグストゥスの画像",
+      "lifespan": "紀元前63～14"
     },
     "カーリダーサ": {
       "name": "カーリダーサ",
@@ -8881,7 +9358,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古典インド文学の表現を最高水準へ高め、インドと世界の演劇・詩へ長く影響したためです。"
       },
       "image": "assets/people/person-7823662b3a.webp",
-      "imageAlt": "カーリダーサの画像"
+      "imageAlt": "カーリダーサの画像",
+      "lifespan": "?～?"
     },
     "メトディオス": {
       "name": "メトディオス",
@@ -8900,7 +9378,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "スラヴ語によるキリスト教文化を定着させ、東欧の文字・文学・教会制度の発展を支えたためです。"
       },
       "image": "assets/people/person-b40b93d232.webp",
-      "imageAlt": "メトディオスの画像"
+      "imageAlt": "メトディオスの画像",
+      "lifespan": "815ごろ～885"
     },
     "柳宗元": {
       "name": "柳宗元",
@@ -8918,7 +9397,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "政治的挫折と地方経験を新しい散文表現へ変え、中国の紀行文・寓話・論説文を発展させたためです。"
       },
       "image": "assets/people/person-1c4d5725fe.webp",
-      "imageAlt": "柳宗元の画像"
+      "imageAlt": "柳宗元の画像",
+      "lifespan": "773～819"
     },
     "ジョン王": {
       "name": "ジョン王",
@@ -8937,7 +9417,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王権も法の制約を受けるという原則につながる文書を成立させ、立憲政治の象徴となったためです。"
       },
       "image": "assets/people/person-be42dd692c.webp",
-      "imageAlt": "ジョン王の画像"
+      "imageAlt": "ジョン王の画像",
+      "lifespan": "1166～1216"
     },
     "ウォルター・ローリー": {
       "name": "ウォルター・ローリー",
@@ -8955,7 +9436,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "後のイギリス北米植民地建設の先駆けとなり、探検・宮廷政治・植民地主義の結び付きを示すためです。"
       },
       "image": "assets/people/person-aff3615f9f.webp",
-      "imageAlt": "ウォルター・ローリーの画像"
+      "imageAlt": "ウォルター・ローリーの画像",
+      "lifespan": "1552ごろ～1618"
     },
     "トマス・ジェファーソン": {
       "name": "トマス・ジェファーソン",
@@ -8974,7 +9456,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "近代的な自由・平等の理念を示す一方、自ら奴隷を所有したアメリカ建国の矛盾を体現するためです。"
       },
       "image": "assets/people/person-a38e1e2af3.webp",
-      "imageAlt": "トマス・ジェファーソンの画像"
+      "imageAlt": "トマス・ジェファーソンの画像",
+      "lifespan": "1743～1826"
     },
     "エイダ・ラブレス": {
       "name": "エイダ・ラブレス",
@@ -8992,7 +9475,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "コンピューターを単なる計算器ではなく、手順に従って多様な情報を処理する機械として捉えたためです。"
       },
       "image": "assets/people/person-87cf8f01a8.webp",
-      "imageAlt": "エイダ・ラブレスの画像"
+      "imageAlt": "エイダ・ラブレスの画像",
+      "lifespan": "1815～1852"
     },
     "ムハンマド・アブドゥフ": {
       "name": "ムハンマド・アブドゥフ",
@@ -9011,7 +9495,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イスラム信仰と近代科学・教育・法改革を両立させる近代イスラム改革思想を形づくったためです。"
       },
       "image": "assets/people/person-8d5aaf0810.webp",
-      "imageAlt": "ムハンマド・アブドゥフの画像"
+      "imageAlt": "ムハンマド・アブドゥフの画像",
+      "lifespan": "1849～1905"
     },
     "ドワイト・アイゼンハワー": {
       "name": "ドワイト・アイゼンハワー",
@@ -9031,7 +9516,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "第二次世界大戦の勝利と冷戦期の米国戦略を担い、軍産複合体の危険も警告したためです。"
       },
       "image": "assets/people/person-0d77053913.webp",
-      "imageAlt": "ドワイト・アイゼンハワーの画像"
+      "imageAlt": "ドワイト・アイゼンハワーの画像",
+      "lifespan": "1890～1969"
     },
     "トーマス・サンカラ": {
       "name": "トーマス・サンカラ",
@@ -9051,7 +9537,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカの自立と社会改革を急速に進め、反帝国主義と清廉な統治の象徴となったためです。"
       },
       "image": "assets/people/person-606de7d4d2.webp",
-      "imageAlt": "トーマス・サンカラの画像"
+      "imageAlt": "トーマス・サンカラの画像",
+      "lifespan": "1949～1987"
     },
     "ハトシェプスト": {
       "name": "ハトシェプスト",
@@ -9070,7 +9557,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "王権が男性に限られた社会で長期統治を実現し、新王国の交易・建築・王権表現を発展させたためです。"
       },
       "image": "assets/people/person-c2b318a3aa.webp",
-      "imageAlt": "ハトシェプストの画像"
+      "imageAlt": "ハトシェプストの画像",
+      "lifespan": "?～?"
     },
     "シャルマネセル3世": {
       "name": "シャルマネセル3世",
@@ -9089,7 +9577,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "遠征記録と黒色オベリスクによって、アッシリア帝国の軍事・外交・貢納支配を具体的に伝えるためです。"
       },
       "image": "assets/people/person-b4c0e8c892.webp",
-      "imageAlt": "シャルマネセル3世の画像"
+      "imageAlt": "シャルマネセル3世の画像",
+      "lifespan": "?～?"
     },
     "ピタゴラス": {
       "name": "ピタゴラス",
@@ -9108,7 +9597,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "数学を実用計算だけでなく、自然と宇宙を理解する原理として考える伝統を広めたためです。"
       },
       "image": "assets/people/person-71f920164b.webp",
-      "imageAlt": "ピタゴラスの画像"
+      "imageAlt": "ピタゴラスの画像",
+      "lifespan": "紀元前570ごろ～紀元前495ごろ"
     },
     "リウィア": {
       "name": "リウィア",
@@ -9127,7 +9617,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "公式の役職を持たない皇帝家の女性が、婚姻と家族関係を通じて政治力を持った例だからです。"
       },
       "image": "assets/people/person-ed179a7e57.webp",
-      "imageAlt": "リウィアの画像"
+      "imageAlt": "リウィアの画像",
+      "lifespan": "紀元前58～29"
     },
     "パーニニ": {
       "name": "パーニニ",
@@ -9145,7 +9636,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "世界最古級の精密な文法体系を築き、インドの聖典伝承・言語学・論理的分析へ影響したためです。"
       },
       "image": "assets/people/person-e7bd6b387b.webp",
-      "imageAlt": "パーニニの画像"
+      "imageAlt": "パーニニの画像",
+      "lifespan": "?～?"
     },
     "ナーガールジュナ": {
       "name": "ナーガールジュナ",
@@ -9164,7 +9656,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "大乗仏教の中観思想を体系化し、東アジアとチベットの仏教哲学の基礎を築いたためです。"
       },
       "image": "assets/people/person-df73badf15.webp",
-      "imageAlt": "ナーガールジュナの画像"
+      "imageAlt": "ナーガールジュナの画像",
+      "lifespan": "150ごろ～250ごろ"
     },
     "王安石": {
       "name": "王安石",
@@ -9183,7 +9676,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "国家が金融・流通・社会保障へ介入する大規模改革を行い、中国政治史の代表的論争を生んだためです。"
       },
       "image": "assets/people/person-5a0f7044b8.webp",
-      "imageAlt": "王安石の画像"
+      "imageAlt": "王安石の画像",
+      "lifespan": "1021～1086"
     },
     "サラディン": {
       "name": "サラディン",
@@ -9202,7 +9696,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "イスラム勢力を再統合して十字軍国家へ反撃し、宗教戦争下の統治と外交の象徴となったためです。"
       },
       "image": "assets/people/person-fdca958aaf.webp",
-      "imageAlt": "サラディンの画像"
+      "imageAlt": "サラディンの画像",
+      "lifespan": "1137ごろ～1193"
     },
     "アベル・タスマン": {
       "name": "アベル・タスマン",
@@ -9220,7 +9715,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "南太平洋の地理認識を広げ、後のオーストラリア・ニュージーランド探検の基礎をつくったためです。"
       },
       "image": "assets/people/person-1cc2e1acb2.webp",
-      "imageAlt": "アベル・タスマンの画像"
+      "imageAlt": "アベル・タスマンの画像",
+      "lifespan": "1603～1659"
     },
     "ジョン・アダムズ": {
       "name": "ジョン・アダムズ",
@@ -9239,7 +9735,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "独立国家の外交と大統領制を形づくる一方、国家安全と表現の自由の対立を残したためです。"
       },
       "image": "assets/people/person-a15bda296f.webp",
-      "imageAlt": "ジョン・アダムズの画像"
+      "imageAlt": "ジョン・アダムズの画像",
+      "lifespan": "1735～1826"
     },
     "ルイ・パスツール": {
       "name": "ルイ・パスツール",
@@ -9258,7 +9755,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "微生物学と予防医学の基礎を築き、食品衛生・感染症対策・ワクチン研究を大きく進めたためです。"
       },
       "image": "assets/people/person-5a8e297376.webp",
-      "imageAlt": "ルイ・パスツールの画像"
+      "imageAlt": "ルイ・パスツールの画像",
+      "lifespan": "1822～1895"
     },
     "サイイド・アフマド・ハーン": {
       "name": "サイイド・アフマド・ハーン",
@@ -9277,7 +9775,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "インドのムスリム教育改革を進め、近代化と宗教共同体の政治意識の形成へ影響したためです。"
       },
       "image": "assets/people/person-7e57baa118.webp",
-      "imageAlt": "サイイド・アフマド・ハーンの画像"
+      "imageAlt": "サイイド・アフマド・ハーンの画像",
+      "lifespan": "1817～1898"
     },
     "ダグラス・マッカーサー": {
       "name": "ダグラス・マッカーサー",
@@ -9295,7 +9794,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "戦後日本の制度改革に大きく関わり、軍人も文民政府に従う原則を示す事件の中心となったためです。"
       },
       "image": "assets/people/person-7215bb0731.webp",
-      "imageAlt": "ダグラス・マッカーサーの画像"
+      "imageAlt": "ダグラス・マッカーサーの画像",
+      "lifespan": "?～?"
     },
     "エレン・ジョンソン・サーリーフ": {
       "name": "エレン・ジョンソン・サーリーフ",
@@ -9315,7 +9815,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アフリカ初の選挙による女性国家元首として、内戦後復興と女性の政治参加を象徴したためです。"
       },
       "image": "assets/people/person-d76f4801e9.webp",
-      "imageAlt": "エレン・ジョンソン・サーリーフの画像"
+      "imageAlt": "エレン・ジョンソン・サーリーフの画像",
+      "lifespan": "1938～?"
     },
     "トトメス3世": {
       "name": "トトメス3世",
@@ -9334,7 +9835,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "エジプトを広域帝国へ成長させ、遠征記録から新王国の軍事・外交・貢納支配を知ることができるためです。"
       },
       "image": "assets/people/person-6279b7538a.webp",
-      "imageAlt": "トトメス3世の画像"
+      "imageAlt": "トトメス3世の画像",
+      "lifespan": "?～?"
     },
     "サルゴン2世": {
       "name": "サルゴン2世",
@@ -9353,7 +9855,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新アッシリア帝国の領土拡大と住民移住政策、巨大宮殿による王権表現を代表するためです。"
       },
       "image": "assets/people/person-fe80e980ec.webp",
-      "imageAlt": "サルゴン2世の画像"
+      "imageAlt": "サルゴン2世の画像",
+      "lifespan": "?～紀元前705"
     },
     "ヘロドトス": {
       "name": "ヘロドトス",
@@ -9371,7 +9874,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "出来事の原因を調査し、異文化を比較して記録する歴史叙述の基礎をつくったためです。"
       },
       "image": "assets/people/person-53e377756e.webp",
-      "imageAlt": "ヘロドトスの画像"
+      "imageAlt": "ヘロドトスの画像",
+      "lifespan": "紀元前484ごろ～紀元前425ごろ"
     },
     "ティベリウス": {
       "name": "ティベリウス",
@@ -9390,7 +9894,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アウグストゥス後の帝政継承を定着させる一方、皇帝と元老院の緊張を深めたためです。"
       },
       "image": "assets/people/person-6a7d9d902d.webp",
-      "imageAlt": "ティベリウスの画像"
+      "imageAlt": "ティベリウスの画像",
+      "lifespan": "紀元前42～37"
     },
     "荘子": {
       "name": "荘子",
@@ -9409,7 +9914,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "道家思想を豊かな文学表現へ発展させ、中国の哲学・詩文・絵画・人生観へ影響したためです。"
       },
       "image": "assets/people/person-906371073c.webp",
-      "imageAlt": "荘子の画像"
+      "imageAlt": "荘子の画像",
+      "lifespan": "紀元前369ごろ～紀元前286ごろ"
     },
     "アサンガ": {
       "name": "アサンガ",
@@ -9428,7 +9934,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "大乗仏教の心と認識の理論を体系化し、中国・日本・チベットの仏教思想へ影響したためです。"
       },
       "image": "assets/people/person-0090ac93db.webp",
-      "imageAlt": "アサンガの画像"
+      "imageAlt": "アサンガの画像",
+      "lifespan": "?～?"
     },
     "司馬光": {
       "name": "司馬光",
@@ -9447,7 +9954,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "歴史を政治の教訓として体系化し、東アジアの歴史叙述と統治思想へ長く影響したためです。"
       },
       "image": "assets/people/person-846b68113b.webp",
-      "imageAlt": "司馬光の画像"
+      "imageAlt": "司馬光の画像",
+      "lifespan": "1019～1086"
     },
     "リチャード・ド・ベリー": {
       "name": "リチャード・ド・ベリー",
@@ -9465,7 +9973,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "印刷以前の中世社会で、書物と図書館が知識を保存し教育へ伝える価値を明確に説いたためです。"
       },
       "image": "assets/people/person-22dedfd93d.webp",
-      "imageAlt": "リチャード・ド・ベリーの画像"
+      "imageAlt": "リチャード・ド・ベリーの画像",
+      "lifespan": "1287～1345"
     },
     "ジェームズ・クック": {
       "name": "ジェームズ・クック",
@@ -9483,7 +9992,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "太平洋地図と長距離航海を発展させる一方、その成果が先住民の土地の植民地化へ利用されたためです。"
       },
       "image": "assets/people/person-80df1afa33.webp",
-      "imageAlt": "ジェームズ・クックの画像"
+      "imageAlt": "ジェームズ・クックの画像",
+      "lifespan": "1728～1779"
     },
     "アビゲイル・アダムズ": {
       "name": "アビゲイル・アダムズ",
@@ -9503,7 +10013,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "公的政治から女性が排除された時代に、その権利要求と生活経験を具体的な書簡として残したためです。"
       },
       "image": "assets/people/person-a9d2a04956.webp",
-      "imageAlt": "アビゲイル・アダムズの画像"
+      "imageAlt": "アビゲイル・アダムズの画像",
+      "lifespan": "1744～1818"
     },
     "エドワード・ジェンナー": {
       "name": "エドワード・ジェンナー",
@@ -9522,7 +10033,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "人類初の本格的なワクチンを実用化し、感染症を予防し最終的に根絶する道を開いたためです。"
       },
       "image": "assets/people/person-187e9cbe5e.webp",
-      "imageAlt": "エドワード・ジェンナーの画像"
+      "imageAlt": "エドワード・ジェンナーの画像",
+      "lifespan": "1749～1823"
     },
     "ラーマクリシュナ": {
       "name": "ラーマクリシュナ",
@@ -9541,7 +10053,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "宗教間の共通性を強調し、近代ヒンドゥー教の改革と世界的な宗教対話へ影響したためです。"
       },
       "image": "assets/people/person-b9fe782cb4.webp",
-      "imageAlt": "ラーマクリシュナの画像"
+      "imageAlt": "ラーマクリシュナの画像",
+      "lifespan": "1836～1886"
     },
     "ジョージ・マーシャル": {
       "name": "ジョージ・マーシャル",
@@ -9559,7 +10072,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "連合国の戦争遂行と戦後欧州復興を支え、冷戦初期の西側秩序を安定させたためです。"
       },
       "image": "assets/people/person-19bc08aafd.webp",
-      "imageAlt": "ジョージ・マーシャルの画像"
+      "imageAlt": "ジョージ・マーシャルの画像",
+      "lifespan": "1880～1959"
     },
     "ルース・ベイダー・ギンズバーグ": {
       "name": "ルース・ベイダー・ギンズバーグ",
@@ -9578,7 +10092,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "性別に基づく法的差別を段階的に崩し、司法による平等と少数意見の役割を示したためです。"
       },
       "image": "assets/people/person-99609838d7.webp",
-      "imageAlt": "ルース・ベイダー・ギンズバーグの画像"
+      "imageAlt": "ルース・ベイダー・ギンズバーグの画像",
+      "lifespan": "1933～2020"
     },
     "アメンホテプ3世": {
       "name": "アメンホテプ3世",
@@ -9597,7 +10112,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新王国エジプトの国際外交・富・建築・王妃の地位が最盛期に達した時代を代表するためです。"
       },
       "image": "assets/people/person-3402a471f3.webp",
-      "imageAlt": "アメンホテプ3世の画像"
+      "imageAlt": "アメンホテプ3世の画像",
+      "lifespan": "?～?"
     },
     "トゥキディデス": {
       "name": "トゥキディデス",
@@ -9615,7 +10131,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "神話ではなく人間の行動と政治構造から戦争原因を分析する批判的歴史学の基礎を示したためです。"
       },
       "image": "assets/people/person-66b848de50.webp",
-      "imageAlt": "トゥキディデスの画像"
+      "imageAlt": "トゥキディデスの画像",
+      "lifespan": "紀元前460ごろ～紀元前400ごろ"
     },
     "老子": {
       "name": "老子",
@@ -9634,7 +10151,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "道家思想の基礎をつくり、中国の政治観・自然観・宗教・文学・芸術へ長く影響したためです。"
       },
       "image": "assets/people/person-99a3a0b6f0.webp",
-      "imageAlt": "老子の画像"
+      "imageAlt": "老子の画像",
+      "lifespan": "?～?"
     },
     "エルナン・コルテス": {
       "name": "エルナン・コルテス",
@@ -9652,7 +10170,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "スペインのアメリカ大陸支配を決定的に進める一方、先住民社会へ大規模な破壊をもたらしたためです。"
       },
       "image": "assets/people/person-0abcdd8016.webp",
-      "imageAlt": "エルナン・コルテスの画像"
+      "imageAlt": "エルナン・コルテスの画像",
+      "lifespan": "1485～1547"
     },
     "ローザ・パークス": {
       "name": "ローザ・パークス",
@@ -9670,7 +10189,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "日常生活の差別へ抵抗し、公民権運動を全国的な非暴力運動へ発展させる象徴となったためです。"
       },
       "image": "assets/people/person-6fc044a210.webp",
-      "imageAlt": "ローザ・パークスの画像"
+      "imageAlt": "ローザ・パークスの画像",
+      "lifespan": "1913～2005"
     },
     "アクエンアテン": {
       "name": "アクエンアテン",
@@ -9689,7 +10209,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "古代エジプトで王権主導の大規模宗教改革を行い、宗教・美術・政治の関係を大きく変えたためです。"
       },
       "image": "assets/people/person-5282fde232.webp",
-      "imageAlt": "アクエンアテンの画像"
+      "imageAlt": "アクエンアテンの画像",
+      "lifespan": "?～?"
     },
     "ネロ": {
       "name": "ネロ",
@@ -9708,7 +10229,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "皇帝独裁の不安定さと、後世の暴君像が史実・宣伝・伝承から形成される過程を示すためです。"
       },
       "image": "assets/people/person-b5cbace420.webp",
-      "imageAlt": "ネロの画像"
+      "imageAlt": "ネロの画像",
+      "lifespan": "37～68"
     },
     "孟子": {
       "name": "孟子",
@@ -9728,7 +10250,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "儒教を人間観と政治論の両面で発展させ、東アジアの道徳・教育・統治思想へ影響したためです。"
       },
       "image": "assets/people/person-e106018db8.webp",
-      "imageAlt": "孟子の画像"
+      "imageAlt": "孟子の画像",
+      "lifespan": "紀元前372ごろ～紀元前289ごろ"
     },
     "フランシスコ・ピサロ": {
       "name": "フランシスコ・ピサロ",
@@ -9746,7 +10269,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "スペインの南米支配を確立する一方、インカ社会へ略奪・強制労働・人口減少をもたらしたためです。"
       },
       "image": "assets/people/person-1f806de4af.webp",
-      "imageAlt": "フランシスコ・ピサロの画像"
+      "imageAlt": "フランシスコ・ピサロの画像",
+      "lifespan": "1478ごろ～1541"
     },
     "ロベスピエール": {
       "name": "ロベスピエール",
@@ -9765,7 +10289,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "革命を守る非常措置が権利侵害と政治的暴力へ転じる危険を示す中心人物だからです。"
       },
       "image": "assets/people/person-5fd87cbb63.webp",
-      "imageAlt": "ロベスピエールの画像"
+      "imageAlt": "ロベスピエールの画像",
+      "lifespan": "1758～1794"
     },
     "カール・マルクス": {
       "name": "カール・マルクス",
@@ -9785,7 +10310,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "資本主義批判と社会主義思想を体系化し、世界の労働運動・革命・政治体制へ大きく影響したためです。"
       },
       "image": "assets/people/person-b83304a316.webp",
-      "imageAlt": "カール・マルクスの画像"
+      "imageAlt": "カール・マルクスの画像",
+      "lifespan": "1818～1883"
     },
     "マルコムX": {
       "name": "マルコムX",
@@ -9804,7 +10330,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "公民権運動に急進的な視点を加え、黒人解放・自己決定・国際的人権の議論を広げたためです。"
       },
       "image": "assets/people/person-99c89b30cf.webp",
-      "imageAlt": "マルコムXの画像"
+      "imageAlt": "マルコムXの画像",
+      "lifespan": "1925～1965"
     },
     "ネフェルティティ": {
       "name": "ネフェルティティ",
@@ -9822,7 +10349,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "アマルナ時代の女性王権・宗教改革・美術を示す中心人物であり、王妃の政治的地位を考えられるためです。"
       },
       "image": "assets/people/person-84e02673e2.webp",
-      "imageAlt": "ネフェルティティの画像"
+      "imageAlt": "ネフェルティティの画像",
+      "lifespan": "?～?"
     },
     "アッシュルバニパル": {
       "name": "アッシュルバニパル",
@@ -9841,7 +10369,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "新アッシリアの最盛期を支え、古代メソポタミアの文学・科学・宗教文書を後世へ残したためです。"
       },
       "image": "assets/people/person-ed3d36e598.webp",
-      "imageAlt": "アッシュルバニパルの画像"
+      "imageAlt": "アッシュルバニパルの画像",
+      "lifespan": "?～紀元前627ごろ"
     },
     "荀子": {
       "name": "荀子",
@@ -9861,7 +10390,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "儒教に教育と制度を重視する現実的な人間観を加え、法家思想の形成にも影響したためです。"
       },
       "image": "assets/people/person-4a209266db.webp",
-      "imageAlt": "荀子の画像"
+      "imageAlt": "荀子の画像",
+      "lifespan": "紀元前313ごろ～紀元前238ごろ"
     },
     "ダントン": {
       "name": "ダントン",
@@ -9880,7 +10410,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "革命を守る暴力に関わった指導者が、その暴力の拡大によって排除される革命政治の矛盾を示すためです。"
       },
       "image": "assets/people/person-c4428b21b4.webp",
-      "imageAlt": "ダントンの画像"
+      "imageAlt": "ダントンの画像",
+      "lifespan": "1759～1794"
     },
     "山本五十六": {
       "name": "山本五十六",
@@ -9898,7 +10429,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "対米戦の危険を理解しながら開戦作戦を実行し、日本海軍の初期勝利と戦局転換の双方を担ったためです。"
       },
       "image": "assets/people/person-42eae66dde.webp",
-      "imageAlt": "山本五十六の画像"
+      "imageAlt": "山本五十六の画像",
+      "lifespan": "?～?"
     },
     "ツタンカーメン": {
       "name": "ツタンカーメン",
@@ -9917,7 +10449,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ほぼ未盗掘の王墓と膨大な副葬品が発見され、新王国エジプトの葬祭と生活を詳しく伝えるためです。"
       },
       "image": "assets/people/person-0d6bdcc9e3.webp",
-      "imageAlt": "ツタンカーメンの画像"
+      "imageAlt": "ツタンカーメンの画像",
+      "lifespan": "?～?"
     },
     "アルキメデス": {
       "name": "アルキメデス",
@@ -9935,7 +10468,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "数学的証明を力学・流体・工学へ結び付け、近代科学へ続く数理的な自然研究の模範となったためです。"
       },
       "image": "assets/people/person-490f054f0e.webp",
-      "imageAlt": "アルキメデスの画像"
+      "imageAlt": "アルキメデスの画像",
+      "lifespan": "紀元前287ごろ～紀元前212"
     },
     "韓非": {
       "name": "韓非",
@@ -9955,7 +10489,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "法家思想を完成させ、秦の中央集権国家と後世の中国統治論へ大きな影響を与えたためです。"
       },
       "image": "assets/people/person-a053e7d49e.webp",
-      "imageAlt": "韓非の画像"
+      "imageAlt": "韓非の画像",
+      "lifespan": "紀元前280ごろ～紀元前233"
     },
     "忽必烈": {
       "name": "忽必烈",
@@ -9974,7 +10509,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "モンゴル帝国と中国王朝を結び、ユーラシア交流を活発化させる一方、遠征と支配の負担も残したためです。"
       },
       "image": "assets/people/person-148ecd3c87.webp",
-      "imageAlt": "忽必烈の画像"
+      "imageAlt": "忽必烈の画像",
+      "lifespan": "1215～1294"
     },
     "アベラール": {
       "name": "アベラール",
@@ -9993,7 +10529,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "信仰内容を理性と論理で研究するスコラ学を発展させ、中世大学の討論教育へ影響したためです。"
       },
       "image": "assets/people/person-309ec64c9d.webp",
-      "imageAlt": "アベラールの画像"
+      "imageAlt": "アベラールの画像",
+      "lifespan": "1079～1142"
     },
     "ホセ・リサール": {
       "name": "ホセ・リサール",
@@ -10012,7 +10549,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "言論による改革運動と処刑がフィリピン人の民族意識を高め、独立革命の象徴となったためです。"
       },
       "image": "assets/people/person-4f62e94133.webp",
-      "imageAlt": "ホセ・リサールの画像"
+      "imageAlt": "ホセ・リサールの画像",
+      "lifespan": "1861～1896"
     },
     "東条英機": {
       "name": "東条英機",
@@ -10032,7 +10570,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "日本の対米英開戦と侵略戦争を最高指導部で進め、戦争指導責任を裁かれた中心人物だからです。"
       },
       "image": "assets/people/person-6a7901b7d1.webp",
-      "imageAlt": "東条英機の画像"
+      "imageAlt": "東条英機の画像",
+      "lifespan": "?～?"
     },
     "アイ": {
       "name": "アイ",
@@ -10049,7 +10588,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ツタンカーメンの死後に王となった高官です。少年王の時代から宮廷で大きな力を持ち、伝統的な神々への復帰を進めました。王位についた経緯には、資料が少なく不明な点があります。",
         "whatDid": "王権と建築を示す人",
         "whyImportant": "アイを知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～紀元前1319ごろ"
     },
     "ホルエムヘブ": {
       "name": "ホルエムヘブ",
@@ -10068,7 +10608,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "古代エジプト第十八王朝末の王です。軍人から王となり、役人の不正を禁じる法令を出しました。アテン信仰の時代を公式の王名表から省き、王朝の歴史を作り直しました。",
         "whatDid": "王権と建築を示す人",
         "whyImportant": "ホルエムヘブを知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～紀元前1292ごろ"
     },
     "セティ1世": {
       "name": "セティ1世",
@@ -10085,7 +10626,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "古代エジプト第十九王朝の王です。シリア・パレスチナ方面で失った地域の回復を目指し、カルナック神殿を整備しました。王墓の壁画には、神々や死後の世界についての考えが描かれています。",
         "whatDid": "王権と建築を示す人",
         "whyImportant": "セティ1世を知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～紀元前1279"
     },
     "ラムセス2世": {
       "name": "ラムセス2世",
@@ -10103,7 +10645,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "古代エジプト第十九王朝の王です。ヒッタイトとカデシュで戦い、のちに和平を結びました。アブ・シンベル神殿など大建築を残しましたが、記録には王の功績を大きく見せる面もあります。",
         "whatDid": "王権と建築を示す人",
         "whyImportant": "ラムセス2世を知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前1303ごろ～紀元前1213"
     },
     "ラムセス3世": {
       "name": "ラムセス3世",
@@ -10120,7 +10663,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ラムセス3世は古代エジプトでナイル川流域の王権、神殿、墓、文字文化に関わりました。巨大な建築や記録から、都市と国家のしくみが見えてきます。",
         "whatDid": "王権と建築を示す人",
         "whyImportant": "ラムセス3世を知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前1217ごろ～紀元前1155"
     },
     "イムホテプ": {
       "name": "イムホテプ",
@@ -10137,7 +10681,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イムホテプは古代エジプトでナイル川流域の王権、神殿、墓、文字文化に関わりました。巨大な建築や記録から、都市と国家のしくみが見えてきます。",
         "whatDid": "王権と建築を示す人",
         "whyImportant": "イムホテプを知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "ネブカドネザル2世": {
       "name": "ネブカドネザル2世",
@@ -10154,7 +10699,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "新バビロニア王国の王です。エルサレムを攻略し、多くのユダヤ人をバビロンへ移しました。城壁や神殿を整え、バビロンを大都市にしましたが、強制移住は大きな苦しみを生みました。",
         "whatDid": "都市と文字を動かした人",
         "whyImportant": "ネブカドネザル2世を知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前642ごろ～紀元前562"
     },
     "ナボニドス": {
       "name": "ナボニドス",
@@ -10170,7 +10716,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "新バビロニア王国最後の王です。古い神殿や碑文に関心をもち、アラビアのテイマに長く滞在しました。その間、息子ベルシャザルがバビロンの政務を担い、国はペルシャに敗れました。",
         "whatDid": "都市と文字を動かした人",
         "whyImportant": "ナボニドスを知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "ベルシャザル": {
       "name": "ベルシャザル",
@@ -10186,7 +10733,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "新バビロニア王国のナボニドス王の息子です。父が不在の間、バビロンで軍や政務を任されました。正式な王ではなく皇太子・摂政だったことが、粘土板などの資料から分かっています。",
         "whatDid": "都市と文字を動かした人",
         "whyImportant": "ベルシャザルを知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～紀元前539"
     },
     "ヒラム1世": {
       "name": "ヒラム1世",
@@ -10202,7 +10750,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フェニキアの港市ティルスの王です。レバノン杉や職人の技術を用いた交易を進め、海上都市を豊かにしました。後世の記録ではイスラエルのソロモン王との協力でも知られます。",
         "whatDid": "都市と文字を動かした人",
         "whyImportant": "ヒラム1世を知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～紀元前947ごろ"
     },
     "ディド": {
       "name": "ディド",
@@ -10219,7 +10768,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ディドはメソポタミアと西アジアで都市国家、法律、楔形文字、軍事、交易に関わりました。川の文明で人々をまとめるしくみが育ったことを示します。",
         "whatDid": "都市と文字を動かした人",
         "whyImportant": "ディドを知ると、最初の文明の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "エラトステネス": {
       "name": "エラトステネス",
@@ -10235,7 +10785,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アレクサンドリア図書館の学者です。別の町でできる影の長さを比べ、地球の大きさをかなり正確に計算しました。地図づくりや地理学の基礎を作った人物の一人です。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "エラトステネスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前276ごろ～紀元前194ごろ"
     },
     "アリスタルコス": {
       "name": "アリスタルコス",
@@ -10253,7 +10804,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "古代ギリシャの天文学者です。太陽の周りを地球が回るという考えを早くから示したと伝えられます。当時は広く受け入れられませんでしたが、宇宙を見る別の考え方を残しました。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "アリスタルコスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前310ごろ～紀元前230ごろ"
     },
     "サッフォー": {
       "name": "サッフォー",
@@ -10269,7 +10821,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "エーゲ海のレスボス島出身の詩人です。愛、友情、祭りを歌った詩を残し、古代ギリシャの音楽や人々の感情を伝えました。作品の多くは失われ、現在は短い断片を中心に読まれています。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "サッフォーを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前630ごろ～紀元前570ごろ"
     },
     "アイスキュロス": {
       "name": "アイスキュロス",
@@ -10286,7 +10839,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "古代アテネの劇作家です。神話を使いながら、戦争、正義、復讐を考える悲劇を書きました。『ペルシア人』では、敵側の悲しみにも目を向け、戦争の被害を描きました。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "アイスキュロスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前525ごろ～紀元前456ごろ"
     },
     "ソフォクレス": {
       "name": "ソフォクレス",
@@ -10305,7 +10859,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ソフォクレスは古代ギリシャで都市国家の政治、哲学、数学、医学、文学に関わりました。話し合い、学び、芸術が後の世界へ広がる出発点になりました。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "ソフォクレスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前497ごろ～紀元前406ごろ"
     },
     "エウリピデス": {
       "name": "エウリピデス",
@@ -10324,7 +10879,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "エウリピデスは古代ギリシャで都市国家の政治、哲学、数学、医学、文学に関わりました。話し合い、学び、芸術が後の世界へ広がる出発点になりました。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "エウリピデスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前480ごろ～紀元前406"
     },
     "アリストファネス": {
       "name": "アリストファネス",
@@ -10343,7 +10899,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アリストファネスは古代ギリシャで都市国家の政治、哲学、数学、医学、文学に関わりました。話し合い、学び、芸術が後の世界へ広がる出発点になりました。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "アリストファネスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前446ごろ～紀元前386ごろ"
     },
     "フィディアス": {
       "name": "フィディアス",
@@ -10362,7 +10919,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フィディアスは古代ギリシャで都市国家の政治、哲学、数学、医学、文学に関わりました。話し合い、学び、芸術が後の世界へ広がる出発点になりました。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "フィディアスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前480ごろ～紀元前430ごろ"
     },
     "プトレマイオス": {
       "name": "プトレマイオス",
@@ -10381,7 +10939,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "プトレマイオスは古代ギリシャで都市国家の政治、哲学、数学、医学、文学に関わりました。話し合い、学び、芸術が後の世界へ広がる出発点になりました。",
         "whatDid": "政治と学問を広げた人",
         "whyImportant": "プトレマイオスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "100ごろ～170ごろ"
     },
     "トラヤヌス": {
       "name": "トラヤヌス",
@@ -10398,7 +10957,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ローマ帝国の皇帝です。ダキアを征服し、帝国の領土を最も広くしました。ローマ市内に市場や記念柱を建て、道路や福祉にも力を入れましたが、拡大は軍事負担も大きくしました。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "トラヤヌスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "53～117"
     },
     "ハドリアヌス": {
       "name": "ハドリアヌス",
@@ -10416,7 +10976,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ローマ帝国の皇帝です。領土をさらに広げるより、国境と都市を守る方針を取りました。ブリタンニア北部のハドリアヌスの長城を築き、各地を旅して行政を確かめました。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "ハドリアヌスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "76～138"
     },
     "マルクス・アウレリウス": {
       "name": "マルクス・アウレリウス",
@@ -10435,7 +10996,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ローマ帝国の皇帝で、哲学書『自省録』を書いた人物です。国境での戦いと疫病に苦しむ中、義務や心のあり方を考えました。五賢帝の一人ですが、平和な時代だけの皇帝ではありません。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "マルクス・アウレリウスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "121～180"
     },
     "コンモドゥス": {
       "name": "コンモドゥス",
@@ -10453,7 +11015,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ローマ帝国の皇帝です。父マルクス・アウレリウスの後を継ぎましたが、政治より競技や自分を英雄に見せることへ傾いたと同時代の記録は批判します。暗殺後、帝国は再び混乱しました。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "コンモドゥスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "161～192"
     },
     "セプティミウス・セウェルス": {
       "name": "セプティミウス・セウェルス",
@@ -10471,7 +11034,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "セプティミウス・セウェルスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "セプティミウス・セウェルスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "145～211"
     },
     "カラカラ": {
       "name": "カラカラ",
@@ -10489,7 +11053,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "カラカラはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "カラカラを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "188～217"
     },
     "ディオクレティアヌス": {
       "name": "ディオクレティアヌス",
@@ -10507,7 +11072,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ディオクレティアヌスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "ディオクレティアヌスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "244ごろ～311ごろ"
     },
     "ユリアヌス": {
       "name": "ユリアヌス",
@@ -10525,7 +11091,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ユリアヌスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "ユリアヌスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "331～363"
     },
     "テオドシウス": {
       "name": "テオドシウス",
@@ -10543,7 +11110,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "テオドシウスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "テオドシウスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "347～395"
     },
     "スパルタクス": {
       "name": "スパルタクス",
@@ -10561,7 +11129,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スパルタクスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "スパルタクスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～紀元前71"
     },
     "ウェルギリウス": {
       "name": "ウェルギリウス",
@@ -10579,7 +11148,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ウェルギリウスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "ウェルギリウスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前70～紀元前19"
     },
     "オウィディウス": {
       "name": "オウィディウス",
@@ -10597,7 +11167,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "オウィディウスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "オウィディウスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前43～17ごろ"
     },
     "セネカ": {
       "name": "セネカ",
@@ -10615,7 +11186,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "セネカはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "セネカを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前4ごろ～65"
     },
     "タキトゥス": {
       "name": "タキトゥス",
@@ -10633,7 +11205,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "タキトゥスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "タキトゥスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "56ごろ～120ごろ"
     },
     "プリニウス": {
       "name": "プリニウス",
@@ -10651,7 +11224,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "プリニウスはローマと地中海で共和政、帝政、法律、道路、都市文化に関わりました。広い地域を治める制度と、その負担の両方を示します。",
         "whatDid": "法律と帝国を形づくった人",
         "whyImportant": "プリニウスを知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "23～79"
     },
     "李斯": {
       "name": "李斯",
@@ -10668,7 +11242,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "秦の始皇帝に仕えた政治家です。文字や度量衡をそろえる政策を進め、中央集権の国づくりに関わりました。一方で思想を取り締まる政策にも関わり、最後は政争で処刑されました。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "李斯を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前280ごろ～紀元前208"
     },
     "項羽": {
       "name": "項羽",
@@ -10684,7 +11259,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "秦が倒れた後の中国で、強い軍を率いた武将です。劉邦と覇権を争い、一時は広い地域を支配しました。戦いでは勇敢でしたが、味方をまとめきれず垓下で敗れて自害しました。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "項羽を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前232～紀元前202"
     },
     "劉邦": {
       "name": "劉邦",
@@ -10701,7 +11277,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "農民出身から秦の滅亡後の争いを勝ち抜き、漢を建てた皇帝です。項羽を破り、役人の仕組みと地方の王を組み合わせて国を治めました。漢は長く中国の基礎となりました。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "劉邦を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前256ごろ～紀元前195"
     },
     "呂后": {
       "name": "呂后",
@@ -10718,7 +11295,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "漢の高祖・劉邦の皇后で、夫の死後に幼い皇帝を支えて実権を持ちました。一族を重用したため後世の史書では厳しく描かれますが、女性が政治を動かした重要な例でもあります。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "呂后を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前241～紀元前180"
     },
     "武帝": {
       "name": "武帝",
@@ -10735,7 +11313,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "武帝はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "武帝を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前156～紀元前87"
     },
     "司馬遷": {
       "name": "司馬遷",
@@ -10751,7 +11330,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "司馬遷はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "司馬遷を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前145ごろ～紀元前86ごろ"
     },
     "張騫": {
       "name": "張騫",
@@ -10768,7 +11348,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "張騫はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "張騫を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～紀元前114"
     },
     "王莽": {
       "name": "王莽",
@@ -10784,7 +11365,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "王莽はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "王莽を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "紀元前45～23"
     },
     "班固": {
       "name": "班固",
@@ -10800,7 +11382,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "班固はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "班固を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "32～92"
     },
     "班昭": {
       "name": "班昭",
@@ -10816,7 +11399,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "班昭はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "班昭を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "45ごろ～116ごろ"
     },
     "張衡": {
       "name": "張衡",
@@ -10832,7 +11416,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "張衡はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "張衡を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "78～139"
     },
     "蔡倫": {
       "name": "蔡倫",
@@ -10849,7 +11434,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "蔡倫はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "蔡倫を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～121"
     },
     "華佗": {
       "name": "華佗",
@@ -10865,7 +11451,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "華佗はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "華佗を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "140ごろ～208"
     },
     "曹操": {
       "name": "曹操",
@@ -10883,7 +11470,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "曹操はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "曹操を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "155～220"
     },
     "劉備": {
       "name": "劉備",
@@ -10901,7 +11489,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "劉備はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "劉備を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "161～223"
     },
     "諸葛亮": {
       "name": "諸葛亮",
@@ -10919,7 +11508,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "諸葛亮はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "諸葛亮を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "181～234"
     },
     "卑弥呼": {
       "name": "卑弥呼",
@@ -10937,7 +11527,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "卑弥呼はペルシャ・インド・中国で王朝、官僚、思想、宗教、交易に関わりました。広い土地を治める政治と、多様な人々を結ぶしくみを示します。",
         "whatDid": "広い国をまとめた人",
         "whyImportant": "卑弥呼を知ると、古代の大国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～248ごろ"
     },
     "法顕": {
       "name": "法顕",
@@ -10954,7 +11545,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "中国東晋時代の僧です。戒律の経典を求めてインドへ旅し、海路で中国へ帰りました。『仏国記』にインドや東南アジアの社会を記録し、当時の国際交流を伝えました。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "法顕を知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "337ごろ～422ごろ"
     },
     "義浄": {
       "name": "義浄",
@@ -10972,7 +11564,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "唐の時代に海路でインドや東南アジアを旅した僧です。ナーランダー僧院で学び、仏典を中国語へ訳しました。港町シュリーヴィジャヤでの学びも記し、海の交流路を伝えました。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "義浄を知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "635～713"
     },
     "空海": {
       "name": "空海",
@@ -10990,7 +11583,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "平安時代に唐へ渡り、長安で密教を学んだ僧です。帰国後に真言宗を開き、高野山を拠点にしました。文字、書、土木にも関心を持ち、日本の仏教文化に大きな影響を残しました。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "空海を知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "774～835"
     },
     "最澄": {
       "name": "最澄",
@@ -11007,7 +11601,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "平安時代に比叡山延暦寺を開き、天台宗を広めた僧です。唐で学んだ教えをもとに、僧が学ぶ場を作りました。のちの日本仏教の多くの僧が比叡山で学びました。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "最澄を知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "767～822"
     },
     "鑑真": {
       "name": "鑑真",
@@ -11025,7 +11620,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "鑑真はユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "鑑真を知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "688～763"
     },
     "聖徳太子": {
       "name": "聖徳太子",
@@ -11043,7 +11639,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "聖徳太子はユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "聖徳太子を知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "574～622"
     },
     "推古天皇": {
       "name": "推古天皇",
@@ -11061,7 +11658,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "推古天皇はユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "推古天皇を知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "554～628"
     },
     "アル・フワーリズミー": {
       "name": "アル・フワーリズミー",
@@ -11079,7 +11677,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アル・フワーリズミーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "アル・フワーリズミーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "780ごろ～850ごろ"
     },
     "アル・キンディー": {
       "name": "アル・キンディー",
@@ -11097,7 +11696,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アル・キンディーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "アル・キンディーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "801ごろ～873ごろ"
     },
     "アル・ラーズィー": {
       "name": "アル・ラーズィー",
@@ -11115,7 +11715,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アル・ラーズィーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "アル・ラーズィーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "865ごろ～925"
     },
     "アル・ファーラービー": {
       "name": "アル・ファーラービー",
@@ -11133,7 +11734,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アル・ファーラービーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "アル・ファーラービーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "870ごろ～950"
     },
     "イブン・シーナー": {
       "name": "イブン・シーナー",
@@ -11151,7 +11753,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イブン・シーナーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "イブン・シーナーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "980～1037"
     },
     "イブン・ルシュド": {
       "name": "イブン・ルシュド",
@@ -11169,7 +11772,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イブン・ルシュドはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "イブン・ルシュドを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1126～1198"
     },
     "アル・ビールーニー": {
       "name": "アル・ビールーニー",
@@ -11187,7 +11791,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アル・ビールーニーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "アル・ビールーニーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "973～1048"
     },
     "ファーティマ・アル・フィフリーヤ": {
       "name": "ファーティマ・アル・フィフリーヤ",
@@ -11205,7 +11810,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ファーティマ・アル・フィフリーヤはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "ファーティマ・アル・フィフリーヤを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "ラービア・アルアダウィーヤ": {
       "name": "ラービア・アルアダウィーヤ",
@@ -11223,7 +11829,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ラービア・アルアダウィーヤはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "ラービア・アルアダウィーヤを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "714ごろ～801"
     },
     "バスラのハサン": {
       "name": "バスラのハサン",
@@ -11241,7 +11848,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "バスラのハサンはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "バスラのハサンを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "642～728"
     },
     "アリー": {
       "name": "アリー",
@@ -11259,7 +11867,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アリーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "アリーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "600ごろ～661"
     },
     "アーイシャ": {
       "name": "アーイシャ",
@@ -11277,7 +11886,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アーイシャはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "アーイシャを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "614ごろ～678"
     },
     "ウマル": {
       "name": "ウマル",
@@ -11295,7 +11905,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ウマルはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "ウマルを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "584ごろ～644"
     },
     "ウスマーン": {
       "name": "ウスマーン",
@@ -11313,7 +11924,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ウスマーンはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "ウスマーンを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "576ごろ～656"
     },
     "アブー・バクル": {
       "name": "アブー・バクル",
@@ -11331,7 +11943,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アブー・バクルはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "アブー・バクルを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "573ごろ～634"
     },
     "ハールーン・アッラシード": {
       "name": "ハールーン・アッラシード",
@@ -11349,7 +11962,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ハールーン・アッラシードはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "ハールーン・アッラシードを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "763～809"
     },
     "マアムーン": {
       "name": "マアムーン",
@@ -11367,7 +11981,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "マアムーンはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "マアムーンを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "786～833"
     },
     "ビラール": {
       "name": "ビラール",
@@ -11385,7 +12000,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ビラールはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "ビラールを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "580ごろ～640ごろ"
     },
     "バヤジード・バスターミー": {
       "name": "バヤジード・バスターミー",
@@ -11403,7 +12019,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "バヤジード・バスターミーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "バヤジード・バスターミーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "804ごろ～874ごろ"
     },
     "ルーミー": {
       "name": "ルーミー",
@@ -11421,7 +12038,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ルーミーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "ルーミーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1207～1273"
     },
     "イブン・アラビー": {
       "name": "イブン・アラビー",
@@ -11439,7 +12057,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イブン・アラビーはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "イブン・アラビーを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1165～1240"
     },
     "トマス・アクィナス": {
       "name": "トマス・アクィナス",
@@ -11457,7 +12076,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "トマス・アクィナスはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "トマス・アクィナスを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1225ごろ～1274"
     },
     "フランチェスコ": {
       "name": "フランチェスコ",
@@ -11475,7 +12095,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランチェスコはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "フランチェスコを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1181ごろ～1226"
     },
     "ヒルデガルト": {
       "name": "ヒルデガルト",
@@ -11493,7 +12114,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ヒルデガルトはユーラシアとアフリカで宗教、翻訳、神学、修道院、寺院、学びの場に関わりました。信仰が文化や社会の支えにも支配の力にもなったことを示します。",
         "whatDid": "信仰と学問を伝えた人",
         "whyImportant": "ヒルデガルトを知ると、宗教と文化が広がった時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1098～1179"
     },
     "マルコ・ポーロ": {
       "name": "マルコ・ポーロ",
@@ -11509,7 +12131,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イタリアの商人で、父や叔父とともにモンゴル帝国の支配地を旅したと伝えられます。帰国後の話をまとめた本はアジアへの関心を高めましたが、内容には聞き書きや誇張の可能性もあります。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "マルコ・ポーロを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1254～1324"
     },
     "ラシードゥッディーン": {
       "name": "ラシードゥッディーン",
@@ -11526,7 +12149,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イルハン朝に仕えたペルシャの役人・歴史家です。モンゴル帝国と周辺地域の歴史を『集史』にまとめました。中国、西アジア、ヨーロッパなどの情報を集め、広い地域を結ぶ歴史書を作りました。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "ラシードゥッディーンを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1247～1318"
     },
     "バトゥ": {
       "name": "バトゥ",
@@ -11543,7 +12167,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "チンギス・ハンの孫で、モンゴル軍を率いてロシアや東ヨーロッパへ進んだ指導者です。ボルガ川下流にキプチャク・ハン国を築き、交易を支配しましたが、征服は大きな被害を生みました。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "バトゥを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1205ごろ～1255"
     },
     "フレグ": {
       "name": "フレグ",
@@ -11559,7 +12184,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フレグは東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "フレグを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1217～1265"
     },
     "ティムール": {
       "name": "ティムール",
@@ -11575,7 +12201,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ティムールは東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "ティムールを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1336～1405"
     },
     "ウルグ・ベク": {
       "name": "ウルグ・ベク",
@@ -11591,7 +12218,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ウルグ・ベクは東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "ウルグ・ベクを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1394～1449"
     },
     "バーブル": {
       "name": "バーブル",
@@ -11607,7 +12235,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "バーブルは東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "バーブルを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1483～1530"
     },
     "アクバル": {
       "name": "アクバル",
@@ -11623,7 +12252,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アクバルは東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "アクバルを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1542～1605"
     },
     "シャー・ジャハーン": {
       "name": "シャー・ジャハーン",
@@ -11639,7 +12269,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "シャー・ジャハーンは東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "シャー・ジャハーンを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1592～1666"
     },
     "アウラングゼーブ": {
       "name": "アウラングゼーブ",
@@ -11655,7 +12286,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アウラングゼーブは東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "アウラングゼーブを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1618～1707"
     },
     "世宗": {
       "name": "世宗",
@@ -11671,7 +12303,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "世宗は東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "世宗を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1397～1450"
     },
     "李成桂": {
       "name": "李成桂",
@@ -11687,7 +12320,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "李成桂は東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "李成桂を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1335～1408"
     },
     "新羅の善徳女王": {
       "name": "新羅の善徳女王",
@@ -11703,7 +12337,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "新羅の善徳女王は東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "新羅の善徳女王を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～647"
     },
     "王建": {
       "name": "王建",
@@ -11719,7 +12354,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "王建は東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "王建を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "877～943"
     },
     "北条時宗": {
       "name": "北条時宗",
@@ -11735,7 +12371,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "北条時宗は東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "北条時宗を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1251～1284"
     },
     "足利義満": {
       "name": "足利義満",
@@ -11751,7 +12388,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "足利義満は東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "足利義満を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1358～1408"
     },
     "一休宗純": {
       "name": "一休宗純",
@@ -11767,7 +12405,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "一休宗純は東アジアと中央アジアで王朝政治、草原の交流、紙や印刷、海と陸の交易に関わりました。人と物と考えが広く移動した時代を表します。",
         "whatDid": "交易と王朝を動かした人",
         "whyImportant": "一休宗純を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1394～1481"
     },
     "クリスティーヌ・ド・ピザン": {
       "name": "クリスティーヌ・ド・ピザン",
@@ -11783,7 +12422,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "中世フランスで、女性が学び働く力を持つと文章で訴えた作家です。『女性の都』で、女性への偏見に反論しました。女性が自分の名で生計を立てた早い例の一人です。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "クリスティーヌ・ド・ピザンを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1364ごろ～1430ごろ"
     },
     "メフメト2世": {
       "name": "メフメト2世",
@@ -11800,7 +12440,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "オスマン帝国のスルタンです。1453年にコンスタンティノープルを攻略し、都をイスタンブルとして整えました。東ローマ帝国を終わらせ、地中海と黒海の政治・交易を大きく変えました。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "メフメト2世を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1432～1481"
     },
     "スレイマン1世": {
       "name": "スレイマン1世",
@@ -11817,7 +12458,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スレイマン1世はヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "スレイマン1世を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1494～1566"
     },
     "オスマン1世": {
       "name": "オスマン1世",
@@ -11834,7 +12476,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "オスマン1世はヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "オスマン1世を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1258ごろ～1324ごろ"
     },
     "イブン・ハルドゥーン": {
       "name": "イブン・ハルドゥーン",
@@ -11851,7 +12494,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イブン・ハルドゥーンはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "イブン・ハルドゥーンを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1332～1406"
     },
     "レオ・アフリカヌス": {
       "name": "レオ・アフリカヌス",
@@ -11868,7 +12512,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "レオ・アフリカヌスはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "レオ・アフリカヌスを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1494ごろ～1554ごろ"
     },
     "スンジャタ": {
       "name": "スンジャタ",
@@ -11885,7 +12530,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スンジャタはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "スンジャタを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1217ごろ～1255ごろ"
     },
     "イブン・ヤースィーン": {
       "name": "イブン・ヤースィーン",
@@ -11902,7 +12548,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イブン・ヤースィーンはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "イブン・ヤースィーンを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～1059"
     },
     "ソンニ・アリ": {
       "name": "ソンニ・アリ",
@@ -11919,7 +12566,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ソンニ・アリはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "ソンニ・アリを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～1492"
     },
     "アスキア・ムハンマド": {
       "name": "アスキア・ムハンマド",
@@ -11936,7 +12584,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アスキア・ムハンマドはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "アスキア・ムハンマドを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1443ごろ～1538"
     },
     "エザナ": {
       "name": "エザナ",
@@ -11953,7 +12602,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "エザナはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "エザナを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "ラリベラ": {
       "name": "ラリベラ",
@@ -11970,7 +12620,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ラリベラはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "ラリベラを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "ヤア・アサンテワ": {
       "name": "ヤア・アサンテワ",
@@ -11987,7 +12638,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ヤア・アサンテワはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "ヤア・アサンテワを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1840ごろ～1921"
     },
     "パチャクテク": {
       "name": "パチャクテク",
@@ -12004,7 +12656,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "パチャクテクはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "パチャクテクを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1418ごろ～1471ごろ"
     },
     "トゥパク・インカ・ユパンキ": {
       "name": "トゥパク・インカ・ユパンキ",
@@ -12021,7 +12674,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "トゥパク・インカ・ユパンキはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "トゥパク・インカ・ユパンキを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1441ごろ～1493ごろ"
     },
     "ワイナ・カパック": {
       "name": "ワイナ・カパック",
@@ -12038,7 +12692,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ワイナ・カパックはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "ワイナ・カパックを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1464ごろ～1527"
     },
     "モクテスマ1世": {
       "name": "モクテスマ1世",
@@ -12055,7 +12710,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "モクテスマ1世はヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "モクテスマ1世を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1398ごろ～1469"
     },
     "モクテスマ2世": {
       "name": "モクテスマ2世",
@@ -12072,7 +12728,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "モクテスマ2世はヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "モクテスマ2世を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1466ごろ～1520"
     },
     "ネサワルコヨトル": {
       "name": "ネサワルコヨトル",
@@ -12089,7 +12746,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ネサワルコヨトルはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "ネサワルコヨトルを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1402～1472"
     },
     "パカル王": {
       "name": "パカル王",
@@ -12106,7 +12764,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "パカル王はヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "パカル王を知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "603～683"
     },
     "イシュ・ワク・チャン": {
       "name": "イシュ・ワク・チャン",
@@ -12123,7 +12782,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イシュ・ワク・チャンはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "イシュ・ワク・チャンを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "シヤフ・カック": {
       "name": "シヤフ・カック",
@@ -12140,7 +12800,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "シヤフ・カックはヨーロッパ・アフリカ・アメリカで王国、都市、大学、交易、巡礼、建築、文学に関わりました。地域ごとの文化が交流しながら発展したことを示します。",
         "whatDid": "王国と都市を支えた人",
         "whyImportant": "シヤフ・カックを知ると、交易と王国の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "トゥパク・アマル2世": {
       "name": "トゥパク・アマル2世",
@@ -12156,7 +12817,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "18世紀ペルーで、植民地の重い税や強制労働に反対して大きな反乱を率いた人物です。反乱は鎮圧され処刑されましたが、先住民の権利と独立を求める運動の象徴になりました。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "トゥパク・アマル2世を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1738～1781"
     },
     "クアウテモック": {
       "name": "クアウテモック",
@@ -12172,7 +12834,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アステカ最後の支配者です。スペイン軍と同盟した先住民勢力に包囲されたテノチティトランを守りました。1521年に捕らえられ、アステカ帝国の終わりと先住民の抵抗を象徴する人物です。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "クアウテモックを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1495ごろ～1525"
     },
     "アタワルパ": {
       "name": "アタワルパ",
@@ -12188,7 +12851,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "インカ帝国の皇帝です。兄との内戦に勝った直後、ピサロの軍にカハマルカで捕らえられました。身代金を集めても処刑され、スペインによるインカ支配の決定的な転機になりました。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "アタワルパを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1502ごろ～1533"
     },
     "ポカホンタス": {
       "name": "ポカホンタス",
@@ -12204,7 +12868,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ポカホンタスは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "ポカホンタスを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1596ごろ～1617"
     },
     "ワフンスナコック": {
       "name": "ワフンスナコック",
@@ -12220,7 +12885,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ワフンスナコックは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "ワフンスナコックを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1547ごろ～1618"
     },
     "メタコメット": {
       "name": "メタコメット",
@@ -12236,7 +12902,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "メタコメットは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "メタコメットを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1638ごろ～1676"
     },
     "テカムセ": {
       "name": "テカムセ",
@@ -12252,7 +12919,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "テカムセは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "テカムセを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1768ごろ～1813"
     },
     "サミュエル・ド・シャンプラン": {
       "name": "サミュエル・ド・シャンプラン",
@@ -12268,7 +12936,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "サミュエル・ド・シャンプランは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "サミュエル・ド・シャンプランを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1574ごろ～1635"
     },
     "ピーター・ストイフェサント": {
       "name": "ピーター・ストイフェサント",
@@ -12284,7 +12953,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ピーター・ストイフェサントは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "ピーター・ストイフェサントを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1592ごろ～1672"
     },
     "ジャン・ド・ブレブフ": {
       "name": "ジャン・ド・ブレブフ",
@@ -12300,7 +12970,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ジャン・ド・ブレブフは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "ジャン・ド・ブレブフを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1593～1649"
     },
     "マテオ・リッチ": {
       "name": "マテオ・リッチ",
@@ -12316,7 +12987,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "マテオ・リッチは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "マテオ・リッチを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1552～1610"
     },
     "フランシスコ・ザビエル": {
       "name": "フランシスコ・ザビエル",
@@ -12332,7 +13004,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランシスコ・ザビエルは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "フランシスコ・ザビエルを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1506～1552"
     },
     "山田長政": {
       "name": "山田長政",
@@ -12348,7 +13021,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "山田長政は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "山田長政を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1590ごろ～1630"
     },
     "支倉常長": {
       "name": "支倉常長",
@@ -12364,7 +13038,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "支倉常長は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "支倉常長を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1571～1622"
     },
     "ウィリアム・アダムス": {
       "name": "ウィリアム・アダムス",
@@ -12380,7 +13055,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ウィリアム・アダムスは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "ウィリアム・アダムスを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1564～1620"
     },
     "織田信長": {
       "name": "織田信長",
@@ -12396,7 +13072,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "織田信長は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "織田信長を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1534～1582"
     },
     "豊臣秀吉": {
       "name": "豊臣秀吉",
@@ -12412,7 +13089,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "豊臣秀吉は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "豊臣秀吉を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1537～1598"
     },
     "徳川家康": {
       "name": "徳川家康",
@@ -12428,7 +13106,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "徳川家康は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "徳川家康を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1543～1616"
     },
     "エリザベス1世": {
       "name": "エリザベス1世",
@@ -12444,7 +13123,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "エリザベス1世は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "エリザベス1世を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1533～1603"
     },
     "フェリペ2世": {
       "name": "フェリペ2世",
@@ -12460,7 +13140,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フェリペ2世は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "フェリペ2世を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1527～1598"
     },
     "イサベル1世": {
       "name": "イサベル1世",
@@ -12476,7 +13157,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イサベル1世は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "イサベル1世を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1451～1504"
     },
     "フェルナンド2世": {
       "name": "フェルナンド2世",
@@ -12492,7 +13174,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フェルナンド2世は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "フェルナンド2世を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1452～1516"
     },
     "アフォンソ・デ・アルブケルケ": {
       "name": "アフォンソ・デ・アルブケルケ",
@@ -12508,7 +13191,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アフォンソ・デ・アルブケルケは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "アフォンソ・デ・アルブケルケを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1453～1515"
     },
     "ザビエル・デ・メネゼス": {
       "name": "ザビエル・デ・メネゼス",
@@ -12524,7 +13208,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ザビエル・デ・メネゼスは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "ザビエル・デ・メネゼスを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～?"
     },
     "オラウダ・イクイアーノ": {
       "name": "オラウダ・イクイアーノ",
@@ -12540,7 +13225,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "オラウダ・イクイアーノは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "オラウダ・イクイアーノを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1745ごろ～1797"
     },
     "アンソニー・ジョンソン": {
       "name": "アンソニー・ジョンソン",
@@ -12556,7 +13242,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アンソニー・ジョンソンは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "アンソニー・ジョンソンを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1600ごろ～1670"
     },
     "ンジンガ女王": {
       "name": "ンジンガ女王",
@@ -12572,7 +13259,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ンジンガ女王は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "ンジンガ女王を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1583ごろ～1663"
     },
     "アフォンソ1世": {
       "name": "アフォンソ1世",
@@ -12588,7 +13276,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アフォンソ1世は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "アフォンソ1世を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1456ごろ～1542ごろ"
     },
     "ベンキョウ": {
       "name": "ベンキョウ",
@@ -12604,7 +13293,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ベンキョウは海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "ベンキョウを知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "?～1621"
     },
     "鄭成功": {
       "name": "鄭成功",
@@ -12620,7 +13310,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "鄭成功は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "鄭成功を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1624～1662"
     },
     "林則徐": {
       "name": "林則徐",
@@ -12636,7 +13327,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "林則徐は海をこえた世界で航海、地図、交易、征服、宣教、抵抗に関わりました。世界が近づく一方で、植民地支配と被害が広がったことを考えます。",
         "whatDid": "航海と交流に関わった人",
         "whyImportant": "林則徐を知ると、大航海と出会いの時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1785～1850"
     },
     "オランプ・ド・グージュ": {
       "name": "オランプ・ド・グージュ",
@@ -12653,7 +13345,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランス革命期の作家です。『女性と女性市民の権利宣言』で、女性にも政治参加や法の平等が必要だと訴えました。革命政府を批判したため逮捕され、ギロチンで処刑されました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "オランプ・ド・グージュを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1748～1793"
     },
     "トゥサン・ルーヴェルチュール": {
       "name": "トゥサン・ルーヴェルチュール",
@@ -12669,7 +13362,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランス植民地サン＝ドマングで奴隷身分から解放され、奴隷制廃止を求める革命を率いた指導者です。フランスに捕らえられて死去しましたが、ハイチ独立の道を開きました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "トゥサン・ルーヴェルチュールを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1743ごろ～1803"
     },
     "ジャン＝ジャック・デサリーヌ": {
       "name": "ジャン＝ジャック・デサリーヌ",
@@ -12686,7 +13380,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ハイチ革命の指導者です。トゥサンの後を継ぎ、1804年にフランスから独立したハイチを建国しました。奴隷制に抵抗して生まれた最初の黒人共和国の独立に関わりました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ジャン＝ジャック・デサリーヌを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1758～1806"
     },
     "サン＝マルティン": {
       "name": "サン＝マルティン",
@@ -12703,7 +13398,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "南アメリカの独立運動を率いた軍人です。アルゼンチン、チリ、ペルーの独立に関わり、アンデス越えの遠征でスペイン軍を破りました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "サン＝マルティンを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1778～1850"
     },
     "ベルナルド・オヒギンス": {
       "name": "ベルナルド・オヒギンス",
@@ -12721,7 +13417,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "チリ独立運動の指導者です。サン＝マルティンと協力してスペイン軍と戦い、独立後は最高統治者として軍や教育を整えました。強権的な政治への反発で退きました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ベルナルド・オヒギンスを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1778～1842"
     },
     "ミゲル・イダルゴ": {
       "name": "ミゲル・イダルゴ",
@@ -12737,7 +13434,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "メキシコ独立運動の始まりを告げた神父です。1810年にドロレスの叫びで民衆に蜂起を呼びかけました。反乱は鎮圧され処刑されましたが、独立運動の象徴となりました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ミゲル・イダルゴを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1753～1811"
     },
     "ホセ・モレーロス": {
       "name": "ホセ・モレーロス",
@@ -12755,7 +13453,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "メキシコ独立運動を引き継いだ神父・軍事指導者です。独立、身分制の廃止、土地と税の改革を掲げました。議会を開き憲法づくりを進めましたが、捕らえられ処刑されました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ホセ・モレーロスを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1765～1815"
     },
     "アグスティン・デ・イトゥルビデ": {
       "name": "アグスティン・デ・イトゥルビデ",
@@ -12772,7 +13471,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "メキシコ独立をまとめた軍人です。1821年に独立を実現しましたが、まもなく皇帝となって権力を集めました。反発で退位し、帰国後に処刑されました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "アグスティン・デ・イトゥルビデを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1783～1824"
     },
     "ペドロ1世": {
       "name": "ペドロ1世",
@@ -12788,7 +13488,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ポルトガル王家出身で、1822年にブラジル独立を宣言した皇帝です。ポルトガルとの関係を断ち、独立国家の形を作りましたが、政治対立の中で退位しました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ペドロ1世を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1798～1834"
     },
     "エカチェリーナ2世": {
       "name": "エカチェリーナ2世",
@@ -12806,7 +13507,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシア帝国の女帝です。啓蒙思想に関心を示しながら、貴族の力を強め、農奴制を維持しました。黒海方面へ領土を広げ、ポーランド分割にも関わりました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "エカチェリーナ2世を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1729～1796"
     },
     "ピョートル1世": {
       "name": "ピョートル1世",
@@ -12823,7 +13525,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシア皇帝です。軍隊、官僚制、造船、首都サンクトペテルブルクを整え、西ヨーロッパの技術を取り入れました。強い改革でロシアを大国へ押し上げました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ピョートル1世を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1672～1725"
     },
     "フリードリヒ2世": {
       "name": "フリードリヒ2世",
@@ -12840,7 +13543,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "プロイセン王です。軍隊と官僚制を整え、オーストリア継承戦争や七年戦争で領土を広げました。啓蒙専制君主と呼ばれますが、国家と軍事を強く重視しました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "フリードリヒ2世を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1712～1786"
     },
     "マリア・テレジア": {
       "name": "マリア・テレジア",
@@ -12858,7 +13562,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ハプスブルク家の君主です。オーストリア継承戦争を戦いながら、税制、軍制、教育の改革を進めました。多民族帝国を維持するため、中央集権化を強めました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "マリア・テレジアを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1717～1780"
     },
     "ヨーゼフ2世": {
       "name": "ヨーゼフ2世",
@@ -12875,7 +13580,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ハプスブルク家の皇帝です。農奴制の緩和、宗教寛容令、教育改革を進めました。急な改革は貴族や各地域の反発を招き、死後に多くが取り消されました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ヨーゼフ2世を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1741～1790"
     },
     "ウィリアム・ウィルバーフォース": {
       "name": "ウィリアム・ウィルバーフォース",
@@ -12892,7 +13598,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの政治家です。議会で奴隷貿易廃止を長く訴え、1807年の奴隷貿易廃止法に結びつけました。奴隷制そのものの廃止運動にも関わり、人道改革を進めました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ウィリアム・ウィルバーフォースを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1759～1833"
     },
     "ハリエット・タブマン": {
       "name": "ハリエット・タブマン",
@@ -12910,7 +13617,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカで奴隷身分から逃れた女性です。地下鉄道と呼ばれる逃亡支援の道を使い、多くの奴隷を自由州へ導きました。南北戦争では北軍の偵察や看護にも関わりました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ハリエット・タブマンを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1822ごろ～1913"
     },
     "フレデリック・ダグラス": {
       "name": "フレデリック・ダグラス",
@@ -12927,7 +13635,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカで奴隷身分から逃れた演説家・新聞発行者です。自伝と講演で奴隷制の残酷さを訴え、南北戦争中は黒人兵の参加と奴隷制廃止を強く求めました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "フレデリック・ダグラスを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1818ごろ～1895"
     },
     "ソジャーナ・トゥルース": {
       "name": "ソジャーナ・トゥルース",
@@ -12944,7 +13653,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの黒人女性活動家です。奴隷制廃止と女性の権利を訴え、演説で黒人女性も自由と平等の主体だと示しました。南北戦争中は解放された人々の支援にも関わりました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "ソジャーナ・トゥルースを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1797ごろ～1883"
     },
     "エイブラハム・リンカーン": {
       "name": "エイブラハム・リンカーン",
@@ -12963,7 +13673,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカ第16代大統領です。南北戦争で連邦の分裂を防ぎ、1863年に奴隷解放宣言を出しました。ゲティスバーグ演説で民主政治の意味を示し、奴隷制廃止を進めました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "エイブラハム・リンカーンを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1809～1865"
     },
     "クララ・バートン": {
       "name": "クララ・バートン",
@@ -12981,7 +13692,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの看護師・人道活動家です。南北戦争で負傷兵を助け、戦後は行方不明兵の確認に努めました。1881年にアメリカ赤十字を設立し、災害救援の仕組みを広げました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "クララ・バートンを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1821～1912"
     },
     "エリザベス・キャディ・スタントン": {
       "name": "エリザベス・キャディ・スタントン",
@@ -12997,7 +13709,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの女性権利運動家です。1848年のセネカフォールズ会議で女性の参政権を求める宣言をまとめました。奴隷制廃止運動とも関わり、法的平等を訴えました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "エリザベス・キャディ・スタントンを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1815～1902"
     },
     "スーザン・B・アンソニー": {
       "name": "スーザン・B・アンソニー",
@@ -13014,7 +13727,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの女性参政権運動家です。女性にも投票権が必要だと各地で演説し、組織づくりを進めました。生前に実現はしませんでしたが、運動は憲法修正第19条へつながりました。",
         "whatDid": "革命と権利を動かした人",
         "whyImportant": "スーザン・B・アンソニーを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1820～1906"
     },
     "ナポレオン3世": {
       "name": "ナポレオン3世",
@@ -13031,7 +13745,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランス第二帝政の皇帝です。鉄道、銀行、パリ改造を進め、産業化を後押ししました。一方で対外戦争を行い、普仏戦争で敗れて退位しました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "ナポレオン3世を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1808～1873"
     },
     "ビスマルク": {
       "name": "ビスマルク",
@@ -13049,7 +13764,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "プロイセンの首相です。デンマーク、オーストリア、フランスとの戦争を利用してドイツ統一を進めました。社会保険制度も作りましたが、強い国家と軍事を重視する政治家でした。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "ビスマルクを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1815～1898"
     },
     "ガリバルディ": {
       "name": "ガリバルディ",
@@ -13066,7 +13782,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イタリア統一運動の軍人です。1860年に「千人隊」を率いてシチリアとナポリを制圧し、統一への流れを作りました。民衆の支持を集めましたが、統一後も地域の差は大きく残りました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "ガリバルディを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1807～1882"
     },
     "カヴール": {
       "name": "カヴール",
@@ -13084,7 +13801,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "サルデーニャ王国の首相です。外交と近代化でイタリア統一を進め、フランスの支援を得てオーストリアと戦いました。ガリバルディの動きも利用し、統一王国成立へ導きました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "カヴールを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1810～1861"
     },
     "マッツィーニ": {
       "name": "マッツィーニ",
@@ -13102,7 +13820,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イタリア統一をめざした思想家・革命家です。青年イタリアを作り、共和政と民族統一を訴えました。蜂起は失敗も多かったものの、統一運動の理想を広げました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "マッツィーニを知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1805～1872"
     },
     "ヴィクトリア女王": {
       "name": "ヴィクトリア女王",
@@ -13119,7 +13838,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリス女王です。在位中に産業化と帝国拡大が進み、カナダ、インド、アフリカなどへ影響が広がりました。繁栄の象徴である一方、植民地支配の時代とも重なります。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "ヴィクトリア女王を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1819～1901"
     },
     "伊藤博文": {
       "name": "伊藤博文",
@@ -13137,7 +13857,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "明治日本の政治家です。初代内閣総理大臣となり、大日本帝国憲法の制定に中心的に関わりました。韓国統監も務め、朝鮮半島への支配拡大にも関わりました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "伊藤博文を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1841～1909"
     },
     "大久保利通": {
       "name": "大久保利通",
@@ -13154,7 +13875,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "明治維新の中心人物です。新政府で版籍奉還、廃藩置県、殖産興業を進めました。士族反乱を抑えて中央集権国家を作りましたが、強い改革への反発も受けました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "大久保利通を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1830～1878"
     },
     "木戸孝允": {
       "name": "木戸孝允",
@@ -13171,7 +13893,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "長州藩出身の明治維新の政治家です。五箇条の御誓文や版籍奉還に関わり、藩をなくして中央政府に力を集める改革を進めました。岩倉使節団にも参加しました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "木戸孝允を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1833～1877"
     },
     "福沢諭吉": {
       "name": "福沢諭吉",
@@ -13190,7 +13913,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "明治時代の思想家・教育者です。『学問のすゝめ』で学びによる自立を説き、慶應義塾を開きました。西洋の制度や考えを紹介し、近代日本の教育に大きく影響しました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "福沢諭吉を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1835～1901"
     },
     "渋沢栄一": {
       "name": "渋沢栄一",
@@ -13206,7 +13930,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "明治から大正の実業家です。第一国立銀行など多くの会社設立に関わり、近代的な企業経営を広げました。利益だけでなく道徳も大切にする考えを唱えました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "渋沢栄一を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1840～1931"
     },
     "西郷隆盛": {
       "name": "西郷隆盛",
@@ -13224,7 +13949,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "明治維新の中心人物です。江戸城無血開城に関わり、新政府の成立を助けました。のちに政府と対立し、西南戦争で士族反乱を率いて敗れました。",
         "whatDid": "科学と産業を変えた人",
         "whyImportant": "西郷隆盛を知ると、革命と工場の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1828～1877"
     },
     "エミリオ・アギナルド": {
       "name": "エミリオ・アギナルド",
@@ -13241,7 +13967,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フィリピン独立運動の軍人・政治家です。スペイン支配に対する革命を率い、1898年に独立を宣言しました。その後アメリカとの戦争で敗れ、植民地支配が続きました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "エミリオ・アギナルドを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1869～1964"
     },
     "スカルノ": {
       "name": "スカルノ",
@@ -13257,7 +13984,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "インドネシアの独立運動家で、初代大統領です。第二次世界大戦後の1945年に独立を宣言しました。多民族国家をまとめようとしましたが、政治の対立と経済の混乱も深まりました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "スカルノを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1901～1970"
     },
     "ホー・チ・ミン": {
       "name": "ホー・チ・ミン",
@@ -13273,7 +14001,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ベトナムの独立運動家です。フランス植民地支配に反対し、1945年に独立を宣言しました。その後の戦争を経て北ベトナムを率い、ベトナムの統一へつながる運動の中心となりました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ホー・チ・ミンを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1890～1969"
     },
     "袁世凱": {
       "name": "袁世凱",
@@ -13290,7 +14019,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "清末から中華民国初期の軍人・政治家です。辛亥革命後に臨時大総統となりましたが、議会政治を弱め、皇帝即位を試みて強い反発を受けました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "袁世凱を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1859～1916"
     },
     "康有為": {
       "name": "康有為",
@@ -13309,7 +14039,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "清末の改革思想家です。光緒帝を支えて戊戌の変法を進め、制度改革と立憲政治を訴えました。改革は西太后らにより短期間で失敗し、亡命しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "康有為を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1858～1927"
     },
     "梁啓超": {
       "name": "梁啓超",
@@ -13327,7 +14058,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "清末から民国期の思想家・ジャーナリストです。戊戌の変法に参加し、亡命後は新聞や著作で立憲政治、国民意識、近代教育の必要を広めました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "梁啓超を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1873～1929"
     },
     "西太后": {
       "name": "西太后",
@@ -13343,7 +14075,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "清朝後期の実力者です。同治帝・光緒帝の時代に政治を動かし、戊戌の変法を抑えました。義和団事件後には改革も進めましたが、清の危機は深まりました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "西太后を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1835～1908"
     },
     "光緒帝": {
       "name": "光緒帝",
@@ -13359,7 +14092,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "清朝の皇帝です。康有為らとともに1898年の戊戌の変法を進め、政治や教育の改革をめざしました。しかし西太后らに抑えられ、実権を失いました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "光緒帝を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1871～1908"
     },
     "溥儀": {
       "name": "溥儀",
@@ -13375,7 +14109,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "清朝最後の皇帝です。辛亥革命で退位し、のちに日本の支援で満州国皇帝となりました。戦後は戦犯として収容され、晩年は一般市民として暮らしました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "溥儀を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1906～1967"
     },
     "毛沢東": {
       "name": "毛沢東",
@@ -13393,7 +14128,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "中国共産党の指導者です。長征と日中戦争を経て国共内戦に勝ち、1949年に中華人民共和国を建国しました。大躍進や文化大革命は社会に大きな混乱と被害をもたらしました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "毛沢東を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1893～1976"
     },
     "周恩来": {
       "name": "周恩来",
@@ -13411,7 +14147,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "中華人民共和国の首相です。建国後の外交と行政を支え、インドとの平和五原則や米中接近に関わりました。文化大革命期にも国家運営の調整役を務めました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "周恩来を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1898～1976"
     },
     "蒋介石": {
       "name": "蒋介石",
@@ -13429,7 +14166,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "中国国民党の指導者です。北伐で中国統一を進め、日中戦争では国民政府を率いました。国共内戦に敗れて台湾へ移り、長く権威主義的な統治を行いました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "蒋介石を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1887～1975"
     },
     "宋慶齢": {
       "name": "宋慶齢",
@@ -13446,7 +14184,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "孫文の妻で、中国の政治家です。国民党右派と距離を置き、のちに中華人民共和国で国家副主席などを務めました。革命、女性、子どもの福祉に関わりました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "宋慶齢を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1893～1981"
     },
     "魯迅": {
       "name": "魯迅",
@@ -13463,7 +14202,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "中国近代文学を代表する作家です。『狂人日記』『阿Q正伝』などで古い社会や人々の弱さを鋭く批判しました。中国の近代化と思想運動に大きな影響を与えました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "魯迅を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1881～1936"
     },
     "ドストエフスキー": {
       "name": "ドストエフスキー",
@@ -13479,7 +14219,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシアの小説家です。『罪と罰』『カラマーゾフの兄弟』などで信仰、罪、自由、貧困を描きました。近代社会の不安と人間の内面を深く表した作家です。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ドストエフスキーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1821～1881"
     },
     "トルストイ": {
       "name": "トルストイ",
@@ -13498,7 +14239,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシアの小説家です。『戦争と平和』『アンナ・カレーニナ』で貴族社会、戦争、家族を描きました。晩年は非暴力や質素な生活を説き、世界の思想家にも影響しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "トルストイを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1828～1910"
     },
     "チェーホフ": {
       "name": "チェーホフ",
@@ -13514,7 +14256,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシアの作家・医師です。短編小説と戯曲で、地方社会の停滞や人々の小さな希望を描きました。『桜の園』などは近代演劇の表現に大きな影響を与えました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "チェーホフを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1860～1904"
     },
     "チャイコフスキー": {
       "name": "チャイコフスキー",
@@ -13530,7 +14273,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシアの作曲家です。『白鳥の湖』『くるみ割り人形』『悲愴』などで知られ、バレエ音楽と交響曲を発展させました。ロシア音楽を世界に広めた人物です。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "チャイコフスキーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1840～1893"
     },
     "マリー・キュリー": {
       "name": "マリー・キュリー",
@@ -13547,7 +14291,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ポーランド出身の科学者です。夫ピエールと放射能を研究し、ポロニウムとラジウムを発見しました。物理学賞と化学賞を受け、女性科学者の道を開きました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "マリー・キュリーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1867～1934"
     },
     "ピエール・キュリー": {
       "name": "ピエール・キュリー",
@@ -13563,7 +14308,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの物理学者です。マリー・キュリーとともに放射能を研究し、ラジウムとポロニウムの発見に関わりました。結晶や磁性の研究でも科学に貢献しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ピエール・キュリーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1859～1906"
     },
     "メンデル": {
       "name": "メンデル",
@@ -13579,7 +14325,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "オーストリアの修道士・科学者です。エンドウの交配実験から、親の性質が一定の規則で子に伝わることを示しました。遺伝学の出発点となりました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "メンデルを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1822～1884"
     },
     "マクスウェル": {
       "name": "マクスウェル",
@@ -13595,7 +14342,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スコットランドの物理学者です。電気と磁気を一つの理論としてまとめ、光も電磁波だと示しました。電波、通信、現代物理学の基礎を作りました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "マクスウェルを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1831～1879"
     },
     "メンデレーエフ": {
       "name": "メンデレーエフ",
@@ -13611,7 +14359,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシアの化学者です。元素を性質と重さで並べ、周期表を作りました。まだ見つかっていない元素の存在や性質を予測し、化学の整理に大きく貢献しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "メンデレーエフを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1834～1907"
     },
     "ロベルト・コッホ": {
       "name": "ロベルト・コッホ",
@@ -13628,7 +14377,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ドイツの医師・細菌学者です。炭疽菌、結核菌、コレラ菌の研究で、特定の細菌が特定の病気を起こすことを示しました。近代医学と公衆衛生を進めました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ロベルト・コッホを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1843～1910"
     },
     "ジョゼフ・リスター": {
       "name": "ジョゼフ・リスター",
@@ -13644,7 +14394,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの外科医です。手術で石炭酸を使う消毒法を導入し、感染による死亡を減らしました。無菌手術へつながる考えを広め、外科医療を大きく変えました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ジョゼフ・リスターを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1827～1912"
     },
     "グラハム・ベル": {
       "name": "グラハム・ベル",
@@ -13660,7 +14411,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スコットランド生まれの発明家です。音を電気信号に変えて送る電話の実用化に関わりました。遠くの人と声で話せる通信は、仕事と生活の距離を縮めました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "グラハム・ベルを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1847～1922"
     },
     "トーマス・エジソン": {
       "name": "トーマス・エジソン",
@@ -13676,7 +14428,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの発明家・事業家です。白熱電球、蓄音機、映画技術、電力供給の仕組みに関わりました。研究所で多くの技術者を組織し、発明を産業へ結びつけました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "トーマス・エジソンを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1847～1931"
     },
     "ニコラ・テスラ": {
       "name": "ニコラ・テスラ",
@@ -13692,7 +14445,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "セルビア系の発明家です。交流電流の送電やモーターの研究で知られ、電気を遠くへ送る技術に大きく貢献しました。無線や高電圧の実験も行いました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ニコラ・テスラを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1856～1943"
     },
     "ライト兄弟": {
       "name": "ライト兄弟",
@@ -13708,7 +14462,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの兄弟発明家です。1903年に動力付き飛行機の飛行に成功しました。翼の制御を工夫し、人が空を移動する航空時代の出発点を作りました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ライト兄弟を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "ウィルバー1867～1912・オーヴィル1871～1948"
     },
     "ヘンリー・フォード": {
       "name": "ヘンリー・フォード",
@@ -13724,7 +14479,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの実業家です。流れ作業による大量生産でT型フォードを安く作り、自動車を一般家庭へ広げました。労働と消費の形を大きく変えました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ヘンリー・フォードを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1863～1947"
     },
     "フレデリック・テイラー": {
       "name": "フレデリック・テイラー",
@@ -13743,7 +14499,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フレデリック・テイラーは19世紀から20世紀初めの世界で帝国主義、科学、芸術、教育、労働運動、独立運動に関わりました。世界が速く結びつく中で生まれた変化を示します。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "フレデリック・テイラーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1856～1915"
     },
     "アンドリュー・カーネギー": {
       "name": "アンドリュー・カーネギー",
@@ -13759,7 +14516,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの鉄鋼王です。製鉄業を大きく発展させ、鉄道や都市建設を支えました。巨額の富を得た後、図書館や教育へ寄付しましたが、労働争議も起きました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "アンドリュー・カーネギーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1835～1919"
     },
     "ジョン・ロックフェラー": {
       "name": "ジョン・ロックフェラー",
@@ -13775,7 +14533,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの実業家です。スタンダード石油を築き、石油精製と販売を支配しました。巨大企業の力と独占への批判を生み、反トラスト法の議論を強めました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ジョン・ロックフェラーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1839～1937"
     },
     "J・P・モルガン": {
       "name": "J・P・モルガン",
@@ -13791,7 +14550,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの銀行家です。鉄道、鉄鋼、金融を結びつけ、大企業の再編を進めました。恐慌時には金融界をまとめましたが、少数の資本家に力が集まる問題も示しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "J・P・モルガンを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1837～1913"
     },
     "ジェーン・アダムズ": {
       "name": "ジェーン・アダムズ",
@@ -13807,7 +14567,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの社会改革家です。シカゴにハルハウスを作り、移民や貧しい人々の教育、保育、労働改善を支えました。平和運動にも関わり、ノーベル平和賞を受けました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ジェーン・アダムズを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1860～1935"
     },
     "エメリン・パンクハースト": {
       "name": "エメリン・パンクハースト",
@@ -13823,7 +14584,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの女性参政権運動家です。女性社会政治同盟を率い、投票権を求めて集会や抗議行動を行いました。激しい行動は議論を呼びましたが、参政権実現を後押ししました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "エメリン・パンクハーストを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1858～1928"
     },
     "ミリセント・フォーセット": {
       "name": "ミリセント・フォーセット",
@@ -13839,7 +14601,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの女性参政権運動家です。合法的な請願、演説、組織活動を重視し、女性の投票権を求めました。第一次世界大戦後の女性参政権実現に大きく貢献しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ミリセント・フォーセットを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1847～1929"
     },
     "クララ・ツェトキン": {
       "name": "クララ・ツェトキン",
@@ -13855,7 +14618,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ドイツの社会主義者・女性運動家です。働く女性の権利と参政権を訴え、国際女性デーの提案に関わりました。労働運動と女性運動を結びつけました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "クララ・ツェトキンを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1857～1933"
     },
     "ローザ・ルクセンブルク": {
       "name": "ローザ・ルクセンブルク",
@@ -13871,7 +14635,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ポーランド出身の社会主義者です。ドイツで反戦と労働者の権利を訴え、第一次世界大戦に反対しました。ドイツ革命後にスパルタクス団の蜂起に関わり殺害されました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ローザ・ルクセンブルクを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1871～1919"
     },
     "レーニン": {
       "name": "レーニン",
@@ -13887,7 +14652,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシア革命の指導者です。1917年にボリシェヴィキを率いて政権を取り、ソビエト政権を作りました。土地と平和を掲げましたが、一党支配と内戦の体制も始まりました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "レーニンを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1870～1924"
     },
     "トロツキー": {
       "name": "トロツキー",
@@ -13903,7 +14669,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシア革命の指導者です。十月革命と赤軍の組織に大きく関わりました。スターリンとの権力争いに敗れて国外追放され、メキシコで暗殺されました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "トロツキーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1879～1940"
     },
     "スターリン": {
       "name": "スターリン",
@@ -13919,7 +14686,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ソ連の指導者です。急速な工業化と農業集団化を進めましたが、大粛清や強制収容所で多くの人が犠牲になりました。第二次世界大戦後は東欧支配と冷戦に関わりました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "スターリンを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1878～1953"
     },
     "ニコライ2世": {
       "name": "ニコライ2世",
@@ -13935,7 +14703,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ロシア帝国最後の皇帝です。日露戦争、第一次世界大戦、国内の不満に対応できず、1917年の二月革命で退位しました。のちに家族とともに処刑されました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ニコライ2世を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1868～1918"
     },
     "ムスタファ・ケマル": {
       "name": "ムスタファ・ケマル",
@@ -13952,7 +14721,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "トルコ共和国の建国者です。第一次世界大戦後、独立戦争を率いて共和国を成立させました。政教分離、文字改革、教育改革を進め、近代国家づくりを行いました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ムスタファ・ケマルを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1881～1938"
     },
     "レザー・シャー": {
       "name": "レザー・シャー",
@@ -13968,7 +14738,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イランのパフラヴィー朝を開いた国王です。軍と行政を強め、鉄道、教育、服装などの近代化を進めました。一方で反対派を抑え、第二次世界大戦中に退位させられました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "レザー・シャーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1878～1944"
     },
     "セオドア・ルーズベルト": {
       "name": "セオドア・ルーズベルト",
@@ -13985,7 +14756,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカ第26代大統領です。企業独占を規制し、自然保護区を広げました。パナマ運河建設や海軍強化も進め、アメリカの海外進出を強めました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "セオドア・ルーズベルトを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1858～1919"
     },
     "ウッドロウ・ウィルソン": {
       "name": "ウッドロウ・ウィルソン",
@@ -14001,7 +14773,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカ第28代大統領です。第一次世界大戦後に十四か条を示し、国際連盟の設立を提案しました。民族自決を掲げましたが、国内外で限界もありました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ウッドロウ・ウィルソンを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1856～1924"
     },
     "フランクリン・ルーズベルト": {
       "name": "フランクリン・ルーズベルト",
@@ -14017,7 +14790,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカ第32代大統領です。世界恐慌に対してニューディール政策を進め、第二次世界大戦では連合国側を支えました。長期政権で現代アメリカ政治に大きな影響を残しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "フランクリン・ルーズベルトを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1882～1945"
     },
     "エレノア・ルーズベルト": {
       "name": "エレノア・ルーズベルト",
@@ -14033,7 +14807,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの政治活動家です。大統領夫人として社会的弱者の支援を訴え、戦後は国連で世界人権宣言の作成を主導しました。人権を国際的な基準にする仕事を進めました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "エレノア・ルーズベルトを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1884～1962"
     },
     "ヘレン・ケラー": {
       "name": "ヘレン・ケラー",
@@ -14050,7 +14825,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの作家・社会活動家です。視覚と聴覚に障害を持ちながら学び、障害者教育と福祉を訴えました。労働者、女性、平和の問題にも発言しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ヘレン・ケラーを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1880～1968"
     },
     "マーク・トウェイン": {
       "name": "マーク・トウェイン",
@@ -14066,7 +14842,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの作家です。『トム・ソーヤーの冒険』『ハックルベリー・フィンの冒険』で知られます。ユーモアを使い、人種差別や社会の矛盾を描きました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "マーク・トウェインを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1835～1910"
     },
     "ゴッホ": {
       "name": "ゴッホ",
@@ -14082,7 +14859,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "オランダの画家です。強い色と筆づかいで、人物や風景に感情をこめて描きました。生前は評価が低かったものの、後の表現主義や近代美術に大きな影響を与えました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ゴッホを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1853～1890"
     },
     "モネ": {
       "name": "モネ",
@@ -14098,7 +14876,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの画家です。光や空気の変化を短い筆づかいで描き、印象派を代表しました。『睡蓮』の連作などは、見た瞬間の印象を重視する新しい絵画を広げました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "モネを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1840～1926"
     },
     "ピカソ": {
       "name": "ピカソ",
@@ -14114,7 +14893,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スペイン出身の画家です。キュビスムを生み、形を分解して複数の視点から描きました。『ゲルニカ』では戦争の暴力を強く表現し、20世紀美術を変えました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ピカソを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1881～1973"
     },
     "ロダン": {
       "name": "ロダン",
@@ -14130,7 +14910,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの彫刻家です。『考える人』『カレーの市民』などで、人間の動きや苦しみを力強く表しました。近代彫刻を代表する人物です。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ロダンを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1840～1917"
     },
     "ガウディ": {
       "name": "ガウディ",
@@ -14146,7 +14927,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スペインの建築家です。バルセロナでサグラダ・ファミリアなどを設計しました。自然の形や曲線を取り入れ、石、鉄、陶器を使った独自の建築を残しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ガウディを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1852～1926"
     },
     "ココ・シャネル": {
       "name": "ココ・シャネル",
@@ -14163,7 +14945,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの服飾デザイナーです。動きやすい服、短い髪型、黒いドレスなどを広め、女性の服装を大きく変えました。20世紀の生活文化とファッションに影響しました。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "ココ・シャネルを知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1883～1971"
     },
     "夏目漱石": {
       "name": "夏目漱石",
@@ -14179,7 +14962,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の小説家です。『吾輩は猫である』『坊っちゃん』『こころ』などで、近代化する社会の中の個人の悩みを描きました。近代日本文学を代表する人物です。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "夏目漱石を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1867～1916"
     },
     "野口英世": {
       "name": "野口英世",
@@ -14196,7 +14980,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の細菌学者です。黄熱病や梅毒などの研究に取り組み、アメリカや中南米でも活動しました。研究には後に修正された点もありますが、国際的に働いた医学者です。",
         "whatDid": "近代社会を動かした人",
         "whyImportant": "野口英世を知ると、世界が深く結びついた時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1876～1928"
     },
     "昭和天皇": {
       "name": "昭和天皇",
@@ -14214,7 +14999,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の天皇です。戦時中の意思決定への関わりや責任は歴史研究で議論が続いています。1945年の終戦後は象徴天皇制のもとで在位し、戦後日本の歩みと長く重なりました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "昭和天皇を知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1901～1989"
     },
     "近衛文麿": {
       "name": "近衛文麿",
@@ -14232,7 +15018,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "戦前日本の首相です。日中戦争の拡大期と、太平洋戦争直前に内閣を率いました。外交で戦争を避ける交渉に失敗し、国内の政治体制を戦時向けにまとめる動きにも関わりました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "近衛文麿を知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1891～1945"
     },
     "石原莞爾": {
       "name": "石原莞爾",
@@ -14249,7 +15036,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本陸軍の軍人です。1931年の満州事変の計画に深く関わり、日本の中国東北部への軍事進出を進めました。後に軍部と対立もしましたが、侵略の責任から切り離しては考えられません。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "石原莞爾を知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1889～1949"
     },
     "金日成": {
       "name": "金日成",
@@ -14267,7 +15055,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "北朝鮮の建国指導者です。朝鮮民主主義人民共和国を成立させ、朝鮮戦争を始める中心となりました。戦後は個人崇拝と一党支配を強めました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "金日成を知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1912～1994"
     },
     "李承晩": {
       "name": "李承晩",
@@ -14285,7 +15074,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "大韓民国の初代大統領です。反共を掲げて韓国政府を作り、朝鮮戦争期に政権を率いました。長期政権と不正選挙への反発で1960年に退陣しました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "李承晩を知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1875～1965"
     },
     "アンネ・フランク": {
       "name": "アンネ・フランク",
@@ -14302,7 +15092,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ユダヤ系ドイツ人の少女です。ナチス占領下のオランダで隠れ家生活を送り、日記に恐怖と希望を書き残しました。強制収容所で亡くなり、迫害の記憶を伝えています。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "アンネ・フランクを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1929～1945"
     },
     "シモーヌ・ヴェイユ": {
       "name": "シモーヌ・ヴェイユ",
@@ -14321,7 +15112,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの思想家です。工場労働やスペイン内戦を経験し、抑圧、労働、信仰について考えました。第二次世界大戦中は自由フランスに関わり、亡命先で亡くなりました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "シモーヌ・ヴェイユを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1909～1943"
     },
     "ハンナ・アーレント": {
       "name": "ハンナ・アーレント",
@@ -14342,7 +15134,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ドイツ出身の政治思想家です。ナチスの迫害を逃れ、全体主義や責任について研究しました。アイヒマン裁判の報告で、命令に従うだけの危うさを論じました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ハンナ・アーレントを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1906～1975"
     },
     "ラウル・ワレンバーグ": {
       "name": "ラウル・ワレンバーグ",
@@ -14359,7 +15152,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スウェーデンの外交官です。第二次世界大戦末期のハンガリーで保護証を発行し、多くのユダヤ人を救いました。戦後にソ連に拘束され、消息不明となりました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ラウル・ワレンバーグを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1912～?"
     },
     "オスカー・シンドラー": {
       "name": "オスカー・シンドラー",
@@ -14376,7 +15170,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ドイツの実業家です。ナチス支配下で工場労働者としてユダヤ人を雇い、強制収容所送りから救いました。戦時下で人命救助に動いた人物として知られます。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "オスカー・シンドラーを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1908～1974"
     },
     "杉原千畝": {
       "name": "杉原千畝",
@@ -14393,7 +15188,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の外交官です。1940年にリトアニアで、迫害から逃れるユダヤ人に通過ビザを発給しました。多くの命を救った行動は、戦時下の人道的判断として記憶されています。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "杉原千畝を知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1900～1986"
     },
     "ヤヌシュ・コルチャック": {
       "name": "ヤヌシュ・コルチャック",
@@ -14411,7 +15207,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ポーランドの医師・教育者です。孤児院で子どもの権利と自治を重んじました。ナチスにより子どもたちが移送される際、彼らとともにトレブリンカへ向かい殺害されました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ヤヌシュ・コルチャックを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1878ごろ～1942"
     },
     "ヴィクトール・フランクル": {
       "name": "ヴィクトール・フランクル",
@@ -14428,7 +15225,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "オーストリアの精神科医です。強制収容所を生き延び、『夜と霧』で極限状況の中でも意味を探す人間の姿を記しました。心理療法にも影響を与えました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ヴィクトール・フランクルを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1905～1997"
     },
     "エディット・シュタイン": {
       "name": "エディット・シュタイン",
@@ -14447,7 +15245,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ユダヤ系ドイツ人の哲学者・修道女です。ナチスの迫害でアウシュヴィッツに送られ殺害されました。学問、信仰、迫害の歴史が重なる人物です。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "エディット・シュタインを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1891～1942"
     },
     "アラン・チューリング": {
       "name": "アラン・チューリング",
@@ -14465,7 +15264,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの数学者です。第二次世界大戦中に暗号解読に関わり、戦後は計算機科学の基礎を築きました。同性愛を理由に処罰され、後に名誉回復されました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "アラン・チューリングを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1912～1954"
     },
     "ジョン・フォン・ノイマン": {
       "name": "ジョン・フォン・ノイマン",
@@ -14483,7 +15283,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ハンガリー出身の数学者です。ゲーム理論、量子力学、コンピューター設計に貢献しました。戦時中は原爆開発にも関わり、科学と軍事の結びつきを示します。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ジョン・フォン・ノイマンを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1903～1957"
     },
     "ロバート・オッペンハイマー": {
       "name": "ロバート・オッペンハイマー",
@@ -14501,7 +15302,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの物理学者です。マンハッタン計画で原子爆弾開発を指導しました。戦後は核兵器管理を訴えましたが、冷戦下で公職から排除されました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ロバート・オッペンハイマーを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1904～1967"
     },
     "エンリコ・フェルミ": {
       "name": "エンリコ・フェルミ",
@@ -14519,7 +15321,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イタリア出身の物理学者です。原子核と中性子の研究を進め、世界初の原子炉の実験に成功しました。原爆開発にも関わり、核時代の始まりを支えました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "エンリコ・フェルミを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1901～1954"
     },
     "ニールス・ボーア": {
       "name": "ニールス・ボーア",
@@ -14537,7 +15340,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "デンマークの物理学者です。原子模型を提案し、量子論の発展に大きく貢献しました。第二次世界大戦中はナチスから逃れ、核兵器の国際管理も訴えました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ニールス・ボーアを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1885～1962"
     },
     "リチャード・ファインマン": {
       "name": "リチャード・ファインマン",
@@ -14555,7 +15359,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの物理学者です。量子電磁力学を発展させ、わかりやすい講義でも知られます。原爆開発に参加し、後に科学教育と自由な発想を重視しました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "リチャード・ファインマンを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1918～1988"
     },
     "湯川秀樹": {
       "name": "湯川秀樹",
@@ -14573,7 +15378,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の物理学者です。中間子の存在を予言し、日本人初のノーベル賞を受けました。戦後は科学者として平和運動にも関わりました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "湯川秀樹を知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1907～1981"
     },
     "朝永振一郎": {
       "name": "朝永振一郎",
@@ -14591,7 +15397,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の物理学者です。量子電磁力学の研究でノーベル賞を受けました。戦後日本の科学研究を支え、科学と平和についても発言しました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "朝永振一郎を知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1906～1979"
     },
     "レイチェル・カーソン": {
       "name": "レイチェル・カーソン",
@@ -14610,7 +15417,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの海洋生物学者・作家です。『沈黙の春』で農薬が鳥や人の環境に与える影響を示しました。科学の情報を市民に伝え、環境保護の運動と制度づくりを後押ししました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "レイチェル・カーソンを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1907～1964"
     },
     "ジョージ・オーウェル": {
       "name": "ジョージ・オーウェル",
@@ -14627,7 +15435,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの作家です。『動物農場』『一九八四年』で独裁、監視、言葉の支配を批判しました。全体主義への警告として、現代政治を考える作品を残しました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ジョージ・オーウェルを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1903～1950"
     },
     "アーネスト・ヘミングウェイ": {
       "name": "アーネスト・ヘミングウェイ",
@@ -14644,7 +15453,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの作家です。第一次世界大戦やスペイン内戦を経験し、簡潔な文体で戦争と人間の孤独を描きました。『老人と海』などで知られます。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "アーネスト・ヘミングウェイを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1899～1961"
     },
     "チャップリン": {
       "name": "チャップリン",
@@ -14661,7 +15471,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリス出身の映画俳優・監督です。喜劇映画で貧困や機械化社会を描き、『独裁者』ではヒトラーを風刺しました。映画を通じて社会批判を広げました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "チャップリンを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1889～1977"
     },
     "ベルトルト・ブレヒト": {
       "name": "ベルトルト・ブレヒト",
@@ -14678,7 +15489,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ドイツの劇作家です。観客に社会の仕組みを考えさせる叙事的演劇を作りました。ナチスを逃れて亡命し、戦争と権力への批判を作品にこめました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ベルトルト・ブレヒトを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1898～1956"
     },
     "パール・バック": {
       "name": "パール・バック",
@@ -14695,7 +15507,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの作家です。中国で育った経験をもとに『大地』を書き、中国農村の生活を世界に紹介しました。人種差別や孤児支援にも関わりました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "パール・バックを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1892～1973"
     },
     "マーガレット・ミード": {
       "name": "マーガレット・ミード",
@@ -14714,7 +15527,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの文化人類学者です。サモアなどの調査を通じて、性別役割や成長のあり方は文化によって違うと示しました。社会の常識を見直す研究を広げました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "マーガレット・ミードを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1901～1978"
     },
     "フリーダ・カーロ": {
       "name": "フリーダ・カーロ",
@@ -14732,7 +15546,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "メキシコの画家です。自画像に身体の痛み、先住民文化、政治的な思いを描きました。女性、民族、障害をめぐる表現として後世に大きな影響を与えました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "フリーダ・カーロを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1907～1954"
     },
     "ディエゴ・リベラ": {
       "name": "ディエゴ・リベラ",
@@ -14751,7 +15566,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "メキシコの画家です。壁画で労働者、革命、先住民の歴史を描き、公共の場所に芸術を広げました。社会主義思想とも結びつきました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ディエゴ・リベラを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1886～1957"
     },
     "マリア・モンテッソーリ": {
       "name": "マリア・モンテッソーリ",
@@ -14769,7 +15585,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イタリアの医師・教育者です。子どもが自分で学ぶ力を重視する教育法を作りました。教材や環境を整え、世界各地の幼児教育に影響を与えました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "マリア・モンテッソーリを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1870～1952"
     },
     "ジャン・モネ": {
       "name": "ジャン・モネ",
@@ -14786,7 +15603,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの実務家です。戦後ヨーロッパの石炭と鉄鋼を共同管理する構想を進めました。欧州石炭鉄鋼共同体からEUへつながる統合の基礎を作りました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ジャン・モネを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1888～1979"
     },
     "ロベール・シューマン": {
       "name": "ロベール・シューマン",
@@ -14804,7 +15622,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの政治家です。1950年にシューマン宣言を出し、フランスと西ドイツの石炭・鉄鋼共同管理を提案しました。ヨーロッパ統合の出発点を作りました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ロベール・シューマンを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1886～1963"
     },
     "クワメ・エンクルマ": {
       "name": "クワメ・エンクルマ",
@@ -14822,7 +15641,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ガーナ独立運動の指導者で、初代首相・大統領です。1957年にサハラ以南アフリカで早い独立を実現し、アフリカ統一を訴えましたが、のちに独裁化しました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "クワメ・エンクルマを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1909～1972"
     },
     "ジョモ・ケニヤッタ": {
       "name": "ジョモ・ケニヤッタ",
@@ -14840,7 +15660,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ケニア独立運動の指導者で、独立後の初代大統領です。イギリス植民地支配からの独立を進めましたが、政権は強い与党支配と土地問題を抱えました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ジョモ・ケニヤッタを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1897ごろ～1978"
     },
     "ホセ・マルティ": {
       "name": "ホセ・マルティ",
@@ -14859,7 +15680,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "キューバ独立運動の思想家・詩人です。スペイン支配からの独立を訴え、1895年の独立戦争に参加して戦死しました。ラテンアメリカの自由と反植民地主義の象徴です。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ホセ・マルティを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1853～1895"
     },
     "レフ・ランダウ": {
       "name": "レフ・ランダウ",
@@ -14877,7 +15699,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ソ連の物理学者です。低温物理や量子論を発展させ、理論物理学に大きく貢献しました。スターリン体制下で逮捕された経験もあり、科学と政治の関係を示します。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "レフ・ランダウを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1908～1968"
     },
     "アンドレイ・サハロフ": {
       "name": "アンドレイ・サハロフ",
@@ -14896,7 +15719,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ソ連の物理学者です。水爆開発に関わった後、核軍縮と人権を訴える活動家になりました。政府批判により流刑されましたが、ノーベル平和賞を受けました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "アンドレイ・サハロフを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1921～1989"
     },
     "シモーヌ・ド・ボーヴォワ": {
       "name": "シモーヌ・ド・ボーヴォワ",
@@ -14914,7 +15738,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの哲学者・作家です。『第二の性』で、女性らしさは社会によって作られる面があると論じました。現代フェミニズムに大きな影響を与えました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "シモーヌ・ド・ボーヴォワを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1908～1986"
     },
     "ジャン＝ポール・サルトル": {
       "name": "ジャン＝ポール・サルトル",
@@ -14932,7 +15757,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フランスの哲学者・作家です。実存主義を代表し、人は自分の選択に責任を持つと論じました。戦後の政治運動や植民地支配への批判にも関わりました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ジャン＝ポール・サルトルを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1905～1980"
     },
     "ガブリエラ・ミストラ": {
       "name": "ガブリエラ・ミストラ",
@@ -14950,7 +15776,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "チリの詩人・教育者です。ラテンアメリカ女性として初めてノーベル文学賞を受けました。教育、子ども、母性、貧しさをテーマにした詩を残しました。",
         "whatDid": "戦争と平和を動かした人",
         "whyImportant": "ガブリエラ・ミストラを知ると、二つの世界大戦の時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1889～1957"
     },
     "ハーヴェイ・ミルク": {
       "name": "ハーヴェイ・ミルク",
@@ -14967,7 +15794,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカのサンフランシスコ市議です。性的少数者への差別をなくす条例を進め、地域の住民を政治参加へ招きました。1978年に暗殺され、平等を求める運動の象徴となりました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ハーヴェイ・ミルクを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1930～1978"
     },
     "ジェーン・グドール": {
       "name": "ジェーン・グドール",
@@ -14984,7 +15812,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの霊長類学者です。タンザニアのゴンベでチンパンジーを長年観察し、道具を使うことや社会関係を記録しました。研究を通じて森林と野生動物を守る活動を世界へ広げました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ジェーン・グドールを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1934～2025"
     },
     "シルビア・アール": {
       "name": "シルビア・アール",
@@ -15000,7 +15829,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの海洋学者です。深海調査を行い、海の生態系を守る必要を世界に訴えました。海洋保護区づくりや環境教育を進めています。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "シルビア・アールを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1935～?"
     },
     "グレタ・トゥーンベリ": {
       "name": "グレタ・トゥーンベリ",
@@ -15017,7 +15847,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "スウェーデンの環境活動家です。学校ストライキを始め、気候変動への対策を政治家に求めました。若者の国際的な気候運動を広げました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "グレタ・トゥーンベリを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "2003～?"
     },
     "マザー・テレサ": {
       "name": "マザー・テレサ",
@@ -15033,7 +15864,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "カトリック修道女です。インドのコルカタで貧しい人や病人を助ける活動を行い、神の愛の宣教者会を広げました。ノーベル平和賞を受けました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "マザー・テレサを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1910～1997"
     },
     "ダニエル・エルズバーグ": {
       "name": "ダニエル・エルズバーグ",
@@ -15050,7 +15882,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの元政府分析官です。ベトナム戦争の実態を示すペンタゴン・ペーパーズを公表し、政府の説明への疑問を広げました。内部告発と報道の自由をめぐる議論を動かしました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ダニエル・エルズバーグを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1931～2023"
     },
     "スティーブ・ジョブズ": {
       "name": "スティーブ・ジョブズ",
@@ -15066,7 +15899,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの実業家です。Appleを共同創業し、Mac、iPod、iPhoneなどを通じて個人用コンピューターとスマートフォンの使い方を大きく変えました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "スティーブ・ジョブズを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1955～2011"
     },
     "ビル・ゲイツ": {
       "name": "ビル・ゲイツ",
@@ -15082,7 +15916,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの実業家です。Microsoftを共同創業し、Windowsなどのソフトウェアを広めました。個人用コンピューターの普及に大きく関わり、後に感染症対策などの慈善活動も行いました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ビル・ゲイツを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1955～?"
     },
     "ティム・バーナーズ＝リー": {
       "name": "ティム・バーナーズ＝リー",
@@ -15098,7 +15933,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの計算機科学者です。1989年にWorld Wide Webを考案し、URL、HTTP、HTMLの仕組みを整えました。情報を世界で結びつける基盤を作りました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ティム・バーナーズ＝リーを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1955～?"
     },
     "リーナス・トーバルズ": {
       "name": "リーナス・トーバルズ",
@@ -15114,7 +15950,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "フィンランド出身の技術者です。Linuxカーネルを公開し、世界中の開発者が協力して改良するオープンソース開発を広げました。サーバーやスマートフォンにも影響しました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "リーナス・トーバルズを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1969～?"
     },
     "セルゲイ・ブリン": {
       "name": "セルゲイ・ブリン",
@@ -15130,7 +15967,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "Googleの共同創業者です。ラリー・ペイジと検索エンジンを開発し、膨大なウェブ情報を順位づけて探しやすくしました。インターネット利用の形を大きく変えました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "セルゲイ・ブリンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1973～?"
     },
     "ラリー・ペイジ": {
       "name": "ラリー・ペイジ",
@@ -15146,7 +15984,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "Googleの共同創業者です。ウェブページのつながりを使って検索結果を並べるPageRankを考案しました。検索、広告、情報サービスの広がりに大きく関わりました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ラリー・ペイジを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1973～?"
     },
     "マーク・ザッカーバーグ": {
       "name": "マーク・ザッカーバーグ",
@@ -15162,7 +16001,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "Facebookの創業者です。大学内の交流サイトから始め、世界的なSNSへ広げました。人々のつながり方を変えた一方、個人情報や情報操作の問題も生みました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "マーク・ザッカーバーグを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1984～?"
     },
     "イーロン・マスク": {
       "name": "イーロン・マスク",
@@ -15178,7 +16018,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "実業家です。Teslaで電気自動車、SpaceXで民間宇宙開発を広げました。Xなど情報サービスにも関わり、技術革新と巨大企業の影響力をめぐる議論を生んでいます。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "イーロン・マスクを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1971～?"
     },
     "キャサリン・ジョンソン": {
       "name": "キャサリン・ジョンソン",
@@ -15195,7 +16036,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの数学者です。NASAで宇宙船の軌道計算を担当し、マーキュリー計画やアポロ計画を支えました。黒人女性科学者の貢献を示す人物です。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "キャサリン・ジョンソンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1918～2020"
     },
     "メイ・ジェミソン": {
       "name": "メイ・ジェミソン",
@@ -15213,7 +16055,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの医師・宇宙飛行士です。1992年に黒人女性として初めて宇宙へ行きました。科学教育や多様な人が宇宙開発に参加することの大切さを伝えました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "メイ・ジェミソンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1956～?"
     },
     "サリー・ライド": {
       "name": "サリー・ライド",
@@ -15230,7 +16073,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの宇宙飛行士です。1983年にアメリカ人女性として初めて宇宙へ行きました。退役後は科学教育を進め、子どもや女性の理科教育を支えました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "サリー・ライドを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1951～2012"
     },
     "ワレンチナ・テレシコワ": {
       "name": "ワレンチナ・テレシコワ",
@@ -15246,7 +16090,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ソ連の宇宙飛行士です。1963年に女性として初めて宇宙へ行きました。冷戦下の宇宙開発競争を象徴し、女性の宇宙参加の道を開きました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ワレンチナ・テレシコワを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1937～?"
     },
     "ユーリイ・ガガーリン": {
       "name": "ユーリイ・ガガーリン",
@@ -15262,7 +16107,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ソ連の宇宙飛行士です。1961年に人類で初めて宇宙飛行を行い、地球を一周しました。冷戦時代の宇宙開発競争でソ連の技術力を示しました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ユーリイ・ガガーリンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1934～1968"
     },
     "ニール・アームストロング": {
       "name": "ニール・アームストロング",
@@ -15278,7 +16124,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの宇宙飛行士です。1969年のアポロ11号で月面に降り立った最初の人です。月面着陸は冷戦下の宇宙開発と科学技術の象徴となりました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ニール・アームストロングを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1930～2012"
     },
     "スティーブン・ホーキング": {
       "name": "スティーブン・ホーキング",
@@ -15294,7 +16141,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの理論物理学者です。ブラックホールと宇宙の始まりを研究し、一般向けの本で宇宙論を広めました。難病とともに研究を続けた科学者としても知られます。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "スティーブン・ホーキングを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1942～2018"
     },
     "ドロシー・ホジキン": {
       "name": "ドロシー・ホジキン",
@@ -15310,7 +16158,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの化学者です。X線結晶解析でペニシリン、ビタミンB12、インスリンの構造を解明しました。薬や生命科学の発展に大きく貢献しました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ドロシー・ホジキンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1910～1994"
     },
     "ロザリンド・フランクリン": {
       "name": "ロザリンド・フランクリン",
@@ -15326,7 +16175,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの科学者です。X線写真でDNAの二重らせん構造解明に重要な証拠を示しました。生前は十分な評価を受けにくく、科学史で再評価されています。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ロザリンド・フランクリンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1920～1958"
     },
     "チエン・シゥン・ウー": {
       "name": "チエン・シゥン・ウー",
@@ -15342,7 +16192,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "中国出身の物理学者です。弱い力の実験で、自然界の左右対称性が破れることを示しました。ノーベル賞の対象から外れたことも、科学界の評価の問題として語られます。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "チエン・シゥン・ウーを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1912～1997"
     },
     "ジェームズ・ワトソン": {
       "name": "ジェームズ・ワトソン",
@@ -15360,7 +16211,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの生物学者です。フランシス・クリックとDNAの二重らせん構造を提案しました。生命科学を大きく進めましたが、研究倫理や差別的発言への批判もあります。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ジェームズ・ワトソンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1928～2025"
     },
     "フランシス・クリック": {
       "name": "フランシス・クリック",
@@ -15376,7 +16228,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの生物学者です。ワトソンとDNAの二重らせん構造を提案し、遺伝情報の仕組みを理解する道を開きました。分子生物学の発展に大きく関わりました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "フランシス・クリックを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1916～2004"
     },
     "マーシャル・ニーレンバーグ": {
       "name": "マーシャル・ニーレンバーグ",
@@ -15392,7 +16245,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの生化学者です。遺伝暗号の解読に成功し、DNAの情報がどのようにタンパク質へ変わるかを明らかにしました。生命科学の基礎を築きました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "マーシャル・ニーレンバーグを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1927～2010"
     },
     "山中伸弥": {
       "name": "山中伸弥",
@@ -15409,7 +16263,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の医学者です。体の細胞をiPS細胞へ変える方法を発見し、再生医療研究を大きく進めました。病気の研究や治療法開発への応用が期待されています。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "山中伸弥を知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1962～?"
     },
     "大隅良典": {
       "name": "大隅良典",
@@ -15425,7 +16280,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の生物学者です。細胞が不要なものを分解して再利用するオートファジーの仕組みを研究しました。生命維持や病気の理解に大きく貢献しました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "大隅良典を知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1945～?"
     },
     "本庶佑": {
       "name": "本庶佑",
@@ -15442,7 +16298,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の医学者です。免疫の働きを抑えるPD-1を発見し、がん免疫療法の開発につなげました。がん治療の新しい道を開いた研究者です。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "本庶佑を知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1942～?"
     },
     "黒澤明": {
       "name": "黒澤明",
@@ -15458,7 +16315,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の映画監督です。『羅生門』『七人の侍』などで国際的に高く評価されました。映像表現と物語の作り方は世界の映画監督に影響を与えました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "黒澤明を知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1910～1998"
     },
     "宮崎駿": {
       "name": "宮崎駿",
@@ -15474,7 +16332,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本のアニメーション映画監督です。『風の谷のナウシカ』『千と千尋の神隠し』などで、自然、戦争、成長を描きました。日本アニメを世界に広げました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "宮崎駿を知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1941～?"
     },
     "手塚治虫": {
       "name": "手塚治虫",
@@ -15490,7 +16349,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本の漫画家・アニメ作家です。『鉄腕アトム』『火の鳥』などで、物語性のある漫画とテレビアニメを発展させました。戦後日本の大衆文化に大きな影響を与えました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "手塚治虫を知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1928～1989"
     },
     "ボブ・ディラン": {
       "name": "ボブ・ディラン",
@@ -15506,7 +16366,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの歌手・作詞家です。公民権運動や反戦運動の時代に、社会への問いをこめた歌を発表しました。歌詞の文学性が評価されノーベル文学賞を受けました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ボブ・ディランを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1941～?"
     },
     "ジョン・レノン": {
       "name": "ジョン・レノン",
@@ -15524,7 +16385,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "イギリスの音楽家です。ビートルズの一員として世界の音楽文化を変え、解散後は平和運動にも関わりました。『イマジン』などで戦争のない世界を訴えました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ジョン・レノンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1940～1980"
     },
     "マイケル・ジャクソン": {
       "name": "マイケル・ジャクソン",
@@ -15540,7 +16402,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカの歌手・ダンサーです。『スリラー』などで音楽、ダンス、映像表現を結びつけ、ポップ音楽を世界化しました。人種をこえた大衆文化の象徴にもなりました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "マイケル・ジャクソンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1958～2009"
     },
     "ペレ": {
       "name": "ペレ",
@@ -15556,7 +16419,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ブラジルのサッカー選手です。ワールドカップで三度優勝し、サッカーを世界的な人気スポーツへ押し上げました。ブラジルの国民的英雄としても知られます。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ペレを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1940～2022"
     },
     "モハメド・アリ": {
       "name": "モハメド・アリ",
@@ -15573,7 +16437,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカのボクサーです。世界ヘビー級王者となり、ベトナム戦争への徴兵を拒否しました。黒人の誇り、信仰、反戦を公に語ったスポーツ選手です。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "モハメド・アリを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1942～2016"
     },
     "セリーナ・ウィリアムズ": {
       "name": "セリーナ・ウィリアムズ",
@@ -15589,7 +16454,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカのテニス選手です。多くの四大大会で優勝し、女子テニスの競技水準を押し上げました。人種差別や女性選手への評価の問題にも発言しました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "セリーナ・ウィリアムズを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1981～?"
     },
     "大坂なおみ": {
       "name": "大坂なおみ",
@@ -15605,7 +16471,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "日本のテニス選手です。四大大会で優勝し、国際的に活躍しました。人種差別への抗議やメンタルヘルスについて発言し、スポーツ選手の社会的発信を広げました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "大坂なおみを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1997～?"
     },
     "ウサイン・ボルト": {
       "name": "ウサイン・ボルト",
@@ -15621,7 +16488,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "ジャマイカの陸上選手です。100メートルと200メートルで世界記録を出し、オリンピックで何度も優勝しました。短距離走の歴史を大きく変えました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "ウサイン・ボルトを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1986～?"
     },
     "リオネル・メッシ": {
       "name": "リオネル・メッシ",
@@ -15637,7 +16505,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アルゼンチンのサッカー選手です。クラブと代表で多くの得点とタイトルを重ね、2022年にはワールドカップ優勝に貢献しました。現代サッカーを代表する選手です。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "リオネル・メッシを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1987～?"
     },
     "マイケル・ジョーダン": {
       "name": "マイケル・ジョーダン",
@@ -15653,7 +16522,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "profile": "アメリカのバスケットボール選手です。シカゴ・ブルズでNBA優勝を重ね、世界的なスポーツスターとなりました。競技、広告、ファッションを結びつける存在になりました。",
         "whatDid": "現代社会を動かした人",
         "whyImportant": "マイケル・ジョーダンを知ると、今につながる時代の大きな流れを具体的な人物の行動から考えられます。"
-      }
+      },
+      "lifespan": "1963～?"
     },
     "ヒポクラテス": {
       "name": "ヒポクラテス",
@@ -15671,7 +16541,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "病気を超自然的説明から切り離し、観察と倫理に基づく西洋医学の伝統を築いたためです。"
       },
       "image": "assets/people/person-fcd6694e3d.webp",
-      "imageAlt": "ヒポクラテスの画像"
+      "imageAlt": "ヒポクラテスの画像",
+      "lifespan": "紀元前460ごろ～紀元前370ごろ"
     },
     "ユークリッド": {
       "name": "ユークリッド",
@@ -15689,7 +16560,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "数学を論理的証明の体系として整え、二千年以上にわたり科学と数学教育の基礎となったためです。"
       },
       "image": "assets/people/person-838a2f0c28.webp",
-      "imageAlt": "ユークリッドの画像"
+      "imageAlt": "ユークリッドの画像",
+      "lifespan": "紀元前325ごろ～紀元前265ごろ"
     },
     "コンスタンティヌス帝": {
       "name": "コンスタンティヌス帝",
@@ -15712,7 +16584,8 @@ window.WORLD_HISTORY_PEOPLE_DATA = {
         "whyImportant": "ローマ帝国とキリスト教の関係を大きく変え、ヨーロッパの宗教・政治・都市の歴史に長く影響したためです。"
       },
       "image": "assets/people/person-8efd9d5df5.webp",
-      "imageAlt": "コンスタンティヌス帝の画像"
+      "imageAlt": "コンスタンティヌス帝の画像",
+      "lifespan": "272ごろ～337"
     }
   },
   "genreGroups": [

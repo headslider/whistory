@@ -2,6 +2,13 @@
 
 このファイルは「スクロールでわかる 世界のれきし」のデータバックアップを記録する。作業者は、`data/*.json`、`data/*.js`、またはデータ正規化に関わる `script.js` を変更する前後に、必要に応じて `data-backups/` へ退避し、このファイルへ追記する。
 
+## 2026-10-01 人物データに生没年(lifespan)を追加
+
+- 保存先: `data-backups/20260730-231823-import-people-lifespan-before/`
+- 保存内容: 変更前の `data/people-data.json` と `data/people-data.js`。
+- 変更内容: 各人物オブジェクトに `lifespan` フィールド(例: `"紀元前551～紀元前479"`、不明は `"?～?"`)を追加した新データ(`people` 271件 / `peopleByName` 602件)へ差し替え。追加以外の内容は変更前と完全一致(件数・画像参照・ジャンル・別名すべて同一、画像の重複参照なし)。
+- 復元時の注意: `people-data.json` と `people-data.js` は同一内容なので片方だけ戻さない。`people-data.js` は `window.WORLD_HISTORY_PEOPLE_DATA = ` + JSON本体(2スペース整形)。`lifespan` は表示専用で、内部配列(`legacyPerson`)には追加していない。`script.js` の `personLifespanByName` Map が名前引きで保持する。
+
 ## 対象データ
 
 - `data/history-content.json`: 大カテゴリー、時代カード、子カテゴリー本文の正本。

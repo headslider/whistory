@@ -398,6 +398,7 @@ async function renderKingdomGlobe(card) {
 
 let people = [];
 let personByName = new Map();
+let personLifespanByName = new Map();
 let kingdomPeople = {};
 
 function getKingdomPeople(card) {
@@ -534,6 +535,12 @@ function normalizePeopleData(data) {
   const sourceByName = data.peopleByName || {};
   personByName = new Map(Object.entries(sourceByName).map(([name, person]) => [name, legacyPerson(person)]));
   for (const person of people) if (person[0] && !personByName.has(person[0])) personByName.set(person[0], person);
+  personLifespanByName = new Map();
+  for (const person of [...(data.people || []), ...Object.values(sourceByName)]) {
+    if (person && person.name && person.lifespan && !personLifespanByName.has(person.name)) {
+      personLifespanByName.set(person.name, String(person.lifespan));
+    }
+  }
 }
 
 function normalizeActionData(data) {
@@ -903,6 +910,11 @@ function personNameHtml(person) {
   const reading = manualPersonRuby[name] || person?.[1];
   if (reading && shouldApplyRuby(name, reading)) return ruby(name, reading);
   return applyStudyRuby(name, { disableTooltips: true });
+}
+function personLifespanHtml(person) {
+  const lifespan = personLifespanByName.get(person?.[0]);
+  if (!lifespan) return "";
+  return `<span class="person-lifespan">${escapeHtml(lifespan)}</span>`;
 }
 function linkLabelHtml(name, item) {
   if (item?.type === "person" && item.target === name) {
@@ -1444,7 +1456,7 @@ function renderPeopleFilters() {
 function renderPersonCard(person) {
   const era = eraFor(person[2]);
   const saved = favorites.has(person[0]);
-  return `<article class="person-card" style="--person-color:${era.colors[0]}"><button class="favorite" type="button" aria-label="${person[0]}をお気に入り" onclick="toggleFavorite('${person[0]}', event)">${saved ? "★" : "☆"}</button><button type="button" onclick="openPerson('${person[0]}')"><div class="person-top"><div class="avatar">${person[6]}</div><div><h3>${personNameHtml(person)}</h3><small>${person[2]} / ${personGenreLabels(person)}</small></div></div><p><strong>${applyStudyRuby(person[4])}</strong></p><p>${applyStudyRuby(person[5])}</p></button></article>`;
+  return `<article class="person-card" style="--person-color:${era.colors[0]}"><button class="favorite" type="button" aria-label="${person[0]}をお気に入り" onclick="toggleFavorite('${person[0]}', event)">${saved ? "★" : "☆"}</button><button type="button" onclick="openPerson('${person[0]}')"><div class="person-top"><div class="avatar">${person[6]}</div><div><h3>${personNameHtml(person)}${personLifespanHtml(person)}</h3><small>${person[2]} / ${personGenreLabels(person)}</small></div></div><p><strong>${applyStudyRuby(person[4])}</strong></p><p>${applyStudyRuby(person[5])}</p></button></article>`;
 }
 
 function personSortKey(person) {
@@ -1463,7 +1475,7 @@ function renderPersonNameButton(person) {
     <div class="person-name-item" style="--person-color:${era.colors[0]}">
       <button class="person-name-main" type="button" onclick="openPerson('${name}')" aria-label="${person[0]}の人物カードを開く">
         <span class="person-name-icon">${person[6]}</span>
-        <span class="person-name-text"><strong>${personNameHtml(person)}</strong><small>${person[2]} / ${personGenreLabels(person)}</small></span>
+        <span class="person-name-text"><strong>${personNameHtml(person)}${personLifespanHtml(person)}</strong><small>${person[2]} / ${personGenreLabels(person)}</small></span>
       </button>
       <button class="person-name-favorite" type="button" aria-label="${person[0]}をお気に入り" onclick="toggleFavorite('${name}', event)">${saved ? "★" : "☆"}</button>
     </div>
@@ -1696,7 +1708,7 @@ function openPerson(name) {
     type: "person",
     icon: person[6],
     eyebrow: applyStudyRuby(person[2]),
-    titleHtml: personNameHtml(person),
+    titleHtml: `${personNameHtml(person)}${personLifespanHtml(person)}`,
     subtitle: applyStudyRuby(person[4]),
     visual: findVisualForPerson(person),
     sections: personModalSections(person),

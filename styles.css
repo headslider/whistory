@@ -1128,6 +1128,14 @@ input[type="search"] {
   color: var(--muted);
   font-size: .78rem;
 }
+/* Lifespan shown after a person's name at half the name's size (Japanese-history style) */
+.person-lifespan {
+  margin-left: .4em;
+  font-size: .5em;
+  font-weight: 500;
+  color: var(--muted);
+  white-space: nowrap;
+}
 .person-name-favorite {
   display: grid;
   place-items: center;

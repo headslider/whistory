@@ -47,7 +47,7 @@
 | 正本JSON | 配布JS | window名 | 主な内容 |
 |---|---|---|---|
 | `data/history-content.json` | `data/history-content.js` | `window.historyContentData` | 大カテゴリー、時代、時代画像、時代カード本文、詳細本文、勢力タイムライン用の `powers`、子カテゴリー、子カテゴリー画像、`imageFocus`、`peopleNote`。 |
-| `data/people-data.json` | `data/people-data.js` | `window.WORLD_HISTORY_PEOPLE_DATA` | 人物カード本体 `people`、全人物名引き `peopleByName`、人物ジャンル表示定義 `genreGroups`、本文リンク用の短縮別名 `inlineAliases`。各人物は日本史側を基準にした `name`、`kana`、`title`、`genre`、`modal.profile`、`modal.whatDid`、`modal.whyImportant` 構造。世界史側の `genre` は人物図鑑フィルターIDの配列。 |
+| `data/people-data.json` | `data/people-data.js` | `window.WORLD_HISTORY_PEOPLE_DATA` | 人物カード本体 `people`、全人物名引き `peopleByName`、人物ジャンル表示定義 `genreGroups`、本文リンク用の短縮別名 `inlineAliases`。各人物は日本史側を基準にした `name`、`kana`、`title`、`genre`、`modal.profile`、`modal.whatDid`、`modal.whyImportant`、`lifespan` 構造。世界史側の `genre` は人物図鑑フィルターIDの配列。`lifespan` は生没年(例 `紀元前551～紀元前479`、不明は `?～?`)で、人物カード・名前リスト・モーダルの名前の後ろに1/2サイズで表示する。 |
 | `data/action-cards.json` | `data/action-cards.js` | `window.WORLD_HISTORY_ACTION_CARDS_DATA` | アクションカード `actionCards`。各項目は `summary`、`tags`、`modal.whatHappened`、`modal.whyImportant` 構造。 |
 | `data/modal-data.json` | `data/modal-data.js` | `window.WORLD_HISTORY_MODAL_DATA` | 王国・勢力カード `kingdomCards` と、王国・勢力に関わった人物 `kingdomPeople`。人物・アクションは持たない。 |
 | `data/learning-terms.json` | `data/learning-terms.js` | `window.WORLD_HISTORY_LEARNING_TERMS_DATA` | 学習語の正本。`reading` と `scopes` でルビ対象を管理し、`tooltip` で意味説明が必要な専門語・特殊語の説明を管理する。読みだけが必要な人物名には `tooltip` を付けない。 |
@@ -112,13 +112,15 @@
   people: [
     {
       name, kana, era, genre: [genreId], field, title, icon,
-      image?, imageAlt?,
+      image?, imageAlt?, lifespan?,
       modal: { profile, whatDid, whyImportant }
     }
   ],
   peopleByName: { [名前または別名]: { 人物オブジェクト } }
 }
 ```
+
+`lifespan` は生没年文字列(例 `紀元前356～紀元前323`、不明は `?～?`)。`script.js` の `normalizePeopleData()` が `personLifespanByName` Map を名前引きで構築し、`personLifespanHtml(person)` が人物カード(`.person-card` の `h3`)・名前リスト(`.person-name-text strong`)・人物モーダル(`.modal-title-block h2`)で名前の直後に `.person-lifespan`(名前の1/2サイズ)として描画する。`lifespan` は内部配列(`legacyPerson`)には追加せず、末尾の画像メタ位置(`cardVisualMeta` の固定インデックス)を崩さない。
 
 人物カードは `people` が人物図鑑の表示件数271件(表示上限は300件)、`peopleByName` が本文リンク・王国カード・検索用の全人物名引き602件です。`genreGroups` は人物図鑑フィルターとモーダルタグの表示ラベル、`inlineAliases` は本文中の短縮名から正式な人物カードを開くための別名辞書です。人物モーダルを網羅的に確認する場合は `people` ではなく `peopleByName` を見る。
 
